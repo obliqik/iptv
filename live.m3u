@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,♣♣♣♣♣USA Channels♣♣♣♣♣
-http://live.softiptv.com:9900/live/525/525/7438.ts
-#EXTINF:-1,USA:FIGHT-SPORT
-http://live.softiptv.com:9900/live/525/525/19388.ts
-#EXTINF:-1,USA:FIGHT-NETWORK
-http://live.softiptv.com:9900/live/525/525/19389.ts
 #EXTINF:-1,USA: TBS HD
 http://live.softiptv.com:9900/live/525/525/19390.ts
 #EXTINF:-1,USA: ESPN 2
