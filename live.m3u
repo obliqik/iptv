@@ -1,6 +1,58 @@
 #EXTM3U
-#EXTINF:-1,USA : OWN Network
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/237.m3u8
+#EXTINF:-1,SyFy
+rtmpe://rtmp.zerocast.tv/goLive/tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=16 token=OOG17t.x#K9Vh#|
+#EXTINF:-1,TCM USA
+http://31.220.41.102/LiveEdge/TCMUS/chunklist_w2047265790_b1000000.m3u8?token=
+#EXTINF:-1, HBO
+rtmpe://192.99.38.90:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1, HBO East
+http://31.220.41.111:80/LiveEdge/HBOEastUS/chunklist_w1634307971_b1000000.m3u8?token=
+#EXTINF:-1, HBO West
+http://31.220.2.221:80/LiveEdge/HBOWestUS/chunklist_w1108801454_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2
+http://31.220.41.111:80/LiveEdge/HBO2WestHD/chunklist_w390747982_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2 (stream 2)
+rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1,HBO Comedy East
+http://31.220.2.220:80/LiveEdge/HBOComedyEastUS/chunklist_w935175443_b1000000.m3u8?token=
+#EXTINF:-1,HBO 2 West
+http://31.220.41.111:80/LiveEdge/HBO2WestUS/chunklist_w691497406_b1000000.m3u8?token=
+#EXTINF:-1,HBO Zone
+http://31.220.40.108:80/LiveEdge/HBOZoneUS/chunklist_w320493732_b1000000.m3u8?token=
+#EXTINF:-1,CineMax East
+http://31.220.41.111/LiveEdge/CinemaxEastUS/chunklist_w1861841138_b1000000.m3u8?token=
+#EXTINF:-1,ThrillerMax East
+http://31.220.41.110:80/LiveEdge/ThrillerMaxEasUS/chunklist_w887093571_b1000000.m3u8?token=
+#EXTINF:-1,Showtime West
+http://31.220.41.103:80/LiveEdge/ShowtimeWestUS/chunklist_w514349824_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Showcase East
+http://31.220.41.107:80/LiveEdge/ShowtimeShowcaseEastUS/chunklist_w558093061_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Extreme East
+http://31.220.41.103:80/LiveEdge/ShowtimeExtremeEastUS/chunklist_w597992924_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Beyond East
+http://31.220.41.107/LiveEdge/ShowtimeBeyondEastUS/chunklist_w1863492743_b1000000.m3u8?token=
+#EXTINF:-1,Showtime Next
+http://31.220.2.220:80/LiveEdge/ShowtimeNextUS/chunklist_w973847094_b1000000.m3u8?token=
+#EXTINF:-1,The Movie Channel East
+http://31.220.40.108/LiveEdge/TheMovieChannelEastHD/chunklist_w67402912_b1000000.m3u8?token=
+#EXTINF:-1,The Movie Channel Xtra East
+http://31.220.41.107:80/LiveEdge/TheMovieChannelXtraEastUS/chunklist_w393745351_b1000000.m3u8?token=
+#EXTINF:-1,Encore East
+http://31.220.41.110:80/LiveEdge/EncoreEastHD/chunklist_w278428019_b1000000.m3u8?token=
+#EXTINF:-1,Starz East
+http://31.220.40.108:80/LiveEdge/StarzEastHD/chunklist_w2022301216_b1000000.m3u8?token=
+#EXTINF:-1,Starz West
+http://31.220.40.108:80/LiveEdge/StarzWestUS/chunklist_w180614607_b1000000.m3u8?token=
+#EXTINF:-1,Starz Cinema East
+http://31.220.2.221/LiveEdge/StarzCinemaEastUS/chunklist_w728228150_b1000000.m3u8?token=
+#EXTINF:-1,Starz in Black East
+http://31.220.41.103/LiveEdge/StarzInBlackEastUS/chunklist_w2087048984_b1000000.m3u8?token=
+#EXTINF:-1,Starz Kids & Family East
+http://31.220.41.102:80/LiveEdge/StarzKidsFamilyEastUS/chunklist_w1565892697_b1000000.m3u8?token=
+#EXTINF:-1,Sony Movie Channel USA
+http://31.220.2.221:80/LiveEdge/SonyMovieChannelUS/chunklist_w2109190971_b1000000.m3u8?token=
+#EXTINF:-1,Hallmark Movie Channel HD
+http://31.220.41.110:80/LiveEdge/HallmarkMovieChannelUS/chunklist_w1274236983_b1000000.m3u8?token=
 #EXTINF:-1,USA : HBO East
 http://live.softiptv.com:9900/live/525/525/19415.ts
 #EXTINF:-1,USA: TBS HD
