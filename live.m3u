@@ -212,4 +212,50 @@ http://live.softiptv.com:9900/live/525/525/6404.ts
 http://live.softiptv.com:9900/live/525/525/5811.ts
 #EXTINF:-1,US-Fox Sports 1 HD
 http://live.softiptv.com:9900/live/525/525/5816.ts
-
+#EXTINF:-1,----------+18 ADULTS-----------
+http://iptv.nexa.space:8000/live/test/test1/1632.ts
+#EXTINF:-1,REDLIGHT HD
+http://iptv.nexa.space:8000/live/test/test1/1486.ts
+#EXTINF:-1,EROTIK 1
+http://iptv.nexa.space:8000/live/test/test1/1487.ts
+#EXTINF:-1,EROTIK 2
+http://iptv.nexa.space:8000/live/test/test1/1488.ts
+#EXTINF:-1,EROTIK 3
+http://iptv.nexa.space:8000/live/test/test1/1489.ts
+#EXTINF:-1,EROTIK 4
+http://iptv.nexa.space:8000/live/test/test1/1490.ts
+#EXTINF:-1,EROTIK 5
+http://iptv.nexa.space:8000/live/test/test1/1491.ts
+#EXTINF:-1,EROTIK 6
+http://iptv.nexa.space:8000/live/test/test1/1492.ts
+#EXTINF:-1,EROTIK 7
+http://iptv.nexa.space:8000/live/test/test1/1493.ts
+#EXTINF:-1,----------RADYO----------
+http://iptv.nexa.space:8000/live/test/test1/1651.ts
+#EXTINF:-1,LİG FM
+http://iptv.nexa.space:8000/live/test/test1/1671.ts
+#EXTINF:-1,NTV SPOR FM
+http://iptv.nexa.space:8000/live/test/test1/1673.ts
+#EXTINF:-1,TURKU FM
+http://iptv.nexa.space:8000/live/test/test1/1670.ts
+#EXTINF:-1,SUPER FM
+http://iptv.nexa.space:8000/live/test/test1/1650.ts
+#EXTINF:-1,KRAL FM
+http://iptv.nexa.space:8000/live/test/test1/1660.ts
+#EXTINF:-1,KRAL POP FM
+http://iptv.nexa.space:8000/live/test/test1/1664.ts
+#EXTINF:-1,DAMAR FM
+http://iptv.nexa.space:8000/live/test/test1/1661.ts
+#EXTINF:-1,NTV FM
+http://iptv.nexa.space:8000/live/test/test1/1672.ts
+#EXTINF:-1,SAKLI SARKILAR FM
+http://iptv.nexa.space:8000/live/test/test1/1669.ts
+#EXTINF:-1,ROCK FM
+http://iptv.nexa.space:8000/live/test/test1/1668.ts
+#EXTINF:-1,RELAX FM
+http://iptv.nexa.space:8000/live/test/test1/1667.ts
+#EXTINF:-1,POP TURK
+http://iptv.nexa.space:8000/live/test/test1/1666.ts
+#EXTINF:-1,OYUN HAVALARI
+http://iptv.nexa.space:8000/live/test/test1/1665.ts
+#EXTINF:-1,DREAM FM
