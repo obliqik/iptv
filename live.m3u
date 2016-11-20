@@ -1,6 +1,251 @@
 #EXTM3U
-#EXTINF:-1,????  USA  ????
-http://orbit-iptv.com:2500/live/kenny/kenny/5122.ts
+
+#EXTINF:-1,♣♣♣♣♣USA Channels♣♣♣♣♣
+http://live.softiptv.com:9900/live/525/525/7438.ts
+#EXTINF:-1,USA:FIGHT-SPORT
+http://live.softiptv.com:9900/live/525/525/19388.ts
+#EXTINF:-1,USA:FIGHT-NETWORK
+http://live.softiptv.com:9900/live/525/525/19389.ts
+#EXTINF:-1,USA: TBS HD
+http://live.softiptv.com:9900/live/525/525/19390.ts
+#EXTINF:-1,USA: ESPN 2
+http://live.softiptv.com:9900/live/525/525/19391.ts
+#EXTINF:-1,USA TNT HD
+http://live.softiptv.com:9900/live/525/525/19398.ts
+#EXTINF:-1,USA SYFY HD
+http://live.softiptv.com:9900/live/525/525/19399.ts
+#EXTINF:-1,USA NICKELODEN HD
+http://live.softiptv.com:9900/live/525/525/19400.ts
+#EXTINF:-1,USA Network (US)
+http://live.softiptv.com:9900/live/525/525/19401.ts
+#EXTINF:-1,USA HISTORY HD
+http://live.softiptv.com:9900/live/525/525/19402.ts
+#EXTINF:-1,USA FOX NEWS HD
+http://live.softiptv.com:9900/live/525/525/19403.ts
+#EXTINF:-1,USA ESPN HD
+http://live.softiptv.com:9900/live/525/525/19404.ts
+#EXTINF:-1,USA CW HD
+http://live.softiptv.com:9900/live/525/525/19405.ts
+#EXTINF:-1,USA COMEDY CENTRAL HD
+http://live.softiptv.com:9900/live/525/525/19406.ts
+#EXTINF:-1,USA CNN HD
+http://live.softiptv.com:9900/live/525/525/19407.ts
+#EXTINF:-1,USA CBS
+http://live.softiptv.com:9900/live/525/525/19408.ts
+#EXTINF:-1,USA BRAVO HD
+http://live.softiptv.com:9900/live/525/525/19409.ts
+#EXTINF:-1,USA ANIMAL PLANET HD
+http://live.softiptv.com:9900/live/525/525/19410.ts
+#EXTINF:-1,USA ABC NEWS HD
+http://live.softiptv.com:9900/live/525/525/19411.ts
+#EXTINF:-1,USA ABC HD
+http://live.softiptv.com:9900/live/525/525/19412.ts
+#EXTINF:-1,USA | Versus HD
+http://live.softiptv.com:9900/live/525/525/19392.ts
+#EXTINF:-1,USA | PAC-12 Oregon
+http://live.softiptv.com:9900/live/525/525/19393.ts
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://live.softiptv.com:9900/live/525/525/19394.ts
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://live.softiptv.com:9900/live/525/525/19395.ts
+#EXTINF:-1,USA | PAC-12 Arizona
+http://live.softiptv.com:9900/live/525/525/19396.ts
+#EXTINF:-1,USA | ESPN
+http://live.softiptv.com:9900/live/525/525/19397.ts
+#EXTINF:-1,USA : HBO HD
+http://live.softiptv.com:9900/live/525/525/19414.ts
+#EXTINF:-1,USA : HBO East
+http://live.softiptv.com:9900/live/525/525/19415.ts
+#EXTINF:-1,USA : DISCCOVERY HD
+http://live.softiptv.com:9900/live/525/525/19416.ts
+#EXTINF:-1,USA : CBSN HD
+http://live.softiptv.com:9900/live/525/525/19417.ts
+#EXTINF:-1,USA : BYU TV
+http://live.softiptv.com:9900/live/525/525/19418.ts
+#EXTINF:-1,USA : AMC HD
+http://live.softiptv.com:9900/live/525/525/19419.ts
+#EXTINF:-1,US: USA Network HD
+http://live.softiptv.com:9900/live/525/525/19420.ts
+#EXTINF:-1,US: TSN 5 HD
+http://live.softiptv.com:9900/live/525/525/19383.ts
+#EXTINF:-1,US: TSN 4 HD
+http://live.softiptv.com:9900/live/525/525/19384.ts
+#EXTINF:-1,US: TSN 3HD
+http://live.softiptv.com:9900/live/525/525/19385.ts
+#EXTINF:-1,US: TSN 2HD
+http://live.softiptv.com:9900/live/525/525/19386.ts
+#EXTINF:-1,US: TSN 1 HD
+http://live.softiptv.com:9900/live/525/525/19387.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://live.softiptv.com:9900/live/525/525/19421.ts
+#EXTINF:-1,US: NBC Extra Time HD1 ( During Games Only )
+http://live.softiptv.com:9900/live/525/525/19422.ts
+#EXTINF:-1,US: HIFI
+http://live.softiptv.com:9900/live/525/525/19423.ts
+#EXTINF:-1,US: H2
+http://live.softiptv.com:9900/live/525/525/19424.ts
+#EXTINF:-1,US: FX HD
+http://live.softiptv.com:9900/live/525/525/19425.ts
+#EXTINF:-1,US: FreeRom HD
+http://live.softiptv.com:9900/live/525/525/19426.ts
+#EXTINF:-1,US: FOXX HD
+http://live.softiptv.com:9900/live/525/525/19427.ts
+#EXTINF:-1,US: Food Network HD
+http://live.softiptv.com:9900/live/525/525/19428.ts
+#EXTINF:-1,US: DIY Network
+http://live.softiptv.com:9900/live/525/525/19429.ts
+#EXTINF:-1,US: Discovery Science HD
+http://live.softiptv.com:9900/live/525/525/19430.ts
+#EXTINF:-1,US: Cinemax East
+http://live.softiptv.com:9900/live/525/525/19431.ts
+#EXTINF:-1,US: BTN Sport HD
+http://live.softiptv.com:9900/live/525/525/19434.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://live.softiptv.com:9900/live/525/525/19435.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://live.softiptv.com:9900/live/525/525/19436.ts
+#EXTINF:-1,US: AFN SPORTS
+http://live.softiptv.com:9900/live/525/525/19437.ts
+#EXTINF:-1,US: AFN SPECTRUM
+http://live.softiptv.com:9900/live/525/525/19438.ts
+#EXTINF:-1,US: AFN PULSE
+http://live.softiptv.com:9900/live/525/525/19439.ts
+#EXTINF:-1,US: AFN PRIME PACIFIC
+http://live.softiptv.com:9900/live/525/525/19440.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://live.softiptv.com:9900/live/525/525/19441.ts
+#EXTINF:-1,US: AFN NEWS
+http://live.softiptv.com:9900/live/525/525/19442.ts
+#EXTINF:-1,USA: VirginTV Radio
+http://live.softiptv.com:9900/live/525/525/17366.ts
+#EXTINF:-1,USA: University of California TV
+http://live.softiptv.com:9900/live/525/525/17368.ts
+#EXTINF:-1,USA: TVO KIDS HD
+http://live.softiptv.com:9900/live/525/525/17344.ts
+#EXTINF:-1,USA: TVO KIDS
+http://live.softiptv.com:9900/live/525/525/17369.ts
+#EXTINF:-1,USA: TMN ACTION
+http://live.softiptv.com:9900/live/525/525/17370.ts
+#EXTINF:-1,USA: SERIES9
+http://live.softiptv.com:9900/live/525/525/17351.ts
+#EXTINF:-1,USA: SERIES8
+http://live.softiptv.com:9900/live/525/525/17352.ts
+#EXTINF:-1,USA: SERIES7
+http://live.softiptv.com:9900/live/525/525/17353.ts
+#EXTINF:-1,USA: SERIES6
+http://live.softiptv.com:9900/live/525/525/17354.ts
+#EXTINF:-1,USA: SERIES5
+http://live.softiptv.com:9900/live/525/525/17355.ts
+#EXTINF:-1,USA: SERIES4
+http://live.softiptv.com:9900/live/525/525/17356.ts
+#EXTINF:-1,USA: SERIES3
+http://live.softiptv.com:9900/live/525/525/17357.ts
+#EXTINF:-1,USA: SERIES2
+http://live.softiptv.com:9900/live/525/525/17358.ts
+#EXTINF:-1,USA: SERIES10
+http://live.softiptv.com:9900/live/525/525/17359.ts
+#EXTINF:-1,USA: SERIES1
+http://live.softiptv.com:9900/live/525/525/17360.ts
+#EXTINF:-1,USA: OMNI TORONTO
+http://live.softiptv.com:9900/live/525/525/17377.ts
+#EXTINF:-1,USA: NFL NOW
+http://live.softiptv.com:9900/live/525/525/17378.ts
+#EXTINF:-1,USA: NFL Channel HD
+http://live.softiptv.com:9900/live/525/525/17379.ts
+#EXTINF:-1,USA: NBC TORONTO
+http://live.softiptv.com:9900/live/525/525/17380.ts
+#EXTINF:-1,USA: NBC Sports Network
+http://live.softiptv.com:9900/live/525/525/17364.ts
+#EXTINF:-1,USA: NBC GOLF HD
+http://live.softiptv.com:9900/live/525/525/17361.ts
+#EXTINF:-1,USA: NBA
+http://live.softiptv.com:9900/live/525/525/17381.ts
+#EXTINF:-1,USA: LMN
+http://live.softiptv.com:9900/live/525/525/17384.ts
+#EXTINF:-1,USA: ID
+http://live.softiptv.com:9900/live/525/525/17385.ts
+#EXTINF:-1,USA: HSN
+http://live.softiptv.com:9900/live/525/525/17386.ts
+#EXTINF:-1,USA: FMLY CHANNEL
+http://live.softiptv.com:9900/live/525/525/17391.ts
+#EXTINF:-1,USA: D23
+http://live.softiptv.com:9900/live/525/525/17395.ts
+#EXTINF:-1,USA: CRCOL HD
+http://live.softiptv.com:9900/live/525/525/17396.ts
+#EXTINF:-1,USA: CNN
+http://live.softiptv.com:9900/live/525/525/17399.ts
+#EXTINF:-1,USA: Bloomberg.
+http://live.softiptv.com:9900/live/525/525/17402.ts
+#EXTINF:-1,USA: AMC
+http://live.softiptv.com:9900/live/525/525/17404.ts
+#EXTINF:-1,USA: Al Jazeera
+http://live.softiptv.com:9900/live/525/525/17405.ts
+#EXTINF:-1,USA: ABC News
+http://live.softiptv.com:9900/live/525/525/17406.ts
+#EXTINF:-1,USA_PAC_12_Mountain_HD
+http://live.softiptv.com:9900/live/525/525/17340.ts
+#EXTINF:-1,USA_PAC_12_Los_Angeles_HD
+http://live.softiptv.com:9900/live/525/525/17341.ts
+#EXTINF:-1,US: SHOWTIME_HD
+http://live.softiptv.com:9900/live/525/525/17339.ts
+#EXTINF:-1,US: WWE Network
+http://live.softiptv.com:9900/live/525/525/12617.ts
+#EXTINF:-1,US: TSN 5
+http://live.softiptv.com:9900/live/525/525/12600.ts
+#EXTINF:-1,US: TSN 4
+http://live.softiptv.com:9900/live/525/525/12599.ts
+#EXTINF:-1,US: TSN 3
+http://live.softiptv.com:9900/live/525/525/12598.ts
+#EXTINF:-1,US: TSN 2
+http://live.softiptv.com:9900/live/525/525/12597.ts
+#EXTINF:-1,US: TSB HD
+http://live.softiptv.com:9900/live/525/525/12583.ts
+#EXTINF:-1,US: Travel Channel
+http://live.softiptv.com:9900/live/525/525/12585.ts
+#EXTINF:-1,US: Spike HD
+http://live.softiptv.com:9900/live/525/525/12594.ts
+#EXTINF:-1,US: NBCSN
+http://live.softiptv.com:9900/live/525/525/12607.ts
+#EXTINF:-1,US: NBC Golf
+http://live.softiptv.com:9900/live/525/525/12616.ts
+#EXTINF:-1,US: HSN 2
+http://live.softiptv.com:9900/live/525/525/12605.ts
+#EXTINF:-1,US: HSN
+http://live.softiptv.com:9900/live/525/525/12604.ts
+#EXTINF:-1,US: Hallmark
+http://live.softiptv.com:9900/live/525/525/12586.ts
+#EXTINF:-1,US: Fox Sports 2
+http://live.softiptv.com:9900/live/525/525/12611.ts
+#EXTINF:-1,US: Fox Sports 1
+http://live.softiptv.com:9900/live/525/525/12610.ts
+#EXTINF:-1,US: Fox News
+http://live.softiptv.com:9900/live/525/525/12613.ts
+#EXTINF:-1,US: Fox Life
+http://live.softiptv.com:9900/live/525/525/12612.ts
+#EXTINF:-1,US: ESPN 2
+http://live.softiptv.com:9900/live/525/525/12606.ts
+#EXTINF:-1,US: Discovery Science
+http://live.softiptv.com:9900/live/525/525/12587.ts
+#EXTINF:-1,US: CNBC
+http://live.softiptv.com:9900/live/525/525/12580.ts
+#EXTINF:-1,US: CBSN
+http://live.softiptv.com:9900/live/525/525/12581.ts
+#EXTINF:-1,US: Astro SuperSport 1
+http://live.softiptv.com:9900/live/525/525/12618.ts
+#EXTINF:-1,US: ABC News
+http://live.softiptv.com:9900/live/525/525/12582.ts
+#EXTINF:-1,USA_VERSUS_HD
+http://live.softiptv.com:9900/live/525/525/6399.ts
+#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
+http://live.softiptv.com:9900/live/525/525/6402.ts
+#EXTINF:-1,USA_BYU_SPORTS_TV_HD
+http://live.softiptv.com:9900/live/525/525/6404.ts
+#EXTINF:-1,US-National-Geo
+http://live.softiptv.com:9900/live/525/525/5811.ts
+#EXTINF:-1,US-Fox Sports 1 HD
+http://live.softiptv.com:9900/live/525/525/5816.ts
+#EXTINF:-1,US-CNN HD
+http://live.softiptv.com:9900/live/525/525/5821.ts
 #EXTINF:-1,USA:USA Net
 http://orbit-iptv.com:2500/live/kenny/kenny/2918.ts
 #EXTINF:-1,USA:Poker Central
