@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1,USA: TBS HD
 http://live.softiptv.com:9900/live/525/525/19390.ts
 #EXTINF:-1,USA TNT HD
@@ -81,7 +79,6 @@ http://live.softiptv.com:9900/live/525/525/19429.ts
 http://live.softiptv.com:9900/live/525/525/19430.ts
 #EXTINF:-1,US: Cinemax East
 http://live.softiptv.com:9900/live/525/525/19431.ts
-
 #EXTINF:-1,USA: NFL NOW
 http://live.softiptv.com:9900/live/525/525/17378.ts
 #EXTINF:-1,USA: NFL Channel HD
