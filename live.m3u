@@ -1,69 +1,826 @@
-#EXTM3U
-#EXTINF:-1,=OWN=
-http://88.150.198.114:1857/OWN/USA/2016/11/20/22/54/46-05367.ts
-#EXTINF:-1,USA: UC TV
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7268.ts
-#EXTINF:-1,USA: TV 1
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7269.ts
-#EXTINF:-1,USA: TSN 5
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7220.ts
-#EXTINF:-1,USA: TSN 4
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7219.ts
-#EXTINF:-1,USA: ShowTime 2 HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7258.ts
-#EXTINF:-1,USA: TSN 3
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7218.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7257.ts
-#EXTINF:-1,USA: TSN 2
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7217.ts
-#EXTINF:-1,USA:Bein USA
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7256.ts
-#EXTINF:-1,USA: TSN 1
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7216.ts
-#EXTINF:-1,USA: Cinemax 5 StarMax
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7270.ts
-#EXTINF:-1,USA: NAT-GEO
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7252.ts
-#EXTINF:-1,USA:Cinemax Moremax
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7271.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7259.ts
-#EXTINF:-1,USA: RT America HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7260.ts
-#EXTINF:-1,USA: Pocker Central
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7261.ts
-#EXTINF:-1,USA: NBA
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7224.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7262.ts
-#EXTINF:-1,USA: HSN 2
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7263.ts
-#EXTINF:-1,USA: HSN 1
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7264.ts
-#EXTINF:-1,USA: HALLMARK
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7265.ts
-#EXTINF:-1,USA: H2
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7266.ts
-#EXTINF:-1,USA: Fox Sports 1
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7272.ts
-#EXTINF:-1,USA: Food Network
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7273.ts
-#EXTINF:-1,USA: FOXX HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7274.ts
-#EXTINF:-1,USA: Fight Network
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7255.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7222.ts
-#EXTINF:-1,USA: ESPN
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7221.ts
-#EXTINF:-1,USA: Discovery Science HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7253.ts
-#EXTINF:-1,USA: CNBC
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7223.ts
-#EXTINF:-1,USA:LIFE TIME
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7275.ts
-#EXTINF:-1,USA: SPIKE HD
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7276.ts
-#EXTINF:-1,USA: ABC
-http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/baidyfrance/7225.ts
+#EXTINF:-1,US: CBC TORONTO
+http://portal.onlineiptv.net:5210/live/star/star/158.ts
+#EXTINF:-1,US: FOX NC
+http://portal.onlineiptv.net:5210/live/star/star/5957.ts
+#EXTINF:-1,US: CNN NEWS HD
+http://portal.onlineiptv.net:5210/live/star/star/5962.ts
+#EXTINF:-1,US: TSN 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/151.ts
+#EXTINF:-1,US: TSN 2HD
+http://portal.onlineiptv.net:5210/live/star/star/150.ts
+#EXTINF:-1,US: TSN 3HD
+http://portal.onlineiptv.net:5210/live/star/star/149.ts
+#EXTINF:-1,US: TSN 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/148.ts
+#EXTINF:-1,US: TSN 5 HD
+http://portal.onlineiptv.net:5210/live/star/star/147.ts
+#EXTINF:-1,US: NBC GOLF HD
+http://portal.onlineiptv.net:5210/live/star/star/5942.ts
+#EXTINF:-1,US: FALTAN CHANNEL HD
+http://portal.onlineiptv.net:5210/live/star/star/5946.ts
+#EXTINF:-1,US: SERIES1
+http://portal.onlineiptv.net:5210/live/star/star/6790.ts
+#EXTINF:-1,US: SERIES2
+http://portal.onlineiptv.net:5210/live/star/star/6791.ts
+#EXTINF:-1,US: SERIES3
+http://portal.onlineiptv.net:5210/live/star/star/6792.ts
+#EXTINF:-1,US: SERIES4
+http://portal.onlineiptv.net:5210/live/star/star/6793.ts
+#EXTINF:-1,US: SERIES5
+http://portal.onlineiptv.net:5210/live/star/star/6794.ts
+#EXTINF:-1,US: SERIES6
+http://portal.onlineiptv.net:5210/live/star/star/6795.ts
+#EXTINF:-1,US: SERIES7
+http://portal.onlineiptv.net:5210/live/star/star/6796.ts
+#EXTINF:-1,US: SERIES8
+http://portal.onlineiptv.net:5210/live/star/star/6797.ts
+#EXTINF:-1,US: SERIES9
+http://portal.onlineiptv.net:5210/live/star/star/6798.ts
+#EXTINF:-1,US: SERIES10
+http://portal.onlineiptv.net:5210/live/star/star/6799.ts
+#EXTINF:-1,US: SHOWTIME_HD
+http://portal.onlineiptv.net:5210/live/star/star/6937.ts
+#EXTINF:-1,US: 5_USA
+http://portal.onlineiptv.net:5210/live/star/star/6934.ts
+#EXTINF:-1,US: FOOD CHANNEL.
+http://portal.onlineiptv.net:5210/live/star/star/5935.ts
+#EXTINF:-1,US: TVO KIDS HD
+http://portal.onlineiptv.net:5210/live/star/star/5936.ts
+#EXTINF:-1,US: YTV CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/5930.ts
+#EXTINF:-1,US: USA CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/5931.ts
+#EXTINF:-1,US: TNT
+http://portal.onlineiptv.net:5210/live/star/star/5938.ts
+#EXTINF:-1,US: TLC CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/5933.ts
+#EXTINF:-1,US: OLN CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/145.ts
+#EXTINF:-1,US: FOX_NEWS
+http://portal.onlineiptv.net:5210/live/star/star/4209.ts
+#EXTINF:-1,US: TMN ACTION
+http://portal.onlineiptv.net:5210/live/star/star/5948.ts
+#EXTINF:-1,US: VirginTV Radio
+http://portal.onlineiptv.net:5210/live/star/star/7164.ts
+#EXTINF:-1,US: University of California TV
+http://portal.onlineiptv.net:5210/live/star/star/7156.ts
+#EXTINF:-1,US: NFL Channel HD
+http://portal.onlineiptv.net:5210/live/star/star/7158.ts
+#EXTINF:-1,US: HSN
+http://portal.onlineiptv.net:5210/live/star/star/7161.ts
+#EXTINF:-1,US: D23
+http://portal.onlineiptv.net:5210/live/star/star/7163.ts
+#EXTINF:-1,US: Bloomberg.
+http://portal.onlineiptv.net:5210/live/star/star/7157.ts
+#EXTINF:-1,US: Al Jazeera
+http://portal.onlineiptv.net:5210/live/star/star/7155.ts
+#EXTINF:-1,US: ABC News
+http://portal.onlineiptv.net:5210/live/star/star/7162.ts
+#EXTINF:-1,US: TVO KIDS
+http://portal.onlineiptv.net:5210/live/star/star/7258.ts
+#EXTINF:-1,US: AMC
+http://portal.onlineiptv.net:5210/live/star/star/7259.ts
+#EXTINF:-1,US: ID
+http://portal.onlineiptv.net:5210/live/star/star/7261.ts
+#EXTINF:-1,US: SyFy
+http://portal.onlineiptv.net:5210/live/star/star/7273.ts
+#EXTINF:-1,US: SN 360HD
+http://portal.onlineiptv.net:5210/live/star/star/7257.ts
+#EXTINF:-1,US: SLICE CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/7267.ts
+#EXTINF:-1,US: OMNI TORONTO
+http://portal.onlineiptv.net:5210/live/star/star/7268.ts
+#EXTINF:-1,US: NFL NOW
+http://portal.onlineiptv.net:5210/live/star/star/7269.ts
+#EXTINF:-1,US: NBC TORONTO
+http://portal.onlineiptv.net:5210/live/star/star/7270.ts
+#EXTINF:-1,US: NBA
+http://portal.onlineiptv.net:5210/live/star/star/7284.ts
+#EXTINF:-1,US: MAX WEST
+http://portal.onlineiptv.net:5210/live/star/star/7271.ts
+#EXTINF:-1,US: MAX ESAT
+http://portal.onlineiptv.net:5210/live/star/star/7272.ts
+#EXTINF:-1,US: LMN
+http://portal.onlineiptv.net:5210/live/star/star/7260.ts
+#EXTINF:-1,US: HBO FAMLY
+http://portal.onlineiptv.net:5210/live/star/star/7263.ts
+#EXTINF:-1,US: FOOD CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/7256.ts
+#EXTINF:-1,US: FMLY CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/7277.ts
+#EXTINF:-1,US: DIY NETWORK.
+http://portal.onlineiptv.net:5210/live/star/star/7278.ts
+#EXTINF:-1,US: DISCOVERY
+http://portal.onlineiptv.net:5210/live/star/star/7274.ts
+#EXTINF:-1,US: CRCOL HD
+http://portal.onlineiptv.net:5210/live/star/star/7280.ts
+#EXTINF:-1,US: CNN
+http://portal.onlineiptv.net:5210/live/star/star/7281.ts
+#EXTINF:-1,US: CITY TORANTO TV
+http://portal.onlineiptv.net:5210/live/star/star/7282.ts
+#EXTINF:-1,US: BNN
+http://portal.onlineiptv.net:5210/live/star/star/7283.ts
+#EXTINF:-1,MAX ESAT
+http://portal.onlineiptv.net:5210/live/star/star/5954.ts
+#EXTINF:-1,CITY TV TORONTO
+http://portal.onlineiptv.net:5210/live/star/star/5961.ts
+#EXTINF:-1,DIY NETWORK
+http://portal.onlineiptv.net:5210/live/star/star/5959.ts
+#EXTINF:-1,A&E CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/143.ts
+#EXTINF:-1,US: A&E CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/7265.ts
+#EXTINF:-1,Dk: Canal9 SK
+http://portal.onlineiptv.net:5210/live/star/star/3188.ts
+#EXTINF:-1,~=~=~***LATINO***~=~=~
+http://portal.onlineiptv.net:5210/live/star/star/3300.ts
+#EXTINF:-1,LAT: CARACOL
+http://portal.onlineiptv.net:5210/live/star/star/5331.ts
+#EXTINF:-1,LAT: CANAL 5
+http://portal.onlineiptv.net:5210/live/star/star/5332.ts
+#EXTINF:-1,LAT: WARNER
+http://portal.onlineiptv.net:5210/live/star/star/5267.ts
+#EXTINF:-1,LAT: VH1 LATINO
+http://portal.onlineiptv.net:5210/live/star/star/5268.ts
+#EXTINF:-1,LAT: ENCUENTRO
+http://portal.onlineiptv.net:5210/live/star/star/5320.ts
+#EXTINF:-1,LAT: EL GOURMET
+http://portal.onlineiptv.net:5210/live/star/star/5321.ts
+#EXTINF:-1,LAT: DXTV
+http://portal.onlineiptv.net:5210/live/star/star/5322.ts
+#EXTINF:-1,LAT: DISTRITO COMEDIA
+http://portal.onlineiptv.net:5210/live/star/star/5323.ts
+#EXTINF:-1,LAT: DISNEY Jr
+http://portal.onlineiptv.net:5210/live/star/star/5324.ts
+#EXTINF:-1,LAT: DISNEY CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/5325.ts
+#EXTINF:-1,LAT: DISCOVERY CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/5326.ts
+#EXTINF:-1,LAT: DE PELICULA
+http://portal.onlineiptv.net:5210/live/star/star/5327.ts
+#EXTINF:-1,LAT: CINEMAX
+http://portal.onlineiptv.net:5210/live/star/star/5328.ts
+#EXTINF:-1,LAT: CINECANAL
+http://portal.onlineiptv.net:5210/live/star/star/5329.ts
+#EXTINF:-1,LAT: CARTOON NETWORK
+http://portal.onlineiptv.net:5210/live/star/star/5330.ts
+#EXTINF:-1,LAT: FOX
+http://portal.onlineiptv.net:5210/live/star/star/5312.ts
+#EXTINF:-1,LAT: FORO TV
+http://portal.onlineiptv.net:5210/live/star/star/5313.ts
+#EXTINF:-1,LAT: FILM ZONE
+http://portal.onlineiptv.net:5210/live/star/star/5314.ts
+#EXTINF:-1,LAT: ESPN USA
+http://portal.onlineiptv.net:5210/live/star/star/5316.ts
+#EXTINF:-1,LAT: ESPN 3
+http://portal.onlineiptv.net:5210/live/star/star/5317.ts
+#EXTINF:-1,LAT: ESPN 2 USA
+http://portal.onlineiptv.net:5210/live/star/star/5318.ts
+#EXTINF:-1,LAT: ESPN 2
+http://portal.onlineiptv.net:5210/live/star/star/5319.ts
+#EXTINF:-1,LAT: ESPN
+http://portal.onlineiptv.net:5210/live/star/star/5315.ts
+#EXTINF:-1,LAT: UNIVISION TDN
+http://portal.onlineiptv.net:5210/live/star/star/5269.ts
+#EXTINF:-1,LAT: HOLA TV
+http://portal.onlineiptv.net:5210/live/star/star/5296.ts
+#EXTINF:-1,LAT: HISTORY
+http://portal.onlineiptv.net:5210/live/star/star/5297.ts
+#EXTINF:-1,LAT: GOLDEN
+http://portal.onlineiptv.net:5210/live/star/star/5298.ts
+#EXTINF:-1,LAT: GOL TV (TEST)
+http://portal.onlineiptv.net:5210/live/star/star/5299.ts
+#EXTINF:-1,LAT: GALAVISION
+http://portal.onlineiptv.net:5210/live/star/star/5300.ts
+#EXTINF:-1,LAT: FOX SPORT 2
+http://portal.onlineiptv.net:5210/live/star/star/5304.ts
+#EXTINF:-1,LAT: FOX SPORT
+http://portal.onlineiptv.net:5210/live/star/star/5305.ts
+#EXTINF:-1,LAT: FOX MOVIES
+http://portal.onlineiptv.net:5210/live/star/star/5306.ts
+#EXTINF:-1,LAT: FOX LIFE
+http://portal.onlineiptv.net:5210/live/star/star/5307.ts
+#EXTINF:-1,LAT: FOX CLASSICS
+http://portal.onlineiptv.net:5210/live/star/star/5308.ts
+#EXTINF:-1,LAT: FOX CINEMA
+http://portal.onlineiptv.net:5210/live/star/star/5309.ts
+#EXTINF:-1,LAT: FOX ACTION
+http://portal.onlineiptv.net:5210/live/star/star/5310.ts
+#EXTINF:-1,LAT: FOX 1
+http://portal.onlineiptv.net:5210/live/star/star/5311.ts
+#EXTINF:-1,LAT: FOX SPORT USA
+http://portal.onlineiptv.net:5210/live/star/star/5301.ts
+#EXTINF:-1,LAT: FOX SPORT T USA
+http://portal.onlineiptv.net:5210/live/star/star/5302.ts
+#EXTINF:-1,LAT: FOX SPORT 2 USA
+http://portal.onlineiptv.net:5210/live/star/star/5303.ts
+#EXTINF:-1,LAT: NAT GEO WILD
+http://portal.onlineiptv.net:5210/live/star/star/5289.ts
+#EXTINF:-1,LAT: MULTIMEDIOS
+http://portal.onlineiptv.net:5210/live/star/star/5290.ts
+#EXTINF:-1,LAT: MTV LATINO HITS
+http://portal.onlineiptv.net:5210/live/star/star/5291.ts
+#EXTINF:-1,LAT: MTV LATINO
+http://portal.onlineiptv.net:5210/live/star/star/5292.ts
+#EXTINF:-1,LAT: MLB
+http://portal.onlineiptv.net:5210/live/star/star/5293.ts
+#EXTINF:-1,LAT: MI MUSICA
+http://portal.onlineiptv.net:5210/live/star/star/5294.ts
+#EXTINF:-1,LAT: INVESTIGACION DISCOVERY
+http://portal.onlineiptv.net:5210/live/star/star/5295.ts
+#EXTINF:-1,LAT: UNIVISION
+http://portal.onlineiptv.net:5210/live/star/star/5270.ts
+#EXTINF:-1,LAT: UNIVERSAL
+http://portal.onlineiptv.net:5210/live/star/star/5271.ts
+#EXTINF:-1,LAT: UNICABLE
+http://portal.onlineiptv.net:5210/live/star/star/5272.ts
+#EXTINF:-1,LAT: TV MARTI
+http://portal.onlineiptv.net:5210/live/star/star/5273.ts
+#EXTINF:-1,LAT: CANAL 11
+http://portal.onlineiptv.net:5210/live/star/star/5333.ts
+#EXTINF:-1,LAT: AZTECA NOTICIAS
+http://portal.onlineiptv.net:5210/live/star/star/5334.ts
+#EXTINF:-1,LAT: AZTECA MUNDO
+http://portal.onlineiptv.net:5210/live/star/star/5335.ts
+#EXTINF:-1,LAT: AZTECA CORAZON
+http://portal.onlineiptv.net:5210/live/star/star/5336.ts
+#EXTINF:-1,LAT: AZTECA CLIC
+http://portal.onlineiptv.net:5210/live/star/star/5337.ts
+#EXTINF:-1,LAT: SPACE
+http://portal.onlineiptv.net:5210/live/star/star/5281.ts
+#EXTINF:-1,LAT: RITMOSON
+http://portal.onlineiptv.net:5210/live/star/star/5282.ts
+#EXTINF:-1,LAT: RCN 2
+http://portal.onlineiptv.net:5210/live/star/star/5283.ts
+#EXTINF:-1,LAT: RCN
+http://portal.onlineiptv.net:5210/live/star/star/5284.ts
+#EXTINF:-1,LAT: PROYECTO 40
+http://portal.onlineiptv.net:5210/live/star/star/5285.ts
+#EXTINF:-1,LAT: NICK Jr
+http://portal.onlineiptv.net:5210/live/star/star/5287.ts
+#EXTINF:-1,LAT: AZTECA CINEMA
+http://portal.onlineiptv.net:5210/live/star/star/5338.ts
+#EXTINF:-1,LAT: AZTECA 7
+http://portal.onlineiptv.net:5210/live/star/star/5339.ts
+#EXTINF:-1,LAT: AZTECA 13
+http://portal.onlineiptv.net:5210/live/star/star/5340.ts
+#EXTINF:-1,LAT: AXN
+http://portal.onlineiptv.net:5210/live/star/star/5341.ts
+#EXTINF:-1,LAT: TNT SERIES
+http://portal.onlineiptv.net:5210/live/star/star/5274.ts
+#EXTINF:-1,LAT: TELEVISA
+http://portal.onlineiptv.net:5210/live/star/star/5275.ts
+#EXTINF:-1,LAT: TELEMUSICA
+http://portal.onlineiptv.net:5210/live/star/star/5276.ts
+#EXTINF:-1,LAT: TELEMUNDO
+http://portal.onlineiptv.net:5210/live/star/star/5277.ts
+#EXTINF:-1,LAT: TELEFE
+http://portal.onlineiptv.net:5210/live/star/star/5278.ts
+#EXTINF:-1,LAT: TBS
+http://portal.onlineiptv.net:5210/live/star/star/5279.ts
+#EXTINF:-1,LAT: SYFY
+http://portal.onlineiptv.net:5210/live/star/star/5280.ts
+#EXTINF:-1,LAT: ANIMAL PLANET
+http://portal.onlineiptv.net:5210/live/star/star/5342.ts
+#EXTINF:-1,LAT: AMERICATEVE
+http://portal.onlineiptv.net:5210/live/star/star/5343.ts
+#EXTINF:-1,LAT: AMC
+http://portal.onlineiptv.net:5210/live/star/star/5344.ts
+#EXTINF:-1,~=~=~***UNITED-KINGDOM***~=~=~
+http://portal.onlineiptv.net:5210/live/star/star/2962.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/3860.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/3859.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://portal.onlineiptv.net:5210/live/star/star/3858.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/3857.ts
+#EXTINF:-1,UK: BBC NEWS SD/HD
+http://portal.onlineiptv.net:5210/live/star/star/3856.ts
+#EXTINF:-1,UK: CNN
+http://portal.onlineiptv.net:5210/live/star/star/4407.ts
+#EXTINF:-1,UK: ITV1
+http://portal.onlineiptv.net:5210/live/star/star/7915.ts
+#EXTINF:-1,UK: ITV2
+http://portal.onlineiptv.net:5210/live/star/star/7917.ts
+#EXTINF:-1,UK: ITV3
+http://portal.onlineiptv.net:5210/live/star/star/7918.ts
+#EXTINF:-1,UK: ITV4
+http://portal.onlineiptv.net:5210/live/star/star/7916.ts
+#EXTINF:-1,UK: Rte one HD
+http://portal.onlineiptv.net:5210/live/star/star/4404.ts
+#EXTINF:-1,UK: Rte two HD
+http://portal.onlineiptv.net:5210/live/star/star/4405.ts
+#EXTINF:-1,UK: RTE_ONE
+http://portal.onlineiptv.net:5210/live/star/star/6898.ts
+#EXTINF:-1,UK: Alibi
+http://portal.onlineiptv.net:5210/live/star/star/5145.ts
+#EXTINF:-1,UK: 5 USA
+http://portal.onlineiptv.net:5210/live/star/star/5146.ts
+#EXTINF:-1,UK: 3E
+http://portal.onlineiptv.net:5210/live/star/star/5147.ts
+#EXTINF:-1,UK: E4 UK
+http://portal.onlineiptv.net:5210/live/star/star/5150.ts
+#EXTINF:-1,UK: More4
+http://portal.onlineiptv.net:5210/live/star/star/4412.ts
+#EXTINF:-1,UK: Yesterday
+http://portal.onlineiptv.net:5210/live/star/star/4959.ts
+#EXTINF:-1,UK: Home
+http://portal.onlineiptv.net:5210/live/star/star/4422.ts
+#EXTINF:-1,UK: E!
+http://portal.onlineiptv.net:5210/live/star/star/5136.ts
+#EXTINF:-1,UK: ComedyCentral
+http://portal.onlineiptv.net:5210/live/star/star/4958.ts
+#EXTINF:-1,UK: Really
+http://portal.onlineiptv.net:5210/live/star/star/4413.ts
+#EXTINF:-1,UK: Real Lives
+http://portal.onlineiptv.net:5210/live/star/star/4416.ts
+#EXTINF:-1,UK: Watch
+http://portal.onlineiptv.net:5210/live/star/star/4409.ts
+#EXTINF:-1,UK: TG 4
+http://portal.onlineiptv.net:5210/live/star/star/4421.ts
+#EXTINF:-1,UK: TG4
+http://portal.onlineiptv.net:5210/live/star/star/4995.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/4972.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://portal.onlineiptv.net:5210/live/star/star/4973.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/4970.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://portal.onlineiptv.net:5210/live/star/star/4971.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://portal.onlineiptv.net:5210/live/star/star/4968.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://portal.onlineiptv.net:5210/live/star/star/4969.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/4967.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://portal.onlineiptv.net:5210/live/star/star/4965.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://portal.onlineiptv.net:5210/live/star/star/4966.ts
+#EXTINF:-1,UK : Sky Sport F1 HD
+http://portal.onlineiptv.net:5210/live/star/star/8755.ts
+#EXTINF:-1,UK: LiverPool TV
+http://portal.onlineiptv.net:5210/live/star/star/4417.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://portal.onlineiptv.net:5210/live/star/star/4963.ts
+#EXTINF:-1,UK: Sky NEWS
+http://portal.onlineiptv.net:5210/live/star/star/8587.ts
+#EXTINF:-1,US: ABC News HD
+http://portal.onlineiptv.net:5210/live/star/star/4408.ts
+#EXTINF:-1,UK: UTV_Ireland
+http://portal.onlineiptv.net:5210/live/star/star/4962.ts
+#EXTINF:-1,UK: LONDON_LIVE
+http://portal.onlineiptv.net:5210/live/star/star/5135.ts
+#EXTINF:-1,UK: Ten Golf
+http://portal.onlineiptv.net:5210/live/star/star/4996.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/4991.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/4990.ts
+#EXTINF:-1,UK: Premier Sport
+http://portal.onlineiptv.net:5210/live/star/star/4957.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://portal.onlineiptv.net:5210/live/star/star/4989.ts
+#EXTINF:-1,UK: UK Setanta Sport
+http://portal.onlineiptv.net:5210/live/star/star/4974.ts
+#EXTINF:-1,UK:UK EuroSports 1
+http://portal.onlineiptv.net:5210/live/star/star/4984.ts
+#EXTINF:-1,UK: EuroSports 2
+http://portal.onlineiptv.net:5210/live/star/star/4983.ts
+#EXTINF:-1,UK: Channel 4
+http://portal.onlineiptv.net:5210/live/star/star/8585.ts
+#EXTINF:-1,UK: Channel 5
+http://portal.onlineiptv.net:5210/live/star/star/8584.ts
+#EXTINF:-1,UK: 5Star
+http://portal.onlineiptv.net:5210/live/star/star/8756.ts
+#EXTINF:-1,UK: 4Seven
+http://portal.onlineiptv.net:5210/live/star/star/8757.ts
+#EXTINF:-1,UK: Movies4Men
+http://portal.onlineiptv.net:5210/live/star/star/8599.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://portal.onlineiptv.net:5210/live/star/star/8598.ts
+#EXTINF:-1,UK: Boxnation
+http://portal.onlineiptv.net:5210/live/star/star/6901.ts
+#EXTINF:-1,UK: Chelsea TV
+http://portal.onlineiptv.net:5210/live/star/star/4988.ts
+#EXTINF:-1,UK: At The Races UK Test
+http://portal.onlineiptv.net:5210/live/star/star/5132.ts
+#EXTINF:-1,UK: Sy-Fy
+http://portal.onlineiptv.net:5210/live/star/star/4997.ts
+#EXTINF:-1,UK: CBS Reality UK
+http://portal.onlineiptv.net:5210/live/star/star/5137.ts
+#EXTINF:-1,UK: Sky-movies-Thriller
+http://portal.onlineiptv.net:5210/live/star/star/4956.ts
+#EXTINF:-1,UK: Sky_Movies_Showcase
+http://portal.onlineiptv.net:5210/live/star/star/6888.ts
+#EXTINF:-1,UK: Sky_Movies_Select
+http://portal.onlineiptv.net:5210/live/star/star/6889.ts
+#EXTINF:-1,UK: Sky_Movies_ScFi-Horror
+http://portal.onlineiptv.net:5210/live/star/star/6890.ts
+#EXTINF:-1,UK: Sky_Movies_Premiere
+http://portal.onlineiptv.net:5210/live/star/star/6891.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://portal.onlineiptv.net:5210/live/star/star/8065.ts
+#EXTINF:-1,UK: Sky Premiere
+http://portal.onlineiptv.net:5210/live/star/star/8066.ts
+#EXTINF:-1,UK: Sky_Movies_Modern_Greats
+http://portal.onlineiptv.net:5210/live/star/star/6892.ts
+#EXTINF:-1,UK: Sky_Movies_Comedy
+http://portal.onlineiptv.net:5210/live/star/star/6893.ts
+#EXTINF:-1,UK: Sky_Movies_Action&Adventure
+http://portal.onlineiptv.net:5210/live/star/star/6894.ts
+#EXTINF:-1,UK: Sky_Living
+http://portal.onlineiptv.net:5210/live/star/star/6895.ts
+#EXTINF:-1,UK: Sky_Atlantic
+http://portal.onlineiptv.net:5210/live/star/star/6896.ts
+#EXTINF:-1,UK: True Movies 1
+http://portal.onlineiptv.net:5210/live/star/star/4993.ts
+#EXTINF:-1,UK: True movie 2
+http://portal.onlineiptv.net:5210/live/star/star/5142.ts
+#EXTINF:-1,UK: Discovery
+http://portal.onlineiptv.net:5210/live/star/star/8067.ts
+#EXTINF:-1,UK: Discovery Investigation TEST
+http://portal.onlineiptv.net:5210/live/star/star/5151.ts
+#EXTINF:-1,UK: Discovery history
+http://portal.onlineiptv.net:5210/live/star/star/4987.ts
+#EXTINF:-1,UK: Discovery Science HD
+http://portal.onlineiptv.net:5210/live/star/star/3867.ts
+#EXTINF:-1,UK: Discovery World
+http://portal.onlineiptv.net:5210/live/star/star/3865.ts
+#EXTINF:-1,UK: Discovery Turbo.
+http://portal.onlineiptv.net:5210/live/star/star/3866.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://portal.onlineiptv.net:5210/live/star/star/4986.ts
+#EXTINF:-1,US: Nasa Tv
+http://portal.onlineiptv.net:5210/live/star/star/4410.ts
+#EXTINF:-1,UK: Dmax
+http://portal.onlineiptv.net:5210/live/star/star/3861.ts
+#EXTINF:-1,UK: TLC
+http://portal.onlineiptv.net:5210/live/star/star/4994.ts
+#EXTINF:-1,UK: Eden
+http://portal.onlineiptv.net:5210/live/star/star/4418.ts
+#EXTINF:-1,UK: National_Geographic
+http://portal.onlineiptv.net:5210/live/star/star/6900.ts
+#EXTINF:-1,UK: Animal Planet UK
+http://portal.onlineiptv.net:5210/live/star/star/5144.ts
+#EXTINF:-1,UK: BABY TV
+http://portal.onlineiptv.net:5210/live/star/star/5138.ts
+#EXTINF:-1,UK: Nickelodeon
+http://portal.onlineiptv.net:5210/live/star/star/4975.ts
+#EXTINF:-1,UK:  Disney Junior
+http://portal.onlineiptv.net:5210/live/star/star/4985.ts
+#EXTINF:-1,UK: CARTOON_NETWORK
+http://portal.onlineiptv.net:5210/live/star/star/7312.ts
+#EXTINF:-1,UK: Disney XD
+http://portal.onlineiptv.net:5210/live/star/star/3862.ts
+#EXTINF:-1,UK: Disney Junior
+http://portal.onlineiptv.net:5210/live/star/star/3863.ts
+#EXTINF:-1,UK: Disney Channel
+http://portal.onlineiptv.net:5210/live/star/star/3864.ts
+#EXTINF:-1,UK: Nicktoons
+http://portal.onlineiptv.net:5210/live/star/star/6899.ts
+#EXTINF:-1,UK: BOOMERANG
+http://portal.onlineiptv.net:5210/live/star/star/5130.ts
+#EXTINF:-1,UK: UK MTV Dance
+http://portal.onlineiptv.net:5210/live/star/star/4979.ts
+#EXTINF:-1,UK: MTV_ROCKS
+http://portal.onlineiptv.net:5210/live/star/star/5133.ts
+#EXTINF:-1,UK: MTV_HITS
+http://portal.onlineiptv.net:5210/live/star/star/5134.ts
+#EXTINF:-1,UK: MTV Hits
+http://portal.onlineiptv.net:5210/live/star/star/4978.ts
+#EXTINF:-1,UK: UK MTV Music
+http://portal.onlineiptv.net:5210/live/star/star/4977.ts
+#EXTINF:-1,UK: UK MTV Base
+http://portal.onlineiptv.net:5210/live/star/star/4981.ts
+#EXTINF:-1,UK: UK MTV 1
+http://portal.onlineiptv.net:5210/live/star/star/4982.ts
+#EXTINF:-1,UK: MTV Classic
+http://portal.onlineiptv.net:5210/live/star/star/4980.ts
+#EXTINF:-1,UK: VH1
+http://portal.onlineiptv.net:5210/live/star/star/5129.ts
+#EXTINF:-1,UK: Film 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/4411.ts
+#EXTINF:-1,US: Bloomberg
+http://portal.onlineiptv.net:5210/live/star/star/4406.ts
+#EXTINF:-1,UK: Quest
+http://portal.onlineiptv.net:5210/live/star/star/5131.ts
+#EXTINF:-1,UK: B4U Movies
+http://portal.onlineiptv.net:5210/live/star/star/5143.ts
+#EXTINF:-1,UK: True Movies1
+http://portal.onlineiptv.net:5210/live/star/star/5141.ts
+#EXTINF:-1,UK: SKY_SPORTS5
+http://portal.onlineiptv.net:5210/live/star/star/6886.ts
+#EXTINF:-1,UK: Sky_One
+http://portal.onlineiptv.net:5210/live/star/star/6887.ts
+#EXTINF:-1,UK: SATENTA_SPORT
+http://portal.onlineiptv.net:5210/live/star/star/6897.ts
+#EXTINF:-1,UK: Vevo 1
+http://portal.onlineiptv.net:5210/live/star/star/5140.ts
+#EXTINF:-1,UK: Vevo 2
+http://portal.onlineiptv.net:5210/live/star/star/5139.ts
+#EXTINF:-1,UK: Vevo 3
+http://portal.onlineiptv.net:5210/live/star/star/5148.ts
+#EXTINF:-1,UK: SKY One
+http://portal.onlineiptv.net:5210/live/star/star/7132.ts
+#EXTINF:-1,UK: RACING
+http://portal.onlineiptv.net:5210/live/star/star/7128.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://portal.onlineiptv.net:5210/live/star/star/7143.ts
+#EXTINF:-1,UK: MUTV
+http://portal.onlineiptv.net:5210/live/star/star/7129.ts
+#EXTINF:-1,UK: CNBC EU
+http://portal.onlineiptv.net:5210/live/star/star/7130.ts
+#EXTINF:-1,UK: CBS REALITY
+http://portal.onlineiptv.net:5210/live/star/star/7131.ts
+#EXTINF:-1,UK: True Entertainment
+http://portal.onlineiptv.net:5210/live/star/star/8280.ts
+#EXTINF:-1,UK: Sky One HD
+http://portal.onlineiptv.net:5210/live/star/star/8289.ts
+#EXTINF:-1,UK: Sky Cinema Drama n Romance UHD
+http://portal.onlineiptv.net:5210/live/star/star/8281.ts
+#EXTINF:-1,UK: Motors TV UK
+http://portal.onlineiptv.net:5210/live/star/star/8279.ts
+#EXTINF:-1,UK: ITV Encore
+http://portal.onlineiptv.net:5210/live/star/star/8282.ts
+#EXTINF:-1,UK: Docubox HD
+http://portal.onlineiptv.net:5210/live/star/star/8288.ts
+#EXTINF:-1,UK: Fight Box HD
+http://portal.onlineiptv.net:5210/live/star/star/8278.ts
+#EXTINF:-1,UK: Disnep Channel UK
+http://portal.onlineiptv.net:5210/live/star/star/8283.ts
+#EXTINF:-1,UK: H2
+http://portal.onlineiptv.net:5210/live/star/star/8454.ts
+#EXTINF:-1,UK: Sky Christmas
+http://portal.onlineiptv.net:5210/live/star/star/8456.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://portal.onlineiptv.net:5210/live/star/star/8457.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://portal.onlineiptv.net:5210/live/star/star/8458.ts
+#EXTINF:-1,UK: Bt Sport 3
+http://portal.onlineiptv.net:5210/live/star/star/8459.ts
+#EXTINF:-1,UK: British Muslim
+http://portal.onlineiptv.net:5210/live/star/star/8460.ts
+#EXTINF:-1,UK : RTE2
+http://portal.onlineiptv.net:5210/live/star/star/8287.ts
+#EXTINF:-1,UK: FOX
+http://portal.onlineiptv.net:5210/live/star/star/8463.ts
+#EXTINF:-1,UK: DRAMA
+http://portal.onlineiptv.net:5210/live/star/star/8462.ts
+#EXTINF:-1,UK: TRUTV
+http://portal.onlineiptv.net:5210/live/star/star/8474.ts
+#EXTINF:-1,UK: TRAVEL 1
+http://portal.onlineiptv.net:5210/live/star/star/8469.ts
+#EXTINF:-1,UK: picktv
+http://portal.onlineiptv.net:5210/live/star/star/8470.ts
+#EXTINF:-1,UK: Ireland's Country tv HD
+http://portal.onlineiptv.net:5210/live/star/star/8471.ts
+#EXTINF:-1,UK: CBS_Action
+http://portal.onlineiptv.net:5210/live/star/star/8473.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://portal.onlineiptv.net:5210/live/star/star/8472.ts
+#EXTINF:-1,UK: SKY TWO HD
+http://portal.onlineiptv.net:5210/live/star/star/8503.ts
+#EXTINF:-1,UK: Dave HD
+http://portal.onlineiptv.net:5210/live/star/star/8508.ts
+#EXTINF:-1,UK: 4E
+http://portal.onlineiptv.net:5210/live/star/star/8504.ts
+#EXTINF:-1,UK: MIO_SPORTS
+http://portal.onlineiptv.net:5210/live/star/star/6924.ts
+#EXTINF:-1,UK: MIO_STADIUM_1
+http://portal.onlineiptv.net:5210/live/star/star/6925.ts
+#EXTINF:-1,UK: MIO_STADIUM_2
+http://portal.onlineiptv.net:5210/live/star/star/6926.ts
+#EXTINF:-1,UK: MIO_STADIUM_3
+http://portal.onlineiptv.net:5210/live/star/star/6927.ts
+#EXTINF:-1,UK: MIO_STADIUM_4
+http://portal.onlineiptv.net:5210/live/star/star/6928.ts
+#EXTINF:-1,UK: MIO_STADIUM_5
+http://portal.onlineiptv.net:5210/live/star/star/6929.ts
+#EXTINF:-1,UK: MIO_STADIUM_6
+http://portal.onlineiptv.net:5210/live/star/star/6930.ts
+#EXTINF:-1,UK: MIO_STADIUM_7
+http://portal.onlineiptv.net:5210/live/star/star/6931.ts
+#EXTINF:-1,UK: MIO_STADIUM_8
+http://portal.onlineiptv.net:5210/live/star/star/6932.ts
+#EXTINF:-1,~=~=~***PORTUGAL***~=~=~
+http://portal.onlineiptv.net:5210/live/star/star/2969.ts
+#EXTINF:-1,TVI Reality
+http://portal.onlineiptv.net:5210/live/star/star/8554.ts
+#EXTINF:-1,TVI
+http://portal.onlineiptv.net:5210/live/star/star/8555.ts
+#EXTINF:-1,SYFY
+http://portal.onlineiptv.net:5210/live/star/star/8576.ts
+#EXTINF:-1,Sport Tv 5 HD
+http://portal.onlineiptv.net:5210/live/star/star/8550.ts
+#EXTINF:-1,Sport Tv 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/8549.ts
+#EXTINF:-1,Sport Tv 3 HD
+http://portal.onlineiptv.net:5210/live/star/star/8548.ts
+#EXTINF:-1,Sport Tv 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/8547.ts
+#EXTINF:-1,Sport TV 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/8546.ts
+#EXTINF:-1,SIC MULHER
+http://portal.onlineiptv.net:5210/live/star/star/8557.ts
+#EXTINF:-1,ODISSEIA
+http://portal.onlineiptv.net:5210/live/star/star/8561.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://portal.onlineiptv.net:5210/live/star/star/8562.ts
+#EXTINF:-1,Nat Geo Wild
+http://portal.onlineiptv.net:5210/live/star/star/8563.ts
+#EXTINF:-1,Hollywood
+http://portal.onlineiptv.net:5210/live/star/star/8564.ts
+#EXTINF:-1,History
+http://portal.onlineiptv.net:5210/live/star/star/8578.ts
+#EXTINF:-1,FOX Movies
+http://portal.onlineiptv.net:5210/live/star/star/8566.ts
+#EXTINF:-1,EUROSPORT HD 1
+http://portal.onlineiptv.net:5210/live/star/star/8551.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://portal.onlineiptv.net:5210/live/star/star/8553.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/8552.ts
+#EXTINF:-1,CMTV
+http://portal.onlineiptv.net:5210/live/star/star/8567.ts
+#EXTINF:-1,Cinemundo
+http://portal.onlineiptv.net:5210/live/star/star/8568.ts
+#EXTINF:-1,CANAL HISTORIA
+http://portal.onlineiptv.net:5210/live/star/star/8569.ts
+#EXTINF:-1,CAÇÃVISION
+http://portal.onlineiptv.net:5210/live/star/star/8570.ts
+#EXTINF:-1,BTV 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/8572.ts
+#EXTINF:-1,BENFICA TV 1
+http://portal.onlineiptv.net:5210/live/star/star/8545.ts
+#EXTINF:-1,AXN HD
+http://portal.onlineiptv.net:5210/live/star/star/8580.ts
+#EXTINF:-1,A&E
+http://portal.onlineiptv.net:5210/live/star/star/8575.ts
+#EXTINF:-1,PT: VH1
+http://portal.onlineiptv.net:5210/live/star/star/7667.ts
+#EXTINF:-1,PT: TV_Cine_3_HD
+http://portal.onlineiptv.net:5210/live/star/star/7614.ts
+#EXTINF:-1,PT: TV_Cine_2_HD
+http://portal.onlineiptv.net:5210/live/star/star/7615.ts
+#EXTINF:-1,PT: TV_Cine_1_HD
+http://portal.onlineiptv.net:5210/live/star/star/7616.ts
+#EXTINF:-1,PT: TVI_REALITY
+http://portal.onlineiptv.net:5210/live/star/star/7637.ts
+#EXTINF:-1,PT: Tvi_24
+http://portal.onlineiptv.net:5210/live/star/star/7636.ts
+#EXTINF:-1,PT: TVI.
+http://portal.onlineiptv.net:5210/live/star/star/7635.ts
+#EXTINF:-1,PT: Travel_Channel_HD
+http://portal.onlineiptv.net:5210/live/star/star/7668.ts
+#EXTINF:-1,PT: Sport_TV_2
+http://portal.onlineiptv.net:5210/live/star/star/7604.ts
+#EXTINF:-1,PT: Sport_TV_1
+http://portal.onlineiptv.net:5210/live/star/star/7605.ts
+#EXTINF:-1,PT: SIC_Radical
+http://portal.onlineiptv.net:5210/live/star/star/7632.ts
+#EXTINF:-1,PT: SIC_Noticias
+http://portal.onlineiptv.net:5210/live/star/star/7633.ts
+#EXTINF:-1,PT: Sic_Mulher
+http://portal.onlineiptv.net:5210/live/star/star/7631.ts
+#EXTINF:-1,PT: SIC_K
+http://portal.onlineiptv.net:5210/live/star/star/7634.ts
+#EXTINF:-1,PT: SIC.
+http://portal.onlineiptv.net:5210/live/star/star/7630.ts
+#EXTINF:-1,PT: RTP_3
+http://portal.onlineiptv.net:5210/live/star/star/7650.ts
+#EXTINF:-1,PT: RTP_2
+http://portal.onlineiptv.net:5210/live/star/star/7648.ts
+#EXTINF:-1,PT: RTP_1
+http://portal.onlineiptv.net:5210/live/star/star/7649.ts
+#EXTINF:-1,PT: PORTO_CANAL
+http://portal.onlineiptv.net:5210/live/star/star/7606.ts
+#EXTINF:-1,PT: Odisseia
+http://portal.onlineiptv.net:5210/live/star/star/7656.ts
+#EXTINF:-1,PT: Nickelodeon
+http://portal.onlineiptv.net:5210/live/star/star/7646.ts
+#EXTINF:-1,PT: MTV_Portugal
+http://portal.onlineiptv.net:5210/live/star/star/7651.ts
+#EXTINF:-1,PT: MOV_HD
+http://portal.onlineiptv.net:5210/live/star/star/7617.ts
+#EXTINF:-1,PT: MOTORS_TV
+http://portal.onlineiptv.net:5210/live/star/star/7612.ts
+#EXTINF:-1,PT: Historia
+http://portal.onlineiptv.net:5210/live/star/star/7642.ts
+#EXTINF:-1,PT: FOX_COMEDY
+http://portal.onlineiptv.net:5210/live/star/star/7624.ts
+#EXTINF:-1,PT: FOX MOVIES_HD
+http://portal.onlineiptv.net:5210/live/star/star/7619.ts
+#EXTINF:-1,PT: FOX
+http://portal.onlineiptv.net:5210/live/star/star/7623.ts
+#EXTINF:-1,PT: Food_Network
+http://portal.onlineiptv.net:5210/live/star/star/7659.ts
+#EXTINF:-1,PT: EUROSPORT_NEWS
+http://portal.onlineiptv.net:5210/live/star/star/7669.ts
+#EXTINF:-1,PT: Euronews
+http://portal.onlineiptv.net:5210/live/star/star/7643.ts
+#EXTINF:-1,PT: E!_ENTERTAINMENT
+http://portal.onlineiptv.net:5210/live/star/star/7660.ts
+#EXTINF:-1,PT: Disney_Junior
+http://portal.onlineiptv.net:5210/live/star/star/7644.ts
+#EXTINF:-1,PT: DISNEY_CHANNEL
+http://portal.onlineiptv.net:5210/live/star/star/7647.ts
+#EXTINF:-1,PT: DISCOVERY_HD_SHOWCASE
+http://portal.onlineiptv.net:5210/live/star/star/7639.ts
+#EXTINF:-1,PT: Discovery_Channel
+http://portal.onlineiptv.net:5210/live/star/star/7641.ts
+#EXTINF:-1,PT: CM_TV
+http://portal.onlineiptv.net:5210/live/star/star/7661.ts
+#EXTINF:-1,PT: CINEMUNDO_HD
+http://portal.onlineiptv.net:5210/live/star/star/7620.ts
+#EXTINF:-1,PT: Canal_Panda
+http://portal.onlineiptv.net:5210/live/star/star/7645.ts
+#EXTINF:-1,PT: Canal_Historia
+http://portal.onlineiptv.net:5210/live/star/star/7670.ts
+#EXTINF:-1,PT: BTV 1
+http://portal.onlineiptv.net:5210/live/star/star/7629.ts
+#EXTINF:-1,PT: Benfica_TV_2
+http://portal.onlineiptv.net:5210/live/star/star/7603.ts
+#EXTINF:-1,PT: Benfica_TV_1
+http://portal.onlineiptv.net:5210/live/star/star/7602.ts
+#EXTINF:-1,PT: BABY_TV
+http://portal.onlineiptv.net:5210/live/star/star/7665.ts
+#EXTINF:-1,PT: A_BOLA
+http://portal.onlineiptv.net:5210/live/star/star/7652.ts
+#EXTINF:-1,PT: AXN_WHITE_HD
+http://portal.onlineiptv.net:5210/live/star/star/7627.ts
+#EXTINF:-1,PT: AXN_HD
+http://portal.onlineiptv.net:5210/live/star/star/7625.ts
+#EXTINF:-1,PT: AMC
+http://portal.onlineiptv.net:5210/live/star/star/7671.ts
+#EXTINF:-1,PT:A&E
+http://portal.onlineiptv.net:5210/live/star/star/7666.ts
+#EXTINF:-1,PT: FoxLifeHD
+http://portal.onlineiptv.net:5210/live/star/star/3868.ts
+#EXTINF:-1,PT: Discovery-HD
+http://portal.onlineiptv.net:5210/live/star/star/3873.ts
+#EXTINF:-1,PT: AxnWhiteHD
+http://portal.onlineiptv.net:5210/live/star/star/3877.ts
+#EXTINF:-1,PT: AxnBlackHD
+http://portal.onlineiptv.net:5210/live/star/star/3878.ts
+#EXTINF:-1,PT: FoxHD
+http://portal.onlineiptv.net:5210/live/star/star/3869.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://portal.onlineiptv.net:5210/live/star/star/6785.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://portal.onlineiptv.net:5210/live/star/star/6786.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://portal.onlineiptv.net:5210/live/star/star/6787.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://portal.onlineiptv.net:5210/live/star/star/6788.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://portal.onlineiptv.net:5210/live/star/star/6789.ts
+#EXTINF:-1,PT: Fox-Movies
+http://portal.onlineiptv.net:5210/live/star/star/3870.ts
+#EXTINF:-1,PT: Fox-Crime
+http://portal.onlineiptv.net:5210/live/star/star/3871.ts
+#EXTINF:-1,PT: Disney-Channel
+http://portal.onlineiptv.net:5210/live/star/star/3872.ts
+#EXTINF:-1,PT: CbsReality
+http://portal.onlineiptv.net:5210/live/star/star/3874.ts
+#EXTINF:-1,PT: CartoonNetwork
+http://portal.onlineiptv.net:5210/live/star/star/3875.ts
+#EXTINF:-1,PT: baby.tv
+http://portal.onlineiptv.net:5210/live/star/star/3876.ts
+#EXTINF:-1,PT: TV_GLOBO_PREMIUN
+http://portal.onlineiptv.net:5210/live/star/star/7244.ts
+#EXTINF:-1,PT: TV_GLOBO
+http://portal.onlineiptv.net:5210/live/star/star/7245.ts
+#EXTINF:-1,PT: TV_Cine_4
+http://portal.onlineiptv.net:5210/live/star/star/7229.ts
+#EXTINF:-1,PT: TV_Cine_3
+http://portal.onlineiptv.net:5210/live/star/star/7230.ts
+#EXTINF:-1,PT: TV_Cine_2
+http://portal.onlineiptv.net:5210/live/star/star/7231.ts
+#EXTINF:-1,PT: TV_Cine_1
+http://portal.onlineiptv.net:5210/live/star/star/7232.ts
+#EXTINF:-1,PT: TVI_FICÇÃO
+http://portal.onlineiptv.net:5210/live/star/star/7236.ts
+#EXTINF:-1,PT: SYFY
+http://portal.onlineiptv.net:5210/live/star/star/7237.ts
+#EXTINF:-1,PT: Sport_TV_5
+http://portal.onlineiptv.net:5210/live/star/star/7234.ts
+#EXTINF:-1,PT: Sport_TV_4
+http://portal.onlineiptv.net:5210/live/star/star/7235.ts
+#EXTINF:-1,PT: Sport_TV_3
+http://portal.onlineiptv.net:5210/live/star/star/7246.ts
+#EXTINF:-1,PT: Sport_TV1_HD
+http://portal.onlineiptv.net:5210/live/star/star/7233.ts
+#EXTINF:-1,PT: SPORTING_TV
+http://portal.onlineiptv.net:5210/live/star/star/7238.ts
+#EXTINF:-1,PT: Sport _TV2_HD
+http://portal.onlineiptv.net:5210/live/star/star/7228.ts
+#EXTINF:-1,PT: National_Geographic_HD
+http://portal.onlineiptv.net:5210/live/star/star/7239.ts
+#EXTINF:-1,PT: FOX_MOVIES_HD
+http://portal.onlineiptv.net:5210/live/star/star/7240.ts
+#EXTINF:-1,PT: FOX_LIFE
+http://portal.onlineiptv.net:5210/live/star/star/7243.ts
