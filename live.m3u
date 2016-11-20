@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Tanique (HBO East)
-http://freedom.duki.me/LIVE/H02/HBO2EastHD/master.m3u8
+#EXTINF:0,OWN - Oprah Winfrey Network
+rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to/edge/uehgy5htiasffj3 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/player/player_ilive_2.swf token=abc109h
 #EXTINF:-1,USA : HBO East
 http://live.softiptv.com:9900/live/525/525/19415.ts
 #EXTINF:-1,USA: TBS HD
