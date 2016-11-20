@@ -1,85 +1,37 @@
 #EXTM3U
-#EXTINF:-1,USA: TBS HD
-http://live.softiptv.com:9900/live/525/525/19390.ts
-#EXTINF:-1,USA TNT HD
-http://live.softiptv.com:9900/live/525/525/19398.ts
-#EXTINF:-1,USA SYFY HD
-http://live.softiptv.com:9900/live/525/525/19399.ts
-#EXTINF:-1,USA NICKELODEN HD
-http://live.softiptv.com:9900/live/525/525/19400.ts
-#EXTINF:-1,USA Network (US)
-http://live.softiptv.com:9900/live/525/525/19401.ts
-#EXTINF:-1,USA HISTORY HD
-http://live.softiptv.com:9900/live/525/525/19402.ts
-#EXTINF:-1,USA FOX NEWS HD
-http://live.softiptv.com:9900/live/525/525/19403.ts
-#EXTINF:-1,USA CW HD
-http://live.softiptv.com:9900/live/525/525/19405.ts
-#EXTINF:-1,USA COMEDY CENTRAL HD
-http://live.softiptv.com:9900/live/525/525/19406.ts
-#EXTINF:-1,USA CNN HD
-http://live.softiptv.com:9900/live/525/525/19407.ts
-#EXTINF:-1,USA CBS
-http://live.softiptv.com:9900/live/525/525/19408.ts
-#EXTINF:-1,USA BRAVO HD
-http://live.softiptv.com:9900/live/525/525/19409.ts
-#EXTINF:-1,USA ANIMAL PLANET HD
-http://live.softiptv.com:9900/live/525/525/19410.ts
-#EXTINF:-1,USA ABC NEWS HD
-http://live.softiptv.com:9900/live/525/525/19411.ts
-#EXTINF:-1,USA ABC HD
-http://live.softiptv.com:9900/live/525/525/19412.ts
-#EXTINF:-1,USA | Versus HD
-http://live.softiptv.com:9900/live/525/525/19392.ts
-#EXTINF:-1,USA ESPN HD
-http://live.softiptv.com:9900/live/525/525/19404.ts
-#EXTINF:-1,USA: ESPN 2
-http://live.softiptv.com:9900/live/525/525/19391.ts
-#EXTINF:-1,USA : HBO East
-http://live.softiptv.com:9900/live/525/525/19415.ts
-#EXTINF:-1,USA | ESPN
-http://live.softiptv.com:9900/live/525/525/19397.ts
-#EXTINF:-1,USA : DISCCOVERY HD
-http://live.softiptv.com:9900/live/525/525/19416.ts
-#EXTINF:-1,USA : CBSN HD
-http://live.softiptv.com:9900/live/525/525/19417.ts
-#EXTINF:-1,USA : BYU TV
-http://live.softiptv.com:9900/live/525/525/19418.ts
-#EXTINF:-1,USA : AMC HD
-http://live.softiptv.com:9900/live/525/525/19419.ts
-#EXTINF:-1,US: USA Network HD
-http://live.softiptv.com:9900/live/525/525/19420.ts
-#EXTINF:-1,US: TSN 5 HD
-http://live.softiptv.com:9900/live/525/525/19383.ts
-#EXTINF:-1,US: TSN 4 HD
-http://live.softiptv.com:9900/live/525/525/19384.ts
-#EXTINF:-1,US: TSN 3HD
-http://live.softiptv.com:9900/live/525/525/19385.ts
-#EXTINF:-1,US: TSN 2HD
-http://live.softiptv.com:9900/live/525/525/19386.ts
-#EXTINF:-1,US: TSN 1 HD
-http://live.softiptv.com:9900/live/525/525/19387.ts
-#EXTINF:-1,US: NBC Extra Time HD1 ( During Games Only )
-http://live.softiptv.com:9900/live/525/525/19422.ts
-#EXTINF:-1,US: HIFI
-http://live.softiptv.com:9900/live/525/525/19423.ts
-#EXTINF:-1,US: H2
-http://live.softiptv.com:9900/live/525/525/19424.ts
-#EXTINF:-1,US: FX HD
-http://live.softiptv.com:9900/live/525/525/19425.ts
-#EXTINF:-1,US: FreeRom HD
-http://live.softiptv.com:9900/live/525/525/19426.ts
-#EXTINF:-1,US: FOXX HD
-http://live.softiptv.com:9900/live/525/525/19427.ts
-#EXTINF:-1,US: Food Network HD
-http://live.softiptv.com:9900/live/525/525/19428.ts
-#EXTINF:-1,US: DIY Network
-http://live.softiptv.com:9900/live/525/525/19429.ts
-#EXTINF:-1,US: Discovery Science HD
-http://live.softiptv.com:9900/live/525/525/19430.ts
-#EXTINF:-1,US: Cinemax East
-http://live.softiptv.com:9900/live/525/525/19431.ts
-#EXTINF:-1,USA: NFL NOW
-http://live.softiptv.com:9900/live/525/525/17378.ts
-#EXTINF:-1,USA: NFL Channel HD
-http://live.softiptv.com:9900/live/525/525/17379.ts
+#EXTINF:-1,USA:Network
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6163.ts
+#EXTINF:-1,USA:NBC HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6171.ts
+#EXTINF:-1,USA:NFL Channel HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6172.ts
+#EXTINF:-1,USA:HBO Signature
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6168.ts
+#EXTINF:-1,USA:HBO 1
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6166.ts
+#EXTINF:-1,USA:PAC Net1 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6165.ts
+#EXTINF:-1,USA:HALLMARK HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6164.ts
+#EXTINF:-1,USA:FOX Sport
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6173.ts
+#EXTINF:-1,USA:Fox Sport 2
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6174.ts
+#EXTINF:-1,USA:Fox News
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6162.ts
+#EXTINF:-1,USA:ESPN2 HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6180.ts
+#EXTINF:-1,USA:DISCOVERY HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6177.ts
+#EXTINF:-1,USA:CNN INTERNATIONAL
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6178.ts
+#EXTINF:-1,USA:CNBC
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6161.ts
+#EXTINF:-1,USA:CARE WORLD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6175.ts
+#EXTINF:-1,USA:AMC HD
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6170.ts
+#EXTINF:-1,USA:ABC
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6160.ts
+#EXTINF:-1,USA:5 USA
+http://188.165.210.130:8000/live/131michaelheike/m2uoQKB65w/6179.ts
