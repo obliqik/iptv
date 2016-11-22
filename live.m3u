@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1,USA: OWN
 http://cp.dmbshare.net:8000/live/admin/admin/8813.ts
-#EXTINF:-1,USA: WWE HD
-http://cp.dmbshare.net:8000/live/admin/admin/8536.ts
-#EXTINF:-1,USA: VEVO3
-http://cp.dmbshare.net:8000/live/admin/admin/8535.ts
-#EXTINF:-1,USA: VEVO2
-http://cp.dmbshare.net:8000/live/admin/admin/8534.ts
-#EXTINF:-1,USA: VEVO1
-http://cp.dmbshare.net:8000/live/admin/admin/8533.ts
-#EXTINF:-1,USA: NBC Golf HD
-http://cp.dmbshare.net:8000/live/admin/admin/8532.ts
-#EXTINF:-1,USA/CA: CPAC News
-http://cp.dmbshare.net:8000/live/admin/admin/8531.ts
-#EXTINF:-1,USA/CA: CNBC WORLD
-http://cp.dmbshare.net:8000/live/admin/admin/8530.ts
-#EXTINF:-1,USA/CA: Bein Sports HD
-http://cp.dmbshare.net:8000/live/admin/admin/8529.ts
 #EXTINF:-1,US: Tru HD
 http://cp.dmbshare.net:8000/live/admin/admin/8517.ts
 #EXTINF:-1,US: TBS HD
