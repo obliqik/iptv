@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1,----------- USA ---------
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1851.ts
+#EXTINF:-1,US: vevo tv
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1477.ts
+#EXTINF:-1,US: VEVO HD3
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1535.ts
+#EXTINF:-1,US: VEVO HD2
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1537.ts
+#EXTINF:-1,US: VEVO HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1538.ts
+#EXTINF:-1,US: AMC HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1539.ts
+#EXTINF:-1,US: tsn 1
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1536.ts
+#EXTINF:-1,US: WWE
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1479.ts
+#EXTINF:-1,US: NBA
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1157.ts
+#EXTINF:-1,US: bloomberg
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1478.ts
+#EXTINF:-1,US: Telpin Canal 2 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1533.ts
+#EXTINF:-1,US: ITV HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1534.ts
+#EXTINF:-1,US: NBC HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/3017.ts
+#EXTINF:-1,US: CBS HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/3018.ts
+#EXTINF:-1,US: ABC News HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/3019.ts
+#EXTINF:-1,US: Fox Sport 1
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1532.ts
+#EXTINF:-1,US: Fox News HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1476.ts
+#EXTINF:-1,US: CNN international
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1148.ts
+#EXTINF:-1,-------- TORONTO ---------
 #EXTINF:-1,US: CBC TORONTO
 http://portal.onlineiptv.net:5210/live/star/star/158.ts
 #EXTINF:-1,US: FOX NC
