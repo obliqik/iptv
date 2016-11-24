@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,USA: TBS HD
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3month/3month/19390.ts</link>
+http://live.softiptv.com:9900/live/3month/3month/19390.ts
 #EXTINF:-1,USA TNT HD
 http://live.softiptv.com:9900/live/3month/3month/19398.ts
 #EXTINF:-1,USA SYFY HD
