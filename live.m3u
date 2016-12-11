@@ -1,397 +1,119 @@
 #EXTM3U
-#EXTINF:-1,USA: BRAVO HD
-http://server.internext.tv:8000/live/habib/habib/2406.ts
-#EXTINF:-1,USA: CINEMAX 5 STARMAX
-http://server.internext.tv:8000/live/habib/habib/2403.ts
-#EXTINF:-1,USA: CINEMAX ACTOIN MAX EAST
-http://server.internext.tv:8000/live/habib/habib/2402.ts
-#EXTINF:-1,USA: CINEMAX EAST
-http://server.internext.tv:8000/live/habib/habib/2405.ts
-#EXTINF:-1,USA: CINEMAX MOREMAX
-http://server.internext.tv:8000/live/habib/habib/2404.ts
-#EXTINF:-1,USA: FOX SPORTS 3
-http://server.internext.tv:8000/live/habib/habib/2408.ts
-#EXTINF:-1,USA: FX HD
-http://server.internext.tv:8000/live/habib/habib/2400.ts
-#EXTINF:-1,USA: NBC SPORT
-http://server.internext.tv:8000/live/habib/habib/2407.ts
-#EXTINF:-1,USA: RT NEWS
-http://server.internext.tv:8000/live/habib/habib/2369.ts
-#EXTINF:-1,USA: TREE HOUSE CANADA
-http://server.internext.tv:8000/live/habib/habib/2410.ts
-#EXTINF:-1,USA: YTV CANADA
-http://server.internext.tv:8000/live/habib/habib/2411.ts
-#EXTINF:-1,USA: PBS HD
-http://server.internext.tv:8000/live/habib/habib/2401.ts
-#EXTINF:-1,USA: Y TV Canada
-http://server.internext.tv:8000/live/habib/habib/2136.ts
-#EXTINF:-1,USA: NBA TV NETWORK
-http://server.internext.tv:8000/live/habib/habib/2115.ts
-#EXTINF:-1,USA: Versus NBA HD
-http://server.internext.tv:8000/live/habib/habib/2114.ts
-#EXTINF:-1,USA: UC TV
-http://server.internext.tv:8000/live/habib/habib/2113.ts
-#EXTINF:-1,USA: Twit Tv
-http://server.internext.tv:8000/live/habib/habib/2112.ts
-#EXTINF:-1,USA: TSC
-http://server.internext.tv:8000/live/habib/habib/2111.ts
-#EXTINF:-1,USA: Tru HD
-http://server.internext.tv:8000/live/habib/habib/2132.ts
-#EXTINF:-1,USA: Travel Channel HD
-http://server.internext.tv:8000/live/habib/habib/2110.ts
-#EXTINF:-1,USA: FIX TV HD
-http://server.internext.tv:8000/live/habib/habib/2108.ts
-#EXTINF:-1,USA: TBS HD
-http://server.internext.tv:8000/live/habib/habib/2131.ts
-#EXTINF:-1,USA: Super Ecran 4 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2141.ts
-#EXTINF:-1,USA: Super Ecran 3 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2140.ts
-#EXTINF:-1,USA: Super Ecran 2 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2139.ts
-#EXTINF:-1,USA: Super Ecran 1 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2138.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://server.internext.tv:8000/live/habib/habib/2130.ts
-#EXTINF:-1,USA: Starz Cinema
-http://server.internext.tv:8000/live/habib/habib/2128.ts
-#EXTINF:-1,USA: Slice ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2142.ts
-#EXTINF:-1,USA: SIlver Screen Classics ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2143.ts
-#EXTINF:-1,USA: RT Documentary
-http://server.internext.tv:8000/live/habib/habib/2107.ts
-#EXTINF:-1,USA: RT America HD
-http://server.internext.tv:8000/live/habib/habib/2105.ts
-#EXTINF:-1,USA: RT America
-http://server.internext.tv:8000/live/habib/habib/2106.ts
-#EXTINF:-1,USA: RDS 2 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2144.ts
-#EXTINF:-1,USA: RDI ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2145.ts
-#EXTINF:-1,USA: Poker Central
-http://server.internext.tv:8000/live/habib/habib/2104.ts
-#EXTINF:-1,USA: Peach Tree TV ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2146.ts
-#EXTINF:-1,USA: OLN ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2147.ts
-#EXTINF:-1,USA: NICKELODEON
-http://server.internext.tv:8000/live/habib/habib/2126.ts
-#EXTINF:-1,USA: AL JAZEERA English
-http://server.internext.tv:8000/live/habib/habib/1960.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://server.internext.tv:8000/live/habib/habib/2103.ts
-#EXTINF:-1,USA: Movietime ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2148.ts
-#EXTINF:-1,USA: Motor Sports 7
-http://server.internext.tv:8000/live/habib/habib/2102.ts
-#EXTINF:-1,USA: Mello TV
-http://server.internext.tv:8000/live/habib/habib/2101.ts
-#EXTINF:-1,USA: HSN 1
-http://server.internext.tv:8000/live/habib/habib/2100.ts
-#EXTINF:-1,USA: History Channel ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2125.ts
-#EXTINF:-1,USA: CBN News
-http://server.internext.tv:8000/live/habib/habib/2123.ts
-#EXTINF:-1,USA: HBO Family
-http://server.internext.tv:8000/live/habib/habib/2122.ts
-#EXTINF:-1,USA: HBO US
-http://server.internext.tv:8000/live/habib/habib/2121.ts
-#EXTINF:-1,USA: CBSN News
-http://server.internext.tv:8000/live/habib/habib/2120.ts
-#EXTINF:-1,USA: GSN ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2149.ts
-#EXTINF:-1,USA: G4 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2150.ts
-#EXTINF:-1,USA: FYI ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2151.ts
-#EXTINF:-1,USA: Fox News HD
-http://server.internext.tv:8000/live/habib/habib/2152.ts
-#EXTINF:-1,USA: Fox 59 News
-http://server.internext.tv:8000/live/habib/habib/2099.ts
-#EXTINF:-1,USA: Florida Channel
-http://server.internext.tv:8000/live/habib/habib/2109.ts
-#EXTINF:-1,USA: Fight Network
-http://server.internext.tv:8000/live/habib/habib/2119.ts
-#EXTINF:-1,USA: CP24 ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2154.ts
-#EXTINF:-1,USA: Cottage Life ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2155.ts
-#EXTINF:-1,USA: Comedy Gold ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2156.ts
-#EXTINF:-1,USA: CNN HD
-http://server.internext.tv:8000/live/habib/habib/2133.ts
-#EXTINF:-1,USA: City Vancouver ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2157.ts
-#EXTINF:-1,USA: Cinemax
-http://server.internext.tv:8000/live/habib/habib/2098.ts
-#EXTINF:-1,USA: CHCH ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2158.ts
-#EXTINF:-1,USA: ABC HD
-http://server.internext.tv:8000/live/habib/habib/2118.ts
-#EXTINF:-1,USA: CBS HD
-http://server.internext.tv:8000/live/habib/habib/2117.ts
-#EXTINF:-1,USA: CBS Drama
-http://server.internext.tv:8000/live/habib/habib/2116.ts
-#EXTINF:-1,USA: CBC Toronto ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2159.ts
-#EXTINF:-1,USA: CBC SD ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2160.ts
-#EXTINF:-1,USA: C TV Toronto ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2153.ts
-#EXTINF:-1,USA: BYU Sports TV
-http://server.internext.tv:8000/live/habib/habib/2097.ts
-#EXTINF:-1,USA: AMG TV
-http://server.internext.tv:8000/live/habib/habib/2096.ts
-#EXTINF:-1,USA: ABC Spark ( Canada )
-http://server.internext.tv:8000/live/habib/habib/2161.ts
-#EXTINF:-1,USA: 360 North
-http://server.internext.tv:8000/live/habib/habib/2095.ts
-#EXTINF:-1,USA: HBO ZONE HD
-http://server.internext.tv:8000/live/habib/habib/950.ts
-#EXTINF:-1,USA: TSN 5 HD
-http://server.internext.tv:8000/live/habib/habib/951.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://server.internext.tv:8000/live/habib/habib/954.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://server.internext.tv:8000/live/habib/habib/955.ts
-#EXTINF:-1,USA: NAT GEO
-http://server.internext.tv:8000/live/habib/habib/1270.ts
-#EXTINF:-1,USA: CW HD
-http://server.internext.tv:8000/live/habib/habib/956.ts
-#EXTINF:-1,USA: NFL Network HD
-http://server.internext.tv:8000/live/habib/habib/957.ts
-#EXTINF:-1,USA: CNBC
-http://server.internext.tv:8000/live/habib/habib/959.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://server.internext.tv:8000/live/habib/habib/969.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://server.internext.tv:8000/live/habib/habib/970.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://server.internext.tv:8000/live/habib/habib/967.ts
-#EXTINF:-1,USA: TSN2 HD
-http://server.internext.tv:8000/live/habib/habib/968.ts
-#EXTINF:-1,USA: ABC News HD
-http://server.internext.tv:8000/live/habib/habib/982.ts
-#EXTINF:-1,USA: Fox Life HD
-http://server.internext.tv:8000/live/habib/habib/999.ts
-#EXTINF:-1,USA: Lifetime HD
-http://server.internext.tv:8000/live/habib/habib/1000.ts
-#EXTINF:-1,USA: TNT HD
-http://server.internext.tv:8000/live/habib/habib/997.ts
-#EXTINF:-1,USA: NBA HD
-http://server.internext.tv:8000/live/habib/habib/992.ts
-#EXTINF:-1,USA: WWE Raw Network HD
-http://server.internext.tv:8000/live/habib/habib/981.ts
-#EXTINF:-1,USA: AFN Sports 1
-http://server.internext.tv:8000/live/habib/habib/1007.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://server.internext.tv:8000/live/habib/habib/1008.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://server.internext.tv:8000/live/habib/habib/1268.ts
-#EXTINF:-1,USA: Discovery Channel HD
-http://server.internext.tv:8000/live/habib/habib/1489.ts
-#EXTINF:-1,USA: Astro Sports
-http://server.internext.tv:8000/live/habib/habib/1704.ts
-#EXTINF:-1,USA: ShowTime HD
-http://server.internext.tv:8000/live/habib/habib/1703.ts
-#EXTINF:-1,USA: Willow Cricket HD
-http://server.internext.tv:8000/live/habib/habib/1701.ts
-#EXTINF:-1,USA: USA Network HD
-http://server.internext.tv:8000/live/habib/habib/1700.ts
-#EXTINF:-1,USA: ESPN HD ( USA )
-http://server.internext.tv:8000/live/habib/habib/1699.ts
-#EXTINF:-1,USA: ESPN 2 HD ( USA )
-http://server.internext.tv:8000/live/habib/habib/1697.ts
-#EXTINF:-1,USA: SYFY HD
-http://server.internext.tv:8000/live/habib/habib/1696.ts
-#EXTINF:-1,USA: A&E HD
-http://server.internext.tv:8000/live/habib/habib/1688.ts
-#EXTINF:-1,USA: Bein Sports US HD
-http://server.internext.tv:8000/live/habib/habib/1687.ts
-#EXTINF:-1,USA: NBA TV HD ( USA )
-http://server.internext.tv:8000/live/habib/habib/1684.ts
-#EXTINF:-1,USA: NBC HD
-http://server.internext.tv:8000/live/habib/habib/1692.ts
-#EXTINF:-1,USA: AMC HD
-http://server.internext.tv:8000/live/habib/habib/1689.ts
-#EXTINF:-1,USA: WGN ( USA )
-http://server.internext.tv:8000/live/habib/habib/1685.ts
-#EXTINF:-1,USA: Spike HD ( USA )
-http://server.internext.tv:8000/live/habib/habib/1693.ts
-#EXTINF:-1,USA: ANIMAL PLANET HD
-http://server.internext.tv:8000/live/habib/habib/2448.ts
-#EXTINF:-1,USA: BIG TEN NETWORK HD
-http://server.internext.tv:8000/live/habib/habib/2447.ts
-#EXTINF:-1,USA: BLOOMBERG
-http://server.internext.tv:8000/live/habib/habib/2446.ts
-#EXTINF:-1,USA: BTN SPORTS HD
-http://server.internext.tv:8000/live/habib/habib/2445.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://server.internext.tv:8000/live/habib/habib/2444.ts
-#EXTINF:-1,USA: CBS NEWS
-http://server.internext.tv:8000/live/habib/habib/2443.ts
-#EXTINF:-1,USA: COMEDY CENTRAL HD
-http://server.internext.tv:8000/live/habib/habib/2442.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE
-http://server.internext.tv:8000/live/habib/habib/2440.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://server.internext.tv:8000/live/habib/habib/2441.ts
-#EXTINF:-1,USA: DIY Network
-http://server.internext.tv:8000/live/habib/habib/2439.ts
-#EXTINF:-1,USA: E! HD
-http://server.internext.tv:8000/live/habib/habib/2438.ts
-#EXTINF:-1,USA: ESPN NEWS HD
-http://server.internext.tv:8000/live/habib/habib/2437.ts
-#EXTINF:-1,USA: ESPN U HD
-http://server.internext.tv:8000/live/habib/habib/2436.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://server.internext.tv:8000/live/habib/habib/2435.ts
-#EXTINF:-1,USA: FOX HD
-http://server.internext.tv:8000/live/habib/habib/2434.ts
-#EXTINF:-1,USA: FOXX HD
-http://server.internext.tv:8000/live/habib/habib/2433.ts
-#EXTINF:-1,USA: HALLMARK CHANNEL HD
-http://server.internext.tv:8000/live/habib/habib/2432.ts
-#EXTINF:-1,USA: HBO COMEDY
-http://server.internext.tv:8000/live/habib/habib/2431.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://server.internext.tv:8000/live/habib/habib/2430.ts
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY
-http://server.internext.tv:8000/live/habib/habib/2429.ts
-#EXTINF:-1,USA: MLB Network HD
-http://server.internext.tv:8000/live/habib/habib/2428.ts
-#EXTINF:-1,USA: Music RMC 1
-http://server.internext.tv:8000/live/habib/habib/2427.ts
-#EXTINF:-1,USA: NBC GOLF
-http://server.internext.tv:8000/live/habib/habib/2426.ts
-#EXTINF:-1,USA: NHL NETWORK HD
-http://server.internext.tv:8000/live/habib/habib/2425.ts
-#EXTINF:-1,USA: PACNET 4 HD
-http://server.internext.tv:8000/live/habib/habib/2424.ts
-#EXTINF:-1,USA: PACNET 4 SD
-http://server.internext.tv:8000/live/habib/habib/2423.ts
-#EXTINF:-1,USA: SHOWTIME 2 HD
-http://server.internext.tv:8000/live/habib/habib/2422.ts
-#EXTINF:-1,USA: SHOWTIME EXTREME
-http://server.internext.tv:8000/live/habib/habib/2421.ts
-#EXTINF:-1,USA: SHOWTIME SHOWCASE
-http://server.internext.tv:8000/live/habib/habib/2420.ts
-#EXTINF:-1,USA: SPORTS NET 1 HD
-http://server.internext.tv:8000/live/habib/habib/2419.ts
-#EXTINF:-1,USA: SPORTS NET 360
-http://server.internext.tv:8000/live/habib/habib/2418.ts
-#EXTINF:-1,USA: SPORTS NET ONE HD
-http://server.internext.tv:8000/live/habib/habib/2417.ts
-#EXTINF:-1,USA: SPORTS NET ONTARIO HD
-http://server.internext.tv:8000/live/habib/habib/2416.ts
-#EXTINF:-1,USA: STARZ
-http://server.internext.tv:8000/live/habib/habib/2412.ts
-#EXTINF:-1,USA: STARZ ENCORE HD
-http://server.internext.tv:8000/live/habib/habib/2415.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://server.internext.tv:8000/live/habib/habib/2414.ts
-#EXTINF:-1,USA: University of California TV
-http://server.internext.tv:8000/live/habib/habib/2413.ts
-#EXTINF:-1, USA SECTION 2
-#EXTINF:-1,USA: ABC
-http://iptvch.selfip.info/live/sayed/sayed/2090.ts
-#EXTINF:-1,USA: ABC News
-http://iptvch.selfip.info/live/sayed/sayed/750.ts
-#EXTINF:-1,USA: AMC
-http://iptvch.selfip.info/live/sayed/sayed/2091.ts
-#EXTINF:-1,USA: CBS HD
-http://iptvch.selfip.info/live/sayed/sayed/3459.ts
-#EXTINF:-1,USA: CINEMAX 5 STAR
-http://iptvch.selfip.info/live/sayed/sayed/3457.ts
-#EXTINF:-1,USA: CINEMAX MOREMAX HD
-http://iptvch.selfip.info/live/sayed/sayed/3458.ts
-#EXTINF:-1,USA: DISCOVERY ID
-http://iptvch.selfip.info/live/sayed/sayed/2185.ts
-#EXTINF:-1,USA: ESPN
-http://iptvch.selfip.info/live/sayed/sayed/565.ts
-#EXTINF:-1,USA: fox sport 1
-http://iptvch.selfip.info/live/sayed/sayed/37.ts
-#EXTINF:-1,USA: HBO FAMALY
-http://iptvch.selfip.info/live/sayed/sayed/3454.ts
-#EXTINF:-1,USA: NBA
-http://iptvch.selfip.info/live/sayed/sayed/2170.ts
-#EXTINF:-1,USA: NBCSN
-http://iptvch.selfip.info/live/sayed/sayed/2955.ts
-#EXTINF:-1,USA: NBCSN 1 HD (LIVE DURING EPL)
-http://iptvch.selfip.info/live/sayed/sayed/2604.ts
-#EXTINF:-1,USA: NBCSN 2 HD (LIVE DURING EPL)
-http://iptvch.selfip.info/live/sayed/sayed/2605.ts
-#EXTINF:-1,USA: NBCSN 3 HD (LIVE DURING EPL)
-http://iptvch.selfip.info/live/sayed/sayed/2606.ts
-#EXTINF:-1,USA: NBCSN 4 HD (LIVE DURING EPL)
-http://iptvch.selfip.info/live/sayed/sayed/2607.ts
-#EXTINF:-1,USA: NBCSN 5 HD (LIVE DURING EPL)
-http://iptvch.selfip.info/live/sayed/sayed/2608.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://iptvch.selfip.info/live/sayed/sayed/3456.ts
-#EXTINF:-1,USA: PBS AMERICA
-http://iptvch.selfip.info/live/sayed/sayed/1425.ts
-#EXTINF:-1,USA: SHOWTIME HD
-http://iptvch.selfip.info/live/sayed/sayed/2956.ts
-#EXTINF:-1,USA: SYFY
-http://iptvch.selfip.info/live/sayed/sayed/749.ts
-#EXTINF:-1,USA: TBS
-http://iptvch.selfip.info/live/sayed/sayed/2092.ts
-#EXTINF:-1,USA: TREEHOUSE TV
-http://iptvch.selfip.info/live/sayed/sayed/3460.ts
-#EXTINF:-1,USA: TSN  3
-http://iptvch.selfip.info/live/sayed/sayed/241.ts
-#EXTINF:-1,USA: TSN 1
-http://iptvch.selfip.info/live/sayed/sayed/747.ts
-#EXTINF:-1,USA: TSN 2
-http://iptvch.selfip.info/live/sayed/sayed/748.ts
-#EXTINF:-1,USA: Tsn 4
-http://iptvch.selfip.info/live/sayed/sayed/338.ts
-#EXTINF:-1,USA: Tsn 5
-http://iptvch.selfip.info/live/sayed/sayed/339.ts
-#EXTINF:-1,USA: WWE
-http://iptvch.selfip.info/live/sayed/sayed/1853.ts 
-#EXTINF:-1,-------  USA CH -------
-#EXTINF:-1,TSN 2
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2818.ts
-#EXTINF:-1,TSN 3
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2819.ts
-#EXTINF:-1,TSN 4
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2820.ts
-#EXTINF:-1,NBA TV
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2484.ts
-#EXTINF:-1,ESPN
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2612.ts
-#EXTINF:-1,ESPN 2
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2710.ts
-#EXTINF:-1,NFL HD
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2705.ts
-#EXTINF:-1,Fox Sports 1HD
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2703.ts
-#EXTINF:-1,Fox Sports 2HD
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2702.ts
-#EXTINF:-1,AFN SPORTS HD
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2838.ts
-#EXTINF:-1,AFN SPORTS 2
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2839.ts
-#EXTINF:-1,USA Network
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2711.ts
-#EXTINF:-1,BRAVO HD
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2709.ts
-#EXTINF:-1,Poker Central
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2699.ts
-#EXTINF:-1,SYFY
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2704.ts
-#EXTINF:-1,ABC
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2698.ts
-#EXTINF:-1,CW
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2707.ts
-#EXTINF:-1,AMC
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2708.ts
-#EXTINF:-1,BYU TV
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2706.ts
-#EXTINF:-1,BEIN SPORT
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2700.ts
-#EXTINF:-1,HALLMARK
-http://www.zeebra.tv:8000/live/tiger002/tiger002/2697.ts
+#EXTINF:-1,--------★|US| CINEMA |US|★--------
+http://premium-ott.com:8000/live/bast/bast/5305.ts
+#EXTINF:-1,|US| Fox 5 HD
+http://premium-ott.com:8000/live/bast/bast/5306.ts
+#EXTINF:-1,|US| HBO
+http://premium-ott.com:8000/live/bast/bast/5307.ts
+#EXTINF:-1,|US| HBO ZONE
+http://premium-ott.com:8000/live/bast/bast/5308.ts
+#EXTINF:-1,|US| HBO SIGNATURE
+http://premium-ott.com:8000/live/bast/bast/5309.ts
+#EXTINF:-1,|US| HBO East
+http://premium-ott.com:8000/live/bast/bast/5310.ts
+#EXTINF:-1,|US| HBO Family
+http://premium-ott.com:8000/live/bast/bast/5311.ts
+#EXTINF:-1,|US| SyFy US
+http://premium-ott.com:8000/live/bast/bast/5312.ts
+#EXTINF:-1,|US| CBS REALITY
+http://premium-ott.com:8000/live/bast/bast/5313.ts
+#EXTINF:-1,|US| CBS DRAMA
+http://premium-ott.com:8000/live/bast/bast/5314.ts
+#EXTINF:-1,|US| CBS ACTION
+http://premium-ott.com:8000/live/bast/bast/5315.ts
+#EXTINF:-1,|US| Showtime HD
+http://premium-ott.com:8000/live/bast/bast/5316.ts
+#EXTINF:-1,|US| TBS HD
+http://premium-ott.com:8000/live/bast/bast/5317.ts
+#EXTINF:-1,|US| Starz Cinema HD
+http://premium-ott.com:8000/live/bast/bast/5318.ts
+#EXTINF:-1,|US| STARS WEST
+http://premium-ott.com:8000/live/bast/bast/5319.ts
+#EXTINF:-1,|US| STARS KIDS & FAMILY
+http://premium-ott.com:8000/live/bast/bast/5320.ts
+#EXTINF:-1,|US| STARS IN BLACK
+http://premium-ott.com:8000/live/bast/bast/5321.ts
+#EXTINF:-1,|US| STAR Z CINEMA
+http://premium-ott.com:8000/live/bast/bast/5322.ts
+#EXTINF:-1,|US| NICK
+http://premium-ott.com:8000/live/bast/bast/5323.ts
+#EXTINF:-1,|US| LIFE TIME
+http://premium-ott.com:8000/live/bast/bast/5324.ts
+#EXTINF:-1,|US| HGTV
+http://premium-ott.com:8000/live/bast/bast/5325.ts
+#EXTINF:-1,|US| ABC FAMILY
+http://premium-ott.com:8000/live/bast/bast/5326.ts
+#EXTINF:-1,|US| AFN PULSE
+http://premium-ott.com:8000/live/bast/bast/5327.ts
+#EXTINF:-1,|US| AFN MOVIE
+http://premium-ott.com:8000/live/bast/bast/5328.ts
+#EXTINF:-1,--------★|US| DECOUVERTE |US|★--------
+http://premium-ott.com:8000/live/bast/bast/5329.ts
+#EXTINF:-1,|US| Discovery Channel HD
+http://premium-ott.com:8000/live/bast/bast/5330.ts
+#EXTINF:-1,|US| Discovery Showcase HD
+http://premium-ott.com:8000/live/bast/bast/5331.ts
+#EXTINF:-1,|US| Discovery Science HD
+http://premium-ott.com:8000/live/bast/bast/5332.ts
+#EXTINF:-1,--------★|US| SPORTS |US|★--------
+http://premium-ott.com:8000/live/bast/bast/5333.ts
+#EXTINF:-1,|US| SKY SPORTS HD 1
+http://premium-ott.com:8000/live/bast/bast/6668.ts
+#EXTINF:-1,|US| SKY SPORTS  HD 2
+http://premium-ott.com:8000/live/bast/bast/6669.ts
+#EXTINF:-1,|US| SKY SPORTS  HD 3
+http://premium-ott.com:8000/live/bast/bast/6670.ts
+#EXTINF:-1,|US| SKY SPORTS  HD 4
+http://premium-ott.com:8000/live/bast/bast/6671.ts
+#EXTINF:-1,|US| Fox Deportes
+http://premium-ott.com:8000/live/bast/bast/5334.ts
+#EXTINF:-1,|US| WWE
+http://premium-ott.com:8000/live/bast/bast/5335.ts
+#EXTINF:-1,|US| MMA FIGHT
+http://premium-ott.com:8000/live/bast/bast/5336.ts
+#EXTINF:-1,|US| Fight Network
+http://premium-ott.com:8000/live/bast/bast/5337.ts
+#EXTINF:-1,|US| Fight Sport
+http://premium-ott.com:8000/live/bast/bast/5338.ts
+#EXTINF:-1,|US| TSN 1 HD
+http://premium-ott.com:8000/live/bast/bast/5339.ts
+#EXTINF:-1,|US| TSN 2 HD
+http://premium-ott.com:8000/live/bast/bast/5340.ts
+#EXTINF:-1,|US| TSN 3 HD
+http://premium-ott.com:8000/live/bast/bast/5341.ts
+#EXTINF:-1,|US| TSN 4 HD
+http://premium-ott.com:8000/live/bast/bast/5342.ts
+#EXTINF:-1,|US| TSN 5 HD
+http://premium-ott.com:8000/live/bast/bast/5343.ts
+#EXTINF:-1,|US| ESPN HD
+http://premium-ott.com:8000/live/bast/bast/5344.ts
+#EXTINF:-1,|US| ESPN 2 HD
+http://premium-ott.com:8000/live/bast/bast/5345.ts
+#EXTINF:-1,|US| Fox Sport 1 HD
+http://premium-ott.com:8000/live/bast/bast/5346.ts
+#EXTINF:-1,|US| Fox Sport 2 HD
+http://premium-ott.com:8000/live/bast/bast/5347.ts
+#EXTINF:-1,|US| Bein Sports HD
+http://premium-ott.com:8000/live/bast/bast/5348.ts
+#EXTINF:-1,|US| AFN SPORTS HD
+http://premium-ott.com:8000/live/bast/bast/5349.ts
+#EXTINF:-1,|US| AFN SPORTS
+http://premium-ott.com:8000/live/bast/bast/5350.ts
+#EXTINF:-1,|US| AFN SPORTS 2
+http://premium-ott.com:8000/live/bast/bast/5351.ts
+#EXTINF:-1,|US| NBA HD
+http://premium-ott.com:8000/live/bast/bast/5352.ts
+#EXTINF:-1,|US| Redbull TV
+http://premium-ott.com:8000/live/bast/bast/5353.ts
+#EXTINF:-1,|US| NFL HD
+http://premium-ott.com:8000/live/bast/bast/5354.ts
+#EXTINF:-1,|US| NBC SN
+http://premium-ott.com:8000/live/bast/bast/5355.ts
+#EXTINF:-1,|US| Versus NBA HD
+http://premium-ott.com:8000/live/bast/bast/5356.ts
+#EXTINF:-1,|US| Sports Net
+http://premium-ott.com:8000/live/bast/bast/5357.ts
+#EXTINF:-1,|US| SportsNet World HD
+http://premium-ott.com:8000/live/bast/bast/5358.ts
+#EXTINF:-1,|US| SportsNet One HD
+http://premium-ott.com:8000/live/bast/bast/5359.ts
