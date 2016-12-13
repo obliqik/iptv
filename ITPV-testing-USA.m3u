@@ -1,183 +1,285 @@
 #EXTM3U
-#EXTINF:-1,????  USA  ????
-http://orbit-iptv.com:2500/live/kenny/kenny/5122.ts
-#EXTINF:-1,USA:USA Net
-http://orbit-iptv.com:2500/live/kenny/kenny/2918.ts
-#EXTINF:-1,USA:Poker Central
-http://orbit-iptv.com:2500/live/kenny/kenny/2921.ts
-#EXTINF:-1,USA:Nick
-http://orbit-iptv.com:2500/live/kenny/kenny/2922.ts
-#EXTINF:-1,USA:NDTV
-http://orbit-iptv.com:2500/live/kenny/kenny/2924.ts
-#EXTINF:-1,USA:E! HD
-http://orbit-iptv.com:2500/live/kenny/kenny/2914.ts
+#EXTINF:-1,---------------USA---------------
+http://5.39.70.216/live/Vivienne/Vivienne/138.ts
+#EXTINF:-1,USABETA : VELOCITY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1604.ts
+#EXTINF:-1,USABETA : USA NETWORK HD
+http://5.39.70.216/live/Vivienne/Vivienne/1607.ts
+#EXTINF:-1,USABETA : UNIVERSAL HD
+http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
+#EXTINF:-1,USABETA : TV LAND HD
+http://5.39.70.216/live/Vivienne/Vivienne/1627.ts
+#EXTINF:-1,USABETA : TruTV HD
+http://5.39.70.216/live/Vivienne/Vivienne/1608.ts
+#EXTINF:-1,USABETA : TRAVEL CHANNEL HD
+http://5.39.70.216/live/Vivienne/Vivienne/1649.ts
+#EXTINF:-1,USABETA : TNT HD
+http://5.39.70.216/live/Vivienne/Vivienne/1609.ts
+#EXTINF:-1,USABETA : TENNIS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1602.ts
+#EXTINF:-1,USABETA : TBS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1611.ts
+#EXTINF:-1,USABETA : TBN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1641.ts
+#EXTINF:-1,USABETA : SYFY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1640.ts
+#EXTINF:-1,USABETA : Starz Kids & Family HD
+http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
+#EXTINF:-1,USABETA : Starz HD
+http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
+#EXTINF:-1,USABETA : Starz Edge HD
+http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
+#EXTINF:-1,USABETA : Sprout HD
+http://5.39.70.216/live/Vivienne/Vivienne/1646.ts
+#EXTINF:-1,USABETA : SPIKE HD
+http://5.39.70.216/live/Vivienne/Vivienne/1613.ts
+#EXTINF:-1,USABETA : SHOWTIME HD
+http://5.39.70.216/live/Vivienne/Vivienne/1614.ts
+#EXTINF:-1,USABETA : SEC Network HD
+http://5.39.70.216/live/Vivienne/Vivienne/1578.ts
+#EXTINF:-1,USABETA : POKER CENTRAL
+http://5.39.70.216/live/Vivienne/Vivienne/1567.ts
+#EXTINF:-1,USABETA : PBS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1570.ts
+#EXTINF:-1,USABETA : OWN HD (Opera Winfery Network)
+http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
+#EXTINF:-1,USABETA : Nicktoons HD
+http://5.39.70.216/live/Vivienne/Vivienne/1579.ts
+#EXTINF:-1,USABETA : Nick Jr. HD
+http://5.39.70.216/live/Vivienne/Vivienne/1571.ts
+#EXTINF:-1,USABETA : NICK HD
+http://5.39.70.216/live/Vivienne/Vivienne/1616.ts
+#EXTINF:-1,USABETA : NBC HD
+http://5.39.70.216/live/Vivienne/Vivienne/1580.ts
+#EXTINF:-1,USABETA : Nat Geo HD
+http://5.39.70.216/live/Vivienne/Vivienne/1581.ts
+#EXTINF:-1,USABETA : MY9 TV HD
+http://5.39.70.216/live/Vivienne/Vivienne/1572.ts
+#EXTINF:-1,USABETA : MTV2 HD
+http://5.39.70.216/live/Vivienne/Vivienne/1638.ts
+#EXTINF:-1,USABETA : MSNBC HD
+http://5.39.70.216/live/Vivienne/Vivienne/1584.ts
+#EXTINF:-1,USABETA : Lifetime HD
+http://5.39.70.216/live/Vivienne/Vivienne/1586.ts
+#EXTINF:-1,USABETA : ID HD
+http://5.39.70.216/live/Vivienne/Vivienne/1587.ts
+#EXTINF:-1,USABETA : HISTORY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1605.ts
+#EXTINF:-1,USABETA : HBO Zone HD
+http://5.39.70.216/live/Vivienne/Vivienne/1575.ts
+#EXTINF:-1,USABETA : HBO HD
+http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
+#EXTINF:-1,USABETA : HBO FAMILY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1588.ts
+#EXTINF:-1,USABETA : Hallmark HD
+http://5.39.70.216/live/Vivienne/Vivienne/1600.ts
+#EXTINF:-1,USABETA : GSN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1582.ts
+#EXTINF:-1,USABETA : FXX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1589.ts
+#EXTINF:-1,USABETA : FX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1623.ts
+#EXTINF:-1,USABETA : FreeForm HD
+http://5.39.70.216/live/Vivienne/Vivienne/1621.ts
+#EXTINF:-1,USABETA : FOX NEWS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1601.ts
+#EXTINF:-1,USABETA : FOX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1590.ts
+#EXTINF:-1,USABETA : FOX BUSINESS NETWORK HD
+http://5.39.70.216/live/Vivienne/Vivienne/1643.ts
+#EXTINF:-1,USABETA : FOX 43 HD
+http://5.39.70.216/live/Vivienne/Vivienne/1624.ts
+#EXTINF:-1,USABETA : Food Network HD
+http://5.39.70.216/live/Vivienne/Vivienne/1642.ts
+#EXTINF:-1,USABETA : ESPN NEWS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1568.ts
+#EXTINF:-1,USABETA : EPIX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1636.ts
+#EXTINF:-1,USABETA : DIY NETWORK HD
+http://5.39.70.216/live/Vivienne/Vivienne/1626.ts
+#EXTINF:-1,USABETA : Disney Jr. HD
+http://5.39.70.216/live/Vivienne/Vivienne/1592.ts
+#EXTINF:-1,USABETA : Discovery Science HD
+http://5.39.70.216/live/Vivienne/Vivienne/1593.ts
+#EXTINF:-1,USABETA : Discovery HD
+http://5.39.70.216/live/Vivienne/Vivienne/1628.ts
+#EXTINF:-1,USABETA : DISCOVERY FAMILY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1629.ts
+#EXTINF:-1,USABETA : CW HD
+http://5.39.70.216/live/Vivienne/Vivienne/1644.ts
+#EXTINF:-1,USABETA : COMEDY CENTRAL HD
+http://5.39.70.216/live/Vivienne/Vivienne/1630.ts
+#EXTINF:-1,USABETA : COMCEN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1594.ts
+#EXTINF:-1,USABETA : CNN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1595.ts
+#EXTINF:-1,USABETA : CNBC HD
+http://5.39.70.216/live/Vivienne/Vivienne/1596.ts
+#EXTINF:-1,USABETA : Cinemax ThrillerMax HD
+http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
+#EXTINF:-1,USABETA : Cinemax MoreMax HD
+http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
+#EXTINF:-1,USABETA : CINEMAX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1639.ts
+#EXTINF:-1,USABETA : CI HD
+http://5.39.70.216/live/Vivienne/Vivienne/1569.ts
+#EXTINF:-1,USABETA : CBS SN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1598.ts
+#EXTINF:-1,USABETA : CBS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1631.ts
+#EXTINF:-1,USABETA : CARTOON NETWORK HD
+http://5.39.70.216/live/Vivienne/Vivienne/1632.ts
+#EXTINF:-1,USABETA : C-SPAN 3 HD
+http://5.39.70.216/live/Vivienne/Vivienne/1591.ts
+#EXTINF:-1,USABETA : C-SPAN 2 HD
+http://5.39.70.216/live/Vivienne/Vivienne/1585.ts
+#EXTINF:-1,USABETA : C-SPAN 1 HD
+http://5.39.70.216/live/Vivienne/Vivienne/1583.ts
+#EXTINF:-1,USABETA : BTN HD
+http://5.39.70.216/live/Vivienne/Vivienne/1633.ts
+#EXTINF:-1,USABETA : BRAVO HD
+http://5.39.70.216/live/Vivienne/Vivienne/1610.ts
+#EXTINF:-1,USABETA : Bloomberg HD
+http://5.39.70.216/live/Vivienne/Vivienne/1619.ts
+#EXTINF:-1,USABETA : Animal Planet HD
+http://5.39.70.216/live/Vivienne/Vivienne/1573.ts
+#EXTINF:-1,USABETA : AMC HD?
+http://5.39.70.216/live/Vivienne/Vivienne/1634.ts
+#EXTINF:-1,USABETA : AFN SPORTS 2
+http://5.39.70.216/live/Vivienne/Vivienne/1650.ts
+#EXTINF:-1,USABETA : AFN SPORTS
+http://5.39.70.216/live/Vivienne/Vivienne/1648.ts
+#EXTINF:-1,USABETA : AFN SPECTRUM
+http://5.39.70.216/live/Vivienne/Vivienne/1645.ts
+#EXTINF:-1,USABETA : AFN PULSE
+http://5.39.70.216/live/Vivienne/Vivienne/1606.ts
+#EXTINF:-1,USABETA : AFN PRIME PACIFIC
+http://5.39.70.216/live/Vivienne/Vivienne/1647.ts
+#EXTINF:-1,USABETA : AFN PRIME ATLANTIC
+http://5.39.70.216/live/Vivienne/Vivienne/1625.ts
+#EXTINF:-1,USABETA : ABC NEWS HD
+http://5.39.70.216/live/Vivienne/Vivienne/1574.ts
+#EXTINF:-1,USABETA : ABC HD
+http://5.39.70.216/live/Vivienne/Vivienne/1622.ts
+#EXTINF:-1,USABETA : A&E HD
+http://5.39.70.216/live/Vivienne/Vivienne/1637.ts
+#EXTINF:-1,USA: Spike
+http://5.39.70.216/live/Vivienne/Vivienne/1053.ts
+#EXTINF:-1,USA: Lifetime HD
+http://5.39.70.216/live/Vivienne/Vivienne/1048.ts
+#EXTINF:-1,USA: LMN
+http://5.39.70.216/live/Vivienne/Vivienne/1047.ts
+#EXTINF:-1,USA: OWN
+http://5.39.70.216/live/Vivienne/Vivienne/1044.ts
+#EXTINF:-1,USA: Bet Usa
+http://5.39.70.216/live/Vivienne/Vivienne/1043.ts
+#EXTINF:-1,USA: The Movie Channel Extra
+http://5.39.70.216/live/Vivienne/Vivienne/843.ts
+#EXTINF:-1,USA: HBO
+http://5.39.70.216/live/Vivienne/Vivienne/342.ts
+#EXTINF:-1,USA: HBO Family
+http://5.39.70.216/live/Vivienne/Vivienne/545.ts
+#EXTINF:-1,USA: HBO Comedy
+http://5.39.70.216/live/Vivienne/Vivienne/540.ts
+#EXTINF:-1,USA: HBO Zone
+http://5.39.70.216/live/Vivienne/Vivienne/550.ts
+#EXTINF:-1,USA: HBO Signature
+http://5.39.70.216/live/Vivienne/Vivienne/547.ts
+#EXTINF:-1,USA: HBO 2
+http://5.39.70.216/live/Vivienne/Vivienne/549.ts
+#EXTINF:-1,USA: HBO East Canada
+http://5.39.70.216/live/Vivienne/Vivienne/542.ts
+#EXTINF:-1,USA: Starz Kids and Family East
+http://5.39.70.216/live/Vivienne/Vivienne/839.ts
+#EXTINF:-1,USA: Starz in Black East
+http://5.39.70.216/live/Vivienne/Vivienne/838.ts
+#EXTINF:-1,USA: Starz Edge
+http://5.39.70.216/live/Vivienne/Vivienne/836.ts
 #EXTINF:-1,USA: Starz Cinema
-http://orbit-iptv.com:2500/live/kenny/kenny/2919.ts
-#EXTINF:-1,USA: SHOW TIME
-http://orbit-iptv.com:2500/live/kenny/kenny/3764.ts
-#EXTINF:-1,USA: CNN
-http://orbit-iptv.com:2500/live/kenny/kenny/3333.ts
-#EXTINF:-1,USA: CBS NEW,S
-http://orbit-iptv.com:2500/live/kenny/kenny/3762.ts
-#EXTINF:-1,USA: BET
-http://orbit-iptv.com:2500/live/kenny/kenny/3763.ts
-#EXTINF:-1,US: WXYZ TV
-http://orbit-iptv.com:2500/live/kenny/kenny/5108.ts
-#EXTINF:-1,US: WWE Network
-http://orbit-iptv.com:2500/live/kenny/kenny/2211.ts
-#EXTINF:-1,US: Versus NBA HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5109.ts
-#EXTINF:-1,US: Twit TV
-http://orbit-iptv.com:2500/live/kenny/kenny/5110.ts
-#EXTINF:-1,US: TSN 5
-http://orbit-iptv.com:2500/live/kenny/kenny/2322.ts
-#EXTINF:-1,US: TSN 4
-http://orbit-iptv.com:2500/live/kenny/kenny/2206.ts
-#EXTINF:-1,US: TSN 3
-http://orbit-iptv.com:2500/live/kenny/kenny/2321.ts
-#EXTINF:-1,US: TSN 2
-http://orbit-iptv.com:2500/live/kenny/kenny/2205.ts
-#EXTINF:-1,US: TSN 1
-http://orbit-iptv.com:2500/live/kenny/kenny/2204.ts
-#EXTINF:-1,US: TSC
-http://orbit-iptv.com:2500/live/kenny/kenny/5111.ts
-#EXTINF:-1,US: Travel Channel HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5057.ts
-#EXTINF:-1,US: Toonami Aftermath
-http://orbit-iptv.com:2500/live/kenny/kenny/5058.ts
-#EXTINF:-1,US: TLC
-http://orbit-iptv.com:2500/live/kenny/kenny/5059.ts
-#EXTINF:-1,US: The Florida Channel
-http://orbit-iptv.com:2500/live/kenny/kenny/5060.ts
-#EXTINF:-1,US: TBS HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5061.ts
-#EXTINF:-1,US: SyFy US
-http://orbit-iptv.com:2500/live/kenny/kenny/5062.ts
-#EXTINF:-1,US: Starz Edge
-http://orbit-iptv.com:2500/live/kenny/kenny/5065.ts
-#EXTINF:-1,US: Starz East
-http://orbit-iptv.com:2500/live/kenny/kenny/5063.ts
-#EXTINF:-1,US: STARS KIDS & FAMILY
-http://orbit-iptv.com:2500/live/kenny/kenny/5064.ts
-#EXTINF:-1,US: SportsNet Ontario
-http://orbit-iptv.com:2500/live/kenny/kenny/5067.ts
-#EXTINF:-1,US: SportsNet One HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5068.ts
-#EXTINF:-1,US: RT Documentary
-http://orbit-iptv.com:2500/live/kenny/kenny/5069.ts
-#EXTINF:-1,US: RT America HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5070.ts
-#EXTINF:-1,US: Poker Central
-http://orbit-iptv.com:2500/live/kenny/kenny/2214.ts
-#EXTINF:-1,US: Pocker Central
-http://orbit-iptv.com:2500/live/kenny/kenny/5071.ts
-#EXTINF:-1,US: PAG HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5072.ts
-#EXTINF:-1,US: NFL HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5073.ts
-#EXTINF:-1,US: NBCSN
-http://orbit-iptv.com:2500/live/kenny/kenny/5075.ts
-#EXTINF:-1,US: NBC HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5074.ts
-#EXTINF:-1,US: NBC Golf HD
-http://orbit-iptv.com:2500/live/kenny/kenny/2216.ts
-#EXTINF:-1,US: Nasa TV HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5076.ts
-#EXTINF:-1,US: Mute TV
-http://orbit-iptv.com:2500/live/kenny/kenny/5077.ts
-#EXTINF:-1,US: Mello TV
-http://orbit-iptv.com:2500/live/kenny/kenny/5078.ts
-#EXTINF:-1,US: LIFE TIME
-http://orbit-iptv.com:2500/live/kenny/kenny/5079.ts
-#EXTINF:-1,US: ID
-http://orbit-iptv.com:2500/live/kenny/kenny/5081.ts
-#EXTINF:-1,US: HSN 1
-http://orbit-iptv.com:2500/live/kenny/kenny/5082.ts
-#EXTINF:-1,US: History Channel
-http://orbit-iptv.com:2500/live/kenny/kenny/5083.ts
-#EXTINF:-1,US: HGTV
-http://orbit-iptv.com:2500/live/kenny/kenny/5084.ts
-#EXTINF:-1,US: HBO ZONE
-http://orbit-iptv.com:2500/live/kenny/kenny/2209.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://orbit-iptv.com:2500/live/kenny/kenny/5085.ts
-#EXTINF:-1,US: HBO Family
-http://orbit-iptv.com:2500/live/kenny/kenny/5086.ts
-#EXTINF:-1,US: HBO East
-http://orbit-iptv.com:2500/live/kenny/kenny/5087.ts
-#EXTINF:-1,US: HBO
-http://orbit-iptv.com:2500/live/kenny/kenny/5088.ts
-#EXTINF:-1,US: HALLMARK
-http://orbit-iptv.com:2500/live/kenny/kenny/5089.ts
-#EXTINF:-1,US: Fox Sports 2
-http://orbit-iptv.com:2500/live/kenny/kenny/2208.ts
-#EXTINF:-1,US: Fox Sports 1
-http://orbit-iptv.com:2500/live/kenny/kenny/2207.ts
-#EXTINF:-1,US: Fox Sports  2
-http://orbit-iptv.com:2500/live/kenny/kenny/2213.ts
-#EXTINF:-1,US: Fox Sports  1
-http://orbit-iptv.com:2500/live/kenny/kenny/2212.ts
-#EXTINF:-1,US: FOX Deportes HD
-http://orbit-iptv.com:2500/live/kenny/kenny/2217.ts
-#EXTINF:-1,US: Fox 59 News
-http://orbit-iptv.com:2500/live/kenny/kenny/3380.ts
-#EXTINF:-1,US: FOX
-http://orbit-iptv.com:2500/live/kenny/kenny/3379.ts
-#EXTINF:-1,US: Fight Network
-http://orbit-iptv.com:2500/live/kenny/kenny/3219.ts
-#EXTINF:-1,US: ESPN
-http://orbit-iptv.com:2500/live/kenny/kenny/2323.ts
-#EXTINF:-1,US: Discovery Science HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5091.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5092.ts
-#EXTINF:-1,US: Cpac
-http://orbit-iptv.com:2500/live/kenny/kenny/5093.ts
-#EXTINF:-1,US: Comedy C HD
-http://orbit-iptv.com:2500/live/kenny/kenny/2215.ts
-#EXTINF:-1,US: CNBC
-http://orbit-iptv.com:2500/live/kenny/kenny/2203.ts
-#EXTINF:-1,US: Cinemax
-http://orbit-iptv.com:2500/live/kenny/kenny/5094.ts
-#EXTINF:-1,US: CBSN HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5095.ts
-#EXTINF:-1,US: CBS News HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5096.ts
-#EXTINF:-1,US: CBS DRAMA
-http://orbit-iptv.com:2500/live/kenny/kenny/5097.ts
-#EXTINF:-1,US: CBS ACTION
-http://orbit-iptv.com:2500/live/kenny/kenny/5098.ts
-#EXTINF:-1,US: BYU Sports TV HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5099.ts
-#EXTINF:-1,US: BRAVO
-http://orbit-iptv.com:2500/live/kenny/kenny/2210.ts
-#EXTINF:-1,US: Bloomberg
-http://orbit-iptv.com:2500/live/kenny/kenny/5100.ts
-#EXTINF:-1,US: BEIN SPORT
-http://orbit-iptv.com:2500/live/kenny/kenny/2320.ts
-#EXTINF:-1,US: Animal Planet
-http://orbit-iptv.com:2500/live/kenny/kenny/5101.ts
-#EXTINF:-1,US: AMG TV
-http://orbit-iptv.com:2500/live/kenny/kenny/5102.ts
-#EXTINF:-1,US: AFN Sports 2
-http://orbit-iptv.com:2500/live/kenny/kenny/2331.ts
-#EXTINF:-1,US: AFN SPORTS
-http://orbit-iptv.com:2500/live/kenny/kenny/5103.ts
-#EXTINF:-1,US: AFN PULSE
-http://orbit-iptv.com:2500/live/kenny/kenny/5104.ts
-#EXTINF:-1,US: AFN MOVIE
-http://orbit-iptv.com:2500/live/kenny/kenny/5105.ts
-#EXTINF:-1,US: ABC News HD
-http://orbit-iptv.com:2500/live/kenny/kenny/5106.ts
-#EXTINF:-1,US: ABC News
-http://orbit-iptv.com:2500/live/kenny/kenny/2202.ts
-#EXTINF:-1,US: 360 North
-http://orbit-iptv.com:2500/live/kenny/kenny/5107.ts
-#EXTINF:-1,US WWE
-http://orbit-iptv.com:2500/live/kenny/kenny/3221.ts
-#EXTINF:-1,US Fox Sports 506 HD
-http://orbit-iptv.com:2500/live/kenny/kenny/3230.ts
-#EXTINF:-1,US Fight Sport
-http://orbit-iptv.com:2500/live/kenny/kenny/3220.ts
-#EXTINF:-1,US BYU Sports TV HD
-http://orbit-iptv.com:2500/live/kenny/kenny/3231.ts
+http://5.39.70.216/live/Vivienne/Vivienne/837.ts
+#EXTINF:-1,USA: Starz East
+http://5.39.70.216/live/Vivienne/Vivienne/812.ts
+#EXTINF:-1,USA: Showtime West
+http://5.39.70.216/live/Vivienne/Vivienne/840.ts
+#EXTINF:-1,USA: CINEMAX WEST
+http://5.39.70.216/live/Vivienne/Vivienne/833.ts
+#EXTINF:-1,USA: CINEMAX EAST
+http://5.39.70.216/live/Vivienne/Vivienne/834.ts
+#EXTINF:-1,USA: CINEMAX 5 STAR
+http://5.39.70.216/live/Vivienne/Vivienne/823.ts
+#EXTINF:-1,USA: Cartoon Network USA
+http://5.39.70.216/live/Vivienne/Vivienne/842.ts
+#EXTINF:-1,USA: NICK JR USA
+http://5.39.70.216/live/Vivienne/Vivienne/824.ts
+#EXTINF:-1,USA: DISNEY XD USA
+http://5.39.70.216/live/Vivienne/Vivienne/826.ts
+#EXTINF:-1,USA: DISNEY USA
+http://5.39.70.216/live/Vivienne/Vivienne/825.ts
+#EXTINF:-1,USA: DISNEY JUNIOR USA
+http://5.39.70.216/live/Vivienne/Vivienne/827.ts
+#EXTINF:-1,USA: Hallmark HD
+http://5.39.70.216/live/Vivienne/Vivienne/877.ts
+#EXTINF:-1,USA: E!
+http://5.39.70.216/live/Vivienne/Vivienne/548.ts
+#EXTINF:-1,USA: SyFy
+http://5.39.70.216/live/Vivienne/Vivienne/449.ts
+#EXTINF:-1,USA: FX East
+http://5.39.70.216/live/Vivienne/Vivienne/841.ts
+#EXTINF:-1,USA: ABC HD
+http://5.39.70.216/live/Vivienne/Vivienne/450.ts
+#EXTINF:-1,USA: USA Network
+http://5.39.70.216/live/Vivienne/Vivienne/533.ts
+#EXTINF:-1,USA: TLC HD
+http://5.39.70.216/live/Vivienne/Vivienne/539.ts
+#EXTINF:-1,USA: Discovery Velocity HD
+http://5.39.70.216/live/Vivienne/Vivienne/445.ts
+#EXTINF:-1,USA: Tru Tv HD
+http://5.39.70.216/live/Vivienne/Vivienne/543.ts
+#EXTINF:-1,USA: Fox
+http://5.39.70.216/live/Vivienne/Vivienne/544.ts
+#EXTINF:-1,USA: Global Tv Toronto
+http://5.39.70.216/live/Vivienne/Vivienne/451.ts
+#EXTINF:-1,USA: Global Tv Edmonton
+http://5.39.70.216/live/Vivienne/Vivienne/448.ts
+#EXTINF:-1,USA: Global Tv BC
+http://5.39.70.216/live/Vivienne/Vivienne/447.ts
+#EXTINF:-1,USA: NBC
+http://5.39.70.216/live/Vivienne/Vivienne/538.ts
+#EXTINF:-1,USA: TREE HOUSE HD EAST
+http://5.39.70.216/live/Vivienne/Vivienne/835.ts
+#EXTINF:-1,USA: Discovery Science HD USA
+http://5.39.70.216/live/Vivienne/Vivienne/822.ts
+#EXTINF:-1,USA: NAT GEO WILD HD USA
+http://5.39.70.216/live/Vivienne/Vivienne/820.ts
+#EXTINF:-1,USA: NAT GEO HD USA
+http://5.39.70.216/live/Vivienne/Vivienne/819.ts
+#EXTINF:-1,USA: Komo News USA
+http://5.39.70.216/live/Vivienne/Vivienne/811.ts
+#EXTINF:-1,USA: HISTORY USA
+http://5.39.70.216/live/Vivienne/Vivienne/818.ts
+#EXTINF:-1,USA: HGTV USA
+http://5.39.70.216/live/Vivienne/Vivienne/821.ts
+#EXTINF:-1,USA: GSN HD
+http://5.39.70.216/live/Vivienne/Vivienne/815.ts
+#EXTINF:-1,USA: FOOD NETWORK USA
+http://5.39.70.216/live/Vivienne/Vivienne/817.ts
+#EXTINF:-1,USA: CTV TORONTO
+http://5.39.70.216/live/Vivienne/Vivienne/830.ts
+#EXTINF:-1,USA: CP24 EAST
+http://5.39.70.216/live/Vivienne/Vivienne/828.ts
+#EXTINF:-1,USA: CNN USA
+http://5.39.70.216/live/Vivienne/Vivienne/813.ts
+#EXTINF:-1,USA: CNN EAST
+http://5.39.70.216/live/Vivienne/Vivienne/832.ts
+#EXTINF:-1,USA: MSNBC
+http://5.39.70.216/live/Vivienne/Vivienne/878.ts
+#EXTINF:-1,USA: CITY TORONTO
+http://5.39.70.216/live/Vivienne/Vivienne/831.ts
+#EXTINF:-1,USA: FOX TORONTO
+http://5.39.70.216/live/Vivienne/Vivienne/829.ts
+#EXTINF:-1,USA: CBS HD
+http://5.39.70.216/live/Vivienne/Vivienne/853.ts
+#EXTINF:-1,USA: BRAVO USA
+http://5.39.70.216/live/Vivienne/Vivienne/816.ts
+#EXTINF:-1,USA: AMC USA HD
+http://5.39.70.216/live/Vivienne/Vivienne/814.ts
