@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1,USA : USA NETWORK HD*
-http://51.254.197.40:25461/live/quinn/quinn/5740.ts
-#EXTINF:-1,USA : OWN NETWORK HD
-http://51.254.197.40:25461/live/quinn/quinn/5743.ts
-#EXTINF:-1,USA : Fox Sports 2 HD
-http://51.254.197.40:25461/live/quinn/quinn/5745.ts
-#EXTINF:-1,USA : Fox Sports 1 HD
-http://51.254.197.40:25461/live/quinn/quinn/5746.ts
-#EXTINF:-1,USA : ESPN HD 2**
-http://51.254.197.40:25461/live/quinn/quinn/5747.ts
-#EXTINF:-1,USA : BTN SPORTS HD**
-http://51.254.197.40:25461/live/quinn/quinn/5752.ts
-#EXTINF:-1,US: USA Network HD
-http://51.254.197.40:25461/live/quinn/quinn/5754.ts
 #EXTINF:-1,USABETA : VELOCITY HD
 http://5.39.70.216/live/Vivienne/Vivienne/1604.ts
 #EXTINF:-1,USABETA : USA NETWORK HD
