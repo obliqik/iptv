@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,USA : OWN Network
+http://51.254.197.40:25461/live/brennan/brennan/5743.ts
 #EXTINF:-1,USA: TBS HD
 http://151.80.22.45:9900/live/525/525/19390.ts
 #EXTINF:-1,USA TNT HD
