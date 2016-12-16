@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,USABETA : OWN HD (Opera Winfery Network)
+http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
+#EXTINF:-1,USABETA : HBO Zone HD
+http://5.39.70.216/live/Vivienne/Vivienne/1575.ts
+#EXTINF:-1,USABETA : HBO HD
+http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
+#EXTINF:-1,USABETA : HBO FAMILY HD
+http://5.39.70.216/live/Vivienne/Vivienne/1588.ts
+#EXTINF:-1,USABETA : Starz Kids & Family HD
+http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
+#EXTINF:-1,USABETA : Starz HD
+http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
+#EXTINF:-1,USABETA : Starz Edge HD
+http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
+#EXTINF:-1,USABETA : Sprout HD
+http://5.39.70.216/live/Vivienne/Vivienne/1646.ts
+#EXTINF:-1,USABETA : SPIKE HD
+http://5.39.70.216/live/Vivienne/Vivienne/1613.ts
+#EXTINF:-1,USABETA : SHOWTIME HD
+http://5.39.70.216/live/Vivienne/Vivienne/1614.ts
+#EXTINF:-1,USABETA : Cinemax ThrillerMax HD
+http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
+#EXTINF:-1,USABETA : Cinemax MoreMax HD
+http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
+#EXTINF:-1,USABETA : CINEMAX HD
+http://5.39.70.216/live/Vivienne/Vivienne/1639.ts
+#EXTINF:-1,USABETA : UNIVERSAL HD
+http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
 #EXTINF:-1,USA : OWN Network
 http://51.254.197.40:25461/live/brennan/brennan/5743.ts
 #EXTINF:-1,USA: TBS HD
@@ -57,12 +85,10 @@ http://151.80.22.45:9900/live/525/525/19428.ts
 http://151.80.22.45:9900/live/525/525/19430.ts
 #EXTINF:-1,US: BTN Sport HD
 http://151.80.22.45:9900/live/525/525/19434.ts
-
 #EXTINF:-1,USA: TVO KIDS
 http://151.80.22.45:9900/live/525/525/17369.ts
 #EXTINF:-1,USA: TMN ACTION
 http://151.80.22.45:9900/live/525/525/17370.ts
-
 #EXTINF:-1,USA: NBA
 http://151.80.22.45:9900/live/525/525/17381.ts
 #EXTINF:-1,USA: LMN
@@ -111,15 +137,10 @@ http://151.80.22.45:9900/live/525/525/12582.ts
 http://151.80.22.45:9900/live/525/525/5811.ts
 #EXTINF:-1,US-CNN HD
 http://151.80.22.45:9900/live/525/525/5821.ts
-
-#EXTINF:....more channels
-
 #EXTINF:-1,USABETA : VELOCITY HD
 http://5.39.70.216/live/Vivienne/Vivienne/1604.ts
 #EXTINF:-1,USABETA : USA NETWORK HD
 http://5.39.70.216/live/Vivienne/Vivienne/1607.ts
-#EXTINF:-1,USABETA : UNIVERSAL HD
-http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
 #EXTINF:-1,USABETA : TV LAND HD
 http://5.39.70.216/live/Vivienne/Vivienne/1627.ts
 #EXTINF:-1,USABETA : TruTV HD
@@ -136,26 +157,12 @@ http://5.39.70.216/live/Vivienne/Vivienne/1611.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1641.ts
 #EXTINF:-1,USABETA : SYFY HD
 http://5.39.70.216/live/Vivienne/Vivienne/1640.ts
-#EXTINF:-1,USABETA : Starz Kids & Family HD
-http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
-#EXTINF:-1,USABETA : Starz HD
-http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
-#EXTINF:-1,USABETA : Starz Edge HD
-http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
-#EXTINF:-1,USABETA : Sprout HD
-http://5.39.70.216/live/Vivienne/Vivienne/1646.ts
-#EXTINF:-1,USABETA : SPIKE HD
-http://5.39.70.216/live/Vivienne/Vivienne/1613.ts
-#EXTINF:-1,USABETA : SHOWTIME HD
-http://5.39.70.216/live/Vivienne/Vivienne/1614.ts
 #EXTINF:-1,USABETA : SEC Network HD
 http://5.39.70.216/live/Vivienne/Vivienne/1578.ts
 #EXTINF:-1,USABETA : POKER CENTRAL
 http://5.39.70.216/live/Vivienne/Vivienne/1567.ts
 #EXTINF:-1,USABETA : PBS HD
 http://5.39.70.216/live/Vivienne/Vivienne/1570.ts
-#EXTINF:-1,USABETA : OWN HD (Opera Winfery Network)
-http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
 #EXTINF:-1,USABETA : Nicktoons HD
 http://5.39.70.216/live/Vivienne/Vivienne/1579.ts
 #EXTINF:-1,USABETA : Nick Jr. HD
@@ -178,12 +185,6 @@ http://5.39.70.216/live/Vivienne/Vivienne/1586.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1587.ts
 #EXTINF:-1,USABETA : HISTORY HD
 http://5.39.70.216/live/Vivienne/Vivienne/1605.ts
-#EXTINF:-1,USABETA : HBO Zone HD
-http://5.39.70.216/live/Vivienne/Vivienne/1575.ts
-#EXTINF:-1,USABETA : HBO HD
-http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
-#EXTINF:-1,USABETA : HBO FAMILY HD
-http://5.39.70.216/live/Vivienne/Vivienne/1588.ts
 #EXTINF:-1,USABETA : Hallmark HD
 http://5.39.70.216/live/Vivienne/Vivienne/1600.ts
 #EXTINF:-1,USABETA : GSN HD
@@ -228,12 +229,6 @@ http://5.39.70.216/live/Vivienne/Vivienne/1594.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1595.ts
 #EXTINF:-1,USABETA : CNBC HD
 http://5.39.70.216/live/Vivienne/Vivienne/1596.ts
-#EXTINF:-1,USABETA : Cinemax ThrillerMax HD
-http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
-#EXTINF:-1,USABETA : Cinemax MoreMax HD
-http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
-#EXTINF:-1,USABETA : CINEMAX HD
-http://5.39.70.216/live/Vivienne/Vivienne/1639.ts
 #EXTINF:-1,USABETA : CI HD
 http://5.39.70.216/live/Vivienne/Vivienne/1569.ts
 #EXTINF:-1,USABETA : CBS SN HD
