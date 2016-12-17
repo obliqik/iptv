@@ -1,6 +1,9 @@
 <streamingInfos>
  
-
+       <item> 
+         <title>USA : ABC NEWS*</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/hassan/hassan/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
        <item> 
          <title>USA : USA NETWORK HD*</title> 
          <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/julio/julio/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
