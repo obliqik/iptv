@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-- [COLOR gold]Premium TV[/COLOR] --
+##EXTINF:-1, -- [COLOR gold]Premium TV[/COLOR] --
 #EXTINF:-1,US: HBO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.ts
 #EXTINF:-1,US: HBO 2 Comedy
@@ -27,7 +27,7 @@ http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9424.ts
 #EXTINF:-1,US: BRAVO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9408.ts
 
-#EXTINF:-- [COLOR orange]Standard TV[/COLOR] --
+#E#EXTINF:-1, -- [COLOR orange]Standard TV[/COLOR] --
 #EXTINF:-1,US:USA Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9378.ts
 #EXTINF:-1,US: A&E
