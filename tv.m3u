@@ -6,6 +6,12 @@ http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.ts
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9433.ts
 #EXTINF:-1,US: HBO Comedy
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9390.ts
+#EXTINF:-1,US: HBO Comedy East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/773.ts
+#EXTINF:-1,US: HBO Family East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/772.ts
+#EXTINF:-1,US: HBO West
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/771.ts
 #EXTINF:-1,US: HBO Signature
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9389.ts
 #EXTINF:-1,US: HBO Zone
@@ -14,18 +20,50 @@ http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9432.ts
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9438.ts
 #EXTINF:-1,US: Cinemax East
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9437.ts
+#EXTINF:-1,US: Cinemax West
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/775.ts
 #EXTINF:-1,US: Showtime
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9429.ts
 #EXTINF:-1,US: Showtime West
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9428.ts
+#EXTINF:-1,US: Showtime 2 East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/778.ts
+#EXTINF:-1,US: Showtime Extreme East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/779.ts
+#EXTINF:-1,US: Showtime Showcase East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/776.ts
 #EXTINF:-1,US: Starz Cinema
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9426.ts
 #EXTINF:-1,US: Starz East
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9425.ts
 #EXTINF:-1,US: Starz Edge
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9424.ts
+#EXTINF:-1,US: Starz Comedy East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/783.ts
+#EXTINF:-1,US: Starz Edge East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/782.ts
+#EXTINF:-1,US: Starz Kids & Family East
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/784.ts
 #EXTINF:-1,US: BRAVO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9408.ts
+
+#E#EXTINF:-1, -- [COLOR dodgerblue]SPORTS TV[/COLOR] --
+#EXTINF:-1,US: NFL Network
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/761.ts
+#EXTINF:-1,US: NFL Sunday Ticket 1
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/817.ts
+#EXTINF:-1,US: NFL Sunday Ticket 2
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/818.ts
+#EXTINF:-1,US: NFL Sunday Ticket 3
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/819.ts
+#EXTINF:-1,US: NFL Sunday Ticket 4
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/820.ts
+#EXTINF:-1,US: NFL Sunday Ticket 5
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/821.ts
+#EXTINF:-1,US: NFL Sunday Ticket 6
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/822.ts
+#EXTINF:-1,US: NHL Network
+http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/762.ts
 
 #E#EXTINF:-1, -- [COLOR orange]Standard TV[/COLOR] --
 #EXTINF:-1,US:USA Network
