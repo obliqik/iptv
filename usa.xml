@@ -1,19 +1,6 @@
 <streamingInfos>
  
        <item> 
-         <title>USA : Starz Kids</title> 
-         <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
-</item> 
-       <item> 
-         <title>USA : Starz HD</title> 
-         <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
-</item> 
-        <item> 
-         <title>USA : Starz Edge HD</title> 
-         <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
-</item> 
-
-       <item> 
          <title>USA : HBO</title> 
          <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
 </item> 
