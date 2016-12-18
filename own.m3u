@@ -21,11 +21,13 @@ http://51.254.197.40:25461/live/adrian/adrian/5743.ts
 #EXTINF:-1,USA : OWN Network
 http://51.254.197.40:25461/live/bell/bell/5743.ts
 
-#EXTINF:-1,Uk:MTV.Hits
-http://xxultraxx.com:8000/live/12345/12345/414.ts
-#EXTINF:-1,Uk:MTV.Music
-http://xxultraxx.com:8000/live/12345/12345/2604.ts
-#EXTINF:-1,Uk:MTV.Dance
-http://xxultraxx.com:8000/live/12345/12345/413.ts
-#EXTINF:-1,Uk:MTV.Classic
-http://xxultraxx.com:8000/live/12345/12345/885.ts
+#EXTINF:-1,UK: MTV Classic
+http://137.74.94.161:8000/live/obrien/obrien/9398.ts
+#EXTINF:-1,UK: MTV Dance
+http://137.74.94.161:8000/live/obrien/obrien/9333.ts
+#EXTINF:-1,UK: MTV Hits
+http://137.74.94.161:8000/live/obrien/obrien/9399.ts
+#EXTINF:-1,UK: MTV Music
+http://137.74.94.161:8000/live/obrien/obrien/9400.ts
+#EXTINF:-1,UK: MTV Rocks
+http://137.74.94.161:8000/live/obrien/obrien/9401.ts
