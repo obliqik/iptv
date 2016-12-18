@@ -1,553 +1,487 @@
 #EXTM3U
-#EXTINF:-1,UK: Sky Sports 1
+#EXTINF:-1,Sky Sports 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1.ts
-#EXTINF:-1,UK: Sky Sports 2
+#EXTINF:-1,Sky Sports 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2.ts
-#EXTINF:-1,UK: Sky Sports 3
+#EXTINF:-1,Sky Sports 3
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/3.ts
-#EXTINF:-1,UK: Sky Sports 4
+#EXTINF:-1,Sky Sports 4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/4.ts
-#EXTINF:-1,UK: Sky Sports 5
+#EXTINF:-1,Sky Sports 5
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/5.ts
-#EXTINF:-1,UK: Sky Sports F1
+#EXTINF:-1,Sky Sports F1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/6.ts
-#EXTINF:-1,UK: Sky Sports News
+#EXTINF:-1,Sky Sports News
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/7.ts
-#EXTINF:-1,UK: Sky Sports Mix
+#EXTINF:-1,Sky Sports Mix
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2074.ts
-#EXTINF:-1,UK: ESPN
+#EXTINF:-1,ESPN
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/8.ts
-#EXTINF:-1,UK: BT Sport 1
+#EXTINF:-1,BT Sport 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/9.ts
-#EXTINF:-1,UK: BT Sport 2
+#EXTINF:-1,BT Sport 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/10.ts
-#EXTINF:-1,UK: BT Sport Europe
+#EXTINF:-1,BT Sport Europe
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/11.ts
-#EXTINF:-1,UK: BT SPORT 3
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/119.ts
-#EXTINF:-1,UK: British Eurosport
+#EXTINF:-1,British Eurosport
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/12.ts
-#EXTINF:-1,UK: British Eurosport 2
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/13.ts
-#EXTINF:-1,UK: Premier Sports
+#EXTINF:-1,Premier Sports
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/14.ts
-#EXTINF:-1,UK: Racing UK
+#EXTINF:-1,Racing UK
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/15.ts
-#EXTINF:-1,UK: Setanta Ireland
+#EXTINF:-1,Setanta Ireland
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/16.ts
-#EXTINF:-1,UK: Chelsea
+#EXTINF:-1,Chelsea
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/17.ts
-#EXTINF:-1,UK: MUTV
+#EXTINF:-1,MUTV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/18.ts
-#EXTINF:-1,UK: BoxNation
+#EXTINF:-1,BoxNation
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/19.ts
-#EXTINF:-1,UK: Liverpool
+#EXTINF:-1,Liverpool
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/20.ts
-#EXTINF:-1,UK: RealMadrid
+#EXTINF:-1,RealMadrid
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/21.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
+#EXTINF:-1,Sky Sports 1 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/22.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
+#EXTINF:-1,Sky Sports 2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/23.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
+#EXTINF:-1,Sky Sports 3 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/24.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
+#EXTINF:-1,Sky Sports 4 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/25.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
+#EXTINF:-1,Sky Sports 5 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/26.ts
-#EXTINF:-1,UK: Sky Sports News HD
+#EXTINF:-1,Sky Sports News HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/27.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
+#EXTINF:-1,Sky Sports F1 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/28.ts
-#EXTINF:-1,UK: BT Sport 1 HD
+#EXTINF:-1,BT Sport 1 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/29.ts
-#EXTINF:-1,UK: BT Sport 2 HD
+#EXTINF:-1,BT Sport 2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/30.ts
-#EXTINF:-1,UK: BT Sport europe HD
+#EXTINF:-1,BT Sport europe HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/31.ts
-#EXTINF:-1,UK: Eurosport 1 HD
+#EXTINF:-1,Eurosport 1 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1926.ts
-#EXTINF:-1,UK: Eurosport 2 HD
+#EXTINF:-1,Eurosport 2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1913.ts
-#EXTINF:-1,UK: FIGHTBOX HD
+#EXTINF:-1,FIGHTBOX HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1941.ts
-#EXTINF:-1,UK: At The Races UK
+#EXTINF:-1,At The Races UK
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/32.ts
-#EXTINF:-1,UK: Motor TV
+#EXTINF:-1,Motor TV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/86.ts
-#EXTINF:-1,UK: Sky Select
+#EXTINF:-1,Sky Select
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/33.ts
-#EXTINF:-1,UK: Sky Scifi and horror
+#EXTINF:-1,Sky Scifi and horror
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/34.ts
-#EXTINF:-1,UK: Sky Premiere +1
+#EXTINF:-1,Sky Premiere +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/35.ts
-#EXTINF:-1,UK: Sky Premiere
+#EXTINF:-1,Sky Premiere
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/36.ts
-#EXTINF:-1,UK: Sky Monsters
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/37.ts
-#EXTINF:-1,UK: Sky Greats
+#EXTINF:-1,Sky Greats
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/38.ts
-#EXTINF:-1,UK: Sky Family
+#EXTINF:-1,Sky Family
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/39.ts
-#EXTINF:-1,UK: Sky Drama
+#EXTINF:-1,Sky Drama
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/40.ts
-#EXTINF:-1,UK: Sky Action
+#EXTINF:-1,Sky Action
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/41.ts
-#EXTINF:-1,UK: Sky Thriller
+#EXTINF:-1,Sky Thriller
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/42.ts
-#EXTINF:-1,UK: Sky Comedy
+#EXTINF:-1,Sky Comedy
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/43.ts
-#EXTINF:-1,UK: Sky Atlantic
+#EXTINF:-1,Sky Atlantic
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/44.ts
-#EXTINF:-1,UK: Sky Atlantic +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/123.ts
-#EXTINF:-1,UK: Sky Movies ShowCase
+#EXTINF:-1,Sky Movies ShowCase
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/100.ts
-#EXTINF:-1,UK: Sky One HD
+#EXTINF:-1,Sky One HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/45.ts
-#EXTINF:-1,UK: Sky One HD +1
+#EXTINF:-1,Sky One HD +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1942.ts
-#EXTINF:-1,UK: Sky Two HD
+#EXTINF:-1,Sky Two HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/46.ts
-#EXTINF:-1,UK: Sky Arts +1
+#EXTINF:-1,Sky Arts +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/47.ts
-#EXTINF:-1,UK: TCM
+#EXTINF:-1,TCM
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/58.ts
-#EXTINF:-1,UK: Challenge
+#EXTINF:-1,Challenge
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1924.ts
-#EXTINF:-1,UK: Horror Channel
+#EXTINF:-1,Horror Channel
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/122.ts
-#EXTINF:-1,UK: True Movies
+#EXTINF:-1,True Movies
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/55.ts
-#EXTINF:-1,UK: True Movies 2
+#EXTINF:-1,True Movies 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/56.ts
-#EXTINF:-1,UK: Sony Movie Channel
+#EXTINF:-1,Sony Movie Channel
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1937.ts
-#EXTINF:-1,UK: Sony Movie Channel +1
+#EXTINF:-1,Sony Movie Channel +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1944.ts
-#EXTINF:-1,UK: Sony Movie +1
+#EXTINF:-1,Sony Movie +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2071.ts
-#EXTINF:-1,UK: MOVIES24
+#EXTINF:-1,MOVIES24
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1909.ts
-#EXTINF:-1,UK: Comedy Central
+#EXTINF:-1,Comedy Central
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/54.ts
-#EXTINF:-1,UK: Comedy Central Extra
+#EXTINF:-1,Comedy Central Extra
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1917.ts
-#EXTINF:-1,UK: RTEjr
+#EXTINF:-1,RTEjr
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1903.ts
-#EXTINF:-1,UK: RTE 1
+#EXTINF:-1,RTE 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/72.ts
-#EXTINF:-1,UK: RTE 2
+#EXTINF:-1,RTE 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/73.ts
-#EXTINF:-1,UK: Universal
+#EXTINF:-1,Universal
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1889.ts
-#EXTINF:-1,UK: Universal +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/124.ts
-#EXTINF:-1,UK: Film 4 UK
+#EXTINF:-1,Film 4 UK
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/52.ts
-#EXTINF:-1,UK: Movies 4 Men
+#EXTINF:-1,Movies 4 Men
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/87.ts
-#EXTINF:-1,UK: Fox
+#EXTINF:-1,Fox
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/90.ts
-#EXTINF:-1,UK: Dmax
+#EXTINF:-1,Dmax
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/79.ts
-#EXTINF:-1,UK: E!
+#EXTINF:-1,E!
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1900.ts
-#EXTINF:-1,UK: SyFy
+#EXTINF:-1,SyFy
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/51.ts
-#EXTINF:-1,UK: Syfy +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/121.ts
-#EXTINF:-1,UK: Dave
+#EXTINF:-1,Dave
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/53.ts
-#EXTINF:-1,UK: Spike
+#EXTINF:-1,Spike
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1902.ts
-#EXTINF:-1,UK: Drama
+#EXTINF:-1,Drama
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1899.ts
-#EXTINF:-1,UK: Tru TV UK
+#EXTINF:-1,Tru TV UK
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1927.ts
-#EXTINF:-1,UK: CBS Action
+#EXTINF:-1,CBS Action
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1896.ts
-#EXTINF:-1,UK: CBS Drama
+#EXTINF:-1,CBS Drama
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1895.ts
-#EXTINF:-1,UK: CBS Reality
+#EXTINF:-1,CBS Reality
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1894.ts
-#EXTINF:-1,UK: Tiny Pop
+#EXTINF:-1,Tiny Pop
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/120.ts
-#EXTINF:-1,UK: Utv
+#EXTINF:-1,Utv
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1932.ts
-#EXTINF:-1,UK: UTV Ireland
+#EXTINF:-1,UTV Ireland
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1901.ts
-#EXTINF:-1,UK: Flava
+#EXTINF:-1,Flava
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2072.ts
-#EXTINF:-1,UK: BET
+#EXTINF:-1,BET
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1951.ts
-#EXTINF:-1,UK: BBC Entertainment
+#EXTINF:-1,BBC Entertainment
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1893.ts
-#EXTINF:-1,UK: BBC One HD
+#EXTINF:-1,BBC One HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/59.ts
-#EXTINF:-1,UK: BBC2 HD
+#EXTINF:-1,BBC2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/60.ts
-#EXTINF:-1,UK: BBC 3 HD
+#EXTINF:-1,BBC 3 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/61.ts
-#EXTINF:-1,UK: BBC 4 HD
+#EXTINF:-1,BBC 4 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/62.ts
-#EXTINF:-1,UK: BBC News
+#EXTINF:-1,BBC News
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/63.ts
-#EXTINF:-1,UK: ITV Encore
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/64.ts
-#EXTINF:-1,UK: ITV BE
+#EXTINF:-1,ITV BE
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/65.ts
-#EXTINF:-1,UK: ITV 1 HD
+#EXTINF:-1,ITV 1 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/66.ts
-#EXTINF:-1,UK: ITV One SD
+#EXTINF:-1,ITV One SD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/67.ts
-#EXTINF:-1,UK: ITV One  +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/68.ts
-#EXTINF:-1,UK: ITV 2 HD
+#EXTINF:-1,ITV 2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/69.ts
-#EXTINF:-1,UK: ITV 3 HD
+#EXTINF:-1,ITV 3 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/70.ts
-#EXTINF:-1,UK: ITV 4 HD
+#EXTINF:-1,ITV 4 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/71.ts
-#EXTINF:-1,UK: Yesterday
+#EXTINF:-1,Yesterday
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/57.ts
-#EXTINF:-1,UK: More4
+#EXTINF:-1,More4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/75.ts
-#EXTINF:-1,UK: Sky Living
+#EXTINF:-1,Sky Living
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/76.ts
-#EXTINF:-1,UK: Sky Living +1
+#EXTINF:-1,Sky Living +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1943.ts
-#EXTINF:-1,UK: REAL Lives
+#EXTINF:-1,REAL Lives
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1907.ts
-#EXTINF:-1,UK: Alibi
+#EXTINF:-1,Alibi
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/84.ts
-#EXTINF:-1,UK: Comedy Central +1
+#EXTINF:-1,Comedy Central +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1934.ts
-#EXTINF:-1,UK: TV3
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/48.ts
-#EXTINF:-1,UK: Home
+#EXTINF:-1,Home
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/77.ts
-#EXTINF:-1,UK: Gold
+#EXTINF:-1,Gold
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/78.ts
-#EXTINF:-1,UK: Channel5
+#EXTINF:-1,Channel5
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/80.ts
-#EXTINF:-1,UK: Channel 5 USA
+#EXTINF:-1,Channel 5 USA
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/81.ts
-#EXTINF:-1,UK: Channel 5Star
+#EXTINF:-1,Channel 5Star
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/82.ts
-#EXTINF:-1,UK: Channel4 HD
+#EXTINF:-1,Channel4 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/83.ts
-#EXTINF:-1,UK: Pick TV
+#EXTINF:-1,Pick TV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/85.ts
-#EXTINF:-1,UK: 3E
+#EXTINF:-1,3E
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1888.ts
-#EXTINF:-1,UK: TV3 IE
+#EXTINF:-1,TV3 IE
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1887.ts
-#EXTINF:-1,UK: E4
+#EXTINF:-1,E4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/88.ts
-#EXTINF:-1,UK: Watch
+#EXTINF:-1,Watch
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/49.ts
-#EXTINF:-1,UK: Vintage TV
+#EXTINF:-1,Vintage TV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1949.ts
-#EXTINF:-1,UK: Quest
+#EXTINF:-1,Quest
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1898.ts
-#EXTINF:-1,UK: Five
+#EXTINF:-1,Five
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1897.ts
-#EXTINF:-1,UK: The Box
+#EXTINF:-1,The Box
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1948.ts
-#EXTINF:-1,UK: CITV
+#EXTINF:-1,CITV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1933.ts
-#EXTINF:-1,UK: Lifetime
+#EXTINF:-1,Lifetime
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1925.ts
-#EXTINF:-1,UK: iConcerts HD
+#EXTINF:-1,iConcerts HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1947.ts
-#EXTINF:-1,UK: Nautical HD
+#EXTINF:-1,Nautical HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1945.ts
-#EXTINF:-1,UK: REALLY
+#EXTINF:-1,REALLY
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1908.ts
-#EXTINF:-1,UK: The Vault
+#EXTINF:-1,The Vault
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1906.ts
-#EXTINF:-1,UK: Eden
+#EXTINF:-1,Eden
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1905.ts
-#EXTINF:-1,UK: Magic
+#EXTINF:-1,Magic
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1910.ts
-#EXTINF:-1,UK: Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/89.ts
-#EXTINF:-1,UK: Cartoon Network +1
+#EXTINF:-1,Cartoon Network +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2073.ts
-#EXTINF:-1,UK: Nicktoons
+#EXTINF:-1,Nicktoons
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/91.ts
-#EXTINF:-1,UK: Nickelodeon Jr
+#EXTINF:-1,Nickelodeon Jr
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/92.ts
-#EXTINF:-1,UK: Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/93.ts
-#EXTINF:-1,UK: Baby Tv
+#EXTINF:-1,Baby Tv
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/94.ts
-#EXTINF:-1,UK: Boomerang
+#EXTINF:-1,Boomerang
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/95.ts
-#EXTINF:-1,UK: NickJr Too
+#EXTINF:-1,NickJr Too
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1916.ts
-#EXTINF:-1,UK: Sky Disney
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/96.ts
-#EXTINF:-1,UK: Disney Channel
+#EXTINF:-1,Disney Channel
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/97.ts
-#EXTINF:-1,UK: Disney Channel +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/125.ts
-#EXTINF:-1,UK: DISNEY JUNIOR
+#EXTINF:-1,DISNEY JUNIOR
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/98.ts
-#EXTINF:-1,UK: Disney Junior +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/127.ts
-#EXTINF:-1,UK: Disney XD
+#EXTINF:-1,Disney XD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/99.ts
-#EXTINF:-1,UK: Disney XD +1
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/126.ts
-#EXTINF:-1,UK: Viva
+#EXTINF:-1,Viva
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1928.ts
-#EXTINF:-1,UK: Vh1
+#EXTINF:-1,Vh1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/115.ts
-#EXTINF:-1,UK: MTV
+#EXTINF:-1,MTV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/116.ts
-#EXTINF:-1,UK: MTV Music
+#EXTINF:-1,MTV Music
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/117.ts
-#EXTINF:-1,UK: MTV Hits
+#EXTINF:-1,MTV Hits
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/118.ts
-#EXTINF:-1,UK: MTV Live HD
+#EXTINF:-1,MTV Live HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1923.ts
-#EXTINF:-1,UK: MTV +1
+#EXTINF:-1,MTV +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1922.ts
-#EXTINF:-1,UK: MTV Base
+#EXTINF:-1,MTV Base
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1921.ts
-#EXTINF:-1,UK: MTV Dance
+#EXTINF:-1,MTV Dance
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1920.ts
-#EXTINF:-1,UK: MTV Rocks
+#EXTINF:-1,MTV Rocks
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1919.ts
-#EXTINF:-1,UK: MTV Classic
+#EXTINF:-1,MTV Classic
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1918.ts
-#EXTINF:-1,UK: Nat Geo Channel
+#EXTINF:-1,Nat Geo Channel
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/102.ts
-#EXTINF:-1,UK: Animal planet
+#EXTINF:-1,Animal planet
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1890.ts
-#EXTINF:-1,UK: TLC +1
+#EXTINF:-1,TLC +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1950.ts
-#EXTINF:-1,UK: ID Xtra HD
+#EXTINF:-1,ID Xtra HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1946.ts
-#EXTINF:-1,UK: Crime Investigation
+#EXTINF:-1,Crime Investigation
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1939.ts
-#EXTINF:-1,UK: Fine Living Network
+#EXTINF:-1,Fine Living Network
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1938.ts
-#EXTINF:-1,UK: National Geography Wild
+#EXTINF:-1,National Geography Wild
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/101.ts
-#EXTINF:-1,UK: National Geographic HD
+#EXTINF:-1,National Geographic HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1931.ts
-#EXTINF:-1,UK:  NatGeo Wild HD
+#EXTINF:-1,NatGeo Wild HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1930.ts
-#EXTINF:-1,UK: Horse and Country
+#EXTINF:-1,Horse and Country
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1929.ts
-#EXTINF:-1,UK: Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1915.ts
-#EXTINF:-1,UK: H2
+#EXTINF:-1,H2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/50.ts
-#EXTINF:-1,UK: Discovery Channel
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/104.ts
-#EXTINF:-1,UK: Discovery Science  +1
+#EXTINF:-1,Discovery Science +1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1914.ts
-#EXTINF:-1,UK: Discovery Home & Health
+#EXTINF:-1,Discovery Home & Health
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1912.ts
-#EXTINF:-1,UK: Discovery Shed
+#EXTINF:-1,Discovery Shed
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1911.ts
-#EXTINF:-1,UK: Discovery History
+#EXTINF:-1,Discovery History
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/105.ts
-#EXTINF:-1,UK: Discovery Science
+#EXTINF:-1,Discovery Science
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/106.ts
-#EXTINF:-1,UK: Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/107.ts
-#EXTINF:-1,UK: Investion Discovery
+#EXTINF:-1,Investion Discovery
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/103.ts
-#EXTINF:-1,UK: TLC
+#EXTINF:-1,TLC
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/108.ts
-#EXTINF:-1,UK: History Channel
+#EXTINF:-1,History Channel
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/109.ts
-#EXTINF:-1,UK: Travel Channel
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/110.ts
-#EXTINF:-1,UK: Food Network
+#EXTINF:-1,Food Network
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/111.ts
-#EXTINF:-1,UK: TG4
+#EXTINF:-1,TG4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/74.ts
-#EXTINF:-1,UK: RT News
+#EXTINF:-1,RT News
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1935.ts
-#EXTINF:-1,UK: SkyNews
+#EXTINF:-1,SkyNews
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/112.ts
-#EXTINF:-1,UK: Fox News
+#EXTINF:-1,Fox News
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1904.ts
-#EXTINF:-1,UK: Discovery Sci HD
+#EXTINF:-1,Discovery Sci HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1940.ts
-#EXTINF:-1,UK: NHK News
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1936.ts
-#EXTINF:-1,UK: Bloomberg
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/114.ts
-#EXTINF:-1,UK: Cnn Int
+#EXTINF:-1,Cnn Int
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/113.ts
-#EXTINF:-1,SG: Mio Sports 1 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1035.ts
-#EXTINF:-1,SG: Mio Sports 2 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1036.ts
-#EXTINF:-1,SG: Mio Sports 3 HD
+#EXTINF:-1,Mio Sports 3 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1037.ts
-#EXTINF:-1,SG: Mio Sports 4 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1038.ts
-#EXTINF:-1,SG: Mio Sports 5 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1039.ts
-#EXTINF:-1,SG: Mio Sports 6 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1040.ts
-#EXTINF:-1,SG: Mio Sports 7 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1041.ts
-#EXTINF:-1,SG: Mio Sports 8 HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1086.ts
-#EXTINF:-1,US: Astro SuperSport 1
+#EXTINF:-1,Astro SuperSport 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1031.ts
-#EXTINF:-1,US: Astro SuperSport 2
+#EXTINF:-1,Astro SuperSport 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1032.ts
-#EXTINF:-1,US: Astro SuperSport 3
+#EXTINF:-1,Astro SuperSport 3
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1033.ts
-#EXTINF:-1,US: Astro SuperSport 4
+#EXTINF:-1,Astro SuperSport 4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1034.ts
-#EXTINF:-1,US: TSN 1
+#EXTINF:-1,TSN 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1042.ts
-#EXTINF:-1,US: TSN 2
+#EXTINF:-1,TSN 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1043.ts
-#EXTINF:-1,US: TSN 3
+#EXTINF:-1,TSN 3
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1044.ts
-#EXTINF:-1,US:  TSN 4
+#EXTINF:-1,TSN 4
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1045.ts
-#EXTINF:-1,US:  TSN 5
+#EXTINF:-1,TSN 5
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1046.ts
-#EXTINF:-1,US: SportsNet One HD
+#EXTINF:-1,SportsNet One HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2065.ts
-#EXTINF:-1,US: SportsNet Ontario
+#EXTINF:-1,SportsNet Ontario
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2064.ts
-#EXTINF:-1,US: SportsNet World HD
+#EXTINF:-1,SportsNet World HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2063.ts
-#EXTINF:-1,US: SportsNet 360
+#EXTINF:-1,SportsNet 360
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/2066.ts
-#EXTINF:-1,US: Bein Sports USA HD
+#EXTINF:-1,Bein Sports USA HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1066.ts
-#EXTINF:-1,US: FOX Sport 1
+#EXTINF:-1,FOX Sport 1
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1050.ts
-#EXTINF:-1,US: FOX Sport 2
+#EXTINF:-1,FOX Sport 2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1051.ts
-#EXTINF:-1,US: ESPN
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1053.ts
-#EXTINF:-1,US: ESPN2
+#EXTINF:-1,ESPN2
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1052.ts
-#EXTINF:-1,US: NBA TV
+#EXTINF:-1,NBA TV
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1047.ts
-#EXTINF:-1,US: NBC SPORT
+#EXTINF:-1,NBC SPORT
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1048.ts
-#EXTINF:-1,US: NBC GOLF
+#EXTINF:-1,NBC GOLF
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1049.ts
-#EXTINF:-1,US: NFL Network HD
+#EXTINF:-1,NFL Network HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1054.ts
-#EXTINF:-1,US: NHL Network
+#EXTINF:-1,NHL Network
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1106.ts
-#EXTINF:-1,US: W*E Network HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1099.ts
-#EXTINF:-1,US:  HBO HD
+#EXTINF:-1,HBO HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1056.ts
-#EXTINF:-1,US: HBO Signature HD
+#EXTINF:-1,HBO Signature HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1057.ts
-#EXTINF:-1,US:  HBO East HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1058.ts
-#EXTINF:-1,US:  HBO Zone HD
+#EXTINF:-1,HBO Zone HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1059.ts
-#EXTINF:-1,US: HBO2 EAST
+#EXTINF:-1,HBO2 EAST
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1094.ts
-#EXTINF:-1,US: Cinemax East
+#EXTINF:-1,Cinemax East
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1068.ts
-#EXTINF:-1,US: Cinemax 5 StarMax
+#EXTINF:-1,Cinemax 5 StarMax
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1067.ts
-#EXTINF:-1,US: Cinemax ActionMax East
+#EXTINF:-1,Cinemax ActionMax East
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1069.ts
-#EXTINF:-1,US: Cinemax Moremax
+#EXTINF:-1,Cinemax Moremax
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1070.ts
-#EXTINF:-1,US: STARZ CINEMA HD
+#EXTINF:-1,STARZ CINEMA HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1075.ts
-#EXTINF:-1,US: Starz Comedy
+#EXTINF:-1,Starz Comedy
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1072.ts
-#EXTINF:-1,US: STARZ EDGE HD
+#EXTINF:-1,STARZ EDGE HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1073.ts
-#EXTINF:-1,US: Showtime West HD
+#EXTINF:-1,Showtime West HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1063.ts
-#EXTINF:-1,US: Showtime HD East
+#EXTINF:-1,Showtime HD East
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1074.ts
-#EXTINF:-1,US: Showtime Showcase
+#EXTINF:-1,Showtime Showcase
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1087.ts
-#EXTINF:-1,US: ShowTime 2 HD
+#EXTINF:-1,ShowTime 2 HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1060.ts
-#EXTINF:-1,US: Hallmark Channel HD
+#EXTINF:-1,Hallmark Channel HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1088.ts
-#EXTINF:-1,US: FX
+#EXTINF:-1,FX
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1061.ts
-#EXTINF:-1,US: Spike
+#EXTINF:-1,Spike
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1062.ts
-#EXTINF:-1,US: TNT
+#EXTINF:-1,TNT
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1096.ts
-#EXTINF:-1,US: AMC
+#EXTINF:-1,AMC
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1097.ts
-#EXTINF:-1,US: TBS
+#EXTINF:-1,TBS
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1098.ts
-#EXTINF:-1,US: SYFY
+#EXTINF:-1,SYFY
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1095.ts
-#EXTINF:-1,US: Bravo HD
+#EXTINF:-1,Bravo HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1055.ts
-#EXTINF:-1,US: KTLA /CW
+#EXTINF:-1,KTLA /CW
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1089.ts
-#EXTINF:-1,US: BYU TV
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1085.ts
-#EXTINF:-1,US: FOX
+#EXTINF:-1,FOX
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1101.ts
-#EXTINF:-1,US: CW
+#EXTINF:-1,CW
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1071.ts
-#EXTINF:-1,US: E!
+#EXTINF:-1,E!
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1102.ts
-#EXTINF:-1,US: Fox HD
+#EXTINF:-1,Fox HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1093.ts
-#EXTINF:-1,US: Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1103.ts
-#EXTINF:-1,US: Toonami Aftermath
+#EXTINF:-1,Toonami Aftermath
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1105.ts
-#EXTINF:-1,US: Nick
+#EXTINF:-1,Nick
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1064.ts
-#EXTINF:-1,US: CHCH HD
+#EXTINF:-1,CHCH HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1065.ts
-#EXTINF:-1,US: Food Network HD
+#EXTINF:-1,Food Network HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1084.ts
-#EXTINF:-1,US: Travel Channel
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1100.ts
-#EXTINF:-1,US: National Geographic
+#EXTINF:-1,National Geographic
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1076.ts
-#EXTINF:-1,US: Discovery Channel HD
+#EXTINF:-1,Discovery Channel HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1080.ts
-#EXTINF:-1,US: Discovery Science HD
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1081.ts
-#EXTINF:-1,US: Investigation Discovery
+#EXTINF:-1,Investigation Discovery
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1082.ts
-#EXTINF:-1,US: Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1078.ts
-#EXTINF:-1,US: HISTORY
+#EXTINF:-1,HISTORY
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1077.ts
-#EXTINF:-1,US: DIY Network
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1079.ts
-#EXTINF:-1,US: A&E
+#EXTINF:-1,A&E
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1083.ts
-#EXTINF:-1,US: CNN
+#EXTINF:-1,CNN
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1107.ts
-#EXTINF:-1,US: CNBC
+#EXTINF:-1,CNBC
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1090.ts
-#EXTINF:-1,US: ABC
+#EXTINF:-1,ABC
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1092.ts
-#EXTINF:-1,US: ABC News
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1091.ts
-#EXTINF:-1,US:  Bloomberg
+#EXTINF:-1,Bloomberg
 http://217.23.12.7:58080/live/suca/S2079n8Kcf/1108.ts
-#EXTINF:-1,US: WGN
-http://217.23.12.7:58080/live/suca/S2079n8Kcf/1104.ts
