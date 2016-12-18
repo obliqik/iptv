@@ -1,224 +1,175 @@
 #EXTM3U
-##EXTINF:-1, -- [COLOR gold]Premium TV[/COLOR] --
-#EXTINF:-1,US: HBO
+#EXTINF:-1,-1US: HBO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.ts
-#EXTINF:-1,US: HBO 2 Comedy
+#EXTINF:-1,HBO 2 Comedy
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9433.ts
-#EXTINF:-1,US: HBO Comedy
+#EXTINF:-1,HBO Comedy
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9390.ts
-#EXTINF:-1,US: HBO Comedy East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/773.ts
-#EXTINF:-1,US: HBO Family East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/772.ts
-#EXTINF:-1,US: HBO West
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/771.ts
-#EXTINF:-1,US: HBO Signature
+#EXTINF:-1,HBO Signature
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9389.ts
-#EXTINF:-1,US: HBO Zone
+#EXTINF:-1,HBO Zone
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9432.ts
-#EXTINF:-1,US: Cinemax ActionMax
+#EXTINF:-1,Cinemax ActionMax
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9438.ts
-#EXTINF:-1,US: Cinemax East
+#EXTINF:-1,Cinemax East
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9437.ts
-#EXTINF:-1,US: Cinemax West
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/775.ts
-#EXTINF:-1,US: Showtime
+#EXTINF:-1,Showtime
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9429.ts
-#EXTINF:-1,US: Showtime West
+#EXTINF:-1,Showtime West
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9428.ts
-#EXTINF:-1,US: Showtime 2 East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/778.ts
-#EXTINF:-1,US: Showtime Extreme East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/779.ts
-#EXTINF:-1,US: Showtime Showcase East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/776.ts
-#EXTINF:-1,US: Starz Cinema
+#EXTINF:-1,Starz Cinema
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9426.ts
-#EXTINF:-1,US: Starz East
+#EXTINF:-1,Starz East
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9425.ts
-#EXTINF:-1,US: Starz Edge
+#EXTINF:-1,Starz Edge
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9424.ts
-#EXTINF:-1,US: Starz Comedy East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/783.ts
-#EXTINF:-1,US: Starz Edge East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/782.ts
-#EXTINF:-1,US: Starz Kids & Family East
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/784.ts
-#EXTINF:-1,US: BRAVO
+#EXTINF:-1,BRAVO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9408.ts
-
-#E#EXTINF:-1, -- [COLOR dodgerblue]SPORTS TV[/COLOR] --
-#EXTINF:-1,US: NFL Network
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/761.ts
-#EXTINF:-1,US: NFL Sunday Ticket 1
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/817.ts
-#EXTINF:-1,US: NFL Sunday Ticket 2
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/818.ts
-#EXTINF:-1,US: NFL Sunday Ticket 3
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/819.ts
-#EXTINF:-1,US: NFL Sunday Ticket 4
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/820.ts
-#EXTINF:-1,US: NFL Sunday Ticket 5
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/821.ts
-#EXTINF:-1,US: NFL Sunday Ticket 6
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/822.ts
-#EXTINF:-1,US: NHL Network
-http://199.180.114.174:8000/live/LTXplayerIPTV/LTXplayerIPTV/762.ts
-
-#E#EXTINF:-1, -- [COLOR orange]Standard TV[/COLOR] --
-#EXTINF:-1,US:USA Network
+#EXTINF:-1,-1US:USA Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9378.ts
-#EXTINF:-1,US: A&E
+#EXTINF:-1,A&E
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9399.ts
-#EXTINF:-1,US: ABC
+#EXTINF:-1,ABC
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9401.ts
-#EXTINF:-1,US: ABC Family
+#EXTINF:-1,ABC Family
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9392.ts
-#EXTINF:-1,US: ABC Spark
+#EXTINF:-1,ABC Spark
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9457.ts
-#EXTINF:-1,US: AFN Movie
+#EXTINF:-1,AFN Movie
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9400.ts
-#EXTINF:-1,US: AFN Prime Atlantic
+#EXTINF:-1,AFN Prime Atlantic
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9453.ts
-#EXTINF:-1,US: AFN Prime Pacific
+#EXTINF:-1,AFN Prime Pacific
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9452.ts
-#EXTINF:-1,US: AFN Spectrum
+#EXTINF:-1,AFN Spectrum
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9451.ts
-#EXTINF:-1,US: AFN Sports 2
+#EXTINF:-1,AFN Sports 2
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9410.ts
-#EXTINF:-1,US: Al Jazeera English
+#EXTINF:-1,Al Jazeera English
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9469.ts
-#EXTINF:-1,US: AMC
+#EXTINF:-1,AMC
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9409.ts
-#EXTINF:-1,US: Animal Planet
+#EXTINF:-1,Animal Planet
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9377.ts
-#EXTINF:-1,US: Bloomberg
+#EXTINF:-1,Bloomberg
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9423.ts
-#EXTINF:-1,US: C-Span 1
+#EXTINF:-1,C-Span 1
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9441.ts
-#EXTINF:-1,US: C-Span 2
+#EXTINF:-1,C-Span 2
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9442.ts
-#EXTINF:-1,US: C-Span 3
+#EXTINF:-1,C-Span 3
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9443.ts
-#EXTINF:-1,US: Capital TV
+#EXTINF:-1,Capital TV
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9440.ts
-#EXTINF:-1,US: Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9380.ts
-#EXTINF:-1,US: CBN
+#EXTINF:-1,CBN
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9462.ts
-#EXTINF:-1,US: CBS
+#EXTINF:-1,CBS
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9396.ts
-#EXTINF:-1,US: CBS Action
+#EXTINF:-1,CBS Action
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9398.ts
-#EXTINF:-1,US: CBS Drama
+#EXTINF:-1,CBS Drama
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9397.ts
-#EXTINF:-1,US: CBS News
+#EXTINF:-1,CBS News
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9379.ts
-#EXTINF:-1,US: Chch
+#EXTINF:-1,Chch
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9463.ts
-#EXTINF:-1,US: CNN
+#EXTINF:-1,CNN
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9403.ts
-#EXTINF:-1,US: Comedy Central
+#EXTINF:-1,Comedy Central
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9445.ts
-#EXTINF:-1,US: Crime & Investigation
+#EXTINF:-1,Crime & Investigation
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9446.ts
-#EXTINF:-1,US: CW
+#EXTINF:-1,CW
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9407.ts
-#EXTINF:-1,US: DDiscovery Science
+#EXTINF:-1,DDiscovery Science
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9414.ts
-#EXTINF:-1,US: Discovery
+#EXTINF:-1,Discovery
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9385.ts
-#EXTINF:-1,US: Discovery Velocity
+#EXTINF:-1,Discovery Velocity
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9447.ts
-#EXTINF:-1,US: Disney Channel
-http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9431.ts
-#EXTINF:-1,US: ESPN
+#EXTINF:-1,ESPN
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9395.ts
-#EXTINF:-1,US: ESPN 2
+#EXTINF:-1,ESPN 2
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9412.ts
-#EXTINF:-1,US: ESPN News
-http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9413.ts
-#EXTINF:-1,US: Fight network
+#EXTINF:-1,Fight network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9436.ts
-#EXTINF:-1,US: Food Network
+#EXTINF:-1,Food Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9393.ts
-#EXTINF:-1,US: FOX
+#EXTINF:-1,FOX
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9422.ts
-#EXTINF:-1,US: FOX News
+#EXTINF:-1,FOX News
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9394.ts
-#EXTINF:-1,US: Fox sport 1
+#EXTINF:-1,Fox sport 1
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9384.ts
-#EXTINF:-1,US: FX
+#EXTINF:-1,FX
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9435.ts
-#EXTINF:-1,US: Hallmark
+#EXTINF:-1,Hallmark
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9391.ts
-#EXTINF:-1,US: History
+#EXTINF:-1,History
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9418.ts
-#EXTINF:-1,US: HSN YT Live
+#EXTINF:-1,HSN YT Live
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9458.ts
-#EXTINF:-1,US: Lifetime
+#EXTINF:-1,Lifetime
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9430.ts
-#EXTINF:-1,US: Movietime
+#EXTINF:-1,Movietime
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9439.ts
-#EXTINF:-1,US: MTV Classic
+#EXTINF:-1,MTV Classic
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9419.ts
-#EXTINF:-1,US: NASA TV
+#EXTINF:-1,NASA TV
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9456.ts
-#EXTINF:-1,US: Nat Geo
+#EXTINF:-1,Nat Geo
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9420.ts
-#EXTINF:-1,US: NBA TV
+#EXTINF:-1,NBA TV
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9434.ts
-#EXTINF:-1,US: NBC
+#EXTINF:-1,NBC
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9402.ts
-#EXTINF:-1,US: NBC Golf
+#EXTINF:-1,NBC Golf
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9448.ts
-#EXTINF:-1,US: Newsmax
+#EXTINF:-1,Newsmax
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9459.ts
-#EXTINF:-1,US: OWN Network
+#EXTINF:-1,OWN Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9387.ts
-#EXTINF:-1,US: NFL Now
+#EXTINF:-1,NFL Now
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9411.ts
-#EXTINF:-1,US: Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9444.ts
-#EXTINF:-1,US: Poker Central
+#EXTINF:-1,Poker Central
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9449.ts
-#EXTINF:-1,US: Press TV
+#EXTINF:-1,Press TV
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9468.ts
-#EXTINF:-1,US: Rev'n
-http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9464.ts
-#EXTINF:-1,US: RT Documentary
+#EXTINF:-1,RT Documentary
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9450.ts
-#EXTINF:-1,US: RT International
+#EXTINF:-1,RT International
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9467.ts
-#EXTINF:-1,US: RT Usa
+#EXTINF:-1,RT Usa
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9465.ts
-#EXTINF:-1,US: Spike
+#EXTINF:-1,Spike
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9421.ts
-#EXTINF:-1,US: Sports Net 360
+#EXTINF:-1,Sports Net 360
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9383.ts
-#EXTINF:-1,US: SportsNet One
+#EXTINF:-1,SportsNet One
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9427.ts
-#EXTINF:-1,US: SYFY
+#EXTINF:-1,SYFY
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9406.ts
-#EXTINF:-1,US: TBN
+#EXTINF:-1,TBN
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9461.ts
-#EXTINF:-1,US: TBS
-http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9404.ts
-#EXTINF:-1,US: The Weather Channel
+#EXTINF:-1,The Weather Channel
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9416.ts
-#EXTINF:-1,US: The Weather Network
+#EXTINF:-1,The Weather Network
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9417.ts
-#EXTINF:-1,US: TLC
+#EXTINF:-1,TLC
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9386.ts
-#EXTINF:-1,US: TNT
+#EXTINF:-1,TNT
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9405.ts
-#EXTINF:-1,US: TRT World
+#EXTINF:-1,TRT World
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9466.ts
-#EXTINF:-1,US: TRU TV
+#EXTINF:-1,TRU TV
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9460.ts
-#EXTINF:-1,US: Weather Nation
+#EXTINF:-1,Weather Nation
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9415.ts
-#EXTINF:-1,US: WWE
+#EXTINF:-1,WWE
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9382.ts
-#EXTINF:-1,US:Travel Channel
+#EXTINF:-1,Travel Channel
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9381.ts
