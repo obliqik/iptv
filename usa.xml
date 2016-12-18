@@ -12,4 +12,83 @@
          <title>USA : Starz Edge HD</title> 
          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
 </item> 
- 
+
+       <item> 
+         <title>USA : HBO</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : HBO 2 Comedy</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9433.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : HBO Comedy</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9390.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+
+
+       <item> 
+         <title>USA : HBO Signature</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9389.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : HBO Zone</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9432.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : Cinemax ActionMax</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9438.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+
+       <item> 
+         <title>USA : Cinemax East</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9437.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : Showtime</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9429.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : Showtime West</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9428.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item>
+
+       <item> 
+         <title>USA : Starz Cinema</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9426.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : Starz East</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9425.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : Starz Edge</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9424.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item>
+
+       <item> 
+         <title>USA : OWN Network</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9387.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : OWN Network HD</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1615.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : USA Network</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9378.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item>
+
+       <item> 
+         <title>USA : SYFY</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9406.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+       <item> 
+         <title>USA : TNT</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9405.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item> 
+        <item> 
+         <title>USA : NICKELODEN HD</title> 
+         <link>plugin://plugin.video.f4mTester/?url=http://151.80.22.45:9900/live/525/525/19400.tsDOWNLOADER&amp;name=USA : USA NETWORK HD*</link> 
+</item>
+
