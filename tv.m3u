@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,-1US: HBO
+#EXTINF:-1,HBO
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9388.ts
 #EXTINF:-1,HBO 2 Comedy
 http://thrones.ddnss.org:8000/live/thrones2/j0P6qYBf6M/9433.ts
