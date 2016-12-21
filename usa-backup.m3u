@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,HBO HD
 http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
 #EXTINF:-1,Starz Kids & Family HD
@@ -24,9 +23,7 @@ http://151.80.22.45:9900/live/525/525/19390.ts
 http://151.80.22.45:9900/live/525/525/19398.ts
 #EXTINF:-1,USA SYFY HD
 http://151.80.22.45:9900/live/525/525/19399.ts
-#EXTINF:-1,USA 
-
-#EXTINF:-1,USA Network (US)
+#EXTINF:-1,-1USA Network (US)
 http://151.80.22.45:9900/live/525/525/19401.ts
 #EXTINF:-1,USA HISTORY HD
 http://151.80.22.45:9900/live/525/525/19402.ts
@@ -200,10 +197,8 @@ http://5.39.70.216/live/Vivienne/Vivienne/1629.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1644.ts
 #EXTINF:-1,COMEDY CENTRAL HD
 http://5.39.70.216/live/Vivienne/Vivienne/1630.ts
-
 #EXTINF:-1,CNN HD
 http://5.39.70.216/live/Vivienne/Vivienne/1595.ts
-
 #EXTINF:-1,CARTOON NETWORK HD
 http://5.39.70.216/live/Vivienne/Vivienne/1632.ts
 #EXTINF:-1,C-SPAN 3 HD
