@@ -1,10 +1,2238 @@
 <streamingInfos>
  
-       <item> 
-         <title>USA : HBO</title> 
-         <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1620.tsDOWNLOADER&amp;name=USA : HBO HD*</link> 
-</item> 
-       <item> 
+        <item> 
+          <title>Sky Sports News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports F1 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports Box Office UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports Box Office UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>SkySpBoxOff (PPV Events Only)</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SkySpBoxOff (PPV Events&amp;streamtype=TSDOWNLOADER&amp;name=SkySpBoxOff (PPV Events Only)</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 5 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 4 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 3 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 2 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 1 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 UK</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports F1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports Mix</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports Mix</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 3 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 4 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Sports 5 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>BT Sport 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 HD</link> 
+      </item> 
+        <item> 
+          <title>BT Sport 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 HD</link> 
+      </item> 
+        <item> 
+          <title>BT Sport ESPN HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport ESPN HD</link> 
+      </item> 
+        <item> 
+          <title>Premier Sports</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Premier HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premier HD</link> 
+      </item> 
+        <item> 
+          <title>Premier Sports HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>ESPN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN</link> 
+      </item> 
+        <item> 
+          <title>Racing UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK</link> 
+      </item> 
+        <item> 
+          <title>Racing UK HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK HD</link> 
+      </item> 
+        <item> 
+          <title>At The Races</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=At The Races</link> 
+      </item> 
+        <item> 
+          <title>BoxNation</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BoxNation</link> 
+      </item> 
+        <item> 
+          <title>Liverpool FC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Liverpool FC</link> 
+      </item> 
+        <item> 
+          <title>MUTV HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV HD</link> 
+      </item> 
+        <item> 
+          <title>MUTV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV</link> 
+      </item> 
+        <item> 
+          <title>Chelsea TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chelsea TV</link> 
+      </item> 
+        <item> 
+          <title>BT Sports Extra</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports Extra</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>BT Sports ESPN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports ESPN</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>BT Sports 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>BT Sports 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>BT Sports 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=BT Sports 3</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>EuroSports 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,EuroSports&amp;streamtype=TSDOWNLOADER&amp;name=EuroSports 1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>EuroSports 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,EuroSports&amp;streamtype=TSDOWNLOADER&amp;name=EuroSports 2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Eir Sport 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eir Sport 1</link> 
+      </item> 
+        <item> 
+          <title>Eir Sport 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2182.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eir Sport 2</link> 
+      </item> 
+        <item> 
+          <title>eir Sport 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2255.ts&amp;streamtype=TSDOWNLOADER&amp;name=eir Sport 2 HD</link> 
+      </item> 
+        <item> 
+          <title>Motors TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV</link> 
+      </item> 
+        <item> 
+          <title>TCM</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+      </item> 
+        <item> 
+          <title>TCM 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM 1</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Showcase</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Showcase</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Sci-Fi &amp; Horror UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Sci-Fi &amp; Horror UK</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Sci-Fi &amp; Horror HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Sci-Fi &amp; Horror HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Premiere HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Premiere HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Greats HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Greats HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Greats</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Greats</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Family UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Family UK</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Family HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Family HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Drama &amp; Romance HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Drama &amp; Romance HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Disney UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney UK</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Disney HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Disney HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Crime &amp; Thriller HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Crime &amp; Thriller HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Crime &amp; Thriller</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Crime &amp; Thriller</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Comedy HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Comedy HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Action &amp; Adventure HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Action &amp; Adventure HD</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Action &amp; Adventure</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Action &amp; Adventure</link> 
+      </item> 
+        <item> 
+          <title>Sky Movies Select</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2010.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Movies Select</link> 
+      </item> 
+        <item> 
+          <title>Sky Atlantic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic</link> 
+      </item> 
+        <item> 
+          <title>Showcase</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=Showcase</link> 
+      </item> 
+        <item> 
+          <title>Sky1 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky1 1</link> 
+      </item> 
+        <item> 
+          <title>Film4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film4</link> 
+      </item> 
+        <item> 
+          <title>Film4 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2257.ts&amp;streamtype=TSDOWNLOADER&amp;name=Film4 1</link> 
+      </item> 
+        <item> 
+          <title>Movies 4 Men</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies 4 Men</link> 
+      </item> 
+        <item> 
+          <title>mov4men 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=mov4men 1</link> 
+      </item> 
+        <item> 
+          <title>Movies 24</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies 24</link> 
+      </item> 
+        <item> 
+          <title>True Movies1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Movies1</link> 
+      </item> 
+        <item> 
+          <title>horror channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=horror channel</link> 
+      </item> 
+        <item> 
+          <title>horror ch 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=horror ch 1</link> 
+      </item> 
+        <item> 
+          <title>Eden</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden</link> 
+      </item> 
+        <item> 
+          <title>Eden 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden 1</link> 
+      </item> 
+        <item> 
+          <title>Universal Plus 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal Plus 1</link> 
+      </item> 
+        <item> 
+          <title>Universal</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal</link> 
+      </item> 
+        <item> 
+          <title>CBS Reality</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality</link> 
+      </item> 
+        <item> 
+          <title>CBS Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama</link> 
+      </item> 
+        <item> 
+          <title>BBC One NI HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One NI HD</link> 
+      </item> 
+        <item> 
+          <title>CBS Action</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action</link> 
+      </item> 
+        <item> 
+          <title>BBC 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 1 HD</link> 
+      </item> 
+        <item> 
+          <title>BBC One</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One</link> 
+      </item> 
+        <item> 
+          <title>BBC Two</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two</link> 
+      </item> 
+        <item> 
+          <title>BBC Two HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD</link> 
+      </item> 
+        <item> 
+          <title>BBC  World News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC  World News</link> 
+      </item> 
+        <item> 
+          <title>BBC Entertainment</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Entertainment</link> 
+      </item> 
+        <item> 
+          <title>BBC 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 3</link> 
+      </item> 
+        <item> 
+          <title>BBC Four</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Four</link> 
+      </item> 
+        <item> 
+          <title>Channel 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4</link> 
+      </item> 
+        <item> 
+          <title>Channel 4 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 1</link> 
+      </item> 
+        <item> 
+          <title>Channel 4 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD</link> 
+      </item> 
+        <item> 
+          <title>Channel 5   24</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5   24</link> 
+      </item> 
+        <item> 
+          <title>Channel 5 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 1</link> 
+      </item> 
+        <item> 
+          <title>Channel 5 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD</link> 
+      </item> 
+        <item> 
+          <title>Channel 5 UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 UK</link> 
+      </item> 
+        <item> 
+          <title>Five</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2025.ts&amp;streamtype=TSDOWNLOADER&amp;name=Five</link> 
+      </item> 
+        <item> 
+          <title>ITV HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD</link> 
+      </item> 
+        <item> 
+          <title>ITV 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 1</link> 
+      </item> 
+        <item> 
+          <title>ITV2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD</link> 
+      </item> 
+        <item> 
+          <title>ITV 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2</link> 
+      </item> 
+        <item> 
+          <title>ITV2 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 1</link> 
+      </item> 
+        <item> 
+          <title>ITV 3 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 3 HD</link> 
+      </item> 
+        <item> 
+          <title>ITV 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 3</link> 
+      </item> 
+        <item> 
+          <title>ITV 3  1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 3  1</link> 
+      </item> 
+        <item> 
+          <title>ITV4 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD</link> 
+      </item> 
+        <item> 
+          <title>ITV 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 4</link> 
+      </item> 
+        <item> 
+          <title>ITV4 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 1</link> 
+      </item> 
+        <item> 
+          <title>ITV Encore  1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore  1</link> 
+      </item> 
+        <item> 
+          <title>ITV Encore HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore HD</link> 
+      </item> 
+        <item> 
+          <title>ITVBe 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe 1</link> 
+      </item> 
+        <item> 
+          <title>5 USA 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA 1</link> 
+      </item> 
+        <item> 
+          <title>5STAR 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=5STAR 1</link> 
+      </item> 
+        <item> 
+          <title>5 Star</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 Star</link> 
+      </item> 
+        <item> 
+          <title>RTE One</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE One</link> 
+      </item> 
+        <item> 
+          <title>RTE Two</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE Two</link> 
+      </item> 
+        <item> 
+          <title>RT1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT1</link> 
+      </item> 
+        <item> 
+          <title>RT2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT2</link> 
+      </item> 
+        <item> 
+          <title>UTV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV</link> 
+      </item> 
+        <item> 
+          <title>UTV HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV HD</link> 
+      </item> 
+        <item> 
+          <title>UTV Ireland</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV Ireland</link> 
+      </item> 
+        <item> 
+          <title>TV3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
+      </item> 
+        <item> 
+          <title>TG4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4</link> 
+      </item> 
+        <item> 
+          <title>Dave</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave</link> 
+      </item> 
+        <item> 
+          <title>More4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4</link> 
+      </item> 
+        <item> 
+          <title>Syfy UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy UK</link> 
+      </item> 
+        <item> 
+          <title>ITV Be</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Be</link> 
+      </item> 
+        <item> 
+          <title>E4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4</link> 
+      </item> 
+        <item> 
+          <title>ITV Encore</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore</link> 
+      </item> 
+        <item> 
+          <title>Sky One</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky One</link> 
+      </item> 
+        <item> 
+          <title>Sky Two</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Two</link> 
+      </item> 
+        <item> 
+          <title>Sky Living</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Living</link> 
+      </item> 
+        <item> 
+          <title>Sky Alibi</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Alibi</link> 
+      </item> 
+        <item> 
+          <title>Sky Art 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Art 1</link> 
+      </item> 
+        <item> 
+          <title>Sky 5 USA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 5 USA</link> 
+      </item> 
+        <item> 
+          <title>Pick TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick TV</link> 
+      </item> 
+        <item> 
+          <title>W 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2348.ts&amp;streamtype=TSDOWNLOADER&amp;name=W 1</link> 
+      </item> 
+        <item> 
+          <title>Comedy Central Xtra</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2029.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central Xtra</link> 
+      </item> 
+        <item> 
+          <title>ComedyCent 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyCent 1</link> 
+      </item> 
+        <item> 
+          <title>ComedyXtra 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=ComedyXtra 1</link> 
+      </item> 
+        <item> 
+          <title>Disney Chnl</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2249.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Chnl</link> 
+      </item> 
+        <item> 
+          <title>Disney Chnl 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Chnl 1</link> 
+      </item> 
+        <item> 
+          <title>Comedy Central</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+      </item> 
+        <item> 
+          <title>Cbeebies</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbeebies</link> 
+      </item> 
+        <item> 
+          <title>Cartoonito</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
+      </item> 
+        <item> 
+          <title>CN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CN</link> 
+      </item> 
+        <item> 
+          <title>Cartoon Network HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network HD</link> 
+      </item> 
+        <item> 
+          <title>Cartoon Network</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
+      </item> 
+        <item> 
+          <title>Boomerang</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
+      </item> 
+        <item> 
+          <title>Nick Jr 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr 1</link> 
+      </item> 
+        <item> 
+          <title>Nick Jr Too</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr Too</link> 
+      </item> 
+        <item> 
+          <title>Nick Jnr Peppa</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jnr Peppa</link> 
+      </item> 
+        <item> 
+          <title>Nick Junior</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior</link> 
+      </item> 
+        <item> 
+          <title>Nickelodeon 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon 1</link> 
+      </item> 
+        <item> 
+          <title>Nickelodeon</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
+      </item> 
+        <item> 
+          <title>Baby TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+      </item> 
+        <item> 
+          <title>POP</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=POP</link> 
+      </item> 
+        <item> 
+          <title>POP 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=POP 1</link> 
+      </item> 
+        <item> 
+          <title>Kix</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kix</link> 
+      </item> 
+        <item> 
+          <title>Kix 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kix 1</link> 
+      </item> 
+        <item> 
+          <title>Nick Toons</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Toons</link> 
+      </item> 
+        <item> 
+          <title>Tiny Pop</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiny Pop</link> 
+      </item> 
+        <item> 
+          <title>Tiny Pop 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiny Pop 1</link> 
+      </item> 
+        <item> 
+          <title>Disney XD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+      </item> 
+        <item> 
+          <title>Disney XD 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD 1</link> 
+      </item> 
+        <item> 
+          <title>Disney Junior</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
+      </item> 
+        <item> 
+          <title>Boomerang 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2217.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang 1</link> 
+      </item> 
+        <item> 
+          <title>Disney Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+      </item> 
+        <item> 
+          <title>Nat Geo 1hr</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo 1hr</link> 
+      </item> 
+        <item> 
+          <title>National Geographic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic</link> 
+      </item> 
+        <item> 
+          <title>Nat Geo Wild</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild</link> 
+      </item> 
+        <item> 
+          <title>History</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=History</link> 
+      </item> 
+        <item> 
+          <title>Discovery Science</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science</link> 
+      </item> 
+        <item> 
+          <title>Discovery Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link> 
+      </item> 
+        <item> 
+          <title>Discovery Investigation</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Investigation</link> 
+      </item> 
+        <item> 
+          <title>Discovery</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery</link> 
+      </item> 
+        <item> 
+          <title>Discovery 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery 1</link> 
+      </item> 
+        <item> 
+          <title>Discovery History</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2028.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery History</link> 
+      </item> 
+        <item> 
+          <title>Discovery Shed</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Shed</link> 
+      </item> 
+        <item> 
+          <title>Discovery Turbo</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Turbo</link> 
+      </item> 
+        <item> 
+          <title>Disc.Sci 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disc.Sci 1</link> 
+      </item> 
+        <item> 
+          <title>History US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=History US</link> 
+      </item> 
+        <item> 
+          <title>Animal Planet</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet</link> 
+      </item> 
+        <item> 
+          <title>History Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=History Channel</link> 
+      </item> 
+        <item> 
+          <title>True Crime</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Crime</link> 
+      </item> 
+        <item> 
+          <title>tru TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=tru TV</link> 
+      </item> 
+        <item> 
+          <title>tru TV 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=tru TV 1</link> 
+      </item> 
+        <item> 
+          <title>True Crime 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Crime 1</link> 
+      </item> 
+        <item> 
+          <title>Crime &amp; Investigiation</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime &amp; Investigiation</link> 
+      </item> 
+        <item> 
          <title>USA : OWN</title> 
          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1615.tsDOWNLOADER</link> 
 </item>
+        <item> 
+          <title>MTV 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV 1</link> 
+      </item> 
+        <item> 
+          <title>MTV 90s</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV 90s</link> 
+      </item> 
+        <item> 
+          <title>MTV CLASSIC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV CLASSIC</link> 
+      </item> 
+        <item> 
+          <title>MTV Music</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Music</link> 
+      </item> 
+        <item> 
+          <title>MTV Music 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Music 1</link> 
+      </item> 
+        <item> 
+          <title>MTV ROCKS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link> 
+      </item> 
+        <item> 
+          <title>MTV Dance</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance</link> 
+      </item> 
+        <item> 
+          <title>MTV Base</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Base</link> 
+      </item> 
+        <item> 
+          <title>MTV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+      </item> 
+        <item> 
+          <title>MTV Hits</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>VH1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+      </item> 
+        <item> 
+          <title>Vibe TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vibe TV</link> 
+      </item> 
+        <item> 
+          <title>VIVA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIVA</link> 
+      </item> 
+        <item> 
+          <title>The Box</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=The Box</link> 
+      </item> 
+        <item> 
+          <title>The Vault</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=The Vault</link> 
+      </item> 
+        <item> 
+          <title>Flava</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Flava</link> 
+      </item> 
+        <item> 
+          <title>Channel AKA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel AKA</link> 
+      </item> 
+        <item> 
+          <title>Channel i</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel i</link> 
+      </item> 
+        <item> 
+          <title>Chart Show TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chart Show TV</link> 
+      </item> 
+        <item> 
+          <title>Chartshw Dnce</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Charts&amp;streamtype=TSDOWNLOADER&amp;name=Chartshw Dnce</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2233.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>ShowBiz TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=ShowBiz TV</link> 
+      </item> 
+        <item> 
+          <title>Smash Hits!</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Smash Hits&amp;streamtype=TSDOWNLOADER&amp;name=Smash Hits!</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Scuzz</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=Scuzz</link> 
+      </item> 
+        <item> 
+          <title>Vintage TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vintage TV</link> 
+      </item> 
+        <item> 
+          <title>KISS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=KISS</link> 
+      </item> 
+        <item> 
+          <title>Box Hits</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Box Hits&amp;streamtype=TSDOWNLOADER&amp;name=Box Hits</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>Magic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Magic</link> 
+      </item> 
+        <item> 
+          <title>Flow TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2258.ts&amp;streamtype=TSDOWNLOADER&amp;name=Flow TV</link> 
+      </item> 
+        <item> 
+          <title>NOW Music</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOW Music</link> 
+      </item> 
+        <item> 
+          <title>Kerrang!</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kerrang!</link> 
+      </item> 
+        <item> 
+          <title>VEVO 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=VEVO 1</link> 
+      </item> 
+        <item> 
+          <title>Starz TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Starz TV</link> 
+      </item> 
+        <item> 
+          <title>4Music</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=4Music</link> 
+      </item> 
+        <item> 
+          <title>TLC 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC 1</link> 
+      </item> 
+        <item> 
+          <title>TLC 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC 2</link> 
+      </item> 
+        <item> 
+          <title>CBSN HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBSN HD</link> 
+      </item> 
+        <item> 
+          <title>CBS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS</link> 
+      </item> 
+        <item> 
+          <title>CBS Reality 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality 1</link> 
+      </item> 
+        <item> 
+          <title>E4 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 1</link> 
+      </item> 
+        <item> 
+          <title>4seven</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=4seven</link> 
+      </item> 
+        <item> 
+          <title>alibi 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2205.ts&amp;streamtype=TSDOWNLOADER&amp;name=alibi 1</link> 
+      </item> 
+        <item> 
+          <title>BEN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEN</link> 
+      </item> 
+        <item> 
+          <title>BET:BlackEntTv</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2214.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET:BlackEntTv</link> 
+      </item> 
+        <item> 
+          <title>Bike</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike</link> 
+      </item> 
+        <item> 
+          <title>Blaze</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Blaze</link> 
+      </item> 
+        <item> 
+          <title>Bloomberg</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bloomberg</link> 
+      </item> 
+        <item> 
+          <title>Box Upfront</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Box Upfront</link> 
+      </item> 
+        <item> 
+          <title>C4 l</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=C4 l</link> 
+      </item> 
+        <item> 
+          <title>Challenge</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge</link> 
+      </item> 
+        <item> 
+          <title>Challenge 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge 1</link> 
+      </item> 
+        <item> 
+          <title>CITV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITV</link> 
+      </item> 
+        <item> 
+          <title>Dave ja vu</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave ja vu</link> 
+      </item> 
+        <item> 
+          <title>Forces TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2259.ts&amp;streamtype=TSDOWNLOADER&amp;name=Forces TV</link> 
+      </item> 
+        <item> 
+          <title>More4 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4 1</link> 
+      </item> 
+        <item> 
+          <title>Lifetime 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime 1</link> 
+      </item> 
+        <item> 
+          <title>Irish TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2270.ts&amp;streamtype=TSDOWNLOADER&amp;name=Irish TV</link> 
+      </item> 
+        <item> 
+          <title>RT. News Now</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT. News Now</link> 
+      </item> 
+        <item> 
+          <title>RT HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT HD</link> 
+      </item> 
+        <item> 
+          <title>Notts TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Notts&amp;streamtype=TSDOWNLOADER&amp;name=Notts TV</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>QUEST 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST 1</link> 
+      </item> 
+        <item> 
+          <title>Really</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Really</link> 
+      </item> 
+        <item> 
+          <title>S4C HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=S4C HD</link> 
+      </item> 
+        <item> 
+          <title>See TV HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=See TV HD</link> 
+      </item> 
+        <item> 
+          <title>STV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=STV</link> 
+      </item> 
+        <item> 
+          <title>STV HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=STV HD</link> 
+      </item> 
+        <item> 
+          <title>Syfy 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy 1</link> 
+      </item> 
+        <item> 
+          <title>SYFY HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+      </item> 
+        <item> 
+          <title>Spike</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike</link> 
+      </item> 
+        <item> 
+          <title>True Entertainment</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Entertainment</link> 
+      </item> 
+        <item> 
+          <title>Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama</link> 
+      </item> 
+        <item> 
+          <title>True Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=True Drama</link> 
+      </item> 
+        <item> 
+          <title>Gold</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gold</link> 
+      </item> 
+        <item> 
+          <title>GOLD 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2261.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD 1</link> 
+      </item> 
+        <item> 
+          <title>Watch</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=Watch</link> 
+      </item> 
+        <item> 
+          <title>ID 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2269.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID 1</link> 
+      </item> 
+        <item> 
+          <title>ID</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID</link> 
+      </item> 
+        <item> 
+          <title>Quest</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Quest</link> 
+      </item> 
+        <item> 
+          <title>TLC UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC UK</link> 
+      </item> 
+        <item> 
+          <title>3e</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e</link> 
+      </item> 
+        <item> 
+          <title>Yesterday</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Yesterday</link> 
+      </item> 
+        <item> 
+          <title>Lifetime</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime</link> 
+      </item> 
+        <item> 
+          <title>YESTERDAY 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY 1</link> 
+      </item> 
+        <item> 
+          <title>FOX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+      </item> 
+        <item> 
+          <title>Travel Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel</link> 
+      </item> 
+        <item> 
+          <title>FX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX</link> 
+      </item> 
+        <item> 
+          <title>MY9</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=MY9</link> 
+      </item> 
+        <item> 
+          <title>Bravo</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bravo</link> 
+      </item> 
+        <item> 
+          <title>CW</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=CW</link> 
+      </item> 
+        <item> 
+          <title>PBS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=PBS</link> 
+      </item> 
+        <item> 
+          <title>AETV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=AETV</link> 
+      </item> 
+        <item> 
+          <title>Cormcen</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cormcen</link> 
+      </item> 
+        <item> 
+          <title>AMC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+      </item> 
+        <item> 
+          <title>ABC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABC</link> 
+      </item> 
+        <item> 
+          <title>USA-</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-</link> 
+      </item> 
+        <item> 
+          <title>TBS US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS US</link> 
+      </item> 
+        <item> 
+          <title>Syfy US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy US</link> 
+      </item> 
+        <item> 
+          <title>Spike US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike US</link> 
+      </item> 
+        <item> 
+          <title>Nick US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick US</link> 
+      </item> 
+        <item> 
+          <title>Nat Geo US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo US</link> 
+      </item> 
+        <item> 
+          <title>Lifetime US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime US</link> 
+      </item> 
+        <item> 
+          <title>FOX US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX US</link> 
+      </item> 
+        <item> 
+          <title>ESPN US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN US</link> 
+      </item> 
+        <item> 
+          <title>Discovery US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery US</link> 
+      </item> 
+        <item> 
+          <title>CNN US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN US</link> 
+      </item> 
+        <item> 
+          <title>Animal Planet US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet US</link> 
+      </item> 
+        <item> 
+          <title>ABC News US</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABC News US</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 1</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 1 HD</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2400.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 2</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 2 HD</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 3</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 3 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2403.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 3 HD</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2404.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 4</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 4 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 4 HD</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 5</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 5</link> 
+      </item> 
+        <item> 
+          <title>USA:NBC XTRA 5 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBC XTRA 5 HD</link> 
+      </item> 
+        <item> 
+          <title>USA:NBCSN HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NBCSN HD</link> 
+      </item> 
+        <item> 
+          <title>Skynet HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Skynet HD</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 1 SD ONUR AIR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 1 SD ONUR AIR</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 1 HD PEGASUS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 1 HD PEGASUS</link> 
+      </item> 
+        <item> 
+          <title>LIGTV  HD THY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV  HD THY</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 1 HD ANADOLU JET</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 1 HD ANADOLU JET</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 2 HD</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 3 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 3 HD</link> 
+      </item> 
+        <item> 
+          <title>LIGTV 4 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGTV 4 HD</link> 
+      </item> 
+        <item> 
+          <title>LIG TV HD +1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIG TV HD +1</link> 
+      </item> 
+        <item> 
+          <title>LIG TV 2 HD +2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIG TV 2 HD +2</link> 
+      </item> 
+        <item> 
+          <title>LIG TV 3 HD  +3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIG TV 3 HD  +3</link> 
+      </item> 
+        <item> 
+          <title>SMART SPOR 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=SMART SPOR 1</link> 
+      </item> 
+        <item> 
+          <title>SMART SPOR 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=SMART SPOR 2</link> 
+      </item> 
+        <item> 
+          <title>TR SMART SPOR 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR SMART SPOR 1</link> 
+      </item> 
+        <item> 
+          <title>TR SMART SPOR  2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR SMART SPOR  2</link> 
+      </item> 
+        <item> 
+          <title>TVBU SPOR 1 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/2056.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVBU SPOR 1 HD</link> 
+      </item> 
+        <item> 
+          <title>TVBU SPOR 2 HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVBU SPOR 2 HD</link> 
+      </item> 
+        <item> 
+          <title>FB TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=FB TV</link> 
+      </item> 
+        <item> 
+          <title>BJK TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=BJK TV</link> 
+      </item> 
+        <item> 
+          <title>GS TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=GS TV</link> 
+      </item> 
+        <item> 
+          <title>BURSA SPOR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BURSA SPOR</link> 
+      </item> 
+        <item> 
+          <title>FANATIK TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=FANATIK TV</link> 
+      </item> 
+        <item> 
+          <title>TRT SPOR HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRT SPOR HD</link> 
+      </item> 
+        <item> 
+          <title>NTV SPOR HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=NTV SPOR HD</link> 
+      </item> 
+        <item> 
+          <title>A SPOR HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=A SPOR HD</link> 
+      </item> 
+        <item> 
+          <title>TJK TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.nexa.space:8000/live/sultan/gokmen/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=TJK TV</link> 
+      </item> 
+        <item> 
+          <title>UK-L: 4 SEVEN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9335.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: 4 SEVEN</link> 
+      </item> 
+        <item> 
+          <title>UK-L: 5STAR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: 5STAR</link> 
+      </item> 
+        <item> 
+          <title>UK-L: Discovery Shed</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: Discovery Shed</link> 
+      </item> 
+        <item> 
+          <title>UK-L: POP</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9409.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: POP</link> 
+      </item> 
+        <item> 
+          <title>UK-L: TLC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: TLC</link> 
+      </item> 
+        <item> 
+          <title>UK-L: Tru TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-L: Tru TV</link> 
+      </item> 
+        <item> 
+          <title>UK: 3E</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9320.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3E</link> 
+      </item> 
+        <item> 
+          <title>UK: 4E</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4E</link> 
+      </item> 
+        <item> 
+          <title>UK: 5 USA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 USA</link> 
+      </item> 
+        <item> 
+          <title>UK: Al-Jazeera English</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9324.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Al-Jazeera English</link> 
+      </item> 
+        <item> 
+          <title>UK: ALIBI</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9325.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI</link> 
+      </item> 
+        <item> 
+          <title>UK: ANIMAL PLANET</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9336.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ANIMAL PLANET</link> 
+      </item> 
+        <item> 
+          <title>UK: At the Races</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9337.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: At the Races</link> 
+      </item> 
+        <item> 
+          <title>UK: Baby TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9338.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV</link> 
+      </item> 
+        <item> 
+          <title>UK: BBC 1HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9339.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1HD</link> 
+      </item> 
+        <item> 
+          <title>UK: BBC 2HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9340.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2HD</link> 
+      </item> 
+        <item> 
+          <title>UK: BBC 3HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9341.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3HD</link> 
+      </item> 
+        <item> 
+          <title>UK: BBC 4HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9342.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4HD</link> 
+      </item> 
+        <item> 
+          <title>UK: Bloomberg</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9343.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bloomberg</link> 
+      </item> 
+        <item> 
+          <title>UK: BOOMERANG</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9344.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOOMERANG</link> 
+      </item> 
+        <item> 
+          <title>UK: Box Nation</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9345.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Box Nation</link> 
+      </item> 
+        <item> 
+          <title>UK: BT Europe HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9346.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Europe HD</link> 
+      </item> 
+        <item> 
+          <title>UK: BT Sports 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports 1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9347.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: BT SPORTS 1HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9319.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 1HD</link> 
+      </item> 
+        <item> 
+          <title>UK: BT Sports 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports 2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9348.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: BT Sports ESPN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports ESPN</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9349.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: BT SPORTS EXTRA 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9350.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EXTRA 1</link> 
+      </item> 
+        <item> 
+          <title>UK: Cartoon Network</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9351.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network</link> 
+      </item> 
+        <item> 
+          <title>UK: Cbeeies</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9438.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cbeeies</link> 
+      </item> 
+        <item> 
+          <title>UK: CBS Action</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9352.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Action</link> 
+      </item> 
+        <item> 
+          <title>UK: CBS DRAMA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9353.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA</link> 
+      </item> 
+        <item> 
+          <title>UK: CBS REALITY</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY</link> 
+      </item> 
+        <item> 
+          <title>UK: CHALLENGE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHALLENGE</link> 
+      </item> 
+        <item> 
+          <title>UK: Channel 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4</link> 
+      </item> 
+        <item> 
+          <title>UK: CHANNEL 5HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5HD</link> 
+      </item> 
+        <item> 
+          <title>UK: Chelsea</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea</link> 
+      </item> 
+        <item> 
+          <title>UK: CITV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CITV</link> 
+      </item> 
+        <item> 
+          <title>UK: CNBC Europe</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNBC Europe</link> 
+      </item> 
+        <item> 
+          <title>UK: CNN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNN</link> 
+      </item> 
+        <item> 
+          <title>UK: CNN News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9362.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNN News</link> 
+      </item> 
+        <item> 
+          <title>UK: Comedy Central</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9363.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central</link> 
+      </item> 
+        <item> 
+          <title>UK: Dave</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dave</link> 
+      </item> 
+        <item> 
+          <title>UK: Discovery</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery</link> 
+      </item> 
+        <item> 
+          <title>UK: Discovery History</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
+      </item> 
+        <item> 
+          <title>UK: Discovery Home&amp;Health</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Home&amp;Health</link> 
+      </item> 
+        <item> 
+          <title>UK: Discovery Science</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science</link> 
+      </item> 
+        <item> 
+          <title>UK: DISCOVERY TURBO</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY TURBO</link> 
+      </item> 
+        <item> 
+          <title>UK: Disney Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
+      </item> 
+        <item> 
+          <title>UK: Disney Junior</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior</link> 
+      </item> 
+        <item> 
+          <title>UK: DISNEY XD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD</link> 
+      </item> 
+        <item> 
+          <title>UK: DMAX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX</link> 
+      </item> 
+        <item> 
+          <title>UK: DRAMA UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DRAMA UK</link> 
+      </item> 
+        <item> 
+          <title>UK: E!</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E!</link> 
+      </item> 
+        <item> 
+          <title>UK: Eden</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden</link> 
+      </item> 
+        <item> 
+          <title>UK: Eurosport</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9377.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport</link> 
+      </item> 
+        <item> 
+          <title>UK: EuroSports2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: EuroSports&amp;streamtype=TSDOWNLOADER&amp;name=UK: EuroSports2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9378.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Film 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9379.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4</link> 
+      </item> 
+        <item> 
+          <title>UK: Flava</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Flava</link> 
+      </item> 
+        <item> 
+          <title>UK: Food Network</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9380.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network</link> 
+      </item> 
+        <item> 
+          <title>UK: FOX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9441.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX</link> 
+      </item> 
+        <item> 
+          <title>UK: Fox News</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fox News</link> 
+      </item> 
+        <item> 
+          <title>UK: GOLD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9382.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOLD</link> 
+      </item> 
+        <item> 
+          <title>UK: H2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2</link> 
+      </item> 
+        <item> 
+          <title>UK: HEART TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HEART TV</link> 
+      </item> 
+        <item> 
+          <title>UK: History</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9330.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History</link> 
+      </item> 
+        <item> 
+          <title>UK: Horror Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9385.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel</link> 
+      </item> 
+        <item> 
+          <title>UK: Investigation Discovery</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9386.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV 1HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9387.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1HD</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV 2HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2HD</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9389.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9390.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV BE HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV BE HD</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV Choice</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Choice</link> 
+      </item> 
+        <item> 
+          <title>UK: ITV ENCORE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV ENCORE</link> 
+      </item> 
+        <item> 
+          <title>UK: LFC TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LFC TV</link> 
+      </item> 
+        <item> 
+          <title>UK: LONDON LIVE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LONDON LIVE</link> 
+      </item> 
+        <item> 
+          <title>UK: MORE 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9395.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE 4</link> 
+      </item> 
+        <item> 
+          <title>UK: MOVIES 4 MEN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES 4 MEN</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Base</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Classic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Dance</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9333.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Hits</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9399.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Music</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music</link> 
+      </item> 
+        <item> 
+          <title>UK: MTV Rocks</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9401.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Rocks</link> 
+      </item> 
+        <item> 
+          <title>UK: MUTV FC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9402.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV FC</link> 
+      </item> 
+        <item> 
+          <title>UK: Nat Geo Wild</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9403.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild</link> 
+      </item> 
+        <item> 
+          <title>UK: National Geographic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9404.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic</link> 
+      </item> 
+        <item> 
+          <title>UK: Nick Jr.too</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr.too</link> 
+      </item> 
+        <item> 
+          <title>UK: Nick Junior</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9405.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Junior</link> 
+      </item> 
+        <item> 
+          <title>UK: Nickelodeon</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9406.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
+      </item> 
+        <item> 
+          <title>UK: NickToons</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9407.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NickToons</link> 
+      </item> 
+        <item> 
+          <title>UK: PICK TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9408.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PICK TV</link> 
+      </item> 
+        <item> 
+          <title>UK: Premier Sports</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9411.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Premier Sports HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9410.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Quest</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9412.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest</link> 
+      </item> 
+        <item> 
+          <title>UK: Racing UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9413.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK</link> 
+      </item> 
+        <item> 
+          <title>UK: Real-Lives</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9414.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real-Lives</link> 
+      </item> 
+        <item> 
+          <title>UK: Really</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9332.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really</link> 
+      </item> 
+        <item> 
+          <title>UK: RTE JUNIOR</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9415.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE JUNIOR</link> 
+      </item> 
+        <item> 
+          <title>UK: Rte One</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9416.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rte One</link> 
+      </item> 
+        <item> 
+          <title>UK: Rte two</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9417.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rte two</link> 
+      </item> 
+        <item> 
+          <title>UK: Russia Today</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Russia Today</link> 
+      </item> 
+        <item> 
+          <title>UK: SCUZZ</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9331.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SCUZZ</link> 
+      </item> 
+        <item> 
+          <title>UK: Setanta Sport Ireland</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9418.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Sport Ireland</link> 
+      </item> 
+        <item> 
+          <title>UK: SetantaSports</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: SetantaSports&amp;streamtype=TSDOWNLOADER&amp;name=UK: SetantaSports</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9419.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: SKY 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9420.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY 1</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9421.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Action</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Action</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Arts</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9423.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Atlantic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9424.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Box Office</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9443.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Box Office</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Disney</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Family</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9426.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Family</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Living (UK)</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9427.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living (UK)</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Movies Comedy</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9428.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Movies Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9429.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Movies Premiere  1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9430.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere  1</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Movies Sci-Fi</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9431.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky MoviesGreats HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky MoviesGreats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MoviesGreats HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9432.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: SKY NEWS HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9433.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY NEWS HD</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Premiere Movies</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9434.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premiere Movies</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Select</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9435.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Select</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Showcase</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9436.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Showcase</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sport News HQ</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9444.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport News HQ</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9445.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 1HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9446.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9447.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 2HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9448.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9449.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 3HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9450.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9451.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 4HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9452.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 5</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9453.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports 5HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5HD</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9454.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports F1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9455.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: SKY SPORTS F1-HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS F1-HD</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Sports Mix</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Mix</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9437.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Sky Thrill</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Thrill</link> 
+      </item> 
+        <item> 
+          <title>UK: SONY MOVIES</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SONY MOVIES</link> 
+      </item> 
+        <item> 
+          <title>UK: Spike</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike</link> 
+      </item> 
+        <item> 
+          <title>UK: Syfy</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy</link> 
+      </item> 
+        <item> 
+          <title>UK: TCM</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM</link> 
+      </item> 
+        <item> 
+          <title>UK: TG4</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9461.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4</link> 
+      </item> 
+        <item> 
+          <title>UK: THE BOX</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9329.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: THE BOX</link> 
+      </item> 
+        <item> 
+          <title>UK: THE VAULT</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9328.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: THE VAULT</link> 
+      </item> 
+        <item> 
+          <title>UK: Tiny Pop</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop</link> 
+      </item> 
+        <item> 
+          <title>UK: TRAVEL CHANNEL</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRAVEL CHANNEL</link> 
+      </item> 
+        <item> 
+          <title>UK: True Drama</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9327.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Drama</link> 
+      </item> 
+        <item> 
+          <title>UK: True Entertainment</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment</link> 
+      </item> 
+        <item> 
+          <title>UK: True Movies 1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1</link> 
+      </item> 
+        <item> 
+          <title>UK: True Movies 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2</link> 
+      </item> 
+        <item> 
+          <title>UK: TV3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3</link> 
+      </item> 
+        <item> 
+          <title>UK: VH1 Classic</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 Classic</link> 
+      </item> 
+        <item> 
+          <title>UK: VIVA the Hits!</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: VIVA the Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA the Hits!</link> 
+      </item> 
+        <item> 
+          <title></title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9472.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+      </item> 
+        <item> 
+          <title>UK: Watch</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch</link> 
+      </item> 
+        <item> 
+          <title>UK: YESTERDAY1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY1</link> 
+      </item> 
+        <item> 
+          <title>UK: YOUR TV</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9326.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YOUR TV</link> 
+      </item> 
+        <item> 
+          <title>UK:VH1</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:VH1</link> 
+      </item> 
+        <item> 
+          <title>==-USA-==</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name===-USA-==</link> 
+      </item> 
+        <item> 
+          <title>USA:Animal_Planet</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Animal_Planet</link> 
+      </item> 
+        <item> 
+          <title>USA:CBS_ACTION</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CBS_ACTION</link> 
+      </item> 
+        <item> 
+          <title>USA:CBS_DRAMA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CBS_DRAMA</link> 
+      </item> 
+        <item> 
+          <title>USA:Discovery_Channel</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1238.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Discovery_Channel</link> 
+      </item> 
+        <item> 
+          <title>USA:Discovery_Science</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Discovery_Science</link> 
+      </item> 
+        <item> 
+          <title>USA:HALLMARK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:HALLMARK</link> 
+      </item> 
+        <item> 
+          <title>USA:NASA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NASA</link> 
+      </item> 
+        <item> 
+          <title>USA:Show_Time</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:Show_Time</link> 
+      </item> 
+        <item> 
+          <title>USA:SyFy</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1235.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:SyFy</link> 
+      </item> 
+        <item> 
+          <title>USA:TBS</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:TBS</link> 
+      </item> 
+        <item> 
+          <title>USA:TLC</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:TLC</link> 
+      </item> 
+        <item> 
+          <title>USA:USA</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:USA</link> 
+      </item> 
+        <item> 
+          <title>USA:WWE</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/0800/0800/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:WWE</link> 
+      </item> 
