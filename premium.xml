@@ -1,4 +1,12 @@
 
+<streamingInfos>
+ 
+        <item> 
+          <title>Starz Kids & Family HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News</link> 
+</item> 
+
+
 #EXTINF:-1,Starz Kids & Family HD
 http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
 #EXTINF:-1,Starz HD
