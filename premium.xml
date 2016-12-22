@@ -3,19 +3,21 @@
  
         <item> 
           <title>Starz Kids & Family HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News</link> 
-</item> 
-
-
-#EXTINF:-1,Starz Kids & Family HD
-http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
-#EXTINF:-1,Starz HD
-http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
-#EXTINF:-1,Starz Edge HD
-http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
-#EXTINF:-1,SHOWTIME HD
-http://5.39.70.216/live/Vivienne/Vivienne/1614.ts
-#EXTINF:-1,Cinemax ThrillerMax HD
-http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
-#EXTINF:-1,Cinemax MoreMax HD
-http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>
+        <item> 
+          <title>Starz HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>        <item> 
+          <title>Starz Edge HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>        <item> 
+          <title>SHOWTIME HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>        <item> 
+          <title>Cinemax ThrillerMax HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>        <item> 
+          <title>Cinemax MoreMax HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+</item>
