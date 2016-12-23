@@ -1,32 +1,32 @@
 #EXTM3U
-#EXTINF:-1,OWN HD (Opera Winfery Network)
-http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
-#EXTINF:-1,Hbo Zone
-http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.ts
-#EXTINF:-1,HBO HD
-http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.ts
-#EXTINF:-1,Hallmark
-http://media-planete.ddns.net:5890/live/khabuhassan/skype/1860.ts
-#EXTINF:-1,HBO HD
-http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
 #EXTINF:-1,Hbo
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/84.ts
+#EXTINF:-1,HBO HD
+http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
+#EXTINF:-1,HBO HD
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.ts
 #EXTINF:-1,HBO 2
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/83.ts
 #EXTINF:-1,Hbo 3
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/82.ts
-#EXTINF:-1,Starz Kids & Family HD
-http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
+#EXTINF:-1,Hbo Zone
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.ts
 #EXTINF:-1,Starz HD
 http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
 #EXTINF:-1,Starz Edge HD
 http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
+#EXTINF:-1,Starz Kids & Family HD
+http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
 #EXTINF:-1,Cinemax ThrillerMax HD
 http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
 #EXTINF:-1,Cinemax MoreMax HD
 http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
 #EXTINF:-1,UNIVERSAL HD
 http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
+#EXTINF:-1,OWN HD (Opera Winfery Network)
+http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
+#EXTINF:-1,Hallmark
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1860.ts
 #EXTINF:-1,TBS HD
 http://151.80.22.45:9900/live/525/525/19390.ts
 #EXTINF:-1,USA TNT HD
@@ -79,12 +79,7 @@ http://151.80.22.45:9900/live/525/525/19427.ts
 http://151.80.22.45:9900/live/525/525/19428.ts
 #EXTINF:-1,Discovery Science HD
 http://151.80.22.45:9900/live/525/525/19430.ts
-#EXTINF:-1,BTN Sport HD
-http://151.80.22.45:9900/live/525/525/19434.ts
-#EXTINF:-1,TVO KIDS
-http://151.80.22.45:9900/live/525/525/17369.ts
-#EXTINF:-1,TMN ACTION
-http://151.80.22.45:9900/live/525/525/17370.ts
+
 #EXTINF:-1,NBA
 http://151.80.22.45:9900/live/525/525/17381.ts
 #EXTINF:-1,LMN
