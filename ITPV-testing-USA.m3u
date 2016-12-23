@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Hbo
+#EXTINF:-1,HBO
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/84.ts
 #EXTINF:-1,HBO HD
 http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
@@ -7,9 +7,11 @@ http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
 http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.ts
 #EXTINF:-1,HBO 2
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/83.ts
-#EXTINF:-1,Hbo 3
+#EXTINF:-1,HBO 3
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/82.ts
-#EXTINF:-1,Hbo Zone
+#EXTINF:-1,HBO FAMLY
+http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7263.ts
+#EXTINF:-1,HBO Zone
 http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.ts
 #EXTINF:-1,Starz HD
 http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
@@ -17,10 +19,16 @@ http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1577.ts
 #EXTINF:-1,Starz Kids & Family HD
 http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
+#EXTINF:-1,CineMAX WEST
+http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7271.ts
+#EXTINF:-1,CineMAX EAST
+http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7272.ts
 #EXTINF:-1,Cinemax ThrillerMax HD
 http://5.39.70.216/live/Vivienne/Vivienne/1597.ts
 #EXTINF:-1,Cinemax MoreMax HD
 http://5.39.70.216/live/Vivienne/Vivienne/1618.ts
+#EXTINF:-1,SHOWTIME HD
+http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/6937.ts
 #EXTINF:-1,UNIVERSAL HD
 http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
 #EXTINF:-1,OWN HD (Opera Winfery Network)
