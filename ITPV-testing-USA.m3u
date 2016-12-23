@@ -3,6 +3,12 @@
 http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
 #EXTINF:-1,HBO HD
 http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
+#EXTINF:-1,Hbo
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/84.ts
+#EXTINF:-1,HBO 2
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/83.ts
+#EXTINF:-1,Hbo 3
+http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/82.ts
 #EXTINF:-1,Starz Kids & Family HD
 http://5.39.70.216/live/Vivienne/Vivienne/1576.ts
 #EXTINF:-1,Starz HD
