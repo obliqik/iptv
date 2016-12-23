@@ -1,37 +1,36 @@
-
 <streamingInfos>
  
-        <item> 
-          <title>HBO Zone HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>   <item> 
-          <title>HBO Comedy HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>     <item> 
-          <title>Starz Encore HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>       <item> 
-          <title>Cinemax Action Max East</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>Starz HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>Starz Edge HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>SHOWTIME HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>         <item> 
-          <title>Cinemax ThrillerMax HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>Cinemax 5 StarMax</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>Cinemax East</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://super1cam.ddns.net:8000/live/omani/omani/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>        <item> 
-          <title>Cinemax MoreMax HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-</item>
+<item><title>HBO</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/84.tsDOWNLOADER</link> </item>
+<item><title>HBO HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1620.tsDOWNLOADER</link> </item>
+<item><title>HBO HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.tsDOWNLOADER</link> </item>
+<item><title>HBO 2</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/83.tsDOWNLOADER</link> </item>
+<item><title>HBO 3</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/82.tsDOWNLOADER</link> </item>   
+ <item><title>HBO Family</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7263.tsDOWNLOADER</link> </item>
+<item><title>HBO Zone</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.tsDOWNLOADER</link> </item>
+<item><title>Starz HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1599.tsDOWNLOADER</link> </item>
+<item><title>Starz Edge HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1577.tsDOWNLOADER</link> </item>
+<item><title>Starz Kids & Family HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1576.tsDOWNLOADER</link> </item>
+<item><title>Cinemax West</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7271.tsDOWNLOADER</link> </item>
+<item><title>Cinemax East</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7272.tsDOWNLOADER</link> </item>
+<item><title>Cinemax ThrillerMax HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1597.tsDOWNLOADER</link> </item>
+<item><title>Cinemax MoreMax HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1618.tsDOWNLOADER</link> </item>
+<item><title>Showtime HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/6937.tsDOWNLOADER</link> </item>
+<item><title>Universal HD</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1603.tsDOWNLOADER</link> </item>
+<item><title>OWN</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1615.tsDOWNLOADER</link> </item>
