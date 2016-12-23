@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,HBO
-http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/84.ts
 #EXTINF:-1,HBO HD
 http://5.39.70.216/live/Vivienne/Vivienne/1620.ts
-#EXTINF:-1,HBO HD
-http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.ts
 #EXTINF:-1,HBO 2
 http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/83.ts
 #EXTINF:-1,HBO 3
