@@ -1,5 +1,12 @@
 <streamingInfos>
- 
+        <item> 
+          <title>USA NETWORK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2203.tsDOWNLOADER&amp;name=USA NETWORK</link> 
+      </item>  
+         <item> 
+          <title>USA NETWORK UK</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/ml/ml/2203.tsDOWNLOADER&amp;name=USA NETWORK UK</link> 
+      </item> 
         <item> 
           <title>Sky Sports News</title> 
           <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News</link> 
