@@ -1,4 +1,87 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,USA-CNN_Live
+http://37.187.175.177:8000/live/hanger/hanger/2806.ts
+#EXTINF:-1,US-CNN News-intl.
+http://37.187.175.177:8000/live/hanger/hanger/191.ts
+#EXTINF:-1,USA-ABC_News
+http://37.187.175.177:8000/live/hanger/hanger/1063.ts
+#EXTINF:-1,USA-BBC-News
+http://37.187.175.177:8000/live/hanger/hanger/2071.ts
+#EXTINF:-1,USA-Bloomberg
+http://37.187.175.177:8000/live/hanger/hanger/1304.ts
+#EXTINF:-1,USA-RT_News
+http://37.187.175.177:8000/live/hanger/hanger/1910.ts
+#EXTINF:-1,USA_Al-jazeera
+http://37.187.175.177:8000/live/hanger/hanger/1536.ts
+#EXTINF:-1,cspan1
+http://37.187.175.177:8000/live/hanger/hanger/2734.ts
+#EXTINF:-1,cspan2
+http://37.187.175.177:8000/live/hanger/hanger/2735.ts
+#EXTINF:-1,cspan3
+http://37.187.175.177:8000/live/hanger/hanger/2736.ts
+#EXTINF:-1,US-TBS HD
+http://37.187.175.177:8000/live/hanger/hanger/2729.ts
+#EXTINF:-1,US-Bravo HD
+http://37.187.175.177:8000/live/hanger/hanger/2732.ts
+#EXTINF:-1,Usa- A&E hd
+http://37.187.175.177:8000/live/hanger/hanger/2637.ts
+#EXTINF:-1,US-Boston City TV
+http://37.187.175.177:8000/live/hanger/hanger/2737.ts
+#EXTINF:-1,US-AMG
+http://37.187.175.177:8000/live/hanger/hanger/2733.ts
+#EXTINF:-1,USA-Family E
+http://37.187.175.177:8000/live/hanger/hanger/2094.ts
+#EXTINF:-1,USA-HBO
+http://37.187.175.177:8000/live/hanger/hanger/827.ts
+#EXTINF:-1,USA-HBO1
+http://37.187.175.177:8000/live/hanger/hanger/2115.ts
+#EXTINF:-1,US-Family FE
+http://37.187.175.177:8000/live/hanger/hanger/1627.ts
+#EXTINF:-1,US-Hallmark HD
+http://37.187.175.177:8000/live/hanger/hanger/2393.ts
+#EXTINF:-1,US-WWE
+http://37.187.175.177:8000/live/hanger/hanger/2730.ts
+#EXTINF:-1,USA--NBA-US
+http://37.187.175.177:8000/live/hanger/hanger/1261.ts
+#EXTINF:-1,USA--AFL
+http://37.187.175.177:8000/live/hanger/hanger/1240.ts
+#EXTINF:-1,USA-NBCSN sport
+http://37.187.175.177:8000/live/hanger/hanger/2116.ts
+#EXTINF:-1,US-Sports Net
+http://37.187.175.177:8000/live/hanger/hanger/1625.ts
+#EXTINF:-1,USA-PAC-12 WS
+http://37.187.175.177:8000/live/hanger/hanger/2101.ts
+#EXTINF:-1,London live
+http://37.187.175.177:8000/live/hanger/hanger/2084.ts
+#EXTINF:-1,FOOD network
+http://37.187.175.177:8000/live/hanger/hanger/2087.ts
+#EXTINF:-1,USA-NASA_HD
+http://37.187.175.177:8000/live/hanger/hanger/2097.ts
+#EXTINF:-1,USA-QVC HD
+http://37.187.175.177:8000/live/hanger/hanger/2114.ts
+#EXTINF:-1,USA-London_Live
+http://37.187.175.177:8000/live/hanger/hanger/2096.ts
+#EXTINF:-1,USA-Spike
+http://37.187.175.177:8000/live/hanger/hanger/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+http://37.187.175.177:8000/live/hanger/hanger/2102.ts
+#EXTINF:-1,USA-California_University
+http://37.187.175.177:8000/live/hanger/hanger/2103.ts
+#EXTINF:-1,Ca-TVA Montreal
+http://37.187.175.177:8000/live/hanger/hanger/2395.ts
+#EXTINF:-1,CA-WGN
+http://37.187.175.177:8000/live/hanger/hanger/2389.ts
+#EXTINF:-1,Ca-RDI
+http://37.187.175.177:8000/live/hanger/hanger/2397.ts
+#EXTINF:-1,CA-TOMATO TV
+http://37.187.175.177:8000/live/hanger/hanger/2384.ts
+#EXTINF:-1,CA-MYJAVA
+http://37.187.175.177:8000/live/hanger/hanger/2385.ts
+#EXTINF:-1,Ca-Radio-Shebrooke
+http://37.187.175.177:8000/live/hanger/hanger/2394.ts
+#EXTINF:-1,US-MTV Hit
+http://37.187.175.177:8000/live/hanger/hanger/2396.ts
 #EXTINF:-1,Sky Sports News
 http://51.255.70.112:8000/live/ml/ml/1698.ts
 #EXTINF:-1,Sky Sports F1 UK
