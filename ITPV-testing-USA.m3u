@@ -9,6 +9,10 @@ http://149.202.70.230:8000/live/mustafayildiz/ptBIH8144u/82.ts
 http://149.202.208.25:5210/live/MMTpTTcueT/OzjYQADhfI/7263.ts
 #EXTINF:-1,HBO Zone
 http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.ts
+#EXTINF:-1,US: HBO
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2593.ts
+#EXTINF:-1,US:HBO-ZONE
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2588.ts
 #EXTINF:-1,Starz HD
 http://5.39.70.216/live/Vivienne/Vivienne/1599.ts
 #EXTINF:-1,Starz Edge HD
@@ -31,6 +35,18 @@ http://5.39.70.216/live/Vivienne/Vivienne/1603.ts
 http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
 #EXTINF:-1,Hallmark
 http://media-planete.ddns.net:5890/live/khabuhassan/skype/1860.ts
+#EXTINF:-1,US: USA-Network
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2672.ts
+#EXTINF:-1,US: NFL HD
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2671.ts
+#EXTINF:-1,US: TSN 1 HD
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2590.ts
+#EXTINF:-1,US: TSN 2
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2591.ts
+#EXTINF:-1,US: Versus-NBA_HD
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2589.ts
+#EXTINF:-1,US: NBA TV
+http://iptvmega.dyndns.tv:8040/live/kharamz/BdfKgndCpz/2594.ts
 #EXTINF:-1,TBS HD
 http://151.80.22.45:9900/live/525/525/19390.ts
 #EXTINF:-1,USA TNT HD
