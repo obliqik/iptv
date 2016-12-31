@@ -1,2 +1,116 @@
-#EXTM3U
-#EXTINF:COMING SOON
+# EXTM3U
+#EXTINF: 0-group title = "Z etiquetas" [COLOR yellow] == (USA) == [/ COLOR]
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/583.png " group-title = "EUA (USA)," A & E East **
+http://premium.exabytetv.info/HLSST/995/995-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," ABC 12 Anchorage - AK Alaska
+http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2334.png " group-title = "EUA (USA)," ABC Miami **
+http://premium.exabytetv.info/HLSST/6114/6114-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1087.png " group-title = "EUA (USA)," ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3527.png " group-title = "EUA (USA)," ABC New York **
+http://premium.exabytetv.info/HLSST/12713/12713-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/160116113647amc.png " group-title = "EUA (USA ), "AMC East **
+http://premium.exabytetv.info/HLSST/5629/5629-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," AmÃ © rica Teva Miami
+http://premium.exabytetv.info/gc/RVNZP-1011000011011001011011101010010-ExabyteTV/944/exabytetv.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1885.png " group-title = "EUA (USA)," Boomerang US **
+http://premium.exabytetv.info/HLSST/4905/4905-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/160116115406bravo.png " group-title = "EUA (USA )",Well done**
+http://premium.exabytetv.info/HLSST/4890/4890-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," CBS 4.1 Dothan - AL Alabama
+http://premium.exabytetv.info/gc/RVNZP-1011000011011001011011101010010-ExabyteTV/1082/exabytetv.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," CBS 6.1 Tallahassee - Florida FL
+http://premium.exabytetv.info/gc/RVNZP-1011000011011001011011101010010-ExabyteTV/1083/exabytetv.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," CBS 7.1 Seattle - WA Washington
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," CBS 12.1 Augusta - GA Georgia
+http://premium.exabytetv.info/gc/RVNZP-1011000011011001011011101010010-ExabyteTV/1084/exabytetv.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," CBS 31.1 Peoria - Illinois IL
+http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/92.png " group-title = "EUA (USA)," CBS New York **
+http://premium.exabytetv.info/HLSST/4865/4865-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png " group-title = "EUA (USA)," CNN US **
+http://premium.exabytetv.info/HLSST/3133/3133-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/160116011031comedy.png " group-title = "EUA (USA ), "Comedy Central East **
+http://premium.exabytetv.info/HLSST/2575/2575-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/21.png " group-title = "EUA (USA)," Disney Channel East **
+http://premium.exabytetv.info/HLSST/196/196-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1832.png " group-title = "EUA (USA)," DisneyJR US **
+http://premium.exabytetv.info/HLSST/4852/4852-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1840.png " group-title = "EUA (USA)," Disney XD US **
+http://premium.exabytetv.info/HLSST/4860/4860-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png " group-title = "EUA (USA)," DIY Network **
+http://premium.exabytetv.info/HLSST/174/174-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://www-deadline-com.vimg.net/wp-content/uploads/2011/10/EEntertainment_logo111010172515. jpg "group-title =" EUA (USA), "E! Entertainment **
+http://premium.exabytetv.info/HLSST/2341/2341-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http: //vignette2.wikia.nocookie.net...ella_tv.png/revision/latest? Cb = 20120327232346 " group-title = "EUA (USA)," Estrella TV **
+http://premium.exabytetv.info/HLSST/12133/12133-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/25.png " group-title = "EUA (USA)," Food Network East **
+http://premium.exabytetv.info/HLSST/172/172-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/190116045107fox.gif " group-title = "EUA (USA ), "Fox US **
+http://premium.exabytetv.info/HLSST/413/413-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/585.png " group-title = "EUA (USA)," FX East **
+http://premium.exabytetv.info/HLSST/997/997-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/190116045546h2.jpg " group-title = "EUA (USA ) ", US H2 **
+http://premium.exabytetv.info/HLSST/13290/13290-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://sc.dish.com/shared/images/station-logos/hmm.png " group-title = "EUA (USA)," Hallmark Movies & Mysteries **
+http://premium.exabytetv.info/HLSST/1005/1005-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/28.png " group-title = "EUA (USA)," HBO East 2 **
+http://premium.exabytetv.info/HLSST/216/216-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/665.png " group-title = "EUA (USA)," HBO 2 West **
+http://premium.exabytetv.info/HLSST/1095/1095-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/589.png " group-title = "EUA (USA)," HBO Comedy East **
+http://premium.exabytetv.info/HLSST/1001/1001-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1775.png " group-title = "EUA (USA)," HBO East **
+http://premium.exabytetv.info/HLSST/4765/4765-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1625.png " group-title = "EUA (USA)," HBO Family East **
+http://premium.exabytetv.info/HLSST/4415/4415-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/545.png " group-title = "EUA (USA)," HBO Signature East **
+http://premium.exabytetv.info/HLSST/959/959-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1777.png " group-title = "EUA (USA)," HBO West **
+http://premium.exabytetv.info/HLSST/4767/4767-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/190116045843hgt.png " group-title = "EUA (USA ) ", HGTV **
+http://premium.exabytetv.info/HLSST/7501/7501-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," KTBS 3.3 HourNews 24 - 28 DT - Shreveport - Louisiana LA
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " https://app.uktvnow.net/images/channel_imgs/200116013131life.png " group-title = "EUA (USA ) "Lifetime East **
+http://premium.exabytetv.info/HLSST/2581/2581-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://yousenditcc.s3.amazonaws.com/networks/LMN.png " group-title = "EUA (USA ) ", Lifetime Movie Network **
+http://premium.exabytetv.info/HLSST/12690/12690-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/233.png " group-title = "EUA (USA)," NBC Miami **
+http://premium.exabytetv.info/HLSST/411/411-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/965.png " group-title = "EUA (USA)," NBC New York **
+http://premium.exabytetv.info/HLSST/8491/8491-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/973.png " group-title = "EUA (USA)," Nick East **
+http://premium.exabytetv.info/HLSST/1701/1701-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1852.png " group-title = "EUA (USA)," Nick Jr US **
+http://premium.exabytetv.info/HLSST/4872/4872-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," NOTV 41 New Orleans - Louisiana LA
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Sony_movie_channel.jpg " group- title = "EUA (USA)," Sony Movie Channel USA **
+http://premium.exabytetv.info/HLSST/1101/1101-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/573.png " group-title = "EUA (USA)," Starz Cinema East **
+http://premium.exabytetv.info/HLSST/985/985-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/575.png " group-title = "EUA (USA)," Starz Comedy East **
+http://premium.exabytetv.info/HLSST/987/987-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/571.png " group-title = "EUA (USA)," Starz Edge East **
+http://premium.exabytetv.info/HLSST/983/983-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/669.png " group-title = "EUA (USA)," Starz Kids & Family East **
+http://premium.exabytetv.info/HLSST/1099/1099-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/569.png " group-title = "EUA (USA)," Starz West **
+http://premium.exabytetv.info/HLSST/981/981-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3120.png " group-title = "EUA (USA)," Syfy US **
+http://premium.exabytetv.info/HLSST/9350/9350-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = "" group-title = "EUA (USA)," Telemundo39
+http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3493.png " group-title = "EUA (USA)," Telemundo Los Angeles **
+http://premium.exabytetv.info/HLSST/13681/13681-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/104.png " group-title = "EUA (USA)," TLC US **
+http://premium.exabytetv.info/HLSST/503/503-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/565.png " group-title = "EUA (USA)," TNT US **
+http://premium.exabytetv.info/HLSST/977/977-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://www.underconsideration.com/brandnew/archives/tv_land_03_logo_detail.jpg " group-title = "EUA (USA ) "TV Land **
+http://premium.exabytetv.info/HLSST/9355/9355-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+#EXTINF: -1 Tvg-id = "Exabyte TV" tvg-name = "" tvg-logo = " http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3523.png " group-title = "EUA (USA)," UnivisiÃ³n Los Angeles **
+http://premium.exabytetv.info/HLSST/12163/12163-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
