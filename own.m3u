@@ -1,13 +1,2 @@
 #EXTM3U
-#EXTINF:-1,OWN Network
-http://5.39.70.216/live/Vivienne/Vivienne/1615.ts
-#EXTINF:-1,MTV Classic
-http://137.74.94.161:8000/live/obrien/obrien/9398.ts
-#EXTINF:-1,MTV Dance
-http://137.74.94.161:8000/live/obrien/obrien/9333.ts
-#EXTINF:-1,MTV Hits
-http://137.74.94.161:8000/live/obrien/obrien/9399.ts
-#EXTINF:-1,MTV Music
-http://137.74.94.161:8000/live/obrien/obrien/9400.ts
-#EXTINF:-1,MTV Rocks
-http://137.74.94.161:8000/live/obrien/obrien/9401.ts
+#EXTINF:COMING SOON
