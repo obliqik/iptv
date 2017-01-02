@@ -175,3 +175,102 @@ http://iptv.doctor-load.info:8000/live/omar/omar/1230.ts
 http://iptv.doctor-load.info:8000/live/omar/omar/1231.ts
 #EXTINF:-1,[USA] CARTOON NETWORK
 http://iptv.doctor-load.info:8000/live/omar/omar/478.ts
+#EXTINF:-1,(US) ABC
+http://5.255.90.94:1339/live/Zaza/Zaza/1593.ts
+#EXTINF:-1,(US) ABC NEWS HD
+http://5.255.90.94:1339/live/Zaza/Zaza/3312.ts
+#EXTINF:-1,(US) CNBC
+http://5.255.90.94:1339/live/Zaza/Zaza/3310.ts
+#EXTINF:-1,(US) CNN HD
+http://5.255.90.94:1339/live/Zaza/Zaza/3306.ts
+#EXTINF:-1,(US) Bloomberg
+http://5.255.90.94:1339/live/Zaza/Zaza/9605.ts
+#EXTINF:-1,(US) CBS
+http://5.255.90.94:1339/live/Zaza/Zaza/7866.ts
+#EXTINF:-1,(US) CBS Drama
+http://5.255.90.94:1339/live/Zaza/Zaza/9574.ts
+#EXTINF:-1,(US) CBS News
+http://5.255.90.94:1339/live/Zaza/Zaza/9608.ts
+#EXTINF:-1,(US) USA HD
+http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
+#EXTINF:-1,(US) Fox 59 News
+http://5.255.90.94:1339/live/Zaza/Zaza/9602.ts
+#EXTINF:-1,(US) HSN 1
+http://5.255.90.94:1339/live/Zaza/Zaza/9594.ts
+#EXTINF:-1,(US) RT America HD
+http://5.255.90.94:1339/live/Zaza/Zaza/9590.ts
+#EXTINF:-1,(US) RT Documentary
+http://5.255.90.94:1339/live/Zaza/Zaza/9588.ts
+#EXTINF:-1,(US) TBS
+http://5.255.90.94:1339/live/Zaza/Zaza/7539.ts
+#EXTINF:-1,(US) Tru HD
+http://5.255.90.94:1339/live/Zaza/Zaza/9534.ts
+#EXTINF:-1,(US) Food Network East
+http://5.255.90.94:1339/live/Zaza/Zaza/8497.ts
+#EXTINF:-1,(US) AMG TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9603.ts
+#EXTINF:-1,(US) KTVU TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9599.ts
+#EXTINF:-1,(US) Mute TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9586.ts
+#EXTINF:-1,(US) Nasa TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9595.ts
+#EXTINF:-1,(US) Toonami Aftermath
+http://5.255.90.94:1339/live/Zaza/Zaza/9580.ts
+#EXTINF:-1,(US) TSC
+http://5.255.90.94:1339/live/Zaza/Zaza/9578.ts
+#EXTINF:-1,(US) UC TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9577.ts
+#EXTINF:-1,(US) WGN
+http://5.255.90.94:1339/live/Zaza/Zaza/9573.ts
+#EXTINF:-1,(US) WXYZ TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9569.ts
+#EXTINF:-1,(US) The Florida Channel
+http://5.255.90.94:1339/live/Zaza/Zaza/9581.ts
+#EXTINF:-1,(US) Maimi TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9596.ts
+#EXTINF:-1,(US) 360 North
+http://5.255.90.94:1339/live/Zaza/Zaza/9597.ts
+#EXTINF:-1,(US) Boston City TV
+http://5.255.90.94:1339/live/Zaza/Zaza/9607.ts
+#EXTINF:-1,(US) HBO Zone
+http://5.255.90.94:1339/live/Zaza/Zaza/9537.ts
+#EXTINF:-1,(US) Tech Channel
+http://5.255.90.94:1339/live/Zaza/Zaza/9585.ts
+
+#EXTINF:-1,☆☆☆☆☆ USA SPORTS ☆☆☆☆☆
+http://5.255.90.94:1339/live/Zaza/Zaza/7145.ts
+#EXTINF:-1,(US) TSN 1
+http://5.255.90.94:1339/live/Zaza/Zaza/831.ts
+#EXTINF:-1,(US) TSN 2
+http://5.255.90.94:1339/live/Zaza/Zaza/830.ts
+#EXTINF:-1,(US) TSN 3
+http://5.255.90.94:1339/live/Zaza/Zaza/829.ts
+#EXTINF:-1,(US) TSN 4
+http://5.255.90.94:1339/live/Zaza/Zaza/828.ts
+#EXTINF:-1,(US) TSN 5
+http://5.255.90.94:1339/live/Zaza/Zaza/827.ts
+#EXTINF:-1,(US) Fox Sports 1 HD
+http://5.255.90.94:1339/live/Zaza/Zaza/320.ts
+#EXTINF:-1,(US) Fox Sports 2 HD
+http://5.255.90.94:1339/live/Zaza/Zaza/321.ts
+#EXTINF:-1,(US) Fox Sports 506 HD
+http://5.255.90.94:1339/live/Zaza/Zaza/9549.ts
+#EXTINF:-1,(US) ESPN HD
+http://5.255.90.94:1339/live/Zaza/Zaza/1591.ts
+#EXTINF:-1,(US) ESPN 2 HD
+http://5.255.90.94:1339/live/Zaza/Zaza/3303.ts
+#EXTINF:-1,(US) beIN Sports HD
+http://5.255.90.94:1339/live/Zaza/Zaza/3301.ts
+#EXTINF:-1,(US) AFN Sports HD
+http://5.255.90.94:1339/live/Zaza/Zaza/9536.ts
+#EXTINF:-1,(US) NBC Golf
+http://5.255.90.94:1339/live/Zaza/Zaza/7542.ts
+#EXTINF:-1,(US) NBA TV
+http://5.255.90.94:1339/live/Zaza/Zaza/1037.ts
+#EXTINF:-1,(US) NFL HD
+http://5.255.90.94:1339/live/Zaza/Zaza/7541.ts
+#EXTINF:-1,(US) WWE Network HD
+http://5.255.90.94:1339/live/Zaza/Zaza/3299.ts
+#EXTINF:-1,(US) Poker Central
+http://5.255.90.94:1339/live/Zaza/Zaza/9591.ts
