@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1,USA: USA Network
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1606.ts
+#EXTINF:-1,USA: USA Network HD
+http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
 #EXTINF:-1,USA: TNT
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1607.ts
+#EXTINF:-1,USA : OWN HD
+http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1649.ts
 #EXTINF:-1,USA: TLC HD
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1608.ts
 #EXTINF:-1,USA: TBS
@@ -81,8 +85,6 @@ http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1646.ts
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1647.ts
 #EXTINF:-1,USA : Poker Central
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1648.ts
-#EXTINF:-1,USA : OWN HD
-http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1649.ts
 #EXTINF:-1,USA : Nat Geo HD
 http://149.202.66.187:8080/live/SuPrEmEsTrEaMs/KeepYourHandsOffCUNTS!!@1/1650.ts
 #EXTINF:-1,USA : HBO FAMILY
@@ -191,8 +193,6 @@ http://5.255.90.94:1339/live/Zaza/Zaza/7866.ts
 http://5.255.90.94:1339/live/Zaza/Zaza/9574.ts
 #EXTINF:-1,(US) CBS News
 http://5.255.90.94:1339/live/Zaza/Zaza/9608.ts
-#EXTINF:-1,(US) USA HD
-http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
 #EXTINF:-1,(US) Fox 59 News
 http://5.255.90.94:1339/live/Zaza/Zaza/9602.ts
 #EXTINF:-1,(US) HSN 1
