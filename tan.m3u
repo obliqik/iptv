@@ -1,6 +1,200 @@
 #EXTM3U
+
 #EXTINF:-1,USA Network HD
 http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
+#EXTINF:-1,USA:ABC
+http://universeiptv.com:8000/live/shaker/shaker123/2559.ts
+#EXTINF:-1,USA:ABC_News
+http://universeiptv.com:8000/live/shaker/shaker123/2113.ts
+#EXTINF:-1,USA:AFN_MOVIE
+http://universeiptv.com:8000/live/shaker/shaker123/2558.ts
+#EXTINF:-1,USA:AFN_PULSE
+http://universeiptv.com:8000/live/shaker/shaker123/2557.ts
+#EXTINF:-1,USA:AFN_SPORTS
+http://universeiptv.com:8000/live/shaker/shaker123/2555.ts
+#EXTINF:-1,USA:AFN_SPORTS_2
+http://universeiptv.com:8000/live/shaker/shaker123/2554.ts
+#EXTINF:-1,USA:AFN_SPECTRUM
+http://universeiptv.com:8000/live/shaker/shaker123/2556.ts
+#EXTINF:-1,USA:AFN_Prime_Pacific
+http://universeiptv.com:8000/live/shaker/shaker123/2127.ts
+#EXTINF:-1,USA:AFN_Prime_Atlantic
+http://universeiptv.com:8000/live/shaker/shaker123/2129.ts
+#EXTINF:-1,USA:AMC
+http://universeiptv.com:8000/live/shaker/shaker123/2114.ts
+#EXTINF:-1,USA:Bloomberg
+http://universeiptv.com:8000/live/shaker/shaker123/2115.ts
+#EXTINF:-1,USA:CBS
+http://universeiptv.com:8000/live/shaker/shaker123/3218.ts
+#EXTINF:-1,USA:CBS_NEWS
+http://universeiptv.com:8000/live/shaker/shaker123/3217.ts
+#EXTINF:-1,USA:CNBC
+http://universeiptv.com:8000/live/shaker/shaker123/2116.ts
+#EXTINF:-1,USA:CNN
+http://universeiptv.com:8000/live/shaker/shaker123/2117.ts
+#EXTINF:-1,USA:COMEDY_CENTRAL
+http://universeiptv.com:8000/live/shaker/shaker123/3216.ts
+#EXTINF:-1,USA:CW
+http://universeiptv.com:8000/live/shaker/shaker123/2128.ts
+#EXTINF:-1,USA:ESPN
+http://universeiptv.com:8000/live/shaker/shaker123/2464.ts
+#EXTINF:-1,USA:Fight_Network
+http://universeiptv.com:8000/live/shaker/shaker123/2161.ts
+#EXTINF:-1,USA:Fight_Sports
+http://universeiptv.com:8000/live/shaker/shaker123/2525.ts
+#EXTINF:-1,USA:Food_Network
+http://universeiptv.com:8000/live/shaker/shaker123/2462.ts
+#EXTINF:-1,USA:FOX_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2553.ts
+#EXTINF:-1,USA:Fox_Sports_1
+http://universeiptv.com:8000/live/shaker/shaker123/2118.ts
+#EXTINF:-1,USA:FOX_Sports_2
+http://universeiptv.com:8000/live/shaker/shaker123/2119.ts
+#EXTINF:-1,USA:Hallmark
+http://universeiptv.com:8000/live/shaker/shaker123/2130.ts
+#EXTINF:-1,USA:NBA_TV
+http://universeiptv.com:8000/live/shaker/shaker123/2120.ts
+#EXTINF:-1,USA:NBC
+http://universeiptv.com:8000/live/shaker/shaker123/3214.ts
+#EXTINF:-1,USA:NBC_SN
+http://universeiptv.com:8000/live/shaker/shaker123/2121.ts
+#EXTINF:-1,USA:NFL_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2542.ts
+#EXTINF:-1,USA:NHL
+http://universeiptv.com:8000/live/shaker/shaker123/2524.ts
+#EXTINF:-1,USA:FX
+http://universeiptv.com:8000/live/shaker/shaker123/2162.ts
+#EXTINF:-1,USA:Syfy
+http://universeiptv.com:8000/live/shaker/shaker123/2587.ts
+#EXTINF:-1,USA:TBS
+http://universeiptv.com:8000/live/shaker/shaker123/3215.ts
+#EXTINF:-1,USA:TNT
+http://universeiptv.com:8000/live/shaker/shaker123/2463.ts
+#EXTINF:-1,USA:TSN_1
+http://universeiptv.com:8000/live/shaker/shaker123/2122.ts
+#EXTINF:-1,USA:TSN_2
+http://universeiptv.com:8000/live/shaker/shaker123/2123.ts
+#EXTINF:-1,USA:TSN_3
+http://universeiptv.com:8000/live/shaker/shaker123/2124.ts
+#EXTINF:-1,USA:TSN_4
+http://universeiptv.com:8000/live/shaker/shaker123/2125.ts
+#EXTINF:-1,USA:VEVO_HD
+http://universeiptv.com:8000/live/shaker/shaker123/2467.ts
+#EXTINF:-1,USA:VIRGIN_TV
+http://universeiptv.com:8000/live/shaker/shaker123/2466.ts
+#EXTINF:-1,USA:WWE
+http://universeiptv.com:8000/live/shaker/shaker123/2126.ts
+#EXTINF:-1,US: Famly HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1161.ts
+#EXTINF:-1,US: Sport Pag TV
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1442.ts
+#EXTINF:-1,US: Sport Network
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1172.ts
+#EXTINF:-1,US: Sports Versus HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1431.ts
+#EXTINF:-1,US: World Fashion TV
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1432.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1434.ts
+#EXTINF:-1,US: HBO 1
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1433.ts
+#EXTINF:-1,US: Sports MLS Soccer
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1151.ts
+#EXTINF:-1,US: Sports Tonight
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1158.ts
+#EXTINF:-1,US: Sports Fight Sports
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1436.ts
+#EXTINF:-1,US: FOX 1
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1435.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1153.ts
+#EXTINF:-1,US: Starz Edge
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1451.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1148.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1160.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1162.ts
+#EXTINF:-1,US: Sport TSN 1
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1177.ts
+#EXTINF:-1,US: Sport TSN 2
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1438.ts
+#EXTINF:-1,US: Sport TSN 3
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1169.ts
+#EXTINF:-1,US: Sport TSN 4
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1175.ts
+#EXTINF:-1,US: Sport TSN 5
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1176.ts
+#EXTINF:-1,US: Sport Snet 360
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1441.ts
+#EXTINF:-1,US: NHL Network HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1429.ts
+#EXTINF:-1,US: Sport Snet Central
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1430.ts
+#EXTINF:-1,US: Espn Sport
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1164.ts
+#EXTINF:-1,US: AFN Movies HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1146.ts
+#EXTINF:-1,US: Thai CH8
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1168.ts
+#EXTINF:-1,US: AMC
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1157.ts
+#EXTINF:-1,US: Fox Movies
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1447.ts
+#EXTINF:-1,US: Fox Action
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1448.ts
+#EXTINF:-1,US: Amazing Music
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1446.ts
+#EXTINF:-1,US: TBS Channle
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1449.ts
+#EXTINF:-1,US: Starz East
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1450.ts
+#EXTINF:-1,US: NFL Live HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1178.ts
+#EXTINF:-1,US: ShowTime HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1439.ts
+#EXTINF:-1,US: A&E Network
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1173.ts
+#EXTINF:-1,US: BeIN Sports US
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1166.ts
+#EXTINF:-1,US: SYFY HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1154.ts
+#EXTINF:-1,US: Bravo
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1165.ts
+#EXTINF:-1,US: Fox Clasic
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1443.ts
+#EXTINF:-1,US: Disccovery HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1150.ts
+#EXTINF:-1,US: FX HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1149.ts
+#EXTINF:-1,US: TMN 1 Moves
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1152.ts
+#EXTINF:-1,US: AMG Entertainment
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1437.ts
+#EXTINF:-1,US: Daystart
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1145.ts
+#EXTINF:-1,US: Hallmark HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1159.ts
+#EXTINF:-1,US: HSN
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1170.ts
+#EXTINF:-1,US: Cinemax
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1163.ts
+#EXTINF:-1,US: TNT
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1156.ts
+#EXTINF:-1,US: NBA TV
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1174.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1179.ts
+#EXTINF:-1,US: Poker Central
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1155.ts
+#EXTINF:-1,US: California TV
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1171.ts
+#EXTINF:-1,US: Bloomberg
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1180.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1181.ts
+
 #EXTINF:-1,(US) ABC
 http://5.255.90.94:1339/live/Zaza/Zaza/1593.ts
 #EXTINF:-1,(US) ABC NEWS HD
@@ -89,41 +283,3 @@ http://5.255.90.94:1339/live/Zaza/Zaza/7541.ts
 http://5.255.90.94:1339/live/Zaza/Zaza/3299.ts
 #EXTINF:-1,(US) Poker Central
 http://5.255.90.94:1339/live/Zaza/Zaza/9591.ts
-#EXTINF:-1,VirginTV Radio" tvg-logo="" group-title="USA"USA:
-http://live.softiptv.com:9900/live/525/525/17366.ts
-#EXTINF:-1,University of California TV" tvg-logo="" group-tit
-http://live.softiptv.com:9900/live/525/525/17368.ts
-#EXTINF:-1,TVO KIDS" tvg-logo="" group-title="USA"USA: TVO KI
-http://live.softiptv.com:9900/live/525/525/17369.ts
-#EXTINF:-1,TMN ACTION" tvg-logo="" group-title="USA"USA: TMN
-http://live.softiptv.com:9900/live/525/525/17370.ts
-#EXTINF:-1,OMNI TORONTO" tvg-logo="" group-title="USA"USA: OM
-http://live.softiptv.com:9900/live/525/525/17377.ts
-#EXTINF:-1,NBC TORONTO" tvg-logo="" group-title="USA"USA: NBC
-http://live.softiptv.com:9900/live/525/525/17380.ts
-#EXTINF:-1,NBC GOLF HD" tvg-logo="" group-title="USA"USA: NBC
-http://live.softiptv.com:9900/live/525/525/17361.ts
-#EXTINF:-1,NBA" tvg-logo="" group-title="USA"USA: NBA
-http://live.softiptv.com:9900/live/525/525/17381.ts
-#EXTINF:-1,LMN" tvg-logo="" group-title="USA"USA: LMN
-http://live.softiptv.com:9900/live/525/525/17384.ts
-#EXTINF:-1,ID" tvg-logo="" group-title="USA"USA: ID
-http://live.softiptv.com:9900/live/525/525/17385.ts
-#EXTINF:-1,HSN" tvg-logo="" group-title="USA"USA: HSN
-http://live.softiptv.com:9900/live/525/525/17386.ts
-#EXTINF:-1,FMLY CHANNEL" tvg-logo="" group-title="USA"USA: FM
-http://live.softiptv.com:9900/live/525/525/17391.ts
-#EXTINF:-1,CRCOL HD" tvg-logo="" group-title="USA"USA: CRCOL
-http://live.softiptv.com:9900/live/525/525/17396.ts
-#EXTINF:-1,CNN" tvg-logo="" group-title="USA"USA: CNN
-http://live.softiptv.com:9900/live/525/525/17399.ts
-#EXTINF:-1,Bloomberg." tvg-logo="" group-title="USA"USA: Bloo
-http://live.softiptv.com:9900/live/525/525/17402.ts
-#EXTINF:-1,Al Jazeera" tvg-logo="" group-title="USA"USA: Al J
-http://live.softiptv.com:9900/live/525/525/17405.ts
-#EXTINF:-1,ABC News" tvg-logo="" group-title="USA"USA: ABC Ne
-http://live.softiptv.com:9900/live/525/525/17406.ts
-#EXTINF:-1,tvg-ID="" tvg-name="US-National-Geo" tvg-logo="" g
-http://live.softiptv.com:9900/live/525/525/5811.ts
-#EXTINF:-1,tvg-ID="" tvg-name="US-CNN HD" tvg-logo="" group-t
-http://live.softiptv.com:9900/live/525/525/5821.ts
