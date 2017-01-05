@@ -2,7 +2,6 @@
 
 #EXTINF:-1,USA Network HD
 http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
-#EXTM3U
 #EXTINF:-1,ITV 1 HD
 http://system.fpiptv.com:8080/live/carlton/carlton/76.ts
 #EXTINF:-1,ITV 2 HD
