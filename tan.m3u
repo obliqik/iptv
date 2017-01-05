@@ -2,198 +2,365 @@
 
 #EXTINF:-1,USA Network HD
 http://5.255.90.94:1339/live/Zaza/Zaza/8491.ts
-#EXTINF:-1,USA:ABC
-http://universeiptv.com:8000/live/shaker/shaker123/2559.ts
-#EXTINF:-1,USA:ABC_News
-http://universeiptv.com:8000/live/shaker/shaker123/2113.ts
-#EXTINF:-1,USA:AFN_MOVIE
-http://universeiptv.com:8000/live/shaker/shaker123/2558.ts
-#EXTINF:-1,USA:AFN_PULSE
-http://universeiptv.com:8000/live/shaker/shaker123/2557.ts
-#EXTINF:-1,USA:AFN_SPORTS
-http://universeiptv.com:8000/live/shaker/shaker123/2555.ts
-#EXTINF:-1,USA:AFN_SPORTS_2
-http://universeiptv.com:8000/live/shaker/shaker123/2554.ts
-#EXTINF:-1,USA:AFN_SPECTRUM
-http://universeiptv.com:8000/live/shaker/shaker123/2556.ts
-#EXTINF:-1,USA:AFN_Prime_Pacific
-http://universeiptv.com:8000/live/shaker/shaker123/2127.ts
-#EXTINF:-1,USA:AFN_Prime_Atlantic
-http://universeiptv.com:8000/live/shaker/shaker123/2129.ts
-#EXTINF:-1,USA:AMC
-http://universeiptv.com:8000/live/shaker/shaker123/2114.ts
-#EXTINF:-1,USA:Bloomberg
-http://universeiptv.com:8000/live/shaker/shaker123/2115.ts
-#EXTINF:-1,USA:CBS
-http://universeiptv.com:8000/live/shaker/shaker123/3218.ts
-#EXTINF:-1,USA:CBS_NEWS
-http://universeiptv.com:8000/live/shaker/shaker123/3217.ts
-#EXTINF:-1,USA:CNBC
-http://universeiptv.com:8000/live/shaker/shaker123/2116.ts
-#EXTINF:-1,USA:CNN
-http://universeiptv.com:8000/live/shaker/shaker123/2117.ts
-#EXTINF:-1,USA:COMEDY_CENTRAL
-http://universeiptv.com:8000/live/shaker/shaker123/3216.ts
-#EXTINF:-1,USA:CW
-http://universeiptv.com:8000/live/shaker/shaker123/2128.ts
-#EXTINF:-1,USA:ESPN
-http://universeiptv.com:8000/live/shaker/shaker123/2464.ts
-#EXTINF:-1,USA:Fight_Network
-http://universeiptv.com:8000/live/shaker/shaker123/2161.ts
-#EXTINF:-1,USA:Fight_Sports
-http://universeiptv.com:8000/live/shaker/shaker123/2525.ts
-#EXTINF:-1,USA:Food_Network
-http://universeiptv.com:8000/live/shaker/shaker123/2462.ts
-#EXTINF:-1,USA:FOX_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2553.ts
-#EXTINF:-1,USA:Fox_Sports_1
-http://universeiptv.com:8000/live/shaker/shaker123/2118.ts
-#EXTINF:-1,USA:FOX_Sports_2
-http://universeiptv.com:8000/live/shaker/shaker123/2119.ts
-#EXTINF:-1,USA:Hallmark
-http://universeiptv.com:8000/live/shaker/shaker123/2130.ts
-#EXTINF:-1,USA:NBA_TV
-http://universeiptv.com:8000/live/shaker/shaker123/2120.ts
-#EXTINF:-1,USA:NBC
-http://universeiptv.com:8000/live/shaker/shaker123/3214.ts
-#EXTINF:-1,USA:NBC_SN
-http://universeiptv.com:8000/live/shaker/shaker123/2121.ts
-#EXTINF:-1,USA:NFL_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2542.ts
-#EXTINF:-1,USA:NHL
-http://universeiptv.com:8000/live/shaker/shaker123/2524.ts
-#EXTINF:-1,USA:FX
-http://universeiptv.com:8000/live/shaker/shaker123/2162.ts
-#EXTINF:-1,USA:Syfy
-http://universeiptv.com:8000/live/shaker/shaker123/2587.ts
-#EXTINF:-1,USA:TBS
-http://universeiptv.com:8000/live/shaker/shaker123/3215.ts
-#EXTINF:-1,USA:TNT
-http://universeiptv.com:8000/live/shaker/shaker123/2463.ts
-#EXTINF:-1,USA:TSN_1
-http://universeiptv.com:8000/live/shaker/shaker123/2122.ts
-#EXTINF:-1,USA:TSN_2
-http://universeiptv.com:8000/live/shaker/shaker123/2123.ts
-#EXTINF:-1,USA:TSN_3
-http://universeiptv.com:8000/live/shaker/shaker123/2124.ts
-#EXTINF:-1,USA:TSN_4
-http://universeiptv.com:8000/live/shaker/shaker123/2125.ts
-#EXTINF:-1,USA:VEVO_HD
-http://universeiptv.com:8000/live/shaker/shaker123/2467.ts
-#EXTINF:-1,USA:VIRGIN_TV
-http://universeiptv.com:8000/live/shaker/shaker123/2466.ts
-#EXTINF:-1,USA:WWE
-http://universeiptv.com:8000/live/shaker/shaker123/2126.ts
-#EXTINF:-1,US: Famly HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1161.ts
-#EXTINF:-1,US: Sport Pag TV
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1442.ts
-#EXTINF:-1,US: Sport Network
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1172.ts
-#EXTINF:-1,US: Sports Versus HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1431.ts
-#EXTINF:-1,US: World Fashion TV
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1432.ts
-#EXTINF:-1,US: Sports NFL Now HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1434.ts
-#EXTINF:-1,US: HBO 1
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1433.ts
-#EXTINF:-1,US: Sports MLS Soccer
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1151.ts
-#EXTINF:-1,US: Sports Tonight
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1158.ts
-#EXTINF:-1,US: Sports Fight Sports
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1436.ts
-#EXTINF:-1,US: FOX 1
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1435.ts
-#EXTINF:-1,US: Sport LTVE HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1153.ts
-#EXTINF:-1,US: Starz Edge
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1451.ts
-#EXTINF:-1,US: C-Span 1 HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1148.ts
-#EXTINF:-1,US: C-Span 2 HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1160.ts
-#EXTINF:-1,US: C-Span 3 HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1162.ts
-#EXTINF:-1,US: Sport TSN 1
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1177.ts
-#EXTINF:-1,US: Sport TSN 2
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1438.ts
-#EXTINF:-1,US: Sport TSN 3
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1169.ts
-#EXTINF:-1,US: Sport TSN 4
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1175.ts
-#EXTINF:-1,US: Sport TSN 5
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1176.ts
-#EXTINF:-1,US: Sport Snet 360
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1441.ts
-#EXTINF:-1,US: NHL Network HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1429.ts
-#EXTINF:-1,US: Sport Snet Central
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1430.ts
-#EXTINF:-1,US: Espn Sport
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1164.ts
-#EXTINF:-1,US: AFN Movies HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1146.ts
-#EXTINF:-1,US: Thai CH8
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1168.ts
-#EXTINF:-1,US: AMC
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1157.ts
-#EXTINF:-1,US: Fox Movies
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1447.ts
-#EXTINF:-1,US: Fox Action
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1448.ts
-#EXTINF:-1,US: Amazing Music
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1446.ts
-#EXTINF:-1,US: TBS Channle
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1449.ts
-#EXTINF:-1,US: Starz East
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1450.ts
-#EXTINF:-1,US: NFL Live HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1178.ts
-#EXTINF:-1,US: ShowTime HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1439.ts
-#EXTINF:-1,US: A&E Network
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1173.ts
-#EXTINF:-1,US: BeIN Sports US
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1166.ts
-#EXTINF:-1,US: SYFY HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1154.ts
-#EXTINF:-1,US: Bravo
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1165.ts
-#EXTINF:-1,US: Fox Clasic
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1443.ts
-#EXTINF:-1,US: Disccovery HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1150.ts
-#EXTINF:-1,US: FX HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1149.ts
-#EXTINF:-1,US: TMN 1 Moves
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1152.ts
-#EXTINF:-1,US: AMG Entertainment
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1437.ts
-#EXTINF:-1,US: Daystart
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1145.ts
-#EXTINF:-1,US: Hallmark HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1159.ts
-#EXTINF:-1,US: HSN
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1170.ts
-#EXTINF:-1,US: Cinemax
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1163.ts
-#EXTINF:-1,US: TNT
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1156.ts
-#EXTINF:-1,US: NBA TV
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1174.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1179.ts
-#EXTINF:-1,US: Poker Central
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1155.ts
-#EXTINF:-1,US: California TV
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1171.ts
-#EXTINF:-1,US: Bloomberg
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1180.ts
-#EXTINF:-1,US: Amazing Discoveries
-http://163.172.6.8:8000/live/coffeeshop1/coffeeshop1/1181.ts
+#EXTM3U
+#EXTINF:-1,ITV 1 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/76.ts
+#EXTINF:-1,ITV 2 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/77.ts
+#EXTINF:-1,ITV 3 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/78.ts
+#EXTINF:-1,ITV 4 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/79.ts
+#EXTINF:-1,Oxygen
+http://system.fpiptv.com:8080/live/carlton/carlton/430.ts
+#EXTINF:-1,NBC New-York
+http://system.fpiptv.com:8080/live/carlton/carlton/442.ts
+#EXTINF:-1,MSNBC
+http://system.fpiptv.com:8080/live/carlton/carlton/425.ts
+#EXTINF:-1,Lifetime US
+http://system.fpiptv.com:8080/live/carlton/carlton/428.ts
+#EXTINF:-1,Headline News
+http://system.fpiptv.com:8080/live/carlton/carlton/423.ts
+#EXTINF:-1,FreeForm
+http://system.fpiptv.com:8080/live/carlton/carlton/1169.ts
+#EXTINF:-1,Gold
+http://system.fpiptv.com:8080/live/carlton/carlton/427.ts
+#EXTINF:-1,Tru TV ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/445.ts
+#EXTINF:-1,FOX Miami
+http://system.fpiptv.com:8080/live/carlton/carlton/439.ts
+#EXTINF:-1,Fox Business
+http://system.fpiptv.com:8080/live/carlton/carlton/433.ts
+#EXTINF:-1,CNN US
+http://system.fpiptv.com:8080/live/carlton/carlton/421.ts
+#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK)
+http://system.fpiptv.com:8080/live/carlton/carlton/1284.ts
+#EXTINF:-1,CNBC US
+http://system.fpiptv.com:8080/live/carlton/carlton/424.ts
+#EXTINF:-1,Chiller TV
+http://system.fpiptv.com:8080/live/carlton/carlton/444.ts
+#EXTINF:-1,CBS New-York
+http://system.fpiptv.com:8080/live/carlton/carlton/441.ts
+#EXTINF:-1,Bravo ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/431.ts
+#EXTINF:-1,ABC New-York
+http://system.fpiptv.com:8080/live/carlton/carlton/440.ts
+#EXTINF:-1,FOX 43
+http://system.fpiptv.com:8080/live/carlton/carlton/419.ts
+#EXTINF:-1,YTV HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/59.ts
+#EXTINF:-1,USA Network HD
+http://system.fpiptv.com:8080/live/carlton/carlton/101.ts
+#EXTINF:-1,Universal
+http://system.fpiptv.com:8080/live/carlton/carlton/164.ts
+#EXTINF:-1,WGN News
+http://system.fpiptv.com:8080/live/carlton/carlton/678.ts
+#EXTINF:-1,WeatherNation
+http://system.fpiptv.com:8080/live/carlton/carlton/682.ts
+#EXTINF:-1,TRT World
+http://system.fpiptv.com:8080/live/carlton/carlton/687.ts
+#EXTINF:-1,RT International
+http://system.fpiptv.com:8080/live/carlton/carlton/688.ts
+#EXTINF:-1,RT Documentary
+http://system.fpiptv.com:8080/live/carlton/carlton/674.ts
+#EXTINF:-1,RT US
+http://system.fpiptv.com:8080/live/carlton/carlton/677.ts
+#EXTINF:-1,RT UK
+http://system.fpiptv.com:8080/live/carlton/carlton/684.ts
+#EXTINF:-1,London Live
+http://system.fpiptv.com:8080/live/carlton/carlton/663.ts
+#EXTINF:-1,Press TV
+http://system.fpiptv.com:8080/live/carlton/carlton/690.ts
+#EXTINF:-1,Destination America
+http://system.fpiptv.com:8080/live/carlton/carlton/1117.ts
+#EXTINF:-1,Poker Central
+http://system.fpiptv.com:8080/live/carlton/carlton/666.ts
+#EXTINF:-1,NewsmaxTV
+http://system.fpiptv.com:8080/live/carlton/carlton/697.ts
+#EXTINF:-1,KiTV 4 abc
+http://system.fpiptv.com:8080/live/carlton/carlton/664.ts
+#EXTINF:-1,France 24
+http://system.fpiptv.com:8080/live/carlton/carlton/689.ts
+#EXTINF:-1,Euronews
+http://system.fpiptv.com:8080/live/carlton/carlton/691.ts
+#EXTINF:-1,Deutsche Welle
+http://system.fpiptv.com:8080/live/carlton/carlton/694.ts
+#EXTINF:-1,CHching!
+http://system.fpiptv.com:8080/live/carlton/carlton/699.ts
+#EXTINF:-1,CBS News
+http://system.fpiptv.com:8080/live/carlton/carlton/676.ts
+#EXTINF:-1,C-Span
+http://system.fpiptv.com:8080/live/carlton/carlton/679.ts
+#EXTINF:-1,C-Span  Book TV
+http://system.fpiptv.com:8080/live/carlton/carlton/680.ts
+#EXTINF:-1,C-Span American History TV
+http://system.fpiptv.com:8080/live/carlton/carlton/681.ts
+#EXTINF:-1,ByuTV
+http://system.fpiptv.com:8080/live/carlton/carlton/698.ts
+#EXTINF:-1,Bloomberg TV US
+http://system.fpiptv.com:8080/live/carlton/carlton/675.ts
+#EXTINF:-1,Bloomberg TV UK
+http://system.fpiptv.com:8080/live/carlton/carlton/685.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://system.fpiptv.com:8080/live/carlton/carlton/686.ts
+#EXTINF:-1,Al Jazeera
+http://system.fpiptv.com:8080/live/carlton/carlton/692.ts
+#EXTINF:-1,Africa News Network
+http://system.fpiptv.com:8080/live/carlton/carlton/693.ts
+#EXTINF:-1,Travel Channel HD
+http://system.fpiptv.com:8080/live/carlton/carlton/100.ts
+#EXTINF:-1,TNT
+http://system.fpiptv.com:8080/live/carlton/carlton/94.ts
+#EXTINF:-1,TLC HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/52.ts
+#EXTINF:-1,TBS HD
+http://system.fpiptv.com:8080/live/carlton/carlton/55.ts
+#EXTINF:-1,SYFY USA
+http://system.fpiptv.com:8080/live/carlton/carlton/163.ts
+#EXTINF:-1,SPIKE HD
+http://system.fpiptv.com:8080/live/carlton/carlton/161.ts
+#EXTINF:-1,SPACE HD
+http://system.fpiptv.com:8080/live/carlton/carlton/4.ts
+#EXTINF:-1,SLICE HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/50.ts
+#EXTINF:-1,SKY Select
+http://system.fpiptv.com:8080/live/carlton/carlton/160.ts
+#EXTINF:-1,PBS HD
+http://system.fpiptv.com:8080/live/carlton/carlton/98.ts
+#EXTINF:-1,NBC HD
+http://system.fpiptv.com:8080/live/carlton/carlton/99.ts
+#EXTINF:-1,NASA TV HD
+http://system.fpiptv.com:8080/live/carlton/carlton/44.ts
+#EXTINF:-1,MUTV HD
+http://system.fpiptv.com:8080/live/carlton/carlton/82.ts
+#EXTINF:-1,Lifetime HD
+http://system.fpiptv.com:8080/live/carlton/carlton/71.ts
+#EXTINF:-1,HBO2 USA
+http://system.fpiptv.com:8080/live/carlton/carlton/12.ts
+#EXTINF:-1,HBO Comedy
+http://system.fpiptv.com:8080/live/carlton/carlton/15.ts
+#EXTINF:-1,Hallmark Channel HD
+http://system.fpiptv.com:8080/live/carlton/carlton/1285.ts
+#EXTINF:-1,FX HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/53.ts
+#EXTINF:-1,Nick Jr
+http://system.fpiptv.com:8080/live/carlton/carlton/490.ts
+#EXTINF:-1,Disney XD
+http://system.fpiptv.com:8080/live/carlton/carlton/486.ts
+#EXTINF:-1,Disney Jr
+http://system.fpiptv.com:8080/live/carlton/carlton/485.ts
+#EXTINF:-1,Disney Channel
+http://system.fpiptv.com:8080/live/carlton/carlton/484.ts
+#EXTINF:-1,Cartoon Network
+http://system.fpiptv.com:8080/live/carlton/carlton/488.ts
+#EXTINF:-1,Boomerang USA
+http://system.fpiptv.com:8080/live/carlton/carlton/487.ts
+#EXTINF:-1,Teen Nick
+http://system.fpiptv.com:8080/live/carlton/carlton/491.ts
+#EXTINF:-1,Nickelodeon
+http://system.fpiptv.com:8080/live/carlton/carlton/489.ts
+#EXTINF:-1,FOX NEWS HD
+http://system.fpiptv.com:8080/live/carlton/carlton/37.ts
+#EXTINF:-1,Food Network HD
+http://system.fpiptv.com:8080/live/carlton/carlton/9.ts
+#EXTINF:-1,E! HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/57.ts
+#EXTINF:-1,DIY Network
+http://system.fpiptv.com:8080/live/carlton/carlton/95.ts
+#EXTINF:-1,DIY NETWORK HD
+http://system.fpiptv.com:8080/live/carlton/carlton/75.ts
+#EXTINF:-1,Disney XD HD USA
+http://system.fpiptv.com:8080/live/carlton/carlton/24.ts
+#EXTINF:-1,Disney HD USA
+http://system.fpiptv.com:8080/live/carlton/carlton/22.ts
+#EXTINF:-1,NAT GEO WILD
+http://system.fpiptv.com:8080/live/carlton/carlton/40.ts
+#EXTINF:-1,Nat Geo HD US
+http://system.fpiptv.com:8080/live/carlton/carlton/28.ts
+#EXTINF:-1,History Channel US
+http://system.fpiptv.com:8080/live/carlton/carlton/72.ts
+#EXTINF:-1,Discovery Turbo
+http://system.fpiptv.com:8080/live/carlton/carlton/109.ts
+#EXTINF:-1,Discovery ID
+http://system.fpiptv.com:8080/live/carlton/carlton/2.ts
+#EXTINF:-1,Discovery Home & Health
+http://system.fpiptv.com:8080/live/carlton/carlton/106.ts
+#EXTINF:-1,Discovery Life Channel
+http://system.fpiptv.com:8080/live/carlton/carlton/377.ts
+#EXTINF:-1,DISCOVERY HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/38.ts
+#EXTINF:-1,Discovery Family
+http://system.fpiptv.com:8080/live/carlton/carlton/179.ts
+#EXTINF:-1,Animal Planet SD
+http://system.fpiptv.com:8080/live/carlton/carlton/111.ts
+#EXTINF:-1,ANIMAL PLANET HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/41.ts
+#EXTINF:-1,CTV
+http://system.fpiptv.com:8080/live/carlton/carlton/10.ts
+#EXTINF:-1,Comedy Central HD US
+http://system.fpiptv.com:8080/live/carlton/carlton/89.ts
+#EXTINF:-1,CNN US HD
+http://system.fpiptv.com:8080/live/carlton/carlton/36.ts
+#EXTINF:-1,CNBC
+http://system.fpiptv.com:8080/live/carlton/carlton/116.ts
+#EXTINF:-1,CBSN HD
+http://system.fpiptv.com:8080/live/carlton/carlton/88.ts
+#EXTINF:-1,CBC News
+http://system.fpiptv.com:8080/live/carlton/carlton/134.ts
+#EXTINF:-1,CBC HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/33.ts
+#EXTINF:-1,BRAVO HD
+http://system.fpiptv.com:8080/live/carlton/carlton/54.ts
+#EXTINF:-1,BBC 4 HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/87.ts
+#EXTINF:-1,BBC 3 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/86.ts
+#EXTINF:-1,BBC 2 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/85.ts
+#EXTINF:-1,BBC 1 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/84.ts
+#EXTINF:-1,AMC USA
+http://system.fpiptv.com:8080/live/carlton/carlton/48.ts
+#EXTINF:-1,ABC NEWS
+http://system.fpiptv.com:8080/live/carlton/carlton/138.ts
+#EXTINF:-1,ABC HD.
+http://system.fpiptv.com:8080/live/carlton/carlton/34.ts
+#EXTINF:-1,HGTV HD
+http://system.fpiptv.com:8080/live/carlton/carlton/1.ts
+#EXTINF:-1,News Bronx
+http://system.fpiptv.com:8080/live/carlton/carlton/1155.ts
+#EXTINF:-1,News Brooklyn
+http://system.fpiptv.com:8080/live/carlton/carlton/1157.ts
+#EXTINF:-1,News Connecticut
+http://system.fpiptv.com:8080/live/carlton/carlton/1159.ts
+#EXTINF:-1,News Hudson Valley
+http://system.fpiptv.com:8080/live/carlton/carlton/1161.ts
+#EXTINF:-1,News Long Island
+http://system.fpiptv.com:8080/live/carlton/carlton/1163.ts
+#EXTINF:-1,News New Jersey
+http://system.fpiptv.com:8080/live/carlton/carlton/1165.ts
+#EXTINF:-1,News Westchester
+http://system.fpiptv.com:8080/live/carlton/carlton/1166.ts
+#EXTINF:-1,PAY PER VIEW - ACTION
+http://system.fpiptv.com:8080/live/carlton/carlton/1212.ts
+#EXTINF:-1,PAY PER VIEW - COMEDY
+http://system.fpiptv.com:8080/live/carlton/carlton/1214.ts
+#EXTINF:-1,PAY PER VIEW - CRIME
+http://system.fpiptv.com:8080/live/carlton/carlton/1216.ts
+#EXTINF:-1,PAY PER VIEW - DRAMA
+http://system.fpiptv.com:8080/live/carlton/carlton/1218.ts
+#EXTINF:-1,PAY PER VIEW - FAMILY
+http://system.fpiptv.com:8080/live/carlton/carlton/1217.ts
+#EXTINF:-1,PAY PER VIEW - HORROR
+http://system.fpiptv.com:8080/live/carlton/carlton/1213.ts
+#EXTINF:-1,PAY PER VIEW - SCI-FI
+http://system.fpiptv.com:8080/live/carlton/carlton/1215.ts
+#EXTINF:-1,PAY PER VIEW - THRILLER
+http://system.fpiptv.com:8080/live/carlton/carlton/1219.ts
+#EXTINF:-1,Sky News
+http://system.fpiptv.com:8080/live/carlton/carlton/157.ts
+#EXTINF:-1,Sky Crime & Thriller
+http://system.fpiptv.com:8080/live/carlton/carlton/156.ts
+#EXTINF:-1,Sky Movies Select HD
+http://system.fpiptv.com:8080/live/carlton/carlton/154.ts
+#EXTINF:-1,Sky Movies ScFi-Horror HD
+http://system.fpiptv.com:8080/live/carlton/carlton/153.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://system.fpiptv.com:8080/live/carlton/carlton/152.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://system.fpiptv.com:8080/live/carlton/carlton/151.ts
+#EXTINF:-1,Sky Movies Family
+http://system.fpiptv.com:8080/live/carlton/carlton/150.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://system.fpiptv.com:8080/live/carlton/carlton/149.ts
+#EXTINF:-1,Sky Movies Disney
+http://system.fpiptv.com:8080/live/carlton/carlton/148.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://system.fpiptv.com:8080/live/carlton/carlton/147.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://system.fpiptv.com:8080/live/carlton/carlton/146.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://system.fpiptv.com:8080/live/carlton/carlton/145.ts
+#EXTINF:-1,Sky Living HD
+http://system.fpiptv.com:8080/live/carlton/carlton/83.ts
+#EXTINF:-1,Sky Atlantic
+http://system.fpiptv.com:8080/live/carlton/carlton/144.ts
+#EXTINF:-1,SHOWTIME HD
+http://system.fpiptv.com:8080/live/carlton/carlton/141.ts
+#EXTINF:-1,HBO Zone
+http://system.fpiptv.com:8080/live/carlton/carlton/455.ts
+#EXTINF:-1,HBO *
+http://system.fpiptv.com:8080/live/carlton/carlton/451.ts
+#EXTINF:-1,HBO Signature ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/450.ts
+#EXTINF:-1,HBO Family ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/453.ts
+#EXTINF:-1,HBO  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/448.ts
+#EXTINF:-1,HBO Comedy ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/454.ts
+#EXTINF:-1,HBO 2 *
+http://system.fpiptv.com:8080/live/carlton/carlton/452.ts
+#EXTINF:-1,HBO 2  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/449.ts
+#EXTINF:-1,Starz W
+http://system.fpiptv.com:8080/live/carlton/carlton/472.ts
+#EXTINF:-1,Starz Kids & Family ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/477.ts
+#EXTINF:-1,Starz In Black
+http://system.fpiptv.com:8080/live/carlton/carlton/476.ts
+#EXTINF:-1,Starz Edge ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/473.ts
+#EXTINF:-1,Starz HD
+http://system.fpiptv.com:8080/live/carlton/carlton/471.ts
+#EXTINF:-1,Starz Comedy ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/475.ts
+#EXTINF:-1,Starz Cinema  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/474.ts
+#EXTINF:-1,Showtime *
+http://system.fpiptv.com:8080/live/carlton/carlton/462.ts
+#EXTINF:-1,Showtime ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/464.ts
+#EXTINF:-1,Showtime Showcase
+http://system.fpiptv.com:8080/live/carlton/carlton/467.ts
+#EXTINF:-1,Showtime Extreme
+http://system.fpiptv.com:8080/live/carlton/carlton/465.ts
+#EXTINF:-1,Showtime West
+http://system.fpiptv.com:8080/live/carlton/carlton/461.ts
+#EXTINF:-1,Showtime Beyond ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/466.ts
+#EXTINF:-1,Showtime 2 ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/463.ts
+#EXTINF:-1,The Movie Channel ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/446.ts
+#EXTINF:-1,Lifetime Movie Network  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/482.ts
+#EXTINF:-1,Encore Westerns ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/469.ts
+#EXTINF:-1,ITV Encore  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/468.ts
+#EXTINF:-1,Encore Action ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/470.ts
+#EXTINF:-1,Cinemax  HD
+http://system.fpiptv.com:8080/live/carlton/carlton/456.ts
+#EXTINF:-1,Cinemax More
+http://system.fpiptv.com:8080/live/carlton/carlton/872.ts
+#EXTINF:-1,Cinemax HD
+http://system.fpiptv.com:8080/live/carlton/carlton/871.ts
+#EXTINF:-1,ThrillerMax ENG
+http://system.fpiptv.com:8080/live/carlton/carlton/460.ts
+#EXTINF:-1,Movies 24
+http://system.fpiptv.com:8080/live/carlton/carlton/480.ts
+#EXTINF:-1,FILM 4 HD
+http://system.fpiptv.com:8080/live/carlton/carlton/1241.ts
+#EXTINF:-1,The Movie Channel
+http://system.fpiptv.com:8080/live/carlton/carlton/1244.ts
+#EXTINF:-1,The Movie Channel WEST
+http://system.fpiptv.com:8080/live/carlton/carlton/1245.ts
+#EXTINF:-1,True Movies 1
+http://system.fpiptv.com:8080/live/carlton/carlton/1239.ts
+#EXTINF:-1,True Movies 2
+http://system.fpiptv.com:8080/live/carlton/carlton/1240.ts
 
 #EXTINF:-1,(US) ABC
 http://5.255.90.94:1339/live/Zaza/Zaza/1593.ts
