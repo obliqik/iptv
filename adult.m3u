@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,===== +19 ADULT =====
+http://84.245.50.99:9002/playlist.m3u8
 #EXTINF:-1,===== +18 ADULT =====
 http://1.src906.com:8080/live/erdugan/tuiTuifdzY/322.ts
 #EXTINF:-1,XXX | VİP CHANNEL 3
