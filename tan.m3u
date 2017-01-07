@@ -1,24 +1,5 @@
 #EXTM3U
-#EXTINF:-1,USA-CNN_Live
-http://37.187.175.177:8000/live/bassem9079/bassem9079/2806.ts
-#EXTINF:-1,US-CNN News-intl.
-http://37.187.175.177:8000/live/bassem9079/bassem9079/191.ts
-#EXTINF:-1,USA-ABC_News
-http://37.187.175.177:8000/live/bassem9079/bassem9079/1063.ts
-#EXTINF:-1,USA-BBC-News
-http://37.187.175.177:8000/live/bassem9079/bassem9079/2071.ts
-#EXTINF:-1,USA-Bloomberg
-http://37.187.175.177:8000/live/bassem9079/bassem9079/1304.ts
-#EXTINF:-1,USA-RT_News
-http://37.187.175.177:8000/live/bassem9079/bassem9079/1910.ts
-#EXTINF:-1,USA_Al-jazeera
-http://37.187.175.177:8000/live/bassem9079/bassem9079/1536.ts
-#EXTINF:-1,cspan1
-http://37.187.175.177:8000/live/bassem9079/bassem9079/2734.ts
-#EXTINF:-1,cspan2
-http://37.187.175.177:8000/live/bassem9079/bassem9079/2735.ts
-#EXTINF:-1,cspan3
-http://37.187.175.177:8000/live/bassem9079/bassem9079/2736.ts
+
 #EXTINF:-1,US-USA Network
 http://37.187.175.177:8000/live/bassem9079/bassem9079/2731.ts
 #EXTINF:-1,US-TBS HD
