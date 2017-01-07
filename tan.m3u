@@ -1,126 +1,71 @@
 #EXTM3U
-USA Network HD  [1280x720]
-http://62.210.249.138:8080/live/general/general/101.ts
-USA Network HD  [1280x720]
-http://system.fpiptv.com:8080/live/pepito/pepito/101.ts
-USA Network HD  [1280x720]
-http://62.210.249.138:8080/live/mcphail/mcphail/101.ts
-USA Network HD  [1280x720]
-http://system.fpiptv.com:8080/live/thierry/thierry/101.ts
-USA Network HD  [1280x720]
-http://system.fpiptv.com:8080/live/carlton/carlton/101.ts
-USA:HBO US  [640x368]
-http://149.202.201.221:8000/live/3w2xp/ure3d/2753.ts
-USA:HBO US  [1280x720]
-http://mediaipro.com:8000/live/3w2xp/ure3d/2753.ts
- Versus NBA HD  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5109.ts
- Starz East  [1024x576]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5063.ts
- LIFE TIME  [544x576]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5079.ts
- ESPN  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/2323.ts
- HBO East  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5087.ts
- BEIN SPORT  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/2320.ts
- History Channel  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5083.ts
- Animal Planet  [480x272]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5101.ts
- AFN PULSE  [720x480]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5104.ts
- Nasa TV HD  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5076.ts
-RUS: Match Sports  [720x576]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5477.ts
- Discovery Channel HD  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5092.ts
- HBO SIGNATURE  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5085.ts
- Comedy C HD  [1280x720]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/2215.ts
- HBO  [640x368]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/5088.ts
-RUS: surgut 1  [480x272]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/3365.ts
-RUS: 3 world  [960x544]
-http://185.142.236.82:2500/live/Jacques1/Jacques1/3375.ts
-USA HBO1  [1280x720]
-http://37.187.175.177:8000/live/bsr/bsr/2115.ts
-USA NBCSN sport  [1024x768]
-http://37.187.175.177:8000/live/bsr/bsr/2116.ts
-USA Family E  [640x480]
-http://37.187.175.177:8000/live/bsr/bsr/2094.ts
-USA QVC HD  [848x480]
-http://37.187.175.177:8000/live/bsr/bsr/2114.ts
-
 #EXTINF:-1,USA-CNN_Live
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2806.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2806.ts
 #EXTINF:-1,US-CNN News-intl.
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/191.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/191.ts
 #EXTINF:-1,USA-ABC_News
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1063.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1063.ts
 #EXTINF:-1,USA-BBC-News
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2071.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2071.ts
 #EXTINF:-1,USA-Bloomberg
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1304.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1304.ts
 #EXTINF:-1,USA-RT_News
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1910.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1910.ts
 #EXTINF:-1,USA_Al-jazeera
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1536.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1536.ts
+#EXTINF:-1,cspan1
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2734.ts
+#EXTINF:-1,cspan2
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2735.ts
+#EXTINF:-1,cspan3
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2736.ts
 #EXTINF:-1,US-USA Network
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2731.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2731.ts
 #EXTINF:-1,US-TBS HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2729.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2729.ts
 #EXTINF:-1,US-Bravo HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2732.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2732.ts
 #EXTINF:-1,USA-AMC HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2113.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2113.ts
 #EXTINF:-1,Usa- A&E hd
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2637.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2637.ts
 #EXTINF:-1,US-Boston City TV
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2737.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2737.ts
 #EXTINF:-1,US-AMG
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2733.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2733.ts
 #EXTINF:-1,USA-Family E
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2094.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2094.ts
 #EXTINF:-1,USA-HBO
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/827.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/827.ts
 #EXTINF:-1,USA-HBO1
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2115.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2115.ts
 #EXTINF:-1,US-Family FE
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1627.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1627.ts
 #EXTINF:-1,US-Hallmark HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2393.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2393.ts
 #EXTINF:-1,US-WWE
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2730.ts
-#EXTINF:-1,USA--NBC_golf
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1261.ts
-#EXTINF:-1,USA--AFL
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1240.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2730.ts
+#EXTINF:-1,USA–NBC_golf
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1261.ts
+#EXTINF:-1,USA–AFL
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1240.ts
 #EXTINF:-1,USA:ESPN
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2078.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2078.ts
 #EXTINF:-1,USA-NBCSN sport
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2116.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2116.ts
 #EXTINF:-1,US-Sports Net
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1625.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/1625.ts
 #EXTINF:-1,USA-PAC-12 WS
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2101.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2101.ts
 #EXTINF:-1,USA:London live
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2084.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2084.ts
 #EXTINF:-1,USA:FOOD network
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2087.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2087.ts
 #EXTINF:-1,USA-NASA_HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2097.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2097.ts
 #EXTINF:-1,USA-QVC HD
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2114.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2114.ts
 #EXTINF:-1,USA-London_Live
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2096.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2096.ts
 #EXTINF:-1,USA-Spike
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2099.ts
-#EXTINF:-1,USA-Florida_Channel
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2102.ts
-#EXTINF:-1,USA-California_University
-http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2103.ts
+http://37.187.175.177:8000/live/bassem9079/bassem9079/2099.ts
