@@ -1,4 +1,61 @@
 #EXTM3U
+USA Network HD  [1280x720]
+http://62.210.249.138:8080/live/general/general/101.ts
+USA Network HD  [1280x720]
+http://system.fpiptv.com:8080/live/pepito/pepito/101.ts
+USA Network HD  [1280x720]
+http://62.210.249.138:8080/live/mcphail/mcphail/101.ts
+USA Network HD  [1280x720]
+http://system.fpiptv.com:8080/live/thierry/thierry/101.ts
+USA Network HD  [1280x720]
+http://system.fpiptv.com:8080/live/carlton/carlton/101.ts
+USA:HBO US  [640x368]
+http://149.202.201.221:8000/live/3w2xp/ure3d/2753.ts
+USA:HBO US  [1280x720]
+http://mediaipro.com:8000/live/3w2xp/ure3d/2753.ts
+ Versus NBA HD  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5109.ts
+ Starz East  [1024x576]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5063.ts
+ LIFE TIME  [544x576]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5079.ts
+ ESPN  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/2323.ts
+ HBO East  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5087.ts
+ BEIN SPORT  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/2320.ts
+ History Channel  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5083.ts
+ Animal Planet  [480x272]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5101.ts
+ AFN PULSE  [720x480]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5104.ts
+ Nasa TV HD  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5076.ts
+RUS: Match Sports  [720x576]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5477.ts
+ Discovery Channel HD  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5092.ts
+ HBO SIGNATURE  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5085.ts
+ Comedy C HD  [1280x720]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/2215.ts
+ HBO  [640x368]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/5088.ts
+RUS: surgut 1  [480x272]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/3365.ts
+RUS: 3 world  [960x544]
+http://185.142.236.82:2500/live/Jacques1/Jacques1/3375.ts
+USA HBO1  [1280x720]
+http://37.187.175.177:8000/live/bsr/bsr/2115.ts
+USA NBCSN sport  [1024x768]
+http://37.187.175.177:8000/live/bsr/bsr/2116.ts
+USA Family E  [640x480]
+http://37.187.175.177:8000/live/bsr/bsr/2094.ts
+USA QVC HD  [848x480]
+http://37.187.175.177:8000/live/bsr/bsr/2114.ts
+
 #EXTINF:-1,USA-CNN_Live
 http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2806.ts
 #EXTINF:-1,US-CNN News-intl.
