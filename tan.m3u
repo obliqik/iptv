@@ -1,359 +1,75 @@
 #EXTM3U
-#EXTINF:-1,ITV 1 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/76.ts
-#EXTINF:-1,ITV 2 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/77.ts
-#EXTINF:-1,ITV 3 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/78.ts
-#EXTINF:-1,ITV 4 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/79.ts
-#EXTINF:-1,Oxygen
-http://62.210.249.138:8080/live/mcphail/mcphail/430.ts
-#EXTINF:-1,NBC New-York
-http://62.210.249.138:8080/live/mcphail/mcphail/442.ts
-#EXTINF:-1,MSNBC
-http://62.210.249.138:8080/live/mcphail/mcphail/425.ts
-#EXTINF:-1,Lifetime US
-http://62.210.249.138:8080/live/mcphail/mcphail/428.ts
-#EXTINF:-1,Headline News
-http://62.210.249.138:8080/live/mcphail/mcphail/423.ts
-#EXTINF:-1,FreeForm
-http://62.210.249.138:8080/live/mcphail/mcphail/1169.ts
-#EXTINF:-1,Gold
-http://62.210.249.138:8080/live/mcphail/mcphail/427.ts
-#EXTINF:-1,Tru TV ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/445.ts
-#EXTINF:-1,FOX Miami
-http://62.210.249.138:8080/live/mcphail/mcphail/439.ts
-#EXTINF:-1,Fox Business
-http://62.210.249.138:8080/live/mcphail/mcphail/433.ts
-#EXTINF:-1,CNN US
-http://62.210.249.138:8080/live/mcphail/mcphail/421.ts
-#EXTINF:-1,OWN HD (OPRAH WINFRY NETWORK)
-http://62.210.249.138:8080/live/mcphail/mcphail/1284.ts
-#EXTINF:-1,CNBC US
-http://62.210.249.138:8080/live/mcphail/mcphail/424.ts
-#EXTINF:-1,Chiller TV
-http://62.210.249.138:8080/live/mcphail/mcphail/444.ts
-#EXTINF:-1,CBS New-York
-http://62.210.249.138:8080/live/mcphail/mcphail/441.ts
-#EXTINF:-1,Bravo ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/431.ts
-#EXTINF:-1,ABC New-York
-http://62.210.249.138:8080/live/mcphail/mcphail/440.ts
-#EXTINF:-1,FOX 43
-http://62.210.249.138:8080/live/mcphail/mcphail/419.ts
-#EXTINF:-1,YTV HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/59.ts
-#EXTINF:-1,USA Network HD
-http://62.210.249.138:8080/live/mcphail/mcphail/101.ts
-#EXTINF:-1,Universal
-http://62.210.249.138:8080/live/mcphail/mcphail/164.ts
-#EXTINF:-1,WGN News
-http://62.210.249.138:8080/live/mcphail/mcphail/678.ts
-#EXTINF:-1,WeatherNation
-http://62.210.249.138:8080/live/mcphail/mcphail/682.ts
-#EXTINF:-1,TRT World
-http://62.210.249.138:8080/live/mcphail/mcphail/687.ts
-#EXTINF:-1,RT International
-http://62.210.249.138:8080/live/mcphail/mcphail/688.ts
-#EXTINF:-1,RT Documentary
-http://62.210.249.138:8080/live/mcphail/mcphail/674.ts
-#EXTINF:-1,RT US
-http://62.210.249.138:8080/live/mcphail/mcphail/677.ts
-#EXTINF:-1,RT UK
-http://62.210.249.138:8080/live/mcphail/mcphail/684.ts
-#EXTINF:-1,London Live
-http://62.210.249.138:8080/live/mcphail/mcphail/663.ts
-#EXTINF:-1,Press TV
-http://62.210.249.138:8080/live/mcphail/mcphail/690.ts
-#EXTINF:-1,Destination America
-http://62.210.249.138:8080/live/mcphail/mcphail/1117.ts
-#EXTINF:-1,Poker Central
-http://62.210.249.138:8080/live/mcphail/mcphail/666.ts
-#EXTINF:-1,NewsmaxTV
-http://62.210.249.138:8080/live/mcphail/mcphail/697.ts
-#EXTINF:-1,KiTV 4 abc
-http://62.210.249.138:8080/live/mcphail/mcphail/664.ts
-#EXTINF:-1,France 24
-http://62.210.249.138:8080/live/mcphail/mcphail/689.ts
-#EXTINF:-1,Euronews
-http://62.210.249.138:8080/live/mcphail/mcphail/691.ts
-#EXTINF:-1,Deutsche Welle
-http://62.210.249.138:8080/live/mcphail/mcphail/694.ts
-#EXTINF:-1,CHching!
-http://62.210.249.138:8080/live/mcphail/mcphail/699.ts
-#EXTINF:-1,CBS News
-http://62.210.249.138:8080/live/mcphail/mcphail/676.ts
-#EXTINF:-1,C-Span
-http://62.210.249.138:8080/live/mcphail/mcphail/679.ts
-#EXTINF:-1,C-Span  Book TV
-http://62.210.249.138:8080/live/mcphail/mcphail/680.ts
-#EXTINF:-1,C-Span American History TV
-http://62.210.249.138:8080/live/mcphail/mcphail/681.ts
-#EXTINF:-1,ByuTV
-http://62.210.249.138:8080/live/mcphail/mcphail/698.ts
-#EXTINF:-1,Bloomberg TV US
-http://62.210.249.138:8080/live/mcphail/mcphail/675.ts
-#EXTINF:-1,Bloomberg TV UK
-http://62.210.249.138:8080/live/mcphail/mcphail/685.ts
-#EXTINF:-1,Bloomberg TV Asia
-http://62.210.249.138:8080/live/mcphail/mcphail/686.ts
-#EXTINF:-1,Al Jazeera
-http://62.210.249.138:8080/live/mcphail/mcphail/692.ts
-#EXTINF:-1,Africa News Network
-http://62.210.249.138:8080/live/mcphail/mcphail/693.ts
-#EXTINF:-1,Travel Channel HD
-http://62.210.249.138:8080/live/mcphail/mcphail/100.ts
-#EXTINF:-1,TNT
-http://62.210.249.138:8080/live/mcphail/mcphail/94.ts
-#EXTINF:-1,TLC HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/52.ts
-#EXTINF:-1,TBS HD
-http://62.210.249.138:8080/live/mcphail/mcphail/55.ts
-#EXTINF:-1,SYFY USA
-http://62.210.249.138:8080/live/mcphail/mcphail/163.ts
-#EXTINF:-1,SPIKE HD
-http://62.210.249.138:8080/live/mcphail/mcphail/161.ts
-#EXTINF:-1,SPACE HD
-http://62.210.249.138:8080/live/mcphail/mcphail/4.ts
-#EXTINF:-1,SLICE HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/50.ts
-#EXTINF:-1,SKY Select
-http://62.210.249.138:8080/live/mcphail/mcphail/160.ts
-#EXTINF:-1,PBS HD
-http://62.210.249.138:8080/live/mcphail/mcphail/98.ts
-#EXTINF:-1,NBC HD
-http://62.210.249.138:8080/live/mcphail/mcphail/99.ts
-#EXTINF:-1,NASA TV HD
-http://62.210.249.138:8080/live/mcphail/mcphail/44.ts
-#EXTINF:-1,MUTV HD
-http://62.210.249.138:8080/live/mcphail/mcphail/82.ts
-#EXTINF:-1,Lifetime HD
-http://62.210.249.138:8080/live/mcphail/mcphail/71.ts
-#EXTINF:-1,HBO2 USA
-http://62.210.249.138:8080/live/mcphail/mcphail/12.ts
-#EXTINF:-1,HBO Comedy
-http://62.210.249.138:8080/live/mcphail/mcphail/15.ts
-#EXTINF:-1,Hallmark Channel HD
-http://62.210.249.138:8080/live/mcphail/mcphail/1285.ts
-#EXTINF:-1,FX HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/53.ts
-#EXTINF:-1,Nick Jr
-http://62.210.249.138:8080/live/mcphail/mcphail/490.ts
-#EXTINF:-1,Disney XD
-http://62.210.249.138:8080/live/mcphail/mcphail/486.ts
-#EXTINF:-1,Disney Jr
-http://62.210.249.138:8080/live/mcphail/mcphail/485.ts
-#EXTINF:-1,Disney Channel
-http://62.210.249.138:8080/live/mcphail/mcphail/484.ts
-#EXTINF:-1,Cartoon Network
-http://62.210.249.138:8080/live/mcphail/mcphail/488.ts
-#EXTINF:-1,Boomerang USA
-http://62.210.249.138:8080/live/mcphail/mcphail/487.ts
-#EXTINF:-1,Teen Nick
-http://62.210.249.138:8080/live/mcphail/mcphail/491.ts
-#EXTINF:-1,Nickelodeon
-http://62.210.249.138:8080/live/mcphail/mcphail/489.ts
-#EXTINF:-1,FOX NEWS HD
-http://62.210.249.138:8080/live/mcphail/mcphail/37.ts
-#EXTINF:-1,Food Network HD
-http://62.210.249.138:8080/live/mcphail/mcphail/9.ts
-#EXTINF:-1,E! HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/57.ts
-#EXTINF:-1,DIY Network
-http://62.210.249.138:8080/live/mcphail/mcphail/95.ts
-#EXTINF:-1,DIY NETWORK HD
-http://62.210.249.138:8080/live/mcphail/mcphail/75.ts
-#EXTINF:-1,Disney XD HD USA
-http://62.210.249.138:8080/live/mcphail/mcphail/24.ts
-#EXTINF:-1,Disney HD USA
-http://62.210.249.138:8080/live/mcphail/mcphail/22.ts
-#EXTINF:-1,NAT GEO WILD
-http://62.210.249.138:8080/live/mcphail/mcphail/40.ts
-#EXTINF:-1,Nat Geo HD US
-http://62.210.249.138:8080/live/mcphail/mcphail/28.ts
-#EXTINF:-1,History Channel US
-http://62.210.249.138:8080/live/mcphail/mcphail/72.ts
-#EXTINF:-1,Discovery Turbo
-http://62.210.249.138:8080/live/mcphail/mcphail/109.ts
-#EXTINF:-1,Discovery ID
-http://62.210.249.138:8080/live/mcphail/mcphail/2.ts
-#EXTINF:-1,Discovery Home & Health
-http://62.210.249.138:8080/live/mcphail/mcphail/106.ts
-#EXTINF:-1,Discovery Life Channel
-http://62.210.249.138:8080/live/mcphail/mcphail/377.ts
-#EXTINF:-1,DISCOVERY HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/38.ts
-#EXTINF:-1,Discovery Family
-http://62.210.249.138:8080/live/mcphail/mcphail/179.ts
-#EXTINF:-1,Animal Planet SD
-http://62.210.249.138:8080/live/mcphail/mcphail/111.ts
-#EXTINF:-1,ANIMAL PLANET HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/41.ts
-#EXTINF:-1,CTV
-http://62.210.249.138:8080/live/mcphail/mcphail/10.ts
-#EXTINF:-1,Comedy Central HD US
-http://62.210.249.138:8080/live/mcphail/mcphail/89.ts
-#EXTINF:-1,CNN US HD
-http://62.210.249.138:8080/live/mcphail/mcphail/36.ts
-#EXTINF:-1,CNBC
-http://62.210.249.138:8080/live/mcphail/mcphail/116.ts
-#EXTINF:-1,CBSN HD
-http://62.210.249.138:8080/live/mcphail/mcphail/88.ts
-#EXTINF:-1,CBC News
-http://62.210.249.138:8080/live/mcphail/mcphail/134.ts
-#EXTINF:-1,CBC HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/33.ts
-#EXTINF:-1,BRAVO HD
-http://62.210.249.138:8080/live/mcphail/mcphail/54.ts
-#EXTINF:-1,BBC 4 HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/87.ts
-#EXTINF:-1,BBC 3 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/86.ts
-#EXTINF:-1,BBC 2 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/85.ts
-#EXTINF:-1,BBC 1 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/84.ts
-#EXTINF:-1,AMC USA
-http://62.210.249.138:8080/live/mcphail/mcphail/48.ts
-#EXTINF:-1,ABC NEWS
-http://62.210.249.138:8080/live/mcphail/mcphail/138.ts
-#EXTINF:-1,ABC HD.
-http://62.210.249.138:8080/live/mcphail/mcphail/34.ts
-#EXTINF:-1,HGTV HD
-http://62.210.249.138:8080/live/mcphail/mcphail/1.ts
-#EXTINF:-1,News Bronx
-http://62.210.249.138:8080/live/mcphail/mcphail/1155.ts
-#EXTINF:-1,News Brooklyn
-http://62.210.249.138:8080/live/mcphail/mcphail/1157.ts
-#EXTINF:-1,News Connecticut
-http://62.210.249.138:8080/live/mcphail/mcphail/1159.ts
-#EXTINF:-1,News Hudson Valley
-http://62.210.249.138:8080/live/mcphail/mcphail/1161.ts
-#EXTINF:-1,News Long Island
-http://62.210.249.138:8080/live/mcphail/mcphail/1163.ts
-#EXTINF:-1,News New Jersey
-http://62.210.249.138:8080/live/mcphail/mcphail/1165.ts
-#EXTINF:-1,News Westchester
-http://62.210.249.138:8080/live/mcphail/mcphail/1166.ts
-#EXTINF:-1,PAY PER VIEW - ACTION
-http://62.210.249.138:8080/live/mcphail/mcphail/1212.ts
-#EXTINF:-1,PAY PER VIEW - COMEDY
-http://62.210.249.138:8080/live/mcphail/mcphail/1214.ts
-#EXTINF:-1,PAY PER VIEW - CRIME
-http://62.210.249.138:8080/live/mcphail/mcphail/1216.ts
-#EXTINF:-1,PAY PER VIEW - DRAMA
-http://62.210.249.138:8080/live/mcphail/mcphail/1218.ts
-#EXTINF:-1,PAY PER VIEW - FAMILY
-http://62.210.249.138:8080/live/mcphail/mcphail/1217.ts
-#EXTINF:-1,PAY PER VIEW - HORROR
-http://62.210.249.138:8080/live/mcphail/mcphail/1213.ts
-#EXTINF:-1,PAY PER VIEW - SCI-FI
-http://62.210.249.138:8080/live/mcphail/mcphail/1215.ts
-#EXTINF:-1,PAY PER VIEW - THRILLER
-http://62.210.249.138:8080/live/mcphail/mcphail/1219.ts
-#EXTINF:-1,Sky News
-http://62.210.249.138:8080/live/mcphail/mcphail/157.ts
-#EXTINF:-1,Sky Crime & Thriller
-http://62.210.249.138:8080/live/mcphail/mcphail/156.ts
-#EXTINF:-1,Sky Movies Select HD
-http://62.210.249.138:8080/live/mcphail/mcphail/154.ts
-#EXTINF:-1,Sky Movies ScFi-Horror HD
-http://62.210.249.138:8080/live/mcphail/mcphail/153.ts
-#EXTINF:-1,Sky Movies Premiere HD
-http://62.210.249.138:8080/live/mcphail/mcphail/152.ts
-#EXTINF:-1,Sky Movies Modern Greats HD
-http://62.210.249.138:8080/live/mcphail/mcphail/151.ts
-#EXTINF:-1,Sky Movies Family
-http://62.210.249.138:8080/live/mcphail/mcphail/150.ts
-#EXTINF:-1,Sky Movies Drama HD
-http://62.210.249.138:8080/live/mcphail/mcphail/149.ts
-#EXTINF:-1,Sky Movies Disney
-http://62.210.249.138:8080/live/mcphail/mcphail/148.ts
-#EXTINF:-1,Sky Movies Crime & Thriller
-http://62.210.249.138:8080/live/mcphail/mcphail/147.ts
-#EXTINF:-1,Sky Movies Comedy HD
-http://62.210.249.138:8080/live/mcphail/mcphail/146.ts
-#EXTINF:-1,Sky Movies Action & Adventure
-http://62.210.249.138:8080/live/mcphail/mcphail/145.ts
-#EXTINF:-1,Sky Living HD
-http://62.210.249.138:8080/live/mcphail/mcphail/83.ts
-#EXTINF:-1,Sky Atlantic
-http://62.210.249.138:8080/live/mcphail/mcphail/144.ts
-#EXTINF:-1,SHOWTIME HD
-http://62.210.249.138:8080/live/mcphail/mcphail/141.ts
-#EXTINF:-1,HBO Zone
-http://62.210.249.138:8080/live/mcphail/mcphail/455.ts
-#EXTINF:-1,HBO *
-http://62.210.249.138:8080/live/mcphail/mcphail/451.ts
-#EXTINF:-1,HBO Signature ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/450.ts
-#EXTINF:-1,HBO Family ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/453.ts
-#EXTINF:-1,HBO  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/448.ts
-#EXTINF:-1,HBO Comedy ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/454.ts
-#EXTINF:-1,HBO 2 *
-http://62.210.249.138:8080/live/mcphail/mcphail/452.ts
-#EXTINF:-1,HBO 2  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/449.ts
-#EXTINF:-1,Starz W
-http://62.210.249.138:8080/live/mcphail/mcphail/472.ts
-#EXTINF:-1,Starz Kids & Family ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/477.ts
-#EXTINF:-1,Starz In Black
-http://62.210.249.138:8080/live/mcphail/mcphail/476.ts
-#EXTINF:-1,Starz Edge ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/473.ts
-#EXTINF:-1,Starz HD
-http://62.210.249.138:8080/live/mcphail/mcphail/471.ts
-#EXTINF:-1,Starz Comedy ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/475.ts
-#EXTINF:-1,Starz Cinema  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/474.ts
-#EXTINF:-1,Showtime *
-http://62.210.249.138:8080/live/mcphail/mcphail/462.ts
-#EXTINF:-1,Showtime ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/464.ts
-#EXTINF:-1,Showtime Showcase
-http://62.210.249.138:8080/live/mcphail/mcphail/467.ts
-#EXTINF:-1,Showtime Extreme
-http://62.210.249.138:8080/live/mcphail/mcphail/465.ts
-#EXTINF:-1,Showtime  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/461.ts
-#EXTINF:-1,Showtime Beyond ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/466.ts
-#EXTINF:-1,Showtime 2 ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/463.ts
-#EXTINF:-1,The Movie Channel ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/446.ts
-#EXTINF:-1,Lifetime Movie Network  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/482.ts
-#EXTINF:-1,Encore Westerns ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/469.ts
-#EXTINF:-1,ITV Encore  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/468.ts
-#EXTINF:-1,Encore Action ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/470.ts
-#EXTINF:-1,Cinemax  HD
-http://62.210.249.138:8080/live/mcphail/mcphail/456.ts
-#EXTINF:-1,Cinemax More
-http://62.210.249.138:8080/live/mcphail/mcphail/872.ts
-#EXTINF:-1,Cinemax HD
-http://62.210.249.138:8080/live/mcphail/mcphail/871.ts
-#EXTINF:-1,ThrillerMax ENG
-http://62.210.249.138:8080/live/mcphail/mcphail/460.ts
-#EXTINF:-1,Movies 24
-http://62.210.249.138:8080/live/mcphail/mcphail/480.ts
-#EXTINF:-1,FILM 4 HD
-http://62.210.249.138:8080/live/mcphail/mcphail/1241.ts
-#EXTINF:-1,The Movie Channel
-http://62.210.249.138:8080/live/mcphail/mcphail/1244.ts
-#EXTINF:-1,The Movie Channel WEST
-http://62.210.249.138:8080/live/mcphail/mcphail/1245.ts
-#EXTINF:-1,True Movies 1
-http://62.210.249.138:8080/live/mcphail/mcphail/1239.ts
-#EXTINF:-1,True Movies 2
-http://62.210.249.138:8080/live/mcphail/mcphail/1240.ts
+#EXTINF:-1,USA-CNN_Live
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2806.ts
+#EXTINF:-1,US-CNN News-intl.
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/191.ts
+#EXTINF:-1,USA-ABC_News
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1063.ts
+#EXTINF:-1,USA-BBC-News
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2071.ts
+#EXTINF:-1,USA-Bloomberg
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1304.ts
+#EXTINF:-1,USA-RT_News
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1910.ts
+#EXTINF:-1,USA_Al-jazeera
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1536.ts
+#EXTINF:-1,cspan1
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2734.ts
+#EXTINF:-1,cspan2
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2735.ts
+#EXTINF:-1,cspan3
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2736.ts
+#EXTINF:-1,US-USA Network
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2731.ts
+#EXTINF:-1,US-TBS HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2729.ts
+#EXTINF:-1,US-Bravo HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2732.ts
+#EXTINF:-1,USA-AMC HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2113.ts
+#EXTINF:-1,Usa- A&E hd
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2637.ts
+#EXTINF:-1,US-Boston City TV
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2737.ts
+#EXTINF:-1,US-AMG
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2733.ts
+#EXTINF:-1,USA-Family E
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2094.ts
+#EXTINF:-1,USA-HBO
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/827.ts
+#EXTINF:-1,USA-HBO1
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2115.ts
+#EXTINF:-1,US-Family FE
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1627.ts
+#EXTINF:-1,US-Hallmark HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2393.ts
+#EXTINF:-1,US-WWE
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2730.ts
+#EXTINF:-1,USA--NBC_golf
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1261.ts
+#EXTINF:-1,USA--AFL
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1240.ts
+#EXTINF:-1,USA:ESPN
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2116.ts
+#EXTINF:-1,US-Sports Net
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/1625.ts
+#EXTINF:-1,USA-PAC-12 WS
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2101.ts
+#EXTINF:-1,USA:London live
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2084.ts
+#EXTINF:-1,USA:FOOD network
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2087.ts
+#EXTINF:-1,USA-NASA_HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2097.ts
+#EXTINF:-1,USA-QVC HD
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2114.ts
+#EXTINF:-1,USA-London_Live
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2096.ts
+#EXTINF:-1,USA-Spike
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2102.ts
+#EXTINF:-1,USA-California_University
+http://ultime-iptv.net:8000/live/bassem9026/bassem9026/2103.ts
