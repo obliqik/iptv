@@ -49,30 +49,7 @@ http://163.172.6.8:8000/live/aaaccc/aaaccc/1156.ts
 http://163.172.6.8:8000/live/aaaccc/aaaccc/1174.ts
 #EXTINF:-1,US: ABC NEWS HD
 http://163.172.6.8:8000/live/aaaccc/aaaccc/1179.ts
-#EXTINF:-1,---------- Cinma ----------
-http://163.172.6.8:8000/live/aaaccc/aaaccc/682.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/681.ts
-#EXTINF:-1,IT: Sky Cinema +1 HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/680.ts
-#EXTINF:-1,IT: Sky Cinema +24 HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/679.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/675.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/672.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/677.ts
-#EXTINF:-1,IT: Sky Cinema +Max HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/673.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/678.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/671.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/670.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://163.172.6.8:8000/live/aaaccc/aaaccc/674.ts
+
 #EXTINF:-1,UK: Sky Movies Premiere HD
 http://163.172.6.8:8000/live/aaaccc/aaaccc/519.ts
 #EXTINF:-1,UK: Sky Movies Disney
