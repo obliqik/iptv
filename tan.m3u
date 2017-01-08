@@ -1,2 +1,10 @@
 #EXTM3U
 #EXTINF:-1, This is only a test TOM
+#EXTINF:-1,(US) WGN
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9573.ts
+#EXTINF:-1,(US) WXYZ TV
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9569.ts
+#EXTINF:-1,(US) The Florida Channel
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9581.ts
+#EXTINF:-1,(US) Maimi TV
+http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9596.ts
