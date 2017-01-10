@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,UK: THRILLER
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/61.ts
+#EXTINF:-1,UK: Show Case
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/45.ts
+#EXTINF:-1,UK: Sci-Fi
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/79.ts
+#EXTINF:-1,UK: Movies Premiere
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/78.ts
+#EXTINF:-1,UK: Living
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/103.ts
+#EXTINF:-1,UK: Horror
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/101.ts
+#EXTINF:-1,UK: COMEDY
+http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/59.ts
 #EXTINF:-1,UK | CBSAction
 http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1136.ts
 #EXTINF:-1,UK | CBSDrama
