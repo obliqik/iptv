@@ -1,4 +1,37 @@
 #EXTM3U
+
+EXTINF:-1, HBO HD  
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1056.ts
+#EXTINF:-1, HBO East HD  
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1058.ts
+#EXTINF:-1, HBO Signature HD  
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1057.ts
+#EXTINF:-1, HBO Zone HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1059.ts
+#EXTINF:-1, Starz Comedy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1072.ts
+#EXTINF:-1, STARZ CINEMA HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1075.ts
+#EXTINF:-1, STARZ EDGE HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1073.ts
+#EXTINF:-1, Cinemax 5 StarMax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1067.ts
+#EXTINF:-1, Cinemax ActionMax East
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1069.ts
+#EXTINF:-1, Cinemax East 
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1068.ts
+#EXTINF:-1, Cinemax Moremax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1070.ts
+#EXTINF:-1, Showtime HD East
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1074.ts
+#EXTINF:-1, ShowTime 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1060.ts
+#EXTINF:-1, Showtime Showcase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1087.ts
+#EXTINF:-1, Showtime West HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1063.ts
+#EXTINF:-1, Hallmark Channel HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1088.ts
 #EXTINF:-1,UK: THRILLER
 http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/61.ts
 #EXTINF:-1,UK: Show Case
