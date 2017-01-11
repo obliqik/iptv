@@ -1,5 +1,6 @@
 <streamingInfos>
  
 <item><title>HBO</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1056.ts
-DOWNLOADER</link> </item>
+          <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1056.tsDOWNLOADER</link> </item>
+<item><title>HBO East</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1058.tsDOWNLOADER</link> </item>
