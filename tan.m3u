@@ -1,470 +1,273 @@
 #EXTM3U
-
-EXTINF:-1, HBO HD  
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1056.ts
-#EXTINF:-1, HBO East HD  
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1058.ts
-#EXTINF:-1, HBO Signature HD  
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1057.ts
-#EXTINF:-1, HBO Zone HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1059.ts
-#EXTINF:-1, Starz Comedy
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1072.ts
-#EXTINF:-1, STARZ CINEMA HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1075.ts
-#EXTINF:-1, STARZ EDGE HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1073.ts
-#EXTINF:-1, Cinemax 5 StarMax
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1067.ts
-#EXTINF:-1, Cinemax ActionMax East
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1069.ts
-#EXTINF:-1, Cinemax East 
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1068.ts
-#EXTINF:-1, Cinemax Moremax
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1070.ts
-#EXTINF:-1, Showtime HD East
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1074.ts
-#EXTINF:-1, ShowTime 2 HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1060.ts
-#EXTINF:-1, Showtime Showcase
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1087.ts
-#EXTINF:-1, Showtime West HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1063.ts
-#EXTINF:-1, Hallmark Channel HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1088.ts
-#EXTINF:-1,UK: THRILLER
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/61.ts
-#EXTINF:-1,UK: Show Case
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/45.ts
-#EXTINF:-1,UK: Sci-Fi
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/79.ts
-#EXTINF:-1,UK: Movies Premiere
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/78.ts
-#EXTINF:-1,UK: Living
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/103.ts
-#EXTINF:-1,UK: Horror
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/101.ts
-#EXTINF:-1,UK: COMEDY
-http://iptvpolo.dvrdns.org:22921/live/stalker/sD58jH09hgtR/59.ts
-#EXTINF:-1,UK | CBSAction
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1136.ts
-#EXTINF:-1,UK | CBSDrama
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1137.ts
-#EXTINF:-1,UK | CBSReality
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1138.ts
-#EXTINF:-1,UK | BBC4
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1139.ts
-#EXTINF:-1,UK | BBC3
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1140.ts
-#EXTINF:-1,UK | BBC2
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1141.ts
-#EXTINF:-1,UK | BBC1
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1142.ts
-#EXTINF:-1,UK | ITV4
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1143.ts
-#EXTINF:-1,UK | ITV3
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1144.ts
-#EXTINF:-1,UK | ITV2
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1145.ts
-#EXTINF:-1,UK | ITV1
-http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/1146.ts
-#EXTINF:-1,☆☆☆☆☆ UK - ENGLISH ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7129.ts
-#EXTINF:-1,(UK) BBC 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/332.ts
-#EXTINF:-1,(UK) BBC 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/333.ts
-#EXTINF:-1,(UK) BBC 3 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/319.ts
-#EXTINF:-1,(UK) BBC 4 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/334.ts
-#EXTINF:-1,(UK) BBC Entertainment
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/323.ts
-#EXTINF:-1,(UK) Channel 4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1560.ts
-#EXTINF:-1,(UK) Channel 4 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11471.ts
-#EXTINF:-1,(UK) Channel 5
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1561.ts
-#EXTINF:-1,(UK) Channel 5 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11472.ts
-#EXTINF:-1,(UK) iTV 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/328.ts
-#EXTINF:-1,(UK) iTV 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/329.ts
-#EXTINF:-1,(UK) iTV 3 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/330.ts
-#EXTINF:-1,(UK) ITV 4 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/464.ts
-#EXTINF:-1,(UK) iTV Be
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8153.ts
-#EXTINF:-1,(UK) 3E
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11424.ts
-#EXTINF:-1,(UK) 4Seven HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11473.ts
-#EXTINF:-1,(UK) More 4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11428.ts
-#EXTINF:-1,(UK) E4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1566.ts
-#EXTINF:-1,(UK) Five
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/331.ts
-#EXTINF:-1,(UK) 5 Star
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11430.ts
-#EXTINF:-1,(UK) Gold
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/191.ts
-#EXTINF:-1,(UK) TCM
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11422.ts
-#EXTINF:-1,(UK) E!
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11411.ts
-#EXTINF:-1,(UK) Sky Living UK
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/327.ts
-#EXTINF:-1,(UK) RTE 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1569.ts
-#EXTINF:-1,(UK) RTE 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11404.ts
-#EXTINF:-1,(UK) RTE Junior
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11416.ts
-#EXTINF:-1,(UK) Quest
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11414.ts
-#EXTINF:-1,(UK) H2
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11421.ts
-#EXTINF:-1,(UK) Dave
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11436.ts
-#EXTINF:-1,(UK) Pick TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11426.ts
-#EXTINF:-1,(UK) Dmax
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1565.ts
-#EXTINF:-1,☆☆☆☆☆ UK - NEWS ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11447.ts
-#EXTINF:-1,(UK) BBC News
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11412.ts
-#EXTINF:-1,(UK) Sky News HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/204.ts
-#EXTINF:-1,(UK) CNN News
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11443.ts
-#EXTINF:-1,(UK) Bloomberg
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11440.ts
-#EXTINF:-1,(UK) Al Jazeera UK
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11423.ts
-#EXTINF:-1,☆☆☆☆☆ UK - DOCUMENTARY ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7132.ts
-#EXTINF:-1,(UK) Discovery Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/195.ts
-#EXTINF:-1,(UK) Discovery History
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/193.ts
-#EXTINF:-1,(UK) Discovery Science
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1563.ts
-#EXTINF:-1,(UK) Discovery Turbo
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11410.ts
-#EXTINF:-1,(UK) Discovery Shed
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11445.ts
-#EXTINF:-1,(UK) Discovery Home&Health
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11420.ts
-#EXTINF:-1,(UK) Investigation Discovery
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/196.ts
-#EXTINF:-1,(UK) National Geographic Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/194.ts
-#EXTINF:-1,(UK) National Geographic Wild
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1568.ts
-#EXTINF:-1,(UK) History Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11415.ts
-#EXTINF:-1,(UK) Animal Planet
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/192.ts
-#EXTINF:-1,(UK) Travel Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11425.ts
-#EXTINF:-1,☆☆☆☆☆ UK - MUSIC ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7133.ts
-#EXTINF:-1,(UK) Vevo 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11405.ts
-#EXTINF:-1,(UK) Vevo 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11406.ts
-#EXTINF:-1,(UK) Vevo 3 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11407.ts
-#EXTINF:-1,(UK) MTV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8171.ts
-#EXTINF:-1,(UK) MTV +1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11171.ts
-#EXTINF:-1,(UK) MTV Music
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1580.ts
-#EXTINF:-1,(UK) MTV Music +1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11174.ts
-#EXTINF:-1,(UK) MTV Dance
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/349.ts
-#EXTINF:-1,(UK) MTV Hits
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/347.ts
-#EXTINF:-1,(UK) MTV Rocks
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/348.ts
-#EXTINF:-1,(UK) MTV Base
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11172.ts
-#EXTINF:-1,(UK) MTV Classic
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11173.ts
-#EXTINF:-1,(UK) VH1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/350.ts
-#EXTINF:-1,(UK) Viva
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11170.ts
-#EXTINF:-1,☆☆☆☆☆ UK - KIDS ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7134.ts
-#EXTINF:-1,(UK) Comedy Central
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11408.ts
-#EXTINF:-1,(UK) Comedy Xtra
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11409.ts
-#EXTINF:-1,(UK) Disney Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2522.ts
-#EXTINF:-1,(UK) Disney Junior
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1564.ts
-#EXTINF:-1,(UK) Cartoon Network
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/359.ts
-#EXTINF:-1,(UK) Nickelodeon
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11434.ts
-#EXTINF:-1,(UK) Nick Junior
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1581.ts
-#EXTINF:-1,(UK) NickToons
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11433.ts
-#EXTINF:-1,(UK) Boomerang
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11439.ts
-#EXTINF:-1,(UK) Baby TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11441.ts
-#EXTINF:-1,☆☆☆☆☆ UK - CINEMA ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7130.ts
-#EXTINF:-1,(UK) SyFy HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/17.ts
-#EXTINF:-1,(UK) Sky One HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1582.ts
-#EXTINF:-1,(UK) Sky Two
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/2519.ts
-#EXTINF:-1,(UK) Sky Arts
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1570.ts
-#EXTINF:-1,(UK) Sky Atlantic HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1575.ts
-#EXTINF:-1,(UK) Sky Movies Drama & Romance HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/565.ts
-#EXTINF:-1,(UK) Sky Movies Action & Adventure
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/199.ts
-#EXTINF:-1,(UK) Sky Movies Comedy HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/201.ts
-#EXTINF:-1,(UK) Sky Movies Crime & Thriller HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/200.ts
-#EXTINF:-1,(UK) Sky Movies Disney
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1577.ts
-#EXTINF:-1,(UK) Sky Movies Family HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/202.ts
-#EXTINF:-1,(UK) Sky Movies Select HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/569.ts
-#EXTINF:-1,(UK) Sky Movies Premiere HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/198.ts
-#EXTINF:-1,(UK) Sky Movies Sci-Fi & Horror
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/203.ts
-#EXTINF:-1,(UK) Sky Movies Showcase
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11431.ts
-#EXTINF:-1,(UK) Sky Movies Greats HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11432.ts
-#EXTINF:-1,(UK) True Movies 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11418.ts
-#EXTINF:-1,(UK) True Movies 2
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11419.ts
-#EXTINF:-1,(UK) Movies 4 Men
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11427.ts
-#EXTINF:-1,(UK) Horror Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11438.ts
-#EXTINF:-1,(UK) Film 4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11437.ts
-#EXTINF:-1,(UK) Drama UK
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11429.ts
-#EXTINF:-1,☆☆☆☆☆ UK - SPORTS ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7131.ts
-#EXTINF:-1,(UK) Sky Sport News HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1571.ts
-#EXTINF:-1,(UK) Sky Sports 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7641.ts
-#EXTINF:-1,(UK) Sky Sports 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/209.ts
-#EXTINF:-1,(UK) Sky Sports 2
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11399.ts
-#EXTINF:-1,(UK) Sky Sports 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/210.ts
-#EXTINF:-1,(UK) Sky Sports 3
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/211.ts
-#EXTINF:-1,(UK) Sky Sports 3 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11400.ts
-#EXTINF:-1,(UK) Sky Sports 4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/212.ts
-#EXTINF:-1,(UK) Sky Sports 4 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11401.ts
-#EXTINF:-1,(UK) Sky Sports 5
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/213.ts
-#EXTINF:-1,(UK) Sky Sports 5 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11402.ts
-#EXTINF:-1,(UK) Sky Sports F1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/214.ts
-#EXTINF:-1,(UK) BT Sport 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/206.ts
-#EXTINF:-1,(UK) BT Sport 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11484.ts
-#EXTINF:-1,(UK) BT Sport 2
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/207.ts
-#EXTINF:-1,(UK) BT Sport 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11485.ts
-#EXTINF:-1,(UK) BT Sport Europe
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/988.ts
-#EXTINF:-1,(UK) BT Sport Europe HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11486.ts
-#EXTINF:-1,(UK) BT ESPN HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/316.ts
-#EXTINF:-1,(UK) BT Sport Extra
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7640.ts
-#EXTINF:-1,(UK) CTH Stadium X
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/5345.ts
-#EXTINF:-1,(UK) CTH Stadium 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1948.ts
-#EXTINF:-1,(UK) CTH Stadium 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1949.ts
-#EXTINF:-1,(UK) CTH Stadium 3 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1950.ts
-#EXTINF:-1,(UK) CTH Stadium 4 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1951.ts
-#EXTINF:-1,(UK) CTH Stadium 5 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1952.ts
-#EXTINF:-1,(UK) CTH Stadium 6 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1953.ts
-#EXTINF:-1,(UK) Eurosport 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/985.ts
-#EXTINF:-1,(UK) MUTV HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11435.ts
-#EXTINF:-1,(UK) Chelsea TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1576.ts
-#EXTINF:-1,(UK) Liverpool TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1785.ts
-#EXTINF:-1,(UK) Box Nation
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/458.ts
-#EXTINF:-1,(UK) Motors TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1579.ts
-#EXTINF:-1,(UK) Premier Sports HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/313.ts
-#EXTINF:-1,(UK) Setanta Sports
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1594.ts
-#EXTINF:-1,(UK) Racing UK
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11403.ts
-#EXTINF:-1,(UK) At the Races
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/11442.ts
-#EXTINF:-1,☆☆☆☆☆ USA ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7143.ts
-#EXTINF:-1,(US) ABC
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1593.ts
-#EXTINF:-1,(US) ABC NEWS HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3312.ts
-#EXTINF:-1,(US) CNBC
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3310.ts
-#EXTINF:-1,(US) CNN HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3306.ts
-#EXTINF:-1,(US) Bloomberg
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9605.ts
-#EXTINF:-1,(US) CBS
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7866.ts
-#EXTINF:-1,(US) CBS Drama
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9574.ts
-#EXTINF:-1,(US) CBS News
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9608.ts
-#EXTINF:-1,(US) USA HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8491.ts
-#EXTINF:-1,(US) Fox 59 News
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9602.ts
-#EXTINF:-1,(US) HSN 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9594.ts
-#EXTINF:-1,(US) RT America HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9590.ts
-#EXTINF:-1,(US) RT Documentary
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9588.ts
-#EXTINF:-1,(US) TBS
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7539.ts
-#EXTINF:-1,(US) Tru HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9534.ts
-#EXTINF:-1,(US) Food Network East
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/8497.ts
-#EXTINF:-1,(US) AMG TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9603.ts
-#EXTINF:-1,(US) KTVU TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9599.ts
-#EXTINF:-1,(US) Mute TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9586.ts
-#EXTINF:-1,(US) Nasa TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9595.ts
-#EXTINF:-1,(US) Toonami Aftermath
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9580.ts
-#EXTINF:-1,(US) TSC
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9578.ts
-#EXTINF:-1,(US) UC TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9577.ts
-#EXTINF:-1,(US) WGN
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9573.ts
-#EXTINF:-1,(US) WXYZ TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9569.ts
-#EXTINF:-1,(US) The Florida Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9581.ts
-#EXTINF:-1,(US) Maimi TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9596.ts
-#EXTINF:-1,(US) 360 North
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9597.ts
-#EXTINF:-1,(US) Boston City TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9607.ts
-#EXTINF:-1,(US) HBO Zone
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9537.ts
-#EXTINF:-1,(US) Tech Channel
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9585.ts
-#EXTINF:-1,☆☆☆☆☆ USA SPORTS ☆☆☆☆☆
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7145.ts
-#EXTINF:-1,(US) TSN 1
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/831.ts
-#EXTINF:-1,(US) TSN 2
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/830.ts
-#EXTINF:-1,(US) TSN 3
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/829.ts
-#EXTINF:-1,(US) TSN 4
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/828.ts
-#EXTINF:-1,(US) TSN 5
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/827.ts
-#EXTINF:-1,(US) Fox Sports 1 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/320.ts
-#EXTINF:-1,(US) Fox Sports 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/321.ts
-#EXTINF:-1,(US) Fox Sports 506 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9549.ts
-#EXTINF:-1,(US) ESPN HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1591.ts
-#EXTINF:-1,(US) ESPN 2 HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3303.ts
-#EXTINF:-1,(US) beIN Sports HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3301.ts
-#EXTINF:-1,(US) AFN Sports HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9536.ts
-#EXTINF:-1,(US) NBC Golf
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7542.ts
-#EXTINF:-1,(US) NBA TV
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/1037.ts
-#EXTINF:-1,(US) NFL HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/7541.ts
-#EXTINF:-1,(US) WWE Network HD
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/3299.ts
-#EXTINF:-1,(US) Poker Central
-http://iptv.jinbox.nl:1339/live/Zaza/Zaza/9591.ts
-#EXTINF:-1,USA: AMC HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10929.ts
-#EXTINF:-1,USA: Fight Network HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10922.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10931.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10930.ts
-#EXTINF:-1,USA: NBA TV
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10926.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10925.ts
-#EXTINF:-1,USA: TSN 2 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10927.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10924.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10923.ts
-#EXTINF:-1,USA: TSN 5 HD
-http://fastandfurious.no-ip.org:8085/live/frank/frank/10928.ts
-
-
+#EXTINF:-1,USA : Starz Kids & Family HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3603.ts
+#EXTINF:-1,USA : SHOWTIME HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3660.ts
+#EXTINF:-1,USA : POKER CENTRAL
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3821.ts
+#EXTINF:-1,USA : PBS HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3604.ts
+#EXTINF:-1,USA : OWN HD (OPRAH WINFRY NETWORK)
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3836.ts
+#EXTINF:-1,USA : Nicktoons HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3605.ts
+#EXTINF:-1,USA : Nick Jr. HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3606.ts
+#EXTINF:-1,USA : NHL NETWORK HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3655.ts
+#EXTINF:-1,USA : NFL NETWORK HD ( 1080i )
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2578.ts
+#EXTINF:-1,USA : NBCSN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3595.ts
+#EXTINF:-1,USA : NBC 8 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3600.ts
+#EXTINF:-1,USA : NBA TV HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3663.ts
+#EXTINF:-1,USA : Nat Geo HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3607.ts
+#EXTINF:-1,USA : MY9 TV HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3608.ts
+#EXTINF:-1,USA : MTV2 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3609.ts
+#EXTINF:-1,USA : MTV LIVE HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3610.ts
+#EXTINF:-1,USA : MSNBC HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3611.ts
+#EXTINF:-1,USA : HISTORY HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3637.ts
+#EXTINF:-1,USA : HBO Zone HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3823.ts
+#EXTINF:-1,USA : HBO FAMILY HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3612.ts
+#EXTINF:-1,USA : FOX 43 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3847.ts
+#EXTINF:-1,USA : Food Network HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3872.ts
+#EXTINF:-1,USA : ESPN NEWS HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3601.ts
+#EXTINF:-1,USA : EPIX HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3613.ts
+#EXTINF:-1,USA : Crime & Investigation HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3614.ts
+#EXTINF:-1,USA : Cinemax MoreMax HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3664.ts
+#EXTINF:-1,USA : CINEMAX HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3870.ts
+#EXTINF:-1,USA : CI HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3822.ts
+#EXTINF:-1,USA : CBS SN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3619.ts
+#EXTINF:-1,USA : CBS NC HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3602.ts
+#EXTINF:-1,USA : C-SPAN 3 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3827.ts
+#EXTINF:-1,USA : C-SPAN 2 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3826.ts
+#EXTINF:-1,USA : C-SPAN 1 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3825.ts
+#EXTINF:-1,USA : BTN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3662.ts
+#EXTINF:-1,USA : Bloomberg HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3845.ts
+#EXTINF:-1,USA : BEIN USA HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3639.ts
+#EXTINF:-1,USA : Animal Planet HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3615.ts
+#EXTINF:-1,USA : AFN SPORTS 2
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3881.ts
+#EXTINF:-1,USA : AFN SPORTS
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3880.ts
+#EXTINF:-1,USA : AFN SPECTRUM
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3878.ts
+#EXTINF:-1,USA : AFN PULSE
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3834.ts
+#EXTINF:-1,USA : AFN PRIME PACIFIC
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3879.ts
+#EXTINF:-1,USA : AFN PRIME ATLANTIC
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3849.ts
+#EXTINF:-1,USA : ABC NEWS HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3616.ts
+#EXTINF:-1,US: WWE HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2730.ts
+#EXTINF:-1,USA: NBCSN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/94.ts
+#EXTINF:-1,USA : NBC HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2548.ts
+#EXTINF:-1,USA : VH1 HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3174.ts
+#EXTINF:-1,USA : VELOCITY HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3164.ts
+#EXTINF:-1,USA : UNIVERSAL HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3162.ts
+#EXTINF:-1,USA : TNT HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3175.ts
+#EXTINF:-1,USA : LMN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3152.ts
+#EXTINF:-1,USA : Lifetime HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3153.ts
+#EXTINF:-1,USA : ID HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3154.ts
+#EXTINF:-1,USA : Hall Mark HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3177.ts
+#EXTINF:-1,USA : CNN HD USA
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3155.ts
+#EXTINF:-1,USA : BRAVO HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/3176.ts
+#EXTINF:-1,USA : WWE Network HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2600.ts
+#EXTINF:-1,USA/CA : SUPER CHANNEL HD 3
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2560.ts
+#EXTINF:-1,USA/CA : HBO HD 2*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2565.ts
+#EXTINF:-1,USA/CA : HBO HD 1*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2566.ts
+#EXTINF:-1,USA : TV One HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2545.ts
+#EXTINF:-1,USA : TV LAND HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2585.ts
+#EXTINF:-1,USA : TLC HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2569.ts
+#EXTINF:-1,USA : TENNIS HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2599.ts
+#EXTINF:-1,USA : SYFY HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2589.ts
+#EXTINF:-1,USA : Starz HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2546.ts
+#EXTINF:-1,USA : SPIKE HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2606.ts
+#EXTINF:-1,USA : SEC Network HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2547.ts
+#EXTINF:-1,USA : MTV HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2583.ts
+#EXTINF:-1,USA : MOV HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2570.ts
+#EXTINF:-1,USA : MLB NETWORK HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2603.ts
+#EXTINF:-1,USA : Lifetime HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2550.ts
+#EXTINF:-1,USA : GSN HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2591.ts
+#EXTINF:-1,USA : FXX HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2552.ts
+#EXTINF:-1,USA : FOX LIFE HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2595.ts
+#EXTINF:-1,USA : FOX HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2553.ts
+#EXTINF:-1,USA : FOX BUSINESS NETWORK HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2592.ts
+#EXTINF:-1,USA : ESPN2 HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2581.ts
+#EXTINF:-1,USA : ELREY HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2584.ts
+#EXTINF:-1,USA : E! HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2582.ts
+#EXTINF:-1,USA : Disney XD HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2555.ts
+#EXTINF:-1,USA : Disney Jr. HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2556.ts
+#EXTINF:-1,USA : DISNEY HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2572.ts
+#EXTINF:-1,USA : Discovery HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2609.ts
+#EXTINF:-1,USA : DESTINATION AMERICA HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2604.ts
+#EXTINF:-1,USA : CW HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2593.ts
+#EXTINF:-1,USA : CNN HD USA?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2557.ts
+#EXTINF:-1,USA : Cinemax ThrillerMax HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2558.ts
+#EXTINF:-1,USA : CINEMAX HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2573.ts
+#EXTINF:-1,USA : CBS Sports Network HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2559.ts
+#EXTINF:-1,USA : BRAVO HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2605.ts
+#EXTINF:-1,USA : BOOMERANG HD?
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2579.ts
+#EXTINF:-1,USA : Big Ten Network HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2607.ts
+#EXTINF:-1,USA : Bein USA HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2574.ts
+#EXTINF:-1,USA : AXN WHITE
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2580.ts
+#EXTINF:-1,USA : AXN HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2575.ts
+#EXTINF:-1,USA : AXN BLACK HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2587.ts
+#EXTINF:-1,USA : ABC HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/2594.ts
+#EXTINF:-1,USA: CINEMAX 5
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/545.ts
+#EXTINF:-1,USA : WWE HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/548.ts
+#EXTINF:-1,USA : WILLOW CRICKET HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/550.ts
+#EXTINF:-1,USA : VH1 HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/551.ts
+#EXTINF:-1,USA : USA NETWORK HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/572.ts
+#EXTINF:-1,USA : TRU TV HD *
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/546.ts
+#EXTINF:-1,USA : TNT HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/553.ts
+#EXTINF:-1,USA : TBS HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/554.ts
+#EXTINF:-1,USA : SPIKE HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/560.ts
+#EXTINF:-1,USA : SOCCER PLUS HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/569.ts
+#EXTINF:-1,USA : SHOWTIME HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/561.ts
+#EXTINF:-1,USA : OWN HD (Opera Winfery Network)*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/562.ts
+#EXTINF:-1,USA : ESPN HD 2**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/524.ts
+#EXTINF:-1,USA : NHL NETWORK HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/547.ts
+#EXTINF:-1,USA : HGTV HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/540.ts
+#EXTINF:-1,USA : FREE FORM HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/521.ts
+#EXTINF:-1,USA : NFL NOW HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/563.ts
+#EXTINF:-1,USA : NFL NETWORK HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/539.ts
+#EXTINF:-1,USA : NICK HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/573.ts
+#EXTINF:-1,USA : NBA TV HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/566.ts
+#EXTINF:-1,USA : MoreMax HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/567.ts
+#EXTINF:-1,USA : HBO HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/520.ts
+#EXTINF:-1,USA : FX HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/564.ts
+#EXTINF:-1,USA : ESPN HD *
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/580.ts
+#EXTINF:-1,USA : E! HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/525.ts
+#EXTINF:-1,USA : DTX HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/526.ts
+#EXTINF:-1,USA : DIY NETWORK HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/527.ts
+#EXTINF:-1,USA : DISCOVERY SHOWCASE HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/528.ts
+#EXTINF:-1,USA : DISCOVERY SCIENCE HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/529.ts
+#EXTINF:-1,USA : Discovery HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/581.ts
+#EXTINF:-1,USA : COMEDY CENTRAL HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/555.ts
+#EXTINF:-1,USA : CBS HD */ Sunday Ticket 5
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/583.ts
+#EXTINF:-1,USA : CARTOON NETWORK HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/544.ts
+#EXTINF:-1,USA : BTN SPORTS HD**
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/565.ts
+#EXTINF:-1,USA : AMC HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/533.ts
+#EXTINF:-1,USA : A&E HD*
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/584.ts
+#EXTINF:-1,USA : CNBC HD
+http://lsi.ddns.me:8000/live/Plextony/k2ad02OR9A/4235.ts
