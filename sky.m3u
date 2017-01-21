@@ -1,1 +1,30 @@
+#EXTM3U
+#EXTINF:0,Sky Action
 
+https://skyfall.to/SkyCinemaAction/index.m3u8
+
+#EXTINF:0,Sky Emotion
+
+https://skyfall.to/SkyCinemaEmotion/index.m3u8
+
+#EXTINF:0,Sky Family
+
+https://skyfall.to/SkyCinemaFamily/index.m3u8
+
+#EXTINF:0,Sky Comedy
+
+https://skyfall.to/SkyCinemaComedy/index.m3u8
+
+#EXTINF:0,Sky Hits
+
+https://skyfall.to/SkyCinemaHits/index.m3u8
+
+#EXTINF:0,Sky Cinema 24
+
+https://skyfall.to/SkyCinema24/index.m3u8
+
+#EXTINF:0,Sky Atlantic
+
+https://skyfall.to/SkyAtlantic/index.m3u8
+
+#EXTINF:0,Sky Krimi
