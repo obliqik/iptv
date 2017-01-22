@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,USA : OWN HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2099.ts
-#EXTINF:-1,USA : CINEMAX HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1411.ts
 #EXTINF:-1,USA : Cinemax MoreMax
 http://root-iptv.is-found.org:25461/live/lasse/lasse/2093.ts
 #EXTINF:-1,USA : MoreMax HD
@@ -19,8 +15,6 @@ http://root-iptv.is-found.org:25461/live/lasse/lasse/1663.ts
 http://root-iptv.is-found.org:25461/live/lasse/lasse/2185.ts
 #EXTINF:-1,USA : Starz Encore
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1652.ts
-#EXTINF:-1,USA : Starz East
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1666.ts
 #EXTINF:-1,USA : Starz Cinema
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1668.ts
 #EXTINF:-1,USA : HBO FAMILY
@@ -33,8 +27,6 @@ http://root-iptv.is-found.org:25461/live/lasse/lasse/819.ts
 http://root-iptv.is-found.org:25461/live/lasse/lasse/920.ts
 #EXTINF:-1,USA : FXX
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1764.ts
-#EXTINF:-1,USA TNT HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/810.ts
 #EXTINF:-1,USA : TBS
 http://root-iptv.is-found.org:25461/live/lasse/lasse/812.ts
 #EXTINF:-1,USA Poker Central
@@ -55,44 +47,27 @@ http://root-iptv.is-found.org:25461/live/lasse/lasse/821.ts
 http://root-iptv.is-found.org:25461/live/lasse/lasse/807.ts
 #EXTINF:-1,USA Animal Planet
 http://root-iptv.is-found.org:25461/live/lasse/lasse/806.ts
-#EXTINF:-1,USA AETV
-http://root-iptv.is-found.org:25461/live/lasse/lasse/805.ts
-#EXTINF:-1,USA ABC
-http://root-iptv.is-found.org:25461/live/lasse/lasse/828.ts
-#EXTINF:-1,USA ABC 2
+#EXTINF:-1,unknown25
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,USA | Amazing Discoveries HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/111.ts
 #EXTINF:-1,USA :NBCSN
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1551.ts
-
 #EXTINF:-1,USA :  SPORT 1 HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/266.ts
 #EXTINF:-1,USA : STARZ KIDSS AND FAMILY
 http://root-iptv.is-found.org:25461/live/lasse/lasse/7539.ts
 #EXTINF:-1,USA:PAC12 LOS ANGELES
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1618.ts
-
-#EXTINF:-1,USA : NBA TV HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2098.ts
 #EXTINF:-1,USA : Nat Geo HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/2232.ts
-
 #EXTINF:-1,USA : Fox HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/917.ts
 #EXTINF:-1,USA : ESPN 2 HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1831.ts
 #EXTINF:-1,USA : Discovery Velocity
 http://root-iptv.is-found.org:25461/live/lasse/lasse/2299.ts
-#EXTINF:-1,USA : DESTINATION AMERICA HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1413.ts
-#EXTINF:-1,USA : CW
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2072.ts
-#EXTINF:-1,USA : CNBC
-http://root-iptv.is-found.org:25461/live/lasse/lasse/918.ts
-
 #EXTINF:-1,USA : Cartoon Network HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/1802.ts
-
 #EXTINF:-1,USA : ABC
 http://root-iptv.is-found.org:25461/live/lasse/lasse/914.ts
