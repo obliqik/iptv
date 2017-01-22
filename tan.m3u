@@ -59,6 +59,8 @@ http://root-iptv.is-found.org:25461/live/lasse/lasse/806.ts
 http://root-iptv.is-found.org:25461/live/lasse/lasse/805.ts
 #EXTINF:-1,USA ABC
 http://root-iptv.is-found.org:25461/live/lasse/lasse/828.ts
+#EXTINF:-1,USA ABC 2
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,USA | Amazing Discoveries HD
 http://root-iptv.is-found.org:25461/live/lasse/lasse/111.ts
 #EXTINF:-1,USA :NBCSN
