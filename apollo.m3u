@@ -1,0 +1,1398 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5001" tvg-name="5001" group-title="English" tvg-logo="5001.png",ABC(5001)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5001&title=ABC
+
+#EXTINF:-1 tvg-id="883" tvg-name="883" group-title="English" tvg-logo="883.png",ABC HD US(883)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=883&title=ABC%20HD%20US
+
+#EXTINF:-1 tvg-id="7016" tvg-name="7016" group-title="English" tvg-logo="7016.png",ABC News HD(7016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7016&title=ABC%20News%20HD
+
+#EXTINF:-1 tvg-id="5008" tvg-name="5008" group-title="English" tvg-logo="5008.png",AETV(5008)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5008&title=AETV
+
+#EXTINF:-1 tvg-id="851" tvg-name="851" group-title="English" tvg-logo="851.png",AFN Sports HD(851)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=851&title=AFN%20Sports%20HD
+
+#EXTINF:-1 tvg-id="564" tvg-name="564" group-title="English" tvg-logo="564.png",Alibi UK(564)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=564&title=Alibi%20UK
+
+#EXTINF:-1 tvg-id="5009" tvg-name="5009" group-title="English" tvg-logo="5009.png",AMC(5009)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5009&title=AMC
+
+#EXTINF:-1 tvg-id="5010" tvg-name="5010" group-title="English" tvg-logo="5010.png",Animal Planet(5010)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5010&title=Animal%20Planet
+
+#EXTINF:-1 tvg-id="1661" tvg-name="1661" group-title="English" tvg-logo="1661.png",Baby TV UK(1661)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1661&title=Baby%20TV%20UK
+
+#EXTINF:-1 tvg-id="1622" tvg-name="1622" group-title="English" tvg-logo="1622.png",BBC 1 HD UK(1622)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1622&title=BBC%201%20HD%20UK
+
+#EXTINF:-1 tvg-id="1623" tvg-name="1623" group-title="English" tvg-logo="1623.png",BBC 2 HD UK(1623)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1623&title=BBC%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="1618" tvg-name="1618" group-title="English" tvg-logo="1618.png",BBC News UK(1618)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1618&title=BBC%20News%20UK
+
+#EXTINF:-1 tvg-id="105" tvg-name="105" group-title="English" tvg-logo="105.png",BBC World News(105)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=105&title=BBC%20World%20News
+
+#EXTINF:-1 tvg-id="356" tvg-name="356" group-title="English" tvg-logo="356.png",Bloomberg(356)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=356&title=Bloomberg
+
+#EXTINF:-1 tvg-id="7019" tvg-name="7019" group-title="English" tvg-logo="7019.png",Bloomberg Go(7019)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7019&title=Bloomberg%20Go
+
+#EXTINF:-1 tvg-id="1615" tvg-name="1615" group-title="English" tvg-logo="1615.png",Bloomberg UK(1615)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1615&title=Bloomberg%20UK
+
+#EXTINF:-1 tvg-id="2735" tvg-name="2735" group-title="English" tvg-logo="2735.png",Boomerang UK(2735)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2735&title=Boomerang%20UK
+
+#EXTINF:-1 tvg-id="504" tvg-name="504" group-title="English" tvg-logo="504.png",BoxNation(504)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=504&title=BoxNation
+
+#EXTINF:-1 tvg-id="5011" tvg-name="5011" group-title="English" tvg-logo="5011.png",Bravo(5011)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5011&title=Bravo
+
+#EXTINF:-1 tvg-id="922" tvg-name="922" group-title="English" tvg-logo="922.png",BT Sport 1 UK(922)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=922&title=BT%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="923" tvg-name="923" group-title="English" tvg-logo="923.png",BT Sport 2 UK(923)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=923&title=BT%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="2733" tvg-name="2733" group-title="English" tvg-logo="2733.png",BT Sport 3 UK(2733)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2733&title=BT%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="5012" tvg-name="5012" group-title="English" tvg-logo="5012.png",Cartoon Network(5012)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5012&title=Cartoon%20Network
+
+#EXTINF:-1 tvg-id="2736" tvg-name="2736" group-title="English" tvg-logo="2736.png",Cartoon Network UK(2736)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2736&title=Cartoon%20Network%20UK
+
+#EXTINF:-1 tvg-id="5002" tvg-name="5002" group-title="English" tvg-logo="5002.png",CBS(5002)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5002&title=CBS
+
+#EXTINF:-1 tvg-id="1677" tvg-name="1677" group-title="English" tvg-logo="1677.png",CBS Action UK(1677)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1677&title=CBS%20Action%20UK
+
+#EXTINF:-1 tvg-id="1612" tvg-name="1612" group-title="English" tvg-logo="1612.png",CBS Drama UK(1612)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1612&title=CBS%20Drama%20UK
+
+#EXTINF:-1 tvg-id="882" tvg-name="882" group-title="English" tvg-logo="882.png",CBS HD US(882)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=882&title=CBS%20HD%20US
+
+#EXTINF:-1 tvg-id="7015" tvg-name="7015" group-title="English" tvg-logo="7015.png",CBS News HD(7015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7015&title=CBS%20News%20HD
+
+#EXTINF:-1 tvg-id="1682" tvg-name="1682" group-title="English" tvg-logo="1682.png",CBS Reality UK(1682)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1682&title=CBS%20Reality%20UK
+
+#EXTINF:-1 tvg-id="317" tvg-name="317" group-title="English" tvg-logo="317.png",CCTV News(317)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=317&title=CCTV%20News
+
+#EXTINF:-1 tvg-id="2358" tvg-name="2358" group-title="English" tvg-logo="2358.png",Cinemax RO(2358)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2358&title=Cinemax%20RO
+
+#EXTINF:-1 tvg-id="5013" tvg-name="5013" group-title="English" tvg-logo="5013.png",CNBC(5013)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5013&title=CNBC
+
+#EXTINF:-1 tvg-id="2730" tvg-name="2730" group-title="English" tvg-logo="2730.png",CNBC UK(2730)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2730&title=CNBC%20UK
+
+#EXTINF:-1 tvg-id="5014" tvg-name="5014" group-title="English" tvg-logo="5014.png",CNN(5014)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5014&title=CNN
+
+#EXTINF:-1 tvg-id="2703" tvg-name="2703" group-title="English" tvg-logo="2703.png",CNN HD(2703)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2703&title=CNN%20HD
+
+#EXTINF:-1 tvg-id="5015" tvg-name="5015" group-title="English" tvg-logo="5015.png",Comedy Central(5015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5015&title=Comedy%20Central
+
+#EXTINF:-1 tvg-id="512" tvg-name="512" group-title="English" tvg-logo="512.png",Comedy Central UK(512)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=512&title=Comedy%20Central%20UK
+
+#EXTINF:-1 tvg-id="1649" tvg-name="1649" group-title="English" tvg-logo="1649.png",Comedy Xtra UK(1649)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1649&title=Comedy%20Xtra%20UK
+
+#EXTINF:-1 tvg-id="553" tvg-name="553" group-title="English" tvg-logo="553.png",Crime Investigation UK(553)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=553&title=Crime%20Investigation%20UK
+
+#EXTINF:-1 tvg-id="5003" tvg-name="5003" group-title="English" tvg-logo="5003.png",CW(5003)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5003&title=CW
+
+#EXTINF:-1 tvg-id="5016" tvg-name="5016" group-title="English" tvg-logo="5016.png",Discovery Channel(5016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5016&title=Discovery%20Channel
+
+#EXTINF:-1 tvg-id="147" tvg-name="147" group-title="English" tvg-logo="147.png",Discovery HD(147)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=147&title=Discovery%20HD
+
+#EXTINF:-1 tvg-id="272" tvg-name="272" group-title="English" tvg-logo="272.png",Discovery HD Showcase(272)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=272&title=Discovery%20HD%20Showcase
+
+#EXTINF:-1 tvg-id="556" tvg-name="556" group-title="English" tvg-logo="556.png",Discovery History(556)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=556&title=Discovery%20History
+
+#EXTINF:-1 tvg-id="2326" tvg-name="2326" group-title="English" tvg-logo="2326.png",Discovery ID RO(2326)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2326&title=Discovery%20ID%20RO
+
+#EXTINF:-1 tvg-id="391" tvg-name="391" group-title="English" tvg-logo="391.png",Discovery Science HD(391)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=391&title=Discovery%20Science%20HD
+
+#EXTINF:-1 tvg-id="563" tvg-name="563" group-title="English" tvg-logo="563.png",Discovery Science UK(563)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=563&title=Discovery%20Science%20UK
+
+#EXTINF:-1 tvg-id="560" tvg-name="560" group-title="English" tvg-logo="560.png",Discovery Shed(560)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=560&title=Discovery%20Shed
+
+#EXTINF:-1 tvg-id="561" tvg-name="561" group-title="English" tvg-logo="561.png",Discovery Turbo(561)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=561&title=Discovery%20Turbo
+
+#EXTINF:-1 tvg-id="535" tvg-name="535" group-title="English" tvg-logo="535.png",Discovery UK(535)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=535&title=Discovery%20UK
+
+#EXTINF:-1 tvg-id="211" tvg-name="211" group-title="English" tvg-logo="211.png",DTX HD(211)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=211&title=DTX%20HD
+
+#EXTINF:-1 tvg-id="1685" tvg-name="1685" group-title="English" tvg-logo="1685.png",E! UK(1685)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1685&title=E!%20UK
+
+#EXTINF:-1 tvg-id="2705" tvg-name="2705" group-title="English" tvg-logo="2705.png",eirSport 2 HD UK(2705)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2705&title=eirSport%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="5017" tvg-name="5017" group-title="English" tvg-logo="5017.png",ESPN(5017)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5017&title=ESPN
+
+#EXTINF:-1 tvg-id="944" tvg-name="944" group-title="English" tvg-logo="944.png",ESPN UK(944)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=944&title=ESPN%20UK
+
+#EXTINF:-1 tvg-id="145" tvg-name="145" group-title="English" tvg-logo="145.png",Eurosport HD(145)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=145&title=Eurosport%20HD
+
+#EXTINF:-1 tvg-id="2336" tvg-name="2336" group-title="English" tvg-logo="2336.png",Extreme Sport RO(2336)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2336&title=Extreme%20Sport%20RO
+
+#EXTINF:-1 tvg-id="2714" tvg-name="2714" group-title="English" tvg-logo="2714.png",Fashion One UK(2714)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2714&title=Fashion%20One%20UK
+
+#EXTINF:-1 tvg-id="930" tvg-name="930" group-title="English" tvg-logo="930.png",Food network HD(930)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=930&title=Food%20network%20HD
+
+#EXTINF:-1 tvg-id="1610" tvg-name="1610" group-title="English" tvg-logo="1610.png",Food Network UK(1610)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1610&title=Food%20Network%20UK
+
+#EXTINF:-1 tvg-id="5004" tvg-name="5004" group-title="English" tvg-logo="5004.png",FOX(5004)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5004&title=FOX
+
+#EXTINF:-1 tvg-id="885" tvg-name="885" group-title="English" tvg-logo="885.png",Fox 5 HD US(885)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=885&title=Fox%205%20HD%20US
+
+#EXTINF:-1 tvg-id="538" tvg-name="538" group-title="English" tvg-logo="538.png",FOX News(538)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=538&title=FOX%20News
+
+#EXTINF:-1 tvg-id="5018" tvg-name="5018" group-title="English" tvg-logo="5018.png",Fox News Channel(5018)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5018&title=Fox%20News%20Channel
+
+#EXTINF:-1 tvg-id="1527" tvg-name="1527" group-title="English" tvg-logo="1527.png",Fox Sport HD(1527)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1527&title=Fox%20Sport%20HD
+
+#EXTINF:-1 tvg-id="5019" tvg-name="5019" group-title="English" tvg-logo="5019.png",FX(5019)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5019&title=FX
+
+#EXTINF:-1 tvg-id="541" tvg-name="541" group-title="English" tvg-logo="541.png",FX UK(541)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=541&title=FX%20UK
+
+#EXTINF:-1 tvg-id="520" tvg-name="520" group-title="English" tvg-logo="520.png",H2(520)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=520&title=H2
+
+#EXTINF:-1 tvg-id="628" tvg-name="628" group-title="English" tvg-logo="628.png",HBO(628)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=628&title=HBO
+
+#EXTINF:-1 tvg-id="5020" tvg-name="5020" group-title="English" tvg-logo="5020.png",History(5020)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5020&title=History
+
+#EXTINF:-1 tvg-id="533" tvg-name="533" group-title="English" tvg-logo="533.png",History UK(533)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=533&title=History%20UK
+
+#EXTINF:-1 tvg-id="188" tvg-name="188" group-title="English" tvg-logo="188.png",History UK(188)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=188&title=History%20UK
+
+#EXTINF:-1 tvg-id="392" tvg-name="392" group-title="English" tvg-logo="392.png",ID Xtra HD(392)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=392&title=ID%20Xtra%20HD
+
+#EXTINF:-1 tvg-id="1626" tvg-name="1626" group-title="English" tvg-logo="1626.png",ITV 1 HD UK(1626)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1626&title=ITV%201%20HD%20UK
+
+#EXTINF:-1 tvg-id="1698" tvg-name="1698" group-title="English" tvg-logo="1698.png",ITV 2 HD UK(1698)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1698&title=ITV%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="2701" tvg-name="2701" group-title="English" tvg-logo="2701.png",ITV 3 HD UK(2701)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2701&title=ITV%203%20HD%20UK
+
+#EXTINF:-1 tvg-id="2702" tvg-name="2702" group-title="English" tvg-logo="2702.png",ITV 4 HD UK(2702)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2702&title=ITV%204%20HD%20UK
+
+#EXTINF:-1 tvg-id="5021" tvg-name="5021" group-title="English" tvg-logo="5021.png",Lifetime(5021)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5021&title=Lifetime
+
+#EXTINF:-1 tvg-id="526" tvg-name="526" group-title="English" tvg-logo="526.png",Manchester United TV(526)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=526&title=Manchester%20United%20TV
+
+#EXTINF:-1 tvg-id="176" tvg-name="176" group-title="English" tvg-logo="176.png",MGM HD(176)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=176&title=MGM%20HD
+
+#EXTINF:-1 tvg-id="828" tvg-name="828" group-title="English" tvg-logo="828.png",Motorvision TV DE(828)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=828&title=Motorvision%20TV%20DE
+
+#EXTINF:-1 tvg-id="501" tvg-name="501" group-title="English" tvg-logo="501.png",Movies4men UK(501)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=501&title=Movies4men%20UK
+
+#EXTINF:-1 tvg-id="502" tvg-name="502" group-title="English" tvg-logo="502.png",MTV Base UK(502)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=502&title=MTV%20Base%20UK
+
+#EXTINF:-1 tvg-id="575" tvg-name="575" group-title="English" tvg-logo="575.png",MTV Dance UK(575)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=575&title=MTV%20Dance%20UK
+
+#EXTINF:-1 tvg-id="548" tvg-name="548" group-title="English" tvg-logo="548.png",MTV Hits UK(548)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=548&title=MTV%20Hits%20UK
+
+#EXTINF:-1 tvg-id="144" tvg-name="144" group-title="English" tvg-logo="144.png",MTV Live HD(144)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=144&title=MTV%20Live%20HD
+
+#EXTINF:-1 tvg-id="509" tvg-name="509" group-title="English" tvg-logo="509.png",MTV Music UK(509)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=509&title=MTV%20Music%20UK
+
+#EXTINF:-1 tvg-id="510" tvg-name="510" group-title="English" tvg-logo="510.png",MTV Rocks UK(510)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=510&title=MTV%20Rocks%20UK
+
+#EXTINF:-1 tvg-id="508" tvg-name="508" group-title="English" tvg-logo="508.png",MTV UK(508)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=508&title=MTV%20UK
+
+#EXTINF:-1 tvg-id="562" tvg-name="562" group-title="English" tvg-logo="562.png",MTV Xmas UK(562)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=562&title=MTV%20Xmas%20UK
+
+#EXTINF:-1 tvg-id="5007" tvg-name="5007" group-title="English" tvg-logo="5007.png",My9(5007)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5007&title=My9
+
+#EXTINF:-1 tvg-id="7021" tvg-name="7021" group-title="English" tvg-logo="7021.png",NASA TV(7021)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7021&title=NASA%20TV
+
+#EXTINF:-1 tvg-id="574" tvg-name="574" group-title="English" tvg-logo="574.png",Nat Geo UK(574)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=574&title=Nat%20Geo%20UK
+
+#EXTINF:-1 tvg-id="573" tvg-name="573" group-title="English" tvg-logo="573.png",Nat Geo Wild UK(573)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=573&title=Nat%20Geo%20Wild%20UK
+
+#EXTINF:-1 tvg-id="5022" tvg-name="5022" group-title="English" tvg-logo="5022.png",National Geographic Channel(5022)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5022&title=National%20Geographic%20Channel
+
+#EXTINF:-1 tvg-id="2373" tvg-name="2373" group-title="English" tvg-logo="2373.png",National Geographic HD(2373)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2373&title=National%20Geographic%20HD
+
+#EXTINF:-1 tvg-id="5005" tvg-name="5005" group-title="English" tvg-logo="5005.png",NBC(5005)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5005&title=NBC
+
+#EXTINF:-1 tvg-id="887" tvg-name="887" group-title="English" tvg-logo="887.png",NBC HD US(887)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=887&title=NBC%20HD%20US
+
+#EXTINF:-1 tvg-id="1651" tvg-name="1651" group-title="English" tvg-logo="1651.png",Nick Jr UK(1651)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1651&title=Nick%20Jr%20UK
+
+#EXTINF:-1 tvg-id="5023" tvg-name="5023" group-title="English" tvg-logo="5023.png",Nickelodeon(5023)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5023&title=Nickelodeon
+
+#EXTINF:-1 tvg-id="1652" tvg-name="1652" group-title="English" tvg-logo="1652.png",Nickelodeon UK(1652)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1652&title=Nickelodeon%20UK
+
+#EXTINF:-1 tvg-id="240" tvg-name="240" group-title="English" tvg-logo="240.png",NickJR(240)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=240&title=NickJR
+
+#EXTINF:-1 tvg-id="228" tvg-name="228" group-title="English" tvg-logo="228.png",Outdoor HD(228)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=228&title=Outdoor%20HD
+
+#EXTINF:-1 tvg-id="5006" tvg-name="5006" group-title="English" tvg-logo="5006.png",PBS(5006)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5006&title=PBS
+
+#EXTINF:-1 tvg-id="507" tvg-name="507" group-title="English" tvg-logo="507.png",Premier Sports HD(507)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=507&title=Premier%20Sports%20HD
+
+#EXTINF:-1 tvg-id="521" tvg-name="521" group-title="English" tvg-logo="521.png",Racing UK(521)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=521&title=Racing%20UK
+
+#EXTINF:-1 tvg-id="557" tvg-name="557" group-title="English" tvg-logo="557.png",Sky 1(557)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=557&title=Sky%201
+
+#EXTINF:-1 tvg-id="525" tvg-name="525" group-title="English" tvg-logo="525.png",Sky 2(525)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=525&title=Sky%202
+
+#EXTINF:-1 tvg-id="567" tvg-name="567" group-title="English" tvg-logo="567.png",Sky Action Adventure(567)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=567&title=Sky%20Action%20Adventure
+
+#EXTINF:-1 tvg-id="1644" tvg-name="1644" group-title="English" tvg-logo="1644.png",Sky Action UK(1644)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1644&title=Sky%20Action%20UK
+
+#EXTINF:-1 tvg-id="565" tvg-name="565" group-title="English" tvg-logo="565.png",Sky Atlantic(565)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=565&title=Sky%20Atlantic
+
+#EXTINF:-1 tvg-id="2742" tvg-name="2742" group-title="English" tvg-logo="2742.png",Sky Christmas UK(2742)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2742&title=Sky%20Christmas%20UK
+
+#EXTINF:-1 tvg-id="847" tvg-name="847" group-title="English" tvg-logo="847.png",Sky Cinema HD DE(847)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=847&title=Sky%20Cinema%20HD%20DE
+
+#EXTINF:-1 tvg-id="566" tvg-name="566" group-title="English" tvg-logo="566.png",Sky Comedy(566)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=566&title=Sky%20Comedy
+
+#EXTINF:-1 tvg-id="571" tvg-name="571" group-title="English" tvg-logo="571.png",Sky Crime Thriller(571)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=571&title=Sky%20Crime%20Thriller
+
+#EXTINF:-1 tvg-id="568" tvg-name="568" group-title="English" tvg-logo="568.png",Sky Disney(568)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=568&title=Sky%20Disney
+
+#EXTINF:-1 tvg-id="569" tvg-name="569" group-title="English" tvg-logo="569.png",Sky Family(569)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=569&title=Sky%20Family
+
+#EXTINF:-1 tvg-id="2743" tvg-name="2743" group-title="English" tvg-logo="2743.png",Sky Hits UK(2743)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2743&title=Sky%20Hits%20UK
+
+#EXTINF:-1 tvg-id="572" tvg-name="572" group-title="English" tvg-logo="572.png",Sky Movies Greats(572)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=572&title=Sky%20Movies%20Greats
+
+#EXTINF:-1 tvg-id="524" tvg-name="524" group-title="English" tvg-logo="524.png",Sky Movies Sci-Fi and Horror(524)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=524&title=Sky%20Movies%20Sci-Fi%20and%20Horror
+
+#EXTINF:-1 tvg-id="580" tvg-name="580" group-title="English" tvg-logo="580.png",Sky News UK(580)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=580&title=Sky%20News%20UK
+
+#EXTINF:-1 tvg-id="582" tvg-name="582" group-title="English" tvg-logo="582.png",Sky Premiere(582)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=582&title=Sky%20Premiere
+
+#EXTINF:-1 tvg-id="935" tvg-name="935" group-title="English" tvg-logo="935.png",Sky Sport 1 UK(935)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=935&title=Sky%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="936" tvg-name="936" group-title="English" tvg-logo="936.png",Sky Sport 2 UK(936)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=936&title=Sky%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="937" tvg-name="937" group-title="English" tvg-logo="937.png",Sky Sport 3 UK(937)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=937&title=Sky%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="938" tvg-name="938" group-title="English" tvg-logo="938.png",Sky Sport 4 UK(938)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=938&title=Sky%20Sport%204%20UK
+
+#EXTINF:-1 tvg-id="939" tvg-name="939" group-title="English" tvg-logo="939.png",Sky Sport 5 UK(939)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=939&title=Sky%20Sport%205%20UK
+
+#EXTINF:-1 tvg-id="1672" tvg-name="1672" group-title="English" tvg-logo="1672.png",Sky Sport News HQ UK(1672)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1672&title=Sky%20Sport%20News%20HQ%20UK
+
+#EXTINF:-1 tvg-id="581" tvg-name="581" group-title="English" tvg-logo="581.png",Sky Sports F1 UK(581)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=581&title=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 tvg-id="2739" tvg-name="2739" group-title="English" tvg-logo="2739.png",Sony Channel UK(2739)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2739&title=Sony%20Channel%20UK
+
+#EXTINF:-1 tvg-id="586" tvg-name="586" group-title="English" tvg-logo="586.png",Sony Movie UK(586)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=586&title=Sony%20Movie%20UK
+
+#EXTINF:-1 tvg-id="102" tvg-name="102" group-title="English" tvg-logo="102.png",Sony Sci-Fi(102)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=102&title=Sony%20Sci-Fi
+
+#EXTINF:-1 tvg-id="235" tvg-name="235" group-title="English" tvg-logo="235.png",Sony Turbo(235)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=235&title=Sony%20Turbo
+
+#EXTINF:-1 tvg-id="5024" tvg-name="5024" group-title="English" tvg-logo="5024.png",SPIKE TV(5024)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5024&title=SPIKE%20TV
+
+#EXTINF:-1 tvg-id="940" tvg-name="940" group-title="English" tvg-logo="940.png",Sport 1 HD US(940)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=940&title=Sport%201%20HD%20US
+
+#EXTINF:-1 tvg-id="1635" tvg-name="1635" group-title="English" tvg-logo="1635.png",StarzTV UK(1635)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1635&title=StarzTV%20UK
+
+#EXTINF:-1 tvg-id="5025" tvg-name="5025" group-title="English" tvg-logo="5025.png",Syfy(5025)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5025&title=Syfy
+
+#EXTINF:-1 tvg-id="1688" tvg-name="1688" group-title="English" tvg-logo="1688.png",Syfy UK(1688)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1688&title=Syfy%20UK
+
+#EXTINF:-1 tvg-id="5026" tvg-name="5026" group-title="English" tvg-logo="5026.png",TBS(5026)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5026&title=TBS
+
+#EXTINF:-1 tvg-id="7006" tvg-name="7006" group-title="English" tvg-logo="7006.png",The Shopping Channel HD(7006)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7006&title=The%20Shopping%20Channel%20HD
+
+#EXTINF:-1 tvg-id="546" tvg-name="546" group-title="English" tvg-logo="546.png",TLC UK(546)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=546&title=TLC%20UK
+
+#EXTINF:-1 tvg-id="5027" tvg-name="5027" group-title="English" tvg-logo="5027.png",TNT(5027)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5027&title=TNT
+
+#EXTINF:-1 tvg-id="559" tvg-name="559" group-title="English" tvg-logo="559.png",Travel Channel UK(559)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=559&title=Travel%20Channel%20UK
+
+#EXTINF:-1 tvg-id="180" tvg-name="180" group-title="English" tvg-logo="180.png",Travel+Adventure HD(180)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=180&title=Travel+Adventure%20HD
+
+#EXTINF:-1 tvg-id="1638" tvg-name="1638" group-title="English" tvg-logo="1638.png",True Crime UK(1638)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1638&title=True%20Crime%20UK
+
+#EXTINF:-1 tvg-id="5028" tvg-name="5028" group-title="English" tvg-logo="5028.png",USA(5028)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5028&title=USA
+
+#EXTINF:-1 tvg-id="278" tvg-name="278" group-title="English" tvg-logo="278.png",VH1 Europe(278)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=278&title=VH1%20Europe
+
+#EXTINF:-1 tvg-id="523" tvg-name="523" group-title="English" tvg-logo="523.png",VH1 UK(523)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=523&title=VH1%20UK
+
+#EXTINF:-1 tvg-id="279" tvg-name="279" group-title="English" tvg-logo="279.png",Viasat Golf(279)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=279&title=Viasat%20Golf
+
+#EXTINF:-1 tvg-id="584" tvg-name="584" group-title="English" tvg-logo="584.png",Vintage UK(584)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=584&title=Vintage%20UK
+
+#EXTINF:-1 tvg-id="506" tvg-name="506" group-title="English" tvg-logo="506.png",VIVA UK(506)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=506&title=VIVA%20UK
+
+#EXTINF:-1 tvg-id="5001" tvg-name="5001" group-title="News" tvg-logo="5001.png",ABC(5001)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5001&title=ABC
+
+#EXTINF:-1 tvg-id="883" tvg-name="883" group-title="News" tvg-logo="883.png",ABC HD US(883)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=883&title=ABC%20HD%20US
+
+#EXTINF:-1 tvg-id="7016" tvg-name="7016" group-title="News" tvg-logo="7016.png",ABC News HD(7016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7016&title=ABC%20News%20HD
+
+#EXTINF:-1 tvg-id="1618" tvg-name="1618" group-title="News" tvg-logo="1618.png",BBC News UK(1618)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1618&title=BBC%20News%20UK
+
+#EXTINF:-1 tvg-id="105" tvg-name="105" group-title="News" tvg-logo="105.png",BBC World News(105)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=105&title=BBC%20World%20News
+
+#EXTINF:-1 tvg-id="356" tvg-name="356" group-title="News" tvg-logo="356.png",Bloomberg(356)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=356&title=Bloomberg
+
+#EXTINF:-1 tvg-id="7019" tvg-name="7019" group-title="News" tvg-logo="7019.png",Bloomberg Go(7019)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7019&title=Bloomberg%20Go
+
+#EXTINF:-1 tvg-id="1615" tvg-name="1615" group-title="News" tvg-logo="1615.png",Bloomberg UK(1615)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1615&title=Bloomberg%20UK
+
+#EXTINF:-1 tvg-id="5002" tvg-name="5002" group-title="News" tvg-logo="5002.png",CBS(5002)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5002&title=CBS
+
+#EXTINF:-1 tvg-id="882" tvg-name="882" group-title="News" tvg-logo="882.png",CBS HD US(882)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=882&title=CBS%20HD%20US
+
+#EXTINF:-1 tvg-id="7015" tvg-name="7015" group-title="News" tvg-logo="7015.png",CBS News HD(7015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7015&title=CBS%20News%20HD
+
+#EXTINF:-1 tvg-id="1682" tvg-name="1682" group-title="News" tvg-logo="1682.png",CBS Reality UK(1682)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1682&title=CBS%20Reality%20UK
+
+#EXTINF:-1 tvg-id="317" tvg-name="317" group-title="News" tvg-logo="317.png",CCTV News(317)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=317&title=CCTV%20News
+
+#EXTINF:-1 tvg-id="5013" tvg-name="5013" group-title="News" tvg-logo="5013.png",CNBC(5013)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5013&title=CNBC
+
+#EXTINF:-1 tvg-id="2730" tvg-name="2730" group-title="News" tvg-logo="2730.png",CNBC UK(2730)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2730&title=CNBC%20UK
+
+#EXTINF:-1 tvg-id="5014" tvg-name="5014" group-title="News" tvg-logo="5014.png",CNN(5014)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5014&title=CNN
+
+#EXTINF:-1 tvg-id="2703" tvg-name="2703" group-title="News" tvg-logo="2703.png",CNN HD(2703)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2703&title=CNN%20HD
+
+#EXTINF:-1 tvg-id="885" tvg-name="885" group-title="News" tvg-logo="885.png",Fox 5 HD US(885)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=885&title=Fox%205%20HD%20US
+
+#EXTINF:-1 tvg-id="538" tvg-name="538" group-title="News" tvg-logo="538.png",FOX News(538)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=538&title=FOX%20News
+
+#EXTINF:-1 tvg-id="5018" tvg-name="5018" group-title="News" tvg-logo="5018.png",Fox News Channel(5018)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5018&title=Fox%20News%20Channel
+
+#EXTINF:-1 tvg-id="5005" tvg-name="5005" group-title="News" tvg-logo="5005.png",NBC(5005)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5005&title=NBC
+
+#EXTINF:-1 tvg-id="887" tvg-name="887" group-title="News" tvg-logo="887.png",NBC HD US(887)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=887&title=NBC%20HD%20US
+
+#EXTINF:-1 tvg-id="580" tvg-name="580" group-title="News" tvg-logo="580.png",Sky News UK(580)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=580&title=Sky%20News%20UK
+
+#EXTINF:-1 tvg-id="1672" tvg-name="1672" group-title="News" tvg-logo="1672.png",Sky Sport News HQ UK(1672)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1672&title=Sky%20Sport%20News%20HQ%20UK
+
+#EXTINF:-1 tvg-id="502" tvg-name="502" group-title="Music" tvg-logo="502.png",MTV Base UK(502)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=502&title=MTV%20Base%20UK
+
+#EXTINF:-1 tvg-id="575" tvg-name="575" group-title="Music" tvg-logo="575.png",MTV Dance UK(575)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=575&title=MTV%20Dance%20UK
+
+#EXTINF:-1 tvg-id="548" tvg-name="548" group-title="Music" tvg-logo="548.png",MTV Hits UK(548)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=548&title=MTV%20Hits%20UK
+
+#EXTINF:-1 tvg-id="144" tvg-name="144" group-title="Music" tvg-logo="144.png",MTV Live HD(144)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=144&title=MTV%20Live%20HD
+
+#EXTINF:-1 tvg-id="509" tvg-name="509" group-title="Music" tvg-logo="509.png",MTV Music UK(509)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=509&title=MTV%20Music%20UK
+
+#EXTINF:-1 tvg-id="510" tvg-name="510" group-title="Music" tvg-logo="510.png",MTV Rocks UK(510)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=510&title=MTV%20Rocks%20UK
+
+#EXTINF:-1 tvg-id="508" tvg-name="508" group-title="Music" tvg-logo="508.png",MTV UK(508)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=508&title=MTV%20UK
+
+#EXTINF:-1 tvg-id="562" tvg-name="562" group-title="Music" tvg-logo="562.png",MTV Xmas UK(562)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=562&title=MTV%20Xmas%20UK
+
+#EXTINF:-1 tvg-id="2743" tvg-name="2743" group-title="Music" tvg-logo="2743.png",Sky Hits UK(2743)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2743&title=Sky%20Hits%20UK
+
+#EXTINF:-1 tvg-id="278" tvg-name="278" group-title="Music" tvg-logo="278.png",VH1 Europe(278)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=278&title=VH1%20Europe
+
+#EXTINF:-1 tvg-id="523" tvg-name="523" group-title="Music" tvg-logo="523.png",VH1 UK(523)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=523&title=VH1%20UK
+
+#EXTINF:-1 tvg-id="506" tvg-name="506" group-title="Music" tvg-logo="506.png",VIVA UK(506)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=506&title=VIVA%20UK
+
+#EXTINF:-1 tvg-id="1677" tvg-name="1677" group-title="Movies & TV Shows" tvg-logo="1677.png",CBS Action UK(1677)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1677&title=CBS%20Action%20UK
+
+#EXTINF:-1 tvg-id="1612" tvg-name="1612" group-title="Movies & TV Shows" tvg-logo="1612.png",CBS Drama UK(1612)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1612&title=CBS%20Drama%20UK
+
+#EXTINF:-1 tvg-id="2358" tvg-name="2358" group-title="Movies & TV Shows" tvg-logo="2358.png",Cinemax RO(2358)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2358&title=Cinemax%20RO
+
+#EXTINF:-1 tvg-id="5015" tvg-name="5015" group-title="Movies & TV Shows" tvg-logo="5015.png",Comedy Central(5015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5015&title=Comedy%20Central
+
+#EXTINF:-1 tvg-id="512" tvg-name="512" group-title="Movies & TV Shows" tvg-logo="512.png",Comedy Central UK(512)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=512&title=Comedy%20Central%20UK
+
+#EXTINF:-1 tvg-id="1649" tvg-name="1649" group-title="Movies & TV Shows" tvg-logo="1649.png",Comedy Xtra UK(1649)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1649&title=Comedy%20Xtra%20UK
+
+#EXTINF:-1 tvg-id="176" tvg-name="176" group-title="Movies & TV Shows" tvg-logo="176.png",MGM HD(176)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=176&title=MGM%20HD
+
+#EXTINF:-1 tvg-id="501" tvg-name="501" group-title="Movies & TV Shows" tvg-logo="501.png",Movies4men UK(501)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=501&title=Movies4men%20UK
+
+#EXTINF:-1 tvg-id="567" tvg-name="567" group-title="Movies & TV Shows" tvg-logo="567.png",Sky Action Adventure(567)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=567&title=Sky%20Action%20Adventure
+
+#EXTINF:-1 tvg-id="1644" tvg-name="1644" group-title="Movies & TV Shows" tvg-logo="1644.png",Sky Action UK(1644)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1644&title=Sky%20Action%20UK
+
+#EXTINF:-1 tvg-id="847" tvg-name="847" group-title="Movies & TV Shows" tvg-logo="847.png",Sky Cinema HD DE(847)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=847&title=Sky%20Cinema%20HD%20DE
+
+#EXTINF:-1 tvg-id="566" tvg-name="566" group-title="Movies & TV Shows" tvg-logo="566.png",Sky Comedy(566)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=566&title=Sky%20Comedy
+
+#EXTINF:-1 tvg-id="571" tvg-name="571" group-title="Movies & TV Shows" tvg-logo="571.png",Sky Crime Thriller(571)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=571&title=Sky%20Crime%20Thriller
+
+#EXTINF:-1 tvg-id="572" tvg-name="572" group-title="Movies & TV Shows" tvg-logo="572.png",Sky Movies Greats(572)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=572&title=Sky%20Movies%20Greats
+
+#EXTINF:-1 tvg-id="524" tvg-name="524" group-title="Movies & TV Shows" tvg-logo="524.png",Sky Movies Sci-Fi and Horror(524)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=524&title=Sky%20Movies%20Sci-Fi%20and%20Horror
+
+#EXTINF:-1 tvg-id="582" tvg-name="582" group-title="Movies & TV Shows" tvg-logo="582.png",Sky Premiere(582)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=582&title=Sky%20Premiere
+
+#EXTINF:-1 tvg-id="2739" tvg-name="2739" group-title="Movies & TV Shows" tvg-logo="2739.png",Sony Channel UK(2739)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2739&title=Sony%20Channel%20UK
+
+#EXTINF:-1 tvg-id="586" tvg-name="586" group-title="Movies & TV Shows" tvg-logo="586.png",Sony Movie UK(586)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=586&title=Sony%20Movie%20UK
+
+#EXTINF:-1 tvg-id="102" tvg-name="102" group-title="Movies & TV Shows" tvg-logo="102.png",Sony Sci-Fi(102)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=102&title=Sony%20Sci-Fi
+
+#EXTINF:-1 tvg-id="235" tvg-name="235" group-title="Movies & TV Shows" tvg-logo="235.png",Sony Turbo(235)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=235&title=Sony%20Turbo
+
+#EXTINF:-1 tvg-id="851" tvg-name="851" group-title="Sport" tvg-logo="851.png",AFN Sports HD(851)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=851&title=AFN%20Sports%20HD
+
+#EXTINF:-1 tvg-id="1101" tvg-name="1101" group-title="Sport" tvg-logo="1101.png",Bein Sport HD1 AR(1101)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1101&title=Bein%20Sport%20HD1%20AR
+
+#EXTINF:-1 tvg-id="1102" tvg-name="1102" group-title="Sport" tvg-logo="1102.png",Bein Sport HD2 AR(1102)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1102&title=Bein%20Sport%20HD2%20AR
+
+#EXTINF:-1 tvg-id="1103" tvg-name="1103" group-title="Sport" tvg-logo="1103.png",Bein Sport HD3 AR(1103)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1103&title=Bein%20Sport%20HD3%20AR
+
+#EXTINF:-1 tvg-id="695" tvg-name="695" group-title="Sport" tvg-logo="695.png",Bein Sports 1 FR(695)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=695&title=Bein%20Sports%201%20FR
+
+#EXTINF:-1 tvg-id="696" tvg-name="696" group-title="Sport" tvg-logo="696.png",Bein Sports 2 FR(696)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=696&title=Bein%20Sports%202%20FR
+
+#EXTINF:-1 tvg-id="504" tvg-name="504" group-title="Sport" tvg-logo="504.png",BoxNation(504)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=504&title=BoxNation
+
+#EXTINF:-1 tvg-id="922" tvg-name="922" group-title="Sport" tvg-logo="922.png",BT Sport 1 UK(922)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=922&title=BT%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="923" tvg-name="923" group-title="Sport" tvg-logo="923.png",BT Sport 2 UK(923)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=923&title=BT%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="2733" tvg-name="2733" group-title="Sport" tvg-logo="2733.png",BT Sport 3 UK(2733)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2733&title=BT%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="2705" tvg-name="2705" group-title="Sport" tvg-logo="2705.png",eirSport 2 HD UK(2705)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2705&title=eirSport%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="5017" tvg-name="5017" group-title="Sport" tvg-logo="5017.png",ESPN(5017)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5017&title=ESPN
+
+#EXTINF:-1 tvg-id="944" tvg-name="944" group-title="Sport" tvg-logo="944.png",ESPN UK(944)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=944&title=ESPN%20UK
+
+#EXTINF:-1 tvg-id="2375" tvg-name="2375" group-title="Sport" tvg-logo="2375.png",Eurosport 1 HD(2375)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2375&title=Eurosport%201%20HD
+
+#EXTINF:-1 tvg-id="2376" tvg-name="2376" group-title="Sport" tvg-logo="2376.png",Eurosport 2 HD(2376)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2376&title=Eurosport%202%20HD
+
+#EXTINF:-1 tvg-id="145" tvg-name="145" group-title="Sport" tvg-logo="145.png",Eurosport HD(145)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=145&title=Eurosport%20HD
+
+#EXTINF:-1 tvg-id="831" tvg-name="831" group-title="Sport" tvg-logo="831.png",Eurosport HD DE(831)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=831&title=Eurosport%20HD%20DE
+
+#EXTINF:-1 tvg-id="2336" tvg-name="2336" group-title="Sport" tvg-logo="2336.png",Extreme Sport RO(2336)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2336&title=Extreme%20Sport%20RO
+
+#EXTINF:-1 tvg-id="1527" tvg-name="1527" group-title="Sport" tvg-logo="1527.png",Fox Sport HD(1527)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1527&title=Fox%20Sport%20HD
+
+#EXTINF:-1 tvg-id="828" tvg-name="828" group-title="Sport" tvg-logo="828.png",Motorvision TV DE(828)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=828&title=Motorvision%20TV%20DE
+
+#EXTINF:-1 tvg-id="507" tvg-name="507" group-title="Sport" tvg-logo="507.png",Premier Sports HD(507)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=507&title=Premier%20Sports%20HD
+
+#EXTINF:-1 tvg-id="521" tvg-name="521" group-title="Sport" tvg-logo="521.png",Racing UK(521)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=521&title=Racing%20UK
+
+#EXTINF:-1 tvg-id="942" tvg-name="942" group-title="Sport" tvg-logo="942.png",Setanta Eurasia(942)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=942&title=Setanta%20Eurasia
+
+#EXTINF:-1 tvg-id="943" tvg-name="943" group-title="Sport" tvg-logo="943.png",Setanta Eurasia+(943)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=943&title=Setanta%20Eurasia+
+
+#EXTINF:-1 tvg-id="935" tvg-name="935" group-title="Sport" tvg-logo="935.png",Sky Sport 1 UK(935)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=935&title=Sky%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="936" tvg-name="936" group-title="Sport" tvg-logo="936.png",Sky Sport 2 UK(936)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=936&title=Sky%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="937" tvg-name="937" group-title="Sport" tvg-logo="937.png",Sky Sport 3 UK(937)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=937&title=Sky%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="938" tvg-name="938" group-title="Sport" tvg-logo="938.png",Sky Sport 4 UK(938)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=938&title=Sky%20Sport%204%20UK
+
+#EXTINF:-1 tvg-id="939" tvg-name="939" group-title="Sport" tvg-logo="939.png",Sky Sport 5 UK(939)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=939&title=Sky%20Sport%205%20UK
+
+#EXTINF:-1 tvg-id="1672" tvg-name="1672" group-title="Sport" tvg-logo="1672.png",Sky Sport News HQ UK(1672)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1672&title=Sky%20Sport%20News%20HQ%20UK
+
+#EXTINF:-1 tvg-id="833" tvg-name="833" group-title="Sport" tvg-logo="833.png",Sky Sports 1 HD DE(833)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=833&title=Sky%20Sports%201%20HD%20DE
+
+#EXTINF:-1 tvg-id="834" tvg-name="834" group-title="Sport" tvg-logo="834.png",Sky Sports 2 HD DE(834)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=834&title=Sky%20Sports%202%20HD%20DE
+
+#EXTINF:-1 tvg-id="581" tvg-name="581" group-title="Sport" tvg-logo="581.png",Sky Sports F1 UK(581)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=581&title=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 tvg-id="832" tvg-name="832" group-title="Sport" tvg-logo="832.png",Sky Sports News DE(832)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=832&title=Sky%20Sports%20News%20DE
+
+#EXTINF:-1 tvg-id="818" tvg-name="818" group-title="Sport" tvg-logo="818.png",Sport 1 HD DE(818)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=818&title=Sport%201%20HD%20DE
+
+#EXTINF:-1 tvg-id="940" tvg-name="940" group-title="Sport" tvg-logo="940.png",Sport 1 HD US(940)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=940&title=Sport%201%20HD%20US
+
+#EXTINF:-1 tvg-id="1507" tvg-name="1507" group-title="Sport" tvg-logo="1507.png",Sport 5 HD IL(1507)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1507&title=Sport%205%20HD%20IL
+
+#EXTINF:-1 tvg-id="1531" tvg-name="1531" group-title="Sport" tvg-logo="1531.png",Sport 5+ Live HD IL(1531)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1531&title=Sport%205+%20Live%20HD%20IL
+
+#EXTINF:-1 tvg-id="1522" tvg-name="1522" group-title="Sport" tvg-logo="1522.png",Sport HD1 IL(1522)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1522&title=Sport%20HD1%20IL
+
+#EXTINF:-1 tvg-id="1521" tvg-name="1521" group-title="Sport" tvg-logo="1521.png",Sport HD2 IL(1521)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1521&title=Sport%20HD2%20IL
+
+#EXTINF:-1 tvg-id="1506" tvg-name="1506" group-title="Sport" tvg-logo="1506.png",Sport ONE HD IL(1506)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1506&title=Sport%20ONE%20HD%20IL
+
+#EXTINF:-1 tvg-id="835" tvg-name="835" group-title="Sport" tvg-logo="835.png",Sport1+ HD DE(835)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=835&title=Sport1+%20HD%20DE
+
+#EXTINF:-1 tvg-id="1661" tvg-name="1661" group-title="Kids" tvg-logo="1661.png",Baby TV UK(1661)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1661&title=Baby%20TV%20UK
+
+#EXTINF:-1 tvg-id="5012" tvg-name="5012" group-title="Kids" tvg-logo="5012.png",Cartoon Network(5012)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5012&title=Cartoon%20Network
+
+#EXTINF:-1 tvg-id="2736" tvg-name="2736" group-title="Kids" tvg-logo="2736.png",Cartoon Network UK(2736)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2736&title=Cartoon%20Network%20UK
+
+#EXTINF:-1 tvg-id="1651" tvg-name="1651" group-title="Kids" tvg-logo="1651.png",Nick Jr UK(1651)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1651&title=Nick%20Jr%20UK
+
+#EXTINF:-1 tvg-id="5023" tvg-name="5023" group-title="Kids" tvg-logo="5023.png",Nickelodeon(5023)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5023&title=Nickelodeon
+
+#EXTINF:-1 tvg-id="1652" tvg-name="1652" group-title="Kids" tvg-logo="1652.png",Nickelodeon UK(1652)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1652&title=Nickelodeon%20UK
+
+#EXTINF:-1 tvg-id="240" tvg-name="240" group-title="Kids" tvg-logo="240.png",NickJR(240)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=240&title=NickJR
+
+#EXTINF:-1 tvg-id="568" tvg-name="568" group-title="Kids" tvg-logo="568.png",Sky Disney(568)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=568&title=Sky%20Disney
+
+#EXTINF:-1 tvg-id="569" tvg-name="569" group-title="Kids" tvg-logo="569.png",Sky Family(569)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=569&title=Sky%20Family
+
+#EXTINF:-1 tvg-id="5010" tvg-name="5010" group-title="Education" tvg-logo="5010.png",Animal Planet(5010)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5010&title=Animal%20Planet
+
+#EXTINF:-1 tvg-id="5016" tvg-name="5016" group-title="Education" tvg-logo="5016.png",Discovery Channel(5016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5016&title=Discovery%20Channel
+
+#EXTINF:-1 tvg-id="147" tvg-name="147" group-title="Education" tvg-logo="147.png",Discovery HD(147)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=147&title=Discovery%20HD
+
+#EXTINF:-1 tvg-id="272" tvg-name="272" group-title="Education" tvg-logo="272.png",Discovery HD Showcase(272)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=272&title=Discovery%20HD%20Showcase
+
+#EXTINF:-1 tvg-id="556" tvg-name="556" group-title="Education" tvg-logo="556.png",Discovery History(556)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=556&title=Discovery%20History
+
+#EXTINF:-1 tvg-id="2326" tvg-name="2326" group-title="Education" tvg-logo="2326.png",Discovery ID RO(2326)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2326&title=Discovery%20ID%20RO
+
+#EXTINF:-1 tvg-id="391" tvg-name="391" group-title="Education" tvg-logo="391.png",Discovery Science HD(391)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=391&title=Discovery%20Science%20HD
+
+#EXTINF:-1 tvg-id="563" tvg-name="563" group-title="Education" tvg-logo="563.png",Discovery Science UK(563)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=563&title=Discovery%20Science%20UK
+
+#EXTINF:-1 tvg-id="560" tvg-name="560" group-title="Education" tvg-logo="560.png",Discovery Shed(560)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=560&title=Discovery%20Shed
+
+#EXTINF:-1 tvg-id="561" tvg-name="561" group-title="Education" tvg-logo="561.png",Discovery Turbo(561)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=561&title=Discovery%20Turbo
+
+#EXTINF:-1 tvg-id="535" tvg-name="535" group-title="Education" tvg-logo="535.png",Discovery UK(535)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=535&title=Discovery%20UK
+
+#EXTINF:-1 tvg-id="930" tvg-name="930" group-title="Education" tvg-logo="930.png",Food network HD(930)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=930&title=Food%20network%20HD
+
+#EXTINF:-1 tvg-id="1610" tvg-name="1610" group-title="Education" tvg-logo="1610.png",Food Network UK(1610)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1610&title=Food%20Network%20UK
+
+#EXTINF:-1 tvg-id="520" tvg-name="520" group-title="Education" tvg-logo="520.png",H2(520)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=520&title=H2
+
+#EXTINF:-1 tvg-id="5020" tvg-name="5020" group-title="Education" tvg-logo="5020.png",History(5020)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5020&title=History
+
+#EXTINF:-1 tvg-id="533" tvg-name="533" group-title="Education" tvg-logo="533.png",History UK(533)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=533&title=History%20UK
+
+#EXTINF:-1 tvg-id="188" tvg-name="188" group-title="Education" tvg-logo="188.png",History UK(188)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=188&title=History%20UK
+
+#EXTINF:-1 tvg-id="574" tvg-name="574" group-title="Education" tvg-logo="574.png",Nat Geo UK(574)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=574&title=Nat%20Geo%20UK
+
+#EXTINF:-1 tvg-id="573" tvg-name="573" group-title="Education" tvg-logo="573.png",Nat Geo Wild UK(573)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=573&title=Nat%20Geo%20Wild%20UK
+
+#EXTINF:-1 tvg-id="5022" tvg-name="5022" group-title="Education" tvg-logo="5022.png",National Geographic Channel(5022)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5022&title=National%20Geographic%20Channel
+
+#EXTINF:-1 tvg-id="2373" tvg-name="2373" group-title="Education" tvg-logo="2373.png",National Geographic HD(2373)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2373&title=National%20Geographic%20HD
+
+#EXTINF:-1 tvg-id="559" tvg-name="559" group-title="Education" tvg-logo="559.png",Travel Channel UK(559)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=559&title=Travel%20Channel%20UK
+
+#EXTINF:-1 tvg-id="180" tvg-name="180" group-title="Education" tvg-logo="180.png",Travel+Adventure HD(180)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=180&title=Travel+Adventure%20HD
+
+#EXTINF:-1 tvg-id="6" tvg-name="6" group-title="Russia" tvg-logo="6.png",THT(6)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=6&title=THT
+
+#EXTINF:-1 tvg-id="81" tvg-name="81" group-title="Russia" tvg-logo="81.png",TV1000 русское кино(81)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=81&title=TV1000%20русское%20кино
+
+#EXTINF:-1 tvg-id="169" tvg-name="169" group-title="Russia" tvg-logo="169.png",канал(169)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=169&title=канал
+
+#EXTINF:-1 tvg-id="88" tvg-name="88" group-title="Russia" tvg-logo="88.png",Охота и рыбалка(88)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=88&title=Охота%20и%20рыбалка
+
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Russia" tvg-logo="1.png",Первый канал(1)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1&title=Первый%20канал
+
+#EXTINF:-1 tvg-id="66" tvg-name="66" group-title="Russia" tvg-logo="66.png",ТВ3(66)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=66&title=ТВ3
+
+#EXTINF:-1 tvg-id="564" tvg-name="564" group-title="UK" tvg-logo="564.png",Alibi UK(564)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=564&title=Alibi%20UK
+
+#EXTINF:-1 tvg-id="1661" tvg-name="1661" group-title="UK" tvg-logo="1661.png",Baby TV UK(1661)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1661&title=Baby%20TV%20UK
+
+#EXTINF:-1 tvg-id="1622" tvg-name="1622" group-title="UK" tvg-logo="1622.png",BBC 1 HD UK(1622)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1622&title=BBC%201%20HD%20UK
+
+#EXTINF:-1 tvg-id="1623" tvg-name="1623" group-title="UK" tvg-logo="1623.png",BBC 2 HD UK(1623)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1623&title=BBC%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="1618" tvg-name="1618" group-title="UK" tvg-logo="1618.png",BBC News UK(1618)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1618&title=BBC%20News%20UK
+
+#EXTINF:-1 tvg-id="1615" tvg-name="1615" group-title="UK" tvg-logo="1615.png",Bloomberg UK(1615)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1615&title=Bloomberg%20UK
+
+#EXTINF:-1 tvg-id="2735" tvg-name="2735" group-title="UK" tvg-logo="2735.png",Boomerang UK(2735)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2735&title=Boomerang%20UK
+
+#EXTINF:-1 tvg-id="922" tvg-name="922" group-title="UK" tvg-logo="922.png",BT Sport 1 UK(922)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=922&title=BT%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="923" tvg-name="923" group-title="UK" tvg-logo="923.png",BT Sport 2 UK(923)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=923&title=BT%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="2733" tvg-name="2733" group-title="UK" tvg-logo="2733.png",BT Sport 3 UK(2733)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2733&title=BT%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="2736" tvg-name="2736" group-title="UK" tvg-logo="2736.png",Cartoon Network UK(2736)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2736&title=Cartoon%20Network%20UK
+
+#EXTINF:-1 tvg-id="1677" tvg-name="1677" group-title="UK" tvg-logo="1677.png",CBS Action UK(1677)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1677&title=CBS%20Action%20UK
+
+#EXTINF:-1 tvg-id="1612" tvg-name="1612" group-title="UK" tvg-logo="1612.png",CBS Drama UK(1612)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1612&title=CBS%20Drama%20UK
+
+#EXTINF:-1 tvg-id="1682" tvg-name="1682" group-title="UK" tvg-logo="1682.png",CBS Reality UK(1682)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1682&title=CBS%20Reality%20UK
+
+#EXTINF:-1 tvg-id="2730" tvg-name="2730" group-title="UK" tvg-logo="2730.png",CNBC UK(2730)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2730&title=CNBC%20UK
+
+#EXTINF:-1 tvg-id="512" tvg-name="512" group-title="UK" tvg-logo="512.png",Comedy Central UK(512)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=512&title=Comedy%20Central%20UK
+
+#EXTINF:-1 tvg-id="1649" tvg-name="1649" group-title="UK" tvg-logo="1649.png",Comedy Xtra UK(1649)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1649&title=Comedy%20Xtra%20UK
+
+#EXTINF:-1 tvg-id="553" tvg-name="553" group-title="UK" tvg-logo="553.png",Crime Investigation UK(553)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=553&title=Crime%20Investigation%20UK
+
+#EXTINF:-1 tvg-id="563" tvg-name="563" group-title="UK" tvg-logo="563.png",Discovery Science UK(563)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=563&title=Discovery%20Science%20UK
+
+#EXTINF:-1 tvg-id="535" tvg-name="535" group-title="UK" tvg-logo="535.png",Discovery UK(535)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=535&title=Discovery%20UK
+
+#EXTINF:-1 tvg-id="1685" tvg-name="1685" group-title="UK" tvg-logo="1685.png",E! UK(1685)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1685&title=E!%20UK
+
+#EXTINF:-1 tvg-id="2705" tvg-name="2705" group-title="UK" tvg-logo="2705.png",eirSport 2 HD UK(2705)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2705&title=eirSport%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="944" tvg-name="944" group-title="UK" tvg-logo="944.png",ESPN UK(944)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=944&title=ESPN%20UK
+
+#EXTINF:-1 tvg-id="2714" tvg-name="2714" group-title="UK" tvg-logo="2714.png",Fashion One UK(2714)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2714&title=Fashion%20One%20UK
+
+#EXTINF:-1 tvg-id="1610" tvg-name="1610" group-title="UK" tvg-logo="1610.png",Food Network UK(1610)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1610&title=Food%20Network%20UK
+
+#EXTINF:-1 tvg-id="541" tvg-name="541" group-title="UK" tvg-logo="541.png",FX UK(541)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=541&title=FX%20UK
+
+#EXTINF:-1 tvg-id="533" tvg-name="533" group-title="UK" tvg-logo="533.png",History UK(533)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=533&title=History%20UK
+
+#EXTINF:-1 tvg-id="188" tvg-name="188" group-title="UK" tvg-logo="188.png",History UK(188)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=188&title=History%20UK
+
+#EXTINF:-1 tvg-id="1626" tvg-name="1626" group-title="UK" tvg-logo="1626.png",ITV 1 HD UK(1626)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1626&title=ITV%201%20HD%20UK
+
+#EXTINF:-1 tvg-id="1698" tvg-name="1698" group-title="UK" tvg-logo="1698.png",ITV 2 HD UK(1698)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1698&title=ITV%202%20HD%20UK
+
+#EXTINF:-1 tvg-id="2701" tvg-name="2701" group-title="UK" tvg-logo="2701.png",ITV 3 HD UK(2701)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2701&title=ITV%203%20HD%20UK
+
+#EXTINF:-1 tvg-id="2702" tvg-name="2702" group-title="UK" tvg-logo="2702.png",ITV 4 HD UK(2702)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2702&title=ITV%204%20HD%20UK
+
+#EXTINF:-1 tvg-id="501" tvg-name="501" group-title="UK" tvg-logo="501.png",Movies4men UK(501)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=501&title=Movies4men%20UK
+
+#EXTINF:-1 tvg-id="502" tvg-name="502" group-title="UK" tvg-logo="502.png",MTV Base UK(502)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=502&title=MTV%20Base%20UK
+
+#EXTINF:-1 tvg-id="575" tvg-name="575" group-title="UK" tvg-logo="575.png",MTV Dance UK(575)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=575&title=MTV%20Dance%20UK
+
+#EXTINF:-1 tvg-id="548" tvg-name="548" group-title="UK" tvg-logo="548.png",MTV Hits UK(548)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=548&title=MTV%20Hits%20UK
+
+#EXTINF:-1 tvg-id="509" tvg-name="509" group-title="UK" tvg-logo="509.png",MTV Music UK(509)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=509&title=MTV%20Music%20UK
+
+#EXTINF:-1 tvg-id="510" tvg-name="510" group-title="UK" tvg-logo="510.png",MTV Rocks UK(510)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=510&title=MTV%20Rocks%20UK
+
+#EXTINF:-1 tvg-id="508" tvg-name="508" group-title="UK" tvg-logo="508.png",MTV UK(508)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=508&title=MTV%20UK
+
+#EXTINF:-1 tvg-id="562" tvg-name="562" group-title="UK" tvg-logo="562.png",MTV Xmas UK(562)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=562&title=MTV%20Xmas%20UK
+
+#EXTINF:-1 tvg-id="574" tvg-name="574" group-title="UK" tvg-logo="574.png",Nat Geo UK(574)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=574&title=Nat%20Geo%20UK
+
+#EXTINF:-1 tvg-id="573" tvg-name="573" group-title="UK" tvg-logo="573.png",Nat Geo Wild UK(573)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=573&title=Nat%20Geo%20Wild%20UK
+
+#EXTINF:-1 tvg-id="1651" tvg-name="1651" group-title="UK" tvg-logo="1651.png",Nick Jr UK(1651)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1651&title=Nick%20Jr%20UK
+
+#EXTINF:-1 tvg-id="1652" tvg-name="1652" group-title="UK" tvg-logo="1652.png",Nickelodeon UK(1652)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1652&title=Nickelodeon%20UK
+
+#EXTINF:-1 tvg-id="521" tvg-name="521" group-title="UK" tvg-logo="521.png",Racing UK(521)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=521&title=Racing%20UK
+
+#EXTINF:-1 tvg-id="557" tvg-name="557" group-title="UK" tvg-logo="557.png",Sky 1(557)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=557&title=Sky%201
+
+#EXTINF:-1 tvg-id="525" tvg-name="525" group-title="UK" tvg-logo="525.png",Sky 2(525)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=525&title=Sky%202
+
+#EXTINF:-1 tvg-id="567" tvg-name="567" group-title="UK" tvg-logo="567.png",Sky Action Adventure(567)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=567&title=Sky%20Action%20Adventure
+
+#EXTINF:-1 tvg-id="1644" tvg-name="1644" group-title="UK" tvg-logo="1644.png",Sky Action UK(1644)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1644&title=Sky%20Action%20UK
+
+#EXTINF:-1 tvg-id="565" tvg-name="565" group-title="UK" tvg-logo="565.png",Sky Atlantic(565)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=565&title=Sky%20Atlantic
+
+#EXTINF:-1 tvg-id="2742" tvg-name="2742" group-title="UK" tvg-logo="2742.png",Sky Christmas UK(2742)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2742&title=Sky%20Christmas%20UK
+
+#EXTINF:-1 tvg-id="566" tvg-name="566" group-title="UK" tvg-logo="566.png",Sky Comedy(566)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=566&title=Sky%20Comedy
+
+#EXTINF:-1 tvg-id="571" tvg-name="571" group-title="UK" tvg-logo="571.png",Sky Crime Thriller(571)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=571&title=Sky%20Crime%20Thriller
+
+#EXTINF:-1 tvg-id="568" tvg-name="568" group-title="UK" tvg-logo="568.png",Sky Disney(568)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=568&title=Sky%20Disney
+
+#EXTINF:-1 tvg-id="569" tvg-name="569" group-title="UK" tvg-logo="569.png",Sky Family(569)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=569&title=Sky%20Family
+
+#EXTINF:-1 tvg-id="2743" tvg-name="2743" group-title="UK" tvg-logo="2743.png",Sky Hits UK(2743)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2743&title=Sky%20Hits%20UK
+
+#EXTINF:-1 tvg-id="572" tvg-name="572" group-title="UK" tvg-logo="572.png",Sky Movies Greats(572)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=572&title=Sky%20Movies%20Greats
+
+#EXTINF:-1 tvg-id="524" tvg-name="524" group-title="UK" tvg-logo="524.png",Sky Movies Sci-Fi and Horror(524)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=524&title=Sky%20Movies%20Sci-Fi%20and%20Horror
+
+#EXTINF:-1 tvg-id="580" tvg-name="580" group-title="UK" tvg-logo="580.png",Sky News UK(580)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=580&title=Sky%20News%20UK
+
+#EXTINF:-1 tvg-id="582" tvg-name="582" group-title="UK" tvg-logo="582.png",Sky Premiere(582)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=582&title=Sky%20Premiere
+
+#EXTINF:-1 tvg-id="935" tvg-name="935" group-title="UK" tvg-logo="935.png",Sky Sport 1 UK(935)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=935&title=Sky%20Sport%201%20UK
+
+#EXTINF:-1 tvg-id="936" tvg-name="936" group-title="UK" tvg-logo="936.png",Sky Sport 2 UK(936)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=936&title=Sky%20Sport%202%20UK
+
+#EXTINF:-1 tvg-id="937" tvg-name="937" group-title="UK" tvg-logo="937.png",Sky Sport 3 UK(937)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=937&title=Sky%20Sport%203%20UK
+
+#EXTINF:-1 tvg-id="938" tvg-name="938" group-title="UK" tvg-logo="938.png",Sky Sport 4 UK(938)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=938&title=Sky%20Sport%204%20UK
+
+#EXTINF:-1 tvg-id="939" tvg-name="939" group-title="UK" tvg-logo="939.png",Sky Sport 5 UK(939)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=939&title=Sky%20Sport%205%20UK
+
+#EXTINF:-1 tvg-id="1672" tvg-name="1672" group-title="UK" tvg-logo="1672.png",Sky Sport News HQ UK(1672)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1672&title=Sky%20Sport%20News%20HQ%20UK
+
+#EXTINF:-1 tvg-id="581" tvg-name="581" group-title="UK" tvg-logo="581.png",Sky Sports F1 UK(581)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=581&title=Sky%20Sports%20F1%20UK
+
+#EXTINF:-1 tvg-id="2739" tvg-name="2739" group-title="UK" tvg-logo="2739.png",Sony Channel UK(2739)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2739&title=Sony%20Channel%20UK
+
+#EXTINF:-1 tvg-id="586" tvg-name="586" group-title="UK" tvg-logo="586.png",Sony Movie UK(586)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=586&title=Sony%20Movie%20UK
+
+#EXTINF:-1 tvg-id="1635" tvg-name="1635" group-title="UK" tvg-logo="1635.png",StarzTV UK(1635)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1635&title=StarzTV%20UK
+
+#EXTINF:-1 tvg-id="1688" tvg-name="1688" group-title="UK" tvg-logo="1688.png",Syfy UK(1688)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1688&title=Syfy%20UK
+
+#EXTINF:-1 tvg-id="546" tvg-name="546" group-title="UK" tvg-logo="546.png",TLC UK(546)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=546&title=TLC%20UK
+
+#EXTINF:-1 tvg-id="559" tvg-name="559" group-title="UK" tvg-logo="559.png",Travel Channel UK(559)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=559&title=Travel%20Channel%20UK
+
+#EXTINF:-1 tvg-id="1638" tvg-name="1638" group-title="UK" tvg-logo="1638.png",True Crime UK(1638)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1638&title=True%20Crime%20UK
+
+#EXTINF:-1 tvg-id="523" tvg-name="523" group-title="UK" tvg-logo="523.png",VH1 UK(523)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=523&title=VH1%20UK
+
+#EXTINF:-1 tvg-id="584" tvg-name="584" group-title="UK" tvg-logo="584.png",Vintage UK(584)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=584&title=Vintage%20UK
+
+#EXTINF:-1 tvg-id="506" tvg-name="506" group-title="UK" tvg-logo="506.png",VIVA UK(506)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=506&title=VIVA%20UK
+
+#EXTINF:-1 tvg-id="819" tvg-name="819" group-title="Germany" tvg-logo="819.png",Disney HD DE(819)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=819&title=Disney%20HD%20DE
+
+#EXTINF:-1 tvg-id="920" tvg-name="920" group-title="Germany" tvg-logo="920.png",DMAX HD DE(920)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=920&title=DMAX%20HD%20DE
+
+#EXTINF:-1 tvg-id="831" tvg-name="831" group-title="Germany" tvg-logo="831.png",Eurosport HD DE(831)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=831&title=Eurosport%20HD%20DE
+
+#EXTINF:-1 tvg-id="921" tvg-name="921" group-title="Germany" tvg-logo="921.png",FOX HD DE(921)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=921&title=FOX%20HD%20DE
+
+#EXTINF:-1 tvg-id="828" tvg-name="828" group-title="Germany" tvg-logo="828.png",Motorvision TV DE(828)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=828&title=Motorvision%20TV%20DE
+
+#EXTINF:-1 tvg-id="844" tvg-name="844" group-title="Germany" tvg-logo="844.png",Sky Action HD DE(844)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=844&title=Sky%20Action%20HD%20DE
+
+#EXTINF:-1 tvg-id="836" tvg-name="836" group-title="Germany" tvg-logo="836.png",Sky Bundesliga 1 HD DE(836)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=836&title=Sky%20Bundesliga%201%20HD%20DE
+
+#EXTINF:-1 tvg-id="847" tvg-name="847" group-title="Germany" tvg-logo="847.png",Sky Cinema HD DE(847)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=847&title=Sky%20Cinema%20HD%20DE
+
+#EXTINF:-1 tvg-id="845" tvg-name="845" group-title="Germany" tvg-logo="845.png",Sky Comedy DE(845)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=845&title=Sky%20Comedy%20DE
+
+#EXTINF:-1 tvg-id="833" tvg-name="833" group-title="Germany" tvg-logo="833.png",Sky Sports 1 HD DE(833)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=833&title=Sky%20Sports%201%20HD%20DE
+
+#EXTINF:-1 tvg-id="834" tvg-name="834" group-title="Germany" tvg-logo="834.png",Sky Sports 2 HD DE(834)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=834&title=Sky%20Sports%202%20HD%20DE
+
+#EXTINF:-1 tvg-id="832" tvg-name="832" group-title="Germany" tvg-logo="832.png",Sky Sports News DE(832)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=832&title=Sky%20Sports%20News%20DE
+
+#EXTINF:-1 tvg-id="818" tvg-name="818" group-title="Germany" tvg-logo="818.png",Sport 1 HD DE(818)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=818&title=Sport%201%20HD%20DE
+
+#EXTINF:-1 tvg-id="835" tvg-name="835" group-title="Germany" tvg-logo="835.png",Sport1+ HD DE(835)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=835&title=Sport1+%20HD%20DE
+
+#EXTINF:-1 tvg-id="822" tvg-name="822" group-title="Germany" tvg-logo="822.png",VIVA Comedy DE(822)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=822&title=VIVA%20Comedy%20DE
+
+#EXTINF:-1 tvg-id="1542" tvg-name="1542" group-title="Israel" tvg-logo="1542.png",Baby IL(1542)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1542&title=Baby%20IL
+
+#EXTINF:-1 tvg-id="1546" tvg-name="1546" group-title="Israel" tvg-logo="1546.png",Channel 1 HD IL(1546)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1546&title=Channel%201%20HD%20IL
+
+#EXTINF:-1 tvg-id="471" tvg-name="471" group-title="Israel" tvg-logo="471.png",Channel 10 IL(471)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=471&title=Channel%2010%20IL
+
+#EXTINF:-1 tvg-id="470" tvg-name="470" group-title="Israel" tvg-logo="470.png",Channel 2 IL(470)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=470&title=Channel%202%20IL
+
+#EXTINF:-1 tvg-id="478" tvg-name="478" group-title="Israel" tvg-logo="478.png",Channel 20 IL(478)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=478&title=Channel%2020%20IL
+
+#EXTINF:-1 tvg-id="1547" tvg-name="1547" group-title="Israel" tvg-logo="1547.png",Channel 9 HD IL(1547)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1547&title=Channel%209%20HD%20IL
+
+#EXTINF:-1 tvg-id="476" tvg-name="476" group-title="Israel" tvg-logo="476.png",Disney IL(476)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=476&title=Disney%20IL
+
+#EXTINF:-1 tvg-id="474" tvg-name="474" group-title="Israel" tvg-logo="474.png",Disney Jr IL(474)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=474&title=Disney%20Jr%20IL
+
+#EXTINF:-1 tvg-id="1502" tvg-name="1502" group-title="Israel" tvg-logo="1502.png",hop IL(1502)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1502&title=hop%20IL
+
+#EXTINF:-1 tvg-id="1544" tvg-name="1544" group-title="Israel" tvg-logo="1544.png",HOT ACTION HD IL(1544)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1544&title=HOT%20ACTION%20HD%20IL
+
+#EXTINF:-1 tvg-id="1526" tvg-name="1526" group-title="Israel" tvg-logo="1526.png",HOT DRAMA HD IL(1526)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1526&title=HOT%20DRAMA%20HD%20IL
+
+#EXTINF:-1 tvg-id="1525" tvg-name="1525" group-title="Israel" tvg-logo="1525.png",HOT FUN HD IL(1525)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1525&title=HOT%20FUN%20HD%20IL
+
+#EXTINF:-1 tvg-id="1545" tvg-name="1545" group-title="Israel" tvg-logo="1545.png",HOT GOLD HD IL(1545)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1545&title=HOT%20GOLD%20HD%20IL
+
+#EXTINF:-1 tvg-id="1523" tvg-name="1523" group-title="Israel" tvg-logo="1523.png",HOT HBO HD IL(1523)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1523&title=HOT%20HBO%20HD%20IL
+
+#EXTINF:-1 tvg-id="1529" tvg-name="1529" group-title="Israel" tvg-logo="1529.png",HOT ZONE HD IL(1529)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1529&title=HOT%20ZONE%20HD%20IL
+
+#EXTINF:-1 tvg-id="1537" tvg-name="1537" group-title="Israel" tvg-logo="1537.png",HOT3 HD IL(1537)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1537&title=HOT3%20HD%20IL
+
+#EXTINF:-1 tvg-id="477" tvg-name="477" group-title="Israel" tvg-logo="477.png",Kids Channel IL(477)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=477&title=Kids%20Channel%20IL
+
+#EXTINF:-1 tvg-id="1501" tvg-name="1501" group-title="Israel" tvg-logo="1501.png",Nick Jr IL(1501)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1501&title=Nick%20Jr%20IL
+
+#EXTINF:-1 tvg-id="1532" tvg-name="1532" group-title="Israel" tvg-logo="1532.png",Nickelodeon IL(1532)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1532&title=Nickelodeon%20IL
+
+#EXTINF:-1 tvg-id="1507" tvg-name="1507" group-title="Israel" tvg-logo="1507.png",Sport 5 HD IL(1507)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1507&title=Sport%205%20HD%20IL
+
+#EXTINF:-1 tvg-id="1531" tvg-name="1531" group-title="Israel" tvg-logo="1531.png",Sport 5+ Live HD IL(1531)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1531&title=Sport%205+%20Live%20HD%20IL
+
+#EXTINF:-1 tvg-id="1522" tvg-name="1522" group-title="Israel" tvg-logo="1522.png",Sport HD1 IL(1522)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1522&title=Sport%20HD1%20IL
+
+#EXTINF:-1 tvg-id="1521" tvg-name="1521" group-title="Israel" tvg-logo="1521.png",Sport HD2 IL(1521)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1521&title=Sport%20HD2%20IL
+
+#EXTINF:-1 tvg-id="1506" tvg-name="1506" group-title="Israel" tvg-logo="1506.png",Sport ONE HD IL(1506)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1506&title=Sport%20ONE%20HD%20IL
+
+#EXTINF:-1 tvg-id="666" tvg-name="666" group-title="France" tvg-logo="666.png",Arte FR(666)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=666&title=Arte%20FR
+
+#EXTINF:-1 tvg-id="695" tvg-name="695" group-title="France" tvg-logo="695.png",Bein Sports 1 FR(695)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=695&title=Bein%20Sports%201%20FR
+
+#EXTINF:-1 tvg-id="696" tvg-name="696" group-title="France" tvg-logo="696.png",Bein Sports 2 FR(696)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=696&title=Bein%20Sports%202%20FR
+
+#EXTINF:-1 tvg-id="610" tvg-name="610" group-title="France" tvg-logo="610.png",Canal+ Family HD FR(610)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=610&title=Canal+%20Family%20HD%20FR
+
+#EXTINF:-1 tvg-id="613" tvg-name="613" group-title="France" tvg-logo="613.png",Canal+ Series HD FR(613)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=613&title=Canal+%20Series%20HD%20FR
+
+#EXTINF:-1 tvg-id="665" tvg-name="665" group-title="France" tvg-logo="665.png",D8 FR(665)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=665&title=D8%20FR
+
+#EXTINF:-1 tvg-id="660" tvg-name="660" group-title="France" tvg-logo="660.png",France 2(660)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=660&title=France%202
+
+#EXTINF:-1 tvg-id="661" tvg-name="661" group-title="France" tvg-logo="661.png",France 3(661)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=661&title=France%203
+
+#EXTINF:-1 tvg-id="662" tvg-name="662" group-title="France" tvg-logo="662.png",France 4(662)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=662&title=France%204
+
+#EXTINF:-1 tvg-id="663" tvg-name="663" group-title="France" tvg-logo="663.png",France 5(663)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=663&title=France%205
+
+#EXTINF:-1 tvg-id="664" tvg-name="664" group-title="France" tvg-logo="664.png",M6 FR(664)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=664&title=M6%20FR
+
+#EXTINF:-1 tvg-id="615" tvg-name="615" group-title="France" tvg-logo="615.png",NRJ12 FR(615)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=615&title=NRJ12%20FR
+
+#EXTINF:-1 tvg-id="963" tvg-name="963" group-title="France" tvg-logo="963.png",RTL 9 FR(963)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=963&title=RTL%209%20FR
+
+#EXTINF:-1 tvg-id="659" tvg-name="659" group-title="France" tvg-logo="659.png",TF1(659)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=659&title=TF1
+
+#EXTINF:-1 tvg-id="5001" tvg-name="5001" group-title="US" tvg-logo="5001.png",ABC(5001)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5001&title=ABC
+
+#EXTINF:-1 tvg-id="883" tvg-name="883" group-title="US" tvg-logo="883.png",ABC HD US(883)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=883&title=ABC%20HD%20US
+
+#EXTINF:-1 tvg-id="7016" tvg-name="7016" group-title="US" tvg-logo="7016.png",ABC News HD(7016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7016&title=ABC%20News%20HD
+
+#EXTINF:-1 tvg-id="5008" tvg-name="5008" group-title="US" tvg-logo="5008.png",AETV(5008)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5008&title=AETV
+
+#EXTINF:-1 tvg-id="851" tvg-name="851" group-title="US" tvg-logo="851.png",AFN Sports HD(851)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=851&title=AFN%20Sports%20HD
+
+#EXTINF:-1 tvg-id="5009" tvg-name="5009" group-title="US" tvg-logo="5009.png",AMC(5009)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5009&title=AMC
+
+#EXTINF:-1 tvg-id="5010" tvg-name="5010" group-title="US" tvg-logo="5010.png",Animal Planet(5010)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5010&title=Animal%20Planet
+
+#EXTINF:-1 tvg-id="7019" tvg-name="7019" group-title="US" tvg-logo="7019.png",Bloomberg Go(7019)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7019&title=Bloomberg%20Go
+
+#EXTINF:-1 tvg-id="5011" tvg-name="5011" group-title="US" tvg-logo="5011.png",Bravo(5011)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5011&title=Bravo
+
+#EXTINF:-1 tvg-id="5012" tvg-name="5012" group-title="US" tvg-logo="5012.png",Cartoon Network(5012)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5012&title=Cartoon%20Network
+
+#EXTINF:-1 tvg-id="5002" tvg-name="5002" group-title="US" tvg-logo="5002.png",CBS(5002)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5002&title=CBS
+
+#EXTINF:-1 tvg-id="882" tvg-name="882" group-title="US" tvg-logo="882.png",CBS HD US(882)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=882&title=CBS%20HD%20US
+
+#EXTINF:-1 tvg-id="7015" tvg-name="7015" group-title="US" tvg-logo="7015.png",CBS News HD(7015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7015&title=CBS%20News%20HD
+
+#EXTINF:-1 tvg-id="5013" tvg-name="5013" group-title="US" tvg-logo="5013.png",CNBC(5013)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5013&title=CNBC
+
+#EXTINF:-1 tvg-id="5014" tvg-name="5014" group-title="US" tvg-logo="5014.png",CNN(5014)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5014&title=CNN
+
+#EXTINF:-1 tvg-id="5015" tvg-name="5015" group-title="US" tvg-logo="5015.png",Comedy Central(5015)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5015&title=Comedy%20Central
+
+#EXTINF:-1 tvg-id="5003" tvg-name="5003" group-title="US" tvg-logo="5003.png",CW(5003)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5003&title=CW
+
+#EXTINF:-1 tvg-id="5016" tvg-name="5016" group-title="US" tvg-logo="5016.png",Discovery Channel(5016)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5016&title=Discovery%20Channel
+
+#EXTINF:-1 tvg-id="5017" tvg-name="5017" group-title="US" tvg-logo="5017.png",ESPN(5017)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5017&title=ESPN
+
+#EXTINF:-1 tvg-id="5004" tvg-name="5004" group-title="US" tvg-logo="5004.png",FOX(5004)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5004&title=FOX
+
+#EXTINF:-1 tvg-id="885" tvg-name="885" group-title="US" tvg-logo="885.png",Fox 5 HD US(885)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=885&title=Fox%205%20HD%20US
+
+#EXTINF:-1 tvg-id="5018" tvg-name="5018" group-title="US" tvg-logo="5018.png",Fox News Channel(5018)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5018&title=Fox%20News%20Channel
+
+#EXTINF:-1 tvg-id="5019" tvg-name="5019" group-title="US" tvg-logo="5019.png",FX(5019)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5019&title=FX
+
+#EXTINF:-1 tvg-id="5020" tvg-name="5020" group-title="US" tvg-logo="5020.png",History(5020)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5020&title=History
+
+#EXTINF:-1 tvg-id="5021" tvg-name="5021" group-title="US" tvg-logo="5021.png",Lifetime(5021)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5021&title=Lifetime
+
+#EXTINF:-1 tvg-id="5007" tvg-name="5007" group-title="US" tvg-logo="5007.png",My9(5007)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5007&title=My9
+
+#EXTINF:-1 tvg-id="7021" tvg-name="7021" group-title="US" tvg-logo="7021.png",NASA TV(7021)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7021&title=NASA%20TV
+
+#EXTINF:-1 tvg-id="5022" tvg-name="5022" group-title="US" tvg-logo="5022.png",National Geographic Channel(5022)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5022&title=National%20Geographic%20Channel
+
+#EXTINF:-1 tvg-id="5005" tvg-name="5005" group-title="US" tvg-logo="5005.png",NBC(5005)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5005&title=NBC
+
+#EXTINF:-1 tvg-id="887" tvg-name="887" group-title="US" tvg-logo="887.png",NBC HD US(887)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=887&title=NBC%20HD%20US
+
+#EXTINF:-1 tvg-id="5023" tvg-name="5023" group-title="US" tvg-logo="5023.png",Nickelodeon(5023)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5023&title=Nickelodeon
+
+#EXTINF:-1 tvg-id="5006" tvg-name="5006" group-title="US" tvg-logo="5006.png",PBS(5006)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5006&title=PBS
+
+#EXTINF:-1 tvg-id="5024" tvg-name="5024" group-title="US" tvg-logo="5024.png",SPIKE TV(5024)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5024&title=SPIKE%20TV
+
+#EXTINF:-1 tvg-id="940" tvg-name="940" group-title="US" tvg-logo="940.png",Sport 1 HD US(940)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=940&title=Sport%201%20HD%20US
+
+#EXTINF:-1 tvg-id="5025" tvg-name="5025" group-title="US" tvg-logo="5025.png",Syfy(5025)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5025&title=Syfy
+
+#EXTINF:-1 tvg-id="5026" tvg-name="5026" group-title="US" tvg-logo="5026.png",TBS(5026)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5026&title=TBS
+
+#EXTINF:-1 tvg-id="7006" tvg-name="7006" group-title="US" tvg-logo="7006.png",The Shopping Channel HD(7006)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=7006&title=The%20Shopping%20Channel%20HD
+
+#EXTINF:-1 tvg-id="5027" tvg-name="5027" group-title="US" tvg-logo="5027.png",TNT(5027)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5027&title=TNT
+
+#EXTINF:-1 tvg-id="5028" tvg-name="5028" group-title="US" tvg-logo="5028.png",USA(5028)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=5028&title=USA
+
+#EXTINF:-1 tvg-id="400" tvg-name="400" group-title="Ukrainian" tvg-logo="400.png",1+1(400)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=400&title=1+1
+
+#EXTINF:-1 tvg-id="404" tvg-name="404" group-title="Ukrainian" tvg-logo="404.png",Интер(404)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=404&title=Интер
+
+#EXTINF:-1 tvg-id="402" tvg-name="402" group-title="Ukrainian" tvg-logo="402.png",НТН(402)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=402&title=НТН
+
+#EXTINF:-1 tvg-id="1101" tvg-name="1101" group-title="Arabic" tvg-logo="1101.png",Bein Sport HD1 AR(1101)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1101&title=Bein%20Sport%20HD1%20AR
+
+#EXTINF:-1 tvg-id="1102" tvg-name="1102" group-title="Arabic" tvg-logo="1102.png",Bein Sport HD2 AR(1102)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1102&title=Bein%20Sport%20HD2%20AR
+
+#EXTINF:-1 tvg-id="1103" tvg-name="1103" group-title="Arabic" tvg-logo="1103.png",Bein Sport HD3 AR(1103)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=1103&title=Bein%20Sport%20HD3%20AR
+
+#EXTINF:-1 tvg-id="2358" tvg-name="2358" group-title="Romania" tvg-logo="2358.png",Cinemax RO(2358)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2358&title=Cinemax%20RO
+
+#EXTINF:-1 tvg-id="2326" tvg-name="2326" group-title="Romania" tvg-logo="2326.png",Discovery ID RO(2326)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2326&title=Discovery%20ID%20RO
+
+#EXTINF:-1 tvg-id="2336" tvg-name="2336" group-title="Romania" tvg-logo="2336.png",Extreme Sport RO(2336)
+http://localhost:62555/?plugin://program.apollo/?action=apollo&imdb=9999&season=2336&title=Extreme%20Sport%20RO
