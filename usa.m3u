@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1,UK: Fox
+http://newiptvworld.no-ip.org:8300/live/iptv/star/136.ts
+#EXTINF:-1,Uk: Food Network
+http://newiptvworld.no-ip.org:8300/live/iptv/star/117.ts
+#EXTINF:-1,UK: Film 4 UK
+http://newiptvworld.no-ip.org:8300/live/iptv/star/137.ts
+#EXTINF:-1,UK: Eurosport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/161.ts
+#EXTINF:-1,UK: Eurosport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/162.ts
+#EXTINF:-1,Uk: Disney XD
+http://newiptvworld.no-ip.org:8300/live/iptv/star/106.ts
+#EXTINF:-1,Uk: DISNEY JUNIOR
+http://newiptvworld.no-ip.org:8300/live/iptv/star/107.ts
+#EXTINF:-1,Uk: Discovery Turbo
+http://newiptvworld.no-ip.org:8300/live/iptv/star/118.ts
+#EXTINF:-1,Uk: Discovery History
+http://newiptvworld.no-ip.org:8300/live/iptv/star/120.ts
+#EXTINF:-1,Uk: Discovery Channel
+http://newiptvworld.no-ip.org:8300/live/iptv/star/122.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/149.ts
+#EXTINF:-1,UK: Comedy Central
+http://newiptvworld.no-ip.org:8300/live/iptv/star/150.ts
+#EXTINF:-1,UK: Setanta Sports
+http://newiptvworld.no-ip.org:8300/live/iptv/star/159.ts
+#EXTINF:-1,Uk: Cartoon Network
+http://newiptvworld.no-ip.org:8300/live/iptv/star/109.ts
+#EXTINF:-1,Uk:BT Sport Europe
+http://newiptvworld.no-ip.org:8300/live/iptv/star/164.ts
+#EXTINF:-1,UK:BT Sport 2
+http://newiptvworld.no-ip.org:8300/live/iptv/star/165.ts
+#EXTINF:-1,Uk:BT Sport 1
+http://newiptvworld.no-ip.org:8300/live/iptv/star/166.ts
+#EXTINF:-1,Uk: Boomerang
+http://newiptvworld.no-ip.org:8300/live/iptv/star/113.ts
+
 #EXTINF:-1,USA:FOX-NEWS
 http://iptvmega.dyndns.tv:8040/live/blond1/blond1/3948.ts
 #EXTINF:-1,USA:FOX-HD
