@@ -1,0 +1,38 @@
+#EXTINF:O,ABC USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
+#EXTINF:O,AMC USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430
+#EXTINF:O,CBS USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430
+#EXTINF:O,Cinemax USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cinemax1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cinemax1569&vw=600&vh=430
+#EXTINF:O,Nick USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=nick1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=nick1569&vw=600&vh=430
+#EXTINF:O,FX USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=fx1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fx1569&vw=600&vh=430
+#EXTINF:O,FOX USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=fox1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fox1569&vw=600&vh=430
+#EXTINF:O,FOX News USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=foxnews1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+#EXTINF:O,HBO USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430
+#EXTINF:O,MS NBC USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569&vw=600&vh=430
+#EXTINF:O,MTV USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=mtv1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=mtv1569&vw=600&vh=430
+#EXTINF:O,SHOW Time USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=show1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=show1569&vw=600&vh=430
+#EXTINF:O,SYFY HD USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=syfy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=syfy1569&vw=600&vh=430
+#EXTINF:O,TBS USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=tbs1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tbs1569&vw=600&vh=430
+#EXTINF:O,TNT USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=tnt1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tnt1569&vw=600&vh=430
+#EXTINF:O,USA Network
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430
+#EXTINF:O,CNN USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430
+#EXTINF:O,Cartoon Network USA
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cartoonet100 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cartoonet100&vw=600&vh=430
+#EXTINF:O,BBC World News USA
+rtmp://$OPT:rtmp-raw=rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430
