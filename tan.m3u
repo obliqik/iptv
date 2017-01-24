@@ -1,73 +1,89 @@
 #EXTM3U
-#EXTINF:-1,USA : Cinemax MoreMax
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2093.ts
-#EXTINF:-1,USA : MoreMax HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1416.ts
-#EXTINF:-1,USA : HBO Zone
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1645.ts
-#EXTINF:-1,USA : HBO Signature HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1646.ts
-#EXTINF:-1,USA : HBO Signature
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2296.ts
-#EXTINF:-1,USA : HBO Comedy HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1663.ts
-#EXTINF:-1,USA : HBO 2
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2185.ts
-#EXTINF:-1,USA : Starz Encore
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1652.ts
-#EXTINF:-1,USA : Starz Cinema
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1668.ts
-#EXTINF:-1,USA : HBO FAMILY
-http://root-iptv.is-found.org:25461/live/lasse/lasse/7538.ts
-#EXTINF:-1,USA : WWE HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/20.ts
-#EXTINF:-1,USA: FX
-http://root-iptv.is-found.org:25461/live/lasse/lasse/819.ts
-#EXTINF:-1,USA : AMC HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/920.ts
-#EXTINF:-1,USA : FXX
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1764.ts
-#EXTINF:-1,USA : TBS
-http://root-iptv.is-found.org:25461/live/lasse/lasse/812.ts
-#EXTINF:-1,USA Poker Central
-http://root-iptv.is-found.org:25461/live/lasse/lasse/299.ts
-#EXTINF:-1,USA PBS
-http://root-iptv.is-found.org:25461/live/lasse/lasse/808.ts
-#EXTINF:-1,USA NBC Golf
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1553.ts
-#EXTINF:-1,USA NBC
-http://root-iptv.is-found.org:25461/live/lasse/lasse/815.ts
-#EXTINF:-1,USA H2
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1552.ts
-#EXTINF:-1,USA FOX NEWS
-http://root-iptv.is-found.org:25461/live/lasse/lasse/820.ts
-#EXTINF:-1,USA ESPN HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/821.ts
-#EXTINF:-1,USA BRAVO HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/807.ts
-#EXTINF:-1,USA Animal Planet
-http://root-iptv.is-found.org:25461/live/lasse/lasse/806.ts
-#EXTINF:-1,unknown25
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,USA | Amazing Discoveries HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/111.ts
-#EXTINF:-1,USA :NBCSN
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1551.ts
-#EXTINF:-1,USA :  SPORT 1 HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/266.ts
-#EXTINF:-1,USA : STARZ KIDSS AND FAMILY
-http://root-iptv.is-found.org:25461/live/lasse/lasse/7539.ts
-#EXTINF:-1,USA:PAC12 LOS ANGELES
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1618.ts
-#EXTINF:-1,USA : Nat Geo HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2232.ts
-#EXTINF:-1,USA : Fox HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/917.ts
-#EXTINF:-1,USA : ESPN 2 HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1831.ts
-#EXTINF:-1,USA : Discovery Velocity
-http://root-iptv.is-found.org:25461/live/lasse/lasse/2299.ts
-#EXTINF:-1,USA : Cartoon Network HD
-http://root-iptv.is-found.org:25461/live/lasse/lasse/1802.ts
-#EXTINF:-1,USA : ABC
-http://root-iptv.is-found.org:25461/live/lasse/lasse/914.ts
+#EXTINF:-1,USA_|_WWE_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3361.ts
+#EXTINF:-1,USA_|_TMN_4_MOVIE
+http://tv2iptv.com:8000/live/mom123/mom123/3362.ts
+#EXTINF:-1,USA_|_TMN_3_MOVIE
+http://tv2iptv.com:8000/live/mom123/mom123/3363.ts
+#EXTINF:-1,USA_|_TMN_2_MOVIE
+http://tv2iptv.com:8000/live/mom123/mom123/3364.ts
+#EXTINF:-1,USA_|_TMN_1_MOVIE
+http://tv2iptv.com:8000/live/mom123/mom123/3365.ts
+#EXTINF:-1,USA_|_TLC_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3366.ts
+#EXTINF:-1,USA_|_Poker_Central
+http://tv2iptv.com:8000/live/mom123/mom123/3367.ts
+#EXTINF:-1,USA_|_PAC_12_WD_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3369.ts
+#EXTINF:-1,USA_|_PAC-12_Network_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3368.ts
+#EXTINF:-1,USA_|_NFL_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3370.ts
+#EXTINF:-1,USA_|_NDTV
+http://tv2iptv.com:8000/live/mom123/mom123/3371.ts
+#EXTINF:-1,USA_|_NBCSN_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3372.ts
+#EXTINF:-1,USA_|_Nat_Geo_Wild
+http://tv2iptv.com:8000/live/mom123/mom123/3373.ts
+#EXTINF:-1,USA_|_Max_West
+http://tv2iptv.com:8000/live/mom123/mom123/3374.ts
+#EXTINF:-1,USA_|_Fox_Sports_2_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3375.ts
+#EXTINF:-1,USA_|_Fox_Sports_1_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3376.ts
+#EXTINF:-1,USA_ESPN
+http://tv2iptv.com:8000/live/mom123/mom123/3377.ts
+#EXTINF:-1,USA_|_A&E_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3378.ts
+#EXTINF:-1,USA__TBS_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3358.ts
+#EXTINF:-1,USA__ESPN_2
+http://tv2iptv.com:8000/live/mom123/mom123/3359.ts
+#EXTINF:-1,USA__BYU_Sports_TV_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3360.ts
+#EXTINF:-1,USA_TNT_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3379.ts
+#EXTINF:-1,USA_SYFY_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3380.ts
+#EXTINF:-1,USA_NAT_GEO_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3381.ts
+#EXTINF:-1,USA_FOX_NEWS_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3382.ts
+#EXTINF:-1,USA_ESPN_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3383.ts
+#EXTINF:-1,USA_DISCCOVERY_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3384.ts
+#EXTINF:-1,USA_CW_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3385.ts
+#EXTINF:-1,USA_COMEDY_CENTRAL_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3386.ts
+#EXTINF:-1,USA_CNN_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3387.ts
+#EXTINF:-1,USA_CNBC_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3388.ts
+#EXTINF:-1,USA_CBS
+http://tv2iptv.com:8000/live/mom123/mom123/3389.ts
+#EXTINF:-1,USA_CA_|_TSN_5
+http://tv2iptv.com:8000/live/mom123/mom123/3352.ts
+#EXTINF:-1,USA_CA_|_TSN_4
+http://tv2iptv.com:8000/live/mom123/mom123/3353.ts
+#EXTINF:-1,USA_CA_|_TSN_3
+http://tv2iptv.com:8000/live/mom123/mom123/3354.ts
+#EXTINF:-1,USA_CA_|_TSN_2
+http://tv2iptv.com:8000/live/mom123/mom123/3355.ts
+#EXTINF:-1,USA_CA_|_TSN_1
+http://tv2iptv.com:8000/live/mom123/mom123/3356.ts
+#EXTINF:-1,USA_CA_|_Sportsnet_360_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3357.ts
+#EXTINF:-1,USA_CARTOON_NETWORK_HD_
+http://tv2iptv.com:8000/live/mom123/mom123/3390.ts
+#EXTINF:-1,USA_BRAVO_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3391.ts
+#EXTINF:-1,USA_ANIMAL_PLANET_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3392.ts
+#EXTINF:-1,USA_AMC_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3393.ts
+#EXTINF:-1,USA_ABC_NEWS_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3394.ts
+#EXTINF:-1,USA_ABC_HD
+http://tv2iptv.com:8000/live/mom123/mom123/3395.ts
