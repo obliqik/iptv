@@ -1,4 +1,79 @@
-#EXTM3U
+#EXTINF:-1,US-USA Network
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2731.ts
+#EXTINF:-1,US-TBS HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2729.ts
+#EXTINF:-1,US-Bravo HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2732.ts
+#EXTINF:-1,USA-AMC HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2113.ts
+#EXTINF:-1,Usa- A&E hd
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2637.ts
+#EXTINF:-1,US-Boston City TV
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2737.ts
+#EXTINF:-1,US-AMG
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2733.ts
+#EXTINF:-1,USA-Family E
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2094.ts
+#EXTINF:-1,USA-HBO
+http://best4u.no-ip.org:8000/live/lgx1849/631841/827.ts
+#EXTINF:-1,USA-HBO1
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2115.ts
+#EXTINF:-1,US-Family FE
+http://best4u.no-ip.org:8000/live/lgx1849/631841/1627.ts
+#EXTINF:-1,US-Hallmark HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2393.ts
+#EXTINF:-1,US-WWE
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2730.ts
+#EXTINF:-1,USA--NBC_golf
+http://best4u.no-ip.org:8000/live/lgx1849/631841/1261.ts
+#EXTINF:-1,USA--AFL
+http://best4u.no-ip.org:8000/live/lgx1849/631841/1240.ts
+#EXTINF:-1,USA:ESPN
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2116.ts
+#EXTINF:-1,US-Sports Net
+http://best4u.no-ip.org:8000/live/lgx1849/631841/1625.ts
+#EXTINF:-1,USA-PAC-12 WS
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2101.ts
+#EXTINF:-1,USA:London live
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2084.ts
+#EXTINF:-1,USA:FOOD network
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2087.ts
+#EXTINF:-1,USA-NASA_HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2097.ts
+#EXTINF:-1,USA-QVC HD
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2114.ts
+#EXTINF:-1,USA-London_Live
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2096.ts
+#EXTINF:-1,USA-Spike
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2102.ts
+#EXTINF:-1,USA-California_University
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2103.ts
+#EXTINF:-1,Ca-TVA Montreal
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2395.ts
+#EXTINF:-1,CA-evasion
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2389.ts
+#EXTINF:-1,Ca-RDI
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2397.ts
+#EXTINF:-1,US-FXX
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2398.ts
+#EXTINF:-1,CA-TOMATO TV
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2384.ts
+#EXTINF:-1,Ca-SN quebec Canal9
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2390.ts
+#EXTINF:-1,CA-Assemble Nationale
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2383.ts
+#EXTINF:-1,Ca-AN Du Quebec
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2391.ts
+#EXTINF:-1,CA-MYJAVA
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2385.ts
+#EXTINF:-1,Ca-Radio-Shebrooke
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2394.ts
+#EXTINF:-1,US-MTV Hit
+http://best4u.no-ip.org:8000/live/lgx1849/631841/2396.ts
 #EXTINF:-1 tvg-id="ABC news" tvg-link="" tvg-name="ABC news" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="News",ABC news
 http://sport2.plexflixiptv.co.uk:80/hls/322.m3u8?channelId=322&uid=264&deviceMac=00:1A:79:01:94:64
 #EXTINF:-1 tvg-id="US: MLB Network HD-US" tvg-link="" tvg-name="US: MLB Network HD-US" tvg-logo="" group-title="USA channels",US: MLB Network HD-US - US: MLB Network HD-US
