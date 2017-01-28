@@ -1,31 +1,667 @@
 #EXTM3U
-#EXTINF:-1,UK:TRUE_MOVIES
-http://149.202.196.143:8000/live/malika/malika/162.ts
-#EXTINF:-1,UK:TRUE_MOVIES2
-http://149.202.196.143:8000/live/malika/malika/163.ts
-#EXTINF:-1,UK:HORROR_CHANNEL
-http://149.202.196.143:8000/live/malika/malika/160.ts
-#EXTINF:-1,UK:SKY_MOVIES_PREMIERE
-http://149.202.196.143:8000/live/malika/malika/541.ts
-#EXTINF:-1,UK:SKY_MOVIES_ACTION
-http://149.202.196.143:8000/live/malika/malika/546.ts
-#EXTINF:-1,UK:SKY_MOVIES_THRILLER
-http://149.202.196.143:8000/live/malika/malika/537.ts
-#EXTINF:-1,UK:SKY_MOVIES_SHOWCASE
-http://149.202.196.143:8000/live/malika/malika/538.ts
-#EXTINF:-1,UK:SKY_MOVIES_SELECT
-http://149.202.196.143:8000/live/malika/malika/539.ts
-#EXTINF:-1,UK:SKY_MOVIES_SCI_FI
-http://149.202.196.143:8000/live/malika/malika/540.ts
-#EXTINF:-1,UK:SKY_MOVIES_MODERN_GREAT
-http://149.202.196.143:8000/live/malika/malika/542.ts
-#EXTINF:-1,UK:SKY_MOVIES_ATLANTIC
-http://149.202.196.143:8000/live/malika/malika/545.ts
-#EXTINF:-1,UK:SKY_MOVIES_FAMILY
-http://149.202.196.143:8000/live/malika/malika/548.ts
-#EXTINF:-1,UK:SKY_MOVIES_DRAMA
-http://149.202.196.143:8000/live/malika/malika/547.ts
-#EXTINF:-1,UK:SKY_MOVIES_COMEDY
-http://149.202.196.143:8000/live/malika/malika/544.ts
-#EXTINF:-1,UK:SKY_MOVIES_DISNEY
-http://149.202.196.143:8000/live/malika/malika/543.ts
+#EXTINF:-1 tvg-id="Sports Fixtures" tvg-link="" tvg-name="Sports Fixtures" tvg-logo="http://implyingrigged.info/w/images/thumb/2/2d/Epl_logo.png/250px-Epl_logo.png" group-title="FIXTURES",Sports Fixtures - pikaflik
+http://iptv9.plexflixiptv.co.uk:80/hls/384.m3u8?channelId=384&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC ONE HD" tvg-logo="https://www.brandeps.com/logo-download/B/BBC-One-HD-01.png" group-title="Entertainment HD",BBC ONE HD - BBC ONE HD
+http://iptv12.plexflixiptv.co.uk:80/hls/1.m3u8?channelId=1&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC TWO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png" group-title="Entertainment HD",BBC TWO HD - BBC TWO HD
+http://iptv12.plexflixiptv.co.uk:80/hls/2.m3u8?channelId=2&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC FOUR HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/91/BBC_Four_HD_Logo.svg.png" group-title="Entertainment HD",BBC FOUR HD - BBC FOUR HD
+http://iptv12.plexflixiptv.co.uk:80/hls/3.m3u8?channelId=3&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITV1Granada.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 1 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/ITV1_HD_logo.png" group-title="Entertainment HD",ITV 1 HD - ITV 1 HD
+http://iptv12.plexflixiptv.co.uk:80/hls/4.m3u8?channelId=4&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/ITV2_HD_logo_2013.svg/1024px-ITV2_HD_logo_2013.svg.png" group-title="Entertainment HD",ITV 2 HD - ITV 2 HD
+http://iptv12.plexflixiptv.co.uk:80/hls/5.m3u8?channelId=5&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITVbe.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITVbe HD" tvg-logo="https://cdn2.recombu.com/media/ITVBe.png" group-title="Entertainment HD",ITVbe HD - ITVbe HD
+http://iptv12.plexflixiptv.co.uk:80/hls/6.m3u8?channelId=6&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CHANNEL 4 HD" tvg-logo="https://cdn1.recombu.com/media/digital/news/legacy/M10984/1349258275_w315_h222.png" group-title="Entertainment HD",CHANNEL 4 HD - CHANNEL 4 HD
+http://iptv12.plexflixiptv.co.uk:80/hls/7.m3u8?channelId=7&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CHANNEL 5 HD" tvg-logo="http://www.freeiconspng.com/uploads/number-5-icon-31.png" group-title="Entertainment HD",CHANNEL 5 HD - CHANNEL 5 HD
+http://iptv12.plexflixiptv.co.uk:80/hls/8.m3u8?channelId=8&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC ONE" tvg-logo="http://www.adambalen.com/wp-content/uploads/2015/07/bbc-one.png" group-title="Entertainment",BBC ONE - BBC ONE
+http://iptv13.plexflixiptv.co.uk:80/hls/9.m3u8?channelId=9&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC TWO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/2000px-BBC_Two.svg.png" group-title="Entertainment",BBC TWO - BBC TWO
+http://iptv13.plexflixiptv.co.uk:80/hls/10.m3u8?channelId=10&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="bbc3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC THREE" tvg-logo="https://bbcthree-web-cdn.files.bbci.co.uk/bbcthree-web-server/1.0.0-848/images/share-best-of.png" group-title="Entertainment",BBC THREE - BBC THREE
+http://iptv13.plexflixiptv.co.uk:80/hls/11.m3u8?channelId=11&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC FOUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/2000px-BBC_Four.svg.png" group-title="Entertainment",BBC FOUR - BBC FOUR
+http://iptv13.plexflixiptv.co.uk:80/hls/12.m3u8?channelId=12&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITV1Granada.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png" group-title="Entertainment",ITV 1 - ITV 1
+http://iptv13.plexflixiptv.co.uk:80/hls/13.m3u8?channelId=13&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 2" tvg-logo="http://img3.wikia.nocookie.net/__cb20091129171338/logopedia/images/d/db/ITV2_logo_2008.png" group-title="Entertainment",ITV 2 - ITV 2
+http://iptv13.plexflixiptv.co.uk:80/hls/14.m3u8?channelId=14&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="itv3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 3" tvg-logo="http://www.asktv.co.uk/wp-content/uploads/2015/05/itv-3-123.png" group-title="Entertainment",ITV 3 - ITV 3
+http://iptv13.plexflixiptv.co.uk:80/hls/15.m3u8?channelId=15&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="itv4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV 4" tvg-logo="http://www.cumbriacrack.com/wp-content/uploads/2012/09/itv4.png" group-title="Entertainment",ITV 4 - ITV 4
+http://iptv13.plexflixiptv.co.uk:80/hls/16.m3u8?channelId=16&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITVbe.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV be" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8d/ITVBe_logo_blue_with_purple_background.png" group-title="Entertainment",ITV be - ITV be
+http://iptv13.plexflixiptv.co.uk:80/hls/17.m3u8?channelId=17&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="ITV Encore" tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/2/2a/ITV_Encore.png" group-title="Entertainment",ITV Encore - ITV Encore
+http://iptv13.plexflixiptv.co.uk:80/hls/18.m3u8?channelId=18&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Channel 4" tvg-logo="http://annualreport.channel4.com/img/content/main-head-01.png" group-title="Entertainment",Channel 4 - Channel 4
+http://iptv13.plexflixiptv.co.uk:80/hls/19.m3u8?channelId=19&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="more4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="More 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/699px-More4_logo.svg.png" group-title="Entertainment",More 4 - More 4
+http://iptv13.plexflixiptv.co.uk:80/hls/20.m3u8?channelId=20&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="4Seven" tvg-logo="http://www.screenmedia.co.uk/media/135248/4seven-app-icon.png?quality=80" group-title="Entertainment",4Seven - 4Seven
+http://iptv12.plexflixiptv.co.uk:80/hls/21.m3u8?channelId=21&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="E4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="e4" tvg-logo="http://vignette3.wikia.nocookie.net/bigbangtheory/images/5/5f/E4.png" group-title="Entertainment",e4 - e4
+http://iptv12.plexflixiptv.co.uk:80/hls/22.m3u8?channelId=22&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="film4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Film 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1024px-Film4.svg.png" group-title="Entertainment",Film 4 - Film 4
+http://iptv12.plexflixiptv.co.uk:80/hls/23.m3u8?channelId=23&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-NBC Sports Network HD-US" tvg-link="" tvg-name="US/CA-NBC Sports Network HD-US" tvg-logo="" group-title="USA channels",US/CA-NBC Sports Network HD-US - US/CA-NBC Sports Network HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/338.m3u8?channelId=338&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Five" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png" group-title="Entertainment",Five - Five
+http://iptv14.plexflixiptv.co.uk:80/hls/24.m3u8?channelId=24&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="5 USA" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/5USA-tv-logo-design-uk-company-london.png" group-title="Entertainment",5 USA - 5 USA
+http://iptv14.plexflixiptv.co.uk:80/hls/26.m3u8?channelId=26&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="5star.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="5 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Channel_5_Star.svg/2000px-Channel_5_Star.svg.png" group-title="Entertainment",5 * - 5 *
+http://iptv14.plexflixiptv.co.uk:80/hls/25.m3u8?channelId=25&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CBS Reality" tvg-logo="http://rs283.pbsrc.com/albums/kk291/LeJimster/Mediaportal%20TV%20Logos/CBSReality.png~c200" group-title="Entertainment",CBS Reality - CBS Reality
+http://iptv14.plexflixiptv.co.uk:80/hls/27.m3u8?channelId=27&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CBS Drama" tvg-logo="http://domik-tv.ru/wp-content/uploads/2015/09/cbs-drama-200x142.png" group-title="Entertainment",CBS Drama - CBS Drama
+http://iptv14.plexflixiptv.co.uk:80/hls/28.m3u8?channelId=28&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="cbsaction.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CBS Action" tvg-logo="http://rs283.pbsrc.com/albums/kk291/LeJimster/Mediaportal%20TV%20Logos/CBSAction.png~c200" group-title="Entertainment",CBS Action - CBS Action
+http://iptv14.plexflixiptv.co.uk:80/hls/29.m3u8?channelId=29&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Animal Planet" tvg-logo="http://1.bp.blogspot.com/_wlO5kUsn6DU/TQWxSzsQ3DI/AAAAAAAAAFY/5z3MIMjLQHA/s400/animal_planet_fan.png" group-title="Entertainment",Animal Planet - Animal Planet
+http://iptv14.plexflixiptv.co.uk:80/hls/30.m3u8?channelId=30&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Comedy Central" tvg-logo="http://seanskodiupdates.com/pics/COMEDY%20CENTRAL.png" group-title="Entertainment",Comedy Central - Comedy Central
+http://iptv14.plexflixiptv.co.uk:80/hls/31.m3u8?channelId=31&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Comedy +1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Comedy_Central_Extra.svg/347px-Comedy_Central_Extra.svg.png" group-title="Entertainment",Comedy +1 - Comedy +1
+http://iptv14.plexflixiptv.co.uk:80/hls/32.m3u8?channelId=32&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CI" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/b/b1/C%26I-new.png" group-title="Entertainment",CI - CI
+http://iptv14.plexflixiptv.co.uk:80/hls/34.m3u8?channelId=34&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="discovery.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="Entertainment",Discovery - Discovery
+http://iptv14.plexflixiptv.co.uk:80/hls/35.m3u8?channelId=35&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Entertainment",Discovery Turbo - Discovery Turbo
+http://iptv14.plexflixiptv.co.uk:80/hls/36.m3u8?channelId=36&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery Sience" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639188Discovery%20Science.png" group-title="Entertainment",Discovery Sience - Discovery Sience
+http://iptv14.plexflixiptv.co.uk:80/hls/37.m3u8?channelId=37&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Discovery_Shed.png" group-title="Entertainment",Discovery Shed - Discovery Shed
+http://iptv14.plexflixiptv.co.uk:80/hls/38.m3u8?channelId=38&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="investigation.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png" group-title="Entertainment",Discovery Investigation - Discovery Investigation
+http://iptv14.plexflixiptv.co.uk:80/hls/39.m3u8?channelId=39&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Discovery History" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/8e/Discovery_History_2010.png" group-title="Entertainment",Discovery History - Discovery History
+http://iptv14.plexflixiptv.co.uk:80/hls/40.m3u8?channelId=40&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="E.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="E!" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ETV/e-lightbg.png" group-title="Entertainment",E! - E!
+http://iptv14.plexflixiptv.co.uk:80/hls/41.m3u8?channelId=41&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="gold.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/G.O.L.D._logo.svg/1031px-G.O.L.D._logo.svg.png" group-title="Entertainment",Gold
+http://iptv13.plexflixiptv.co.uk:80/hls/42.m3u8?channelId=42&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="eden.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Eden" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png" group-title="Entertainment",Eden - Eden
+http://iptv13.plexflixiptv.co.uk:80/hls/43.m3u8?channelId=43&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="history.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="History" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/72/History_logo_2008.png" group-title="Entertainment",History - History
+http://iptv13.plexflixiptv.co.uk:80/hls/44.m3u8?channelId=44&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="h2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="H2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e5/History_2.png/revision/latest?cb=20120907221049" group-title="Entertainment",H2 - H2
+http://iptv13.plexflixiptv.co.uk:80/hls/45.m3u8?channelId=45&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="picktv.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Pick TV" tvg-logo="http://static.filmon.com/couch/channels/371/extra_big_logo.png" group-title="Entertainment",Pick TV - Pick TV
+http://iptv13.plexflixiptv.co.uk:80/hls/46.m3u8?channelId=46&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Yesterday" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1280px-Yesterday_logo_2012.svg.png" group-title="Entertainment",Yesterday - Yesterday
+http://iptv13.plexflixiptv.co.uk:80/hls/47.m3u8?channelId=47&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="tlc.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Entertainment",TLC - TLC
+http://iptv12.plexflixiptv.co.uk:80/hls/48.m3u8?channelId=48&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="really.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Really" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" group-title="Entertainment",Really - Really
+http://iptv12.plexflixiptv.co.uk:80/hls/49.m3u8?channelId=49&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="fox.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="FOX" tvg-logo="http://vignette2.wikia.nocookie.net/familyguy/images/5/55/FOX.png/revision/latest?cb=20100515221818" group-title="Entertainment",FOX - FOX
+http://iptv12.plexflixiptv.co.uk:80/hls/50.m3u8?channelId=50&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sy-Fy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/2000px-Syfy.svg.png" group-title="Entertainment",Sy-Fy - Sy-Fy
+http://iptv12.plexflixiptv.co.uk:80/hls/51.m3u8?channelId=51&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="sky1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky One" tvg-logo="http://realitybox.co.uk/wp-content/uploads/2015/11/sky-one.png" group-title="Entertainment",Sky One - Sky One
+http://iptv12.plexflixiptv.co.uk:80/hls/52.m3u8?channelId=52&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="sky2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sky2_logo_2008-2011.svg/2000px-Sky2_logo_2008-2011.svg.png" group-title="Entertainment",Sky Two - Sky Two
+http://iptv12.plexflixiptv.co.uk:80/hls/53.m3u8?channelId=53&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skyarts1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Arts" tvg-logo="http://www.sevenagency.co.uk/media/wysiwyg/gallery/OurWork/sky-arts.png" group-title="Entertainment",Sky Arts - Sky Arts
+http://iptv12.plexflixiptv.co.uk:80/hls/54.m3u8?channelId=54&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Atlantic" tvg-logo="http://web.static.nowtv.com/images/NOWTV2/04_TV/02_Ents/Channel_ENTS_1.png" group-title="Entertainment",Sky Atlantic - Sky Atlantic
+http://iptv16.plexflixiptv.co.uk:80/hls/55.m3u8?channelId=55&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skyliving.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Living" tvg-logo="http://www.thetvking.com/images/network/SkyLiving.png" group-title="Entertainment",Sky Living - Sky Living
+http://iptv16.plexflixiptv.co.uk:80/hls/56.m3u8?channelId=56&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtv.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="Entertainment",MTV - MTV
+http://iptv16.plexflixiptv.co.uk:80/hls/57.m3u8?channelId=57&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="quest.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Quest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/713px-Quest_logo_2014.svg.png" group-title="Entertainment",Quest - Quest
+http://iptv16.plexflixiptv.co.uk:80/hls/58.m3u8?channelId=58&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="National Geographic" tvg-logo="http://3.bp.blogspot.com/-0Ey0H2V7zhg/UDf7oEHb-CI/AAAAAAAABYE/lgxXoGE-1JY/s1600/natgeo_logo.png" group-title="Entertainment",National Geographic - National Geographic
+http://iptv16.plexflixiptv.co.uk:80/hls/59.m3u8?channelId=59&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="natgeowild.png" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="National Geographic Wild" tvg-logo="http://flyingcursor.com/wp-content/uploads/2014/10/Nat-geo-Wild.png" group-title="Entertainment",National Geographic Wild - National Geographic Wild
+http://iptv16.plexflixiptv.co.uk:80/hls/60.m3u8?channelId=60&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="alibi.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/2000px-Alibi.svg.png" group-title="Entertainment",Alibi - Alibi
+http://iptv16.plexflixiptv.co.uk:80/hls/61.m3u8?channelId=61&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="rte1.rte.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="RTE one" tvg-logo="https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/rteone.png" group-title="Entertainment",RTE one - RTE one
+http://iptv16.plexflixiptv.co.uk:80/hls/62.m3u8?channelId=62&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="rte2.rte.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="RTE two" tvg-logo="http://nowwatchtvlive.co/wp-content/uploads/2014/09/rte_two-130x99.png" group-title="Entertainment",RTE two - RTE two
+http://iptv16.plexflixiptv.co.uk:80/hls/63.m3u8?channelId=63&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="3e.rte.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="3e" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/3e.png" group-title="Entertainment",3e - 3e
+http://iptv16.plexflixiptv.co.uk:80/hls/64.m3u8?channelId=64&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="tv3.rte.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="TV3" tvg-logo="http://www.logotypes101.com/logos/662/E470B751CE644D42F448A14681169AF7/TV3.png" group-title="Entertainment",TV3 - TV3
+http://iptv16.plexflixiptv.co.uk:80/hls/65.m3u8?channelId=65&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="tg4.rte.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="TG4" tvg-logo="http://www.horsesportireland.ie/wp-content/uploads/2015/08/Unknown-300x168.png" group-title="Entertainment",TG4 - TG4
+http://iptv16.plexflixiptv.co.uk:80/hls/66.m3u8?channelId=66&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="UTVIreland.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="UTV Ireland" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/f/f0/2000px-UTV_Group_logo.png/revision/latest?cb=20121007013434" group-title="Entertainment",UTV Ireland - UTV Ireland
+http://iptv16.plexflixiptv.co.uk:80/hls/67.m3u8?channelId=67&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="lifetime.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="Entertainment",Lifetime - Lifetime
+http://iptv16.plexflixiptv.co.uk:80/hls/68.m3u8?channelId=68&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="spike.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Spike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Spike_TV_logo.svg/1280px-Spike_TV_logo.svg.png" group-title="Entertainment",Spike - Spike
+http://iptv16.plexflixiptv.co.uk:80/hls/69.m3u8?channelId=69&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Real lives" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/90/Sky_Real_Lives.png/revision/latest?cb=20100419130918" group-title="Entertainment",Real lives - Real lives
+http://iptv16.plexflixiptv.co.uk:80/hls/70.m3u8?channelId=70&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/2000px-Food_Network.svg.png" group-title="Entertainment",Food Network - Food Network
+http://iptv16.plexflixiptv.co.uk:80/hls/71.m3u8?channelId=71&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="challange.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CHALLENGE" tvg-logo="http://www.malit.org.uk/wp-content/uploads/Challenge-icon-582x600.png" group-title="Entertainment",CHALLENGE - CHALLENGE
+http://iptv16.plexflixiptv.co.uk:80/hls/72.m3u8?channelId=72&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Horror Channel" tvg-logo="http://2.bp.blogspot.com/-yS4WR99swZ4/VIE0UZkPr5I/AAAAAAAAABw/glxOth6tz2c/s1600/horror%2Bchannel.png" group-title="Entertainment",Horror Channel - Horror Channel
+http://Iptv5.plexflixiptv.co.uk:80/hls/73.m3u8?channelId=73&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="goodfood.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Good Food" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/1024px-Good_Food.svg.png" group-title="Entertainment",Good Food - Good Food
+http://Iptv5.plexflixiptv.co.uk:80/hls/74.m3u8?channelId=74&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="watch.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Watch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Watch_logo_2012.png" group-title="Entertainment",Watch - Watch
+http://Iptv5.plexflixiptv.co.uk:80/hls/75.m3u8?channelId=75&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skynews.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="SKY NEWS" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542" group-title="world news",SKY NEWS - SKY NEWS
+http://Iptv5.plexflixiptv.co.uk:80/hls/76.m3u8?channelId=76&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="RTÉ News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="world news",RTÉ News Now - RTÉ News Now
+http://Iptv5.plexflixiptv.co.uk:80/hls/77.m3u8?channelId=77&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="foxnews.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="world news",FOX NEWS - FOX NEWS
+http://Iptv5.plexflixiptv.co.uk:80/hls/78.m3u8?channelId=78&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CNN.nws" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CNN NEWS" tvg-logo="http://www.steveharveylaw.com/wp-content/uploads/2013/06/cnn-hd-logo-png-sk.png" group-title="world news",CNN NEWS - CNN NEWS
+http://Iptv5.plexflixiptv.co.uk:80/hls/79.m3u8?channelId=79&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CNBC.nws" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/500px-CNBC_logo.svg.png" group-title="world news",CNBC - CNBC
+http://Iptv5.plexflixiptv.co.uk:80/hls/80.m3u8?channelId=80&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BBCNews.nws" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BBC NEWS" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" group-title="world news",BBC NEWS - BBC NEWS
+http://Iptv5.plexflixiptv.co.uk:80/hls/81.m3u8?channelId=81&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CBeebies" tvg-logo="http://vignette3.wikia.nocookie.net/chuggington/images/a/a5/Cbeebies.png/revision/latest?cb=20110722230001" group-title="Kids",CBeebies - CBeebies
+http://Iptv5.plexflixiptv.co.uk:80/hls/83.m3u8?channelId=83&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="rtejr.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Rte Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="Kids",Rte Jr - Rte Jr
+http://Iptv5.plexflixiptv.co.uk:80/hls/84.m3u8?channelId=84&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="disney.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Disney Channel" tvg-logo="http://orig08.deviantart.net/daaa/f/2012/328/1/7/logotipo_disney_channel_png_1_by_jennyferciitha-d5m1d16.png" group-title="Kids",Disney Channel - Disney Channel
+http://Iptv5.plexflixiptv.co.uk:80/hls/85.m3u8?channelId=85&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="disneyxd.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Kids",Disney XD - Disney XD
+http://Iptv5.plexflixiptv.co.uk:80/hls/86.m3u8?channelId=86&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Kids",Disney Jr - Disney Jr
+http://Iptv5.plexflixiptv.co.uk:80/hls/87.m3u8?channelId=87&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Cartoonnetwork.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Cartoon network" tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png/revision/20110919142305" group-title="Kids",Cartoon network - Cartoon network
+http://Iptv5.plexflixiptv.co.uk:80/hls/88.m3u8?channelId=88&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Boomerang" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest?cb=20150214053855" group-title="Kids",Boomerang - Boomerang
+http://Iptv5.plexflixiptv.co.uk:80/hls/89.m3u8?channelId=89&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Tiny POP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png" group-title="Kids",Tiny POP - Tiny POP
+http://Iptv5.plexflixiptv.co.uk:80/hls/90.m3u8?channelId=90&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="pop.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="POP" tvg-logo="http://cdn32.sptndigital.com/sites/uk.tinypop/files/pop.png" group-title="Kids",POP - POP
+http://iptv11.plexflixiptv.co.uk:80/hls/91.m3u8?channelId=91&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Nickelodeon" tvg-logo="http://vignette2.wikia.nocookie.net/zimwiki/images/c/cd/Nickelodeon_ancient_logo.png/revision/latest?cb=20130106051150" group-title="Kids",Nickelodeon - Nickelodeon
+http://iptv11.plexflixiptv.co.uk:80/hls/92.m3u8?channelId=92&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Nick Toons" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6e/Nicktoons.png/revision/latest?cb=20121207100916" group-title="Kids",Nick Toons - Nick Toons
+http://iptv11.plexflixiptv.co.uk:80/hls/93.m3u8?channelId=93&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Nick Jr" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Nick-Jr.png/revision/latest?cb=20120302201803" group-title="Kids",Nick Jr - Nick Jr
+http://iptv11.plexflixiptv.co.uk:80/hls/94.m3u8?channelId=94&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="nickjrpeppa.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="NickJr Too" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nick-Jr-2-Ireland_o.png" group-title="Kids",NickJr Too - NickJr Too
+http://iptv11.plexflixiptv.co.uk:80/hls/95.m3u8?channelId=95&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="babytv.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV - Baby TV
+http://iptv11.plexflixiptv.co.uk:80/hls/96.m3u8?channelId=96&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/MTV_Rocks_2011_logo.png" group-title="music",MTV Rocks - MTV Rocks
+http://iptv11.plexflixiptv.co.uk:80/hls/97.m3u8?channelId=97&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/MTV_Music_2011.png" group-title="music",MTV Music - MTV Music
+http://iptv11.plexflixiptv.co.uk:80/hls/98.m3u8?channelId=98&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/MTV_Hits_Eurozone-Australia_2011_Logo.png" group-title="music",MTV Hits - MTV Hits
+http://iptv11.plexflixiptv.co.uk:80/hls/99.m3u8?channelId=99&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvdance.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/MTV_Dance_2013.png" group-title="music",MTV Dance - MTV Dance
+http://iptv11.plexflixiptv.co.uk:80/hls/100.m3u8?channelId=100&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvclassic" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/MTV_Classic_2011_logo.png" group-title="music",MTV Classic - MTV Classic
+http://iptv17.plexflixiptv.co.uk:80/hls/101.m3u8?channelId=101&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MTV Base" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mtv_base_uk.png/504px-Mtv_base_uk.png" group-title="music",MTV Base - MTV Base
+http://iptv17.plexflixiptv.co.uk:80/hls/102.m3u8?channelId=102&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Thriller" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Thriller
+http://163.172.106.121:80/hls/103.m3u8?channelId=103&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sky Movies Select" tvg-link="" tvg-name="Sky Movies Select" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Select
+http://163.172.106.121:80/hls/104.m3u8?channelId=104&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Sci-Fi & Horror
+http://163.172.106.121:80/hls/105.m3u8?channelId=105&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Premiere" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Premiere
+http://163.172.106.121:80/hls/106.m3u8?channelId=106&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesModernGreats.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Greats" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Greats
+http://163.172.106.121:80/hls/107.m3u8?channelId=107&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Family" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Family
+http://163.172.106.121:80/hls/108.m3u8?channelId=108&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Christmas" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Christmas
+http://163.172.106.121:80/hls/109.m3u8?channelId=109&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Disney" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Disney
+http://163.172.106.121:80/hls/110.m3u8?channelId=110&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Comedy" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Comedy
+http://163.172.106.121:80/hls/111.m3u8?channelId=111&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Movies Action & Adventure" tvg-logo="http://firststophire.com/logos/skymovies.png" group-title="Movies",Sky Movies Action & Adventure
+http://163.172.106.121:80/hls/112.m3u8?channelId=112&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 1 sd" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 1 sd - BT Sports 1 sd
+http://163.172.106.121:80/hls/113.m3u8?channelId=113&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 2 sd" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 2 sd - BT Sports 2 sd
+http://163.172.106.121:80/hls/114.m3u8?channelId=114&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 3 sd" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 3 sd - BT Sports 3 sd
+http://163.172.106.121:80/hls/115.m3u8?channelId=115&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 1 HD" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 1 HD - BT Sports 1 HD
+http://163.172.106.121:80/hls/116.m3u8?channelId=116&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 2 HD" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 2 HD - BT Sports 2 HD
+http://163.172.106.121:80/hls/117.m3u8?channelId=117&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports 3 HD" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports 3 HD - BT Sports 3 HD
+http://163.172.106.121:80/hls/118.m3u8?channelId=118&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BT Sport Xtra 1" tvg-link="" tvg-name="BT Sport Xtra 1" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sport Xtra 1 - BT Sport Xtra 1
+http://163.172.106.121:80/hls/119.m3u8?channelId=119&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BT Sport Xtra 2" tvg-link="" tvg-name="BT Sport Xtra 2" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sport Xtra 2 - BT Sport Xtra 2
+http://163.172.106.121:80/hls/120.m3u8?channelId=120&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BT Sport Xtra 3" tvg-link="" tvg-name="BT Sport Xtra 3" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sport Xtra 3 - BT Sport Xtra 3
+http://163.172.106.121:80/hls/121.m3u8?channelId=121&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BT Sports ESPN" tvg-logo="https://sportonthebox.files.wordpress.com/2013/02/bt-sport-logo.png" group-title="BT Sports",BT Sports ESPN - BT Sports ESPN
+http://163.172.106.121:80/hls/122.m3u8?channelId=122&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySports1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 1 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 1 SD - pikaflik
+http://163.172.106.120:80/hls/136.m3u8?channelId=136&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySports2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 2 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 2 SD - pikaflik
+http://163.172.106.120:80/hls/137.m3u8?channelId=137&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySports3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 3 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 3 SD - pikaflik
+http://163.172.106.120:80/hls/138.m3u8?channelId=138&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 4 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 4 SD - pikaflik
+http://163.172.106.120:80/hls/139.m3u8?channelId=139&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 5 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 5 SD - pikaflik
+http://163.172.106.120:80/hls/140.m3u8?channelId=140&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports f1 SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports f1 SD - pikaflik
+http://163.172.106.120:80/hls/141.m3u8?channelId=141&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports news SD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports news SD - pikaflik
+http://163.172.106.120:80/hls/142.m3u8?channelId=142&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports Mix" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports Mix - pikaflik
+http://163.172.106.120:80/hls/143.m3u8?channelId=143&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 1 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 1 HD - pikaflik
+http://163.172.106.120:80/hls/123.m3u8?channelId=123&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysports2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 2 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 2 HD - pikaflik
+http://163.172.106.120:80/hls/125.m3u8?channelId=125&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysports3.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 3 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 3 HD - pikaflik
+http://163.172.106.120:80/hls/127.m3u8?channelId=127&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysports4.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 4 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 4 HD - pikaflik
+http://163.172.106.120:80/hls/129.m3u8?channelId=129&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysports5.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports 5 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports 5 HD - pikaflik
+http://163.172.106.120:80/hls/131.m3u8?channelId=131&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports F1 HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports F1 HD - pikaflik
+http://163.172.106.120:80/hls/133.m3u8?channelId=133&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports News HD" tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png" group-title="Sky Sports",Sky Sports News HD - pikaflik
+http://163.172.106.120:80/hls/135.m3u8?channelId=135&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SkyBoxOffice.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Sky Sports Box Office" tvg-logo="http://www.liveonlinetv247.info/images/skysportsboxoffice.png" group-title="Sky Sports",Sky Sports Box Office - pikaflik
+http://163.172.106.120:80/hls/144.m3u8?channelId=144&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Premier Sports HD" tvg-logo="https://icenationuk.files.wordpress.com/2013/04/premier-sports-logo-full-res-master.png" group-title="More Sports",Premier Sports HD - Premier Sports HD
+http://sport3.plexflixiptv.co.uk:80/hls/145.m3u8?channelId=145&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="" tvg-name="Premier Sports" tvg-logo="https://icenationuk.files.wordpress.com/2013/04/premier-sports-logo-full-res-master.png" group-title="More Sports",Premier Sports - Premier Sports
+http://sport3.plexflixiptv.co.uk:80/hls/146.m3u8?channelId=146&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="BoxNation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="More Sports",BoxNation - BoxNation
+http://sport3.plexflixiptv.co.uk:80/hls/147.m3u8?channelId=147&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BoxNation (2)" tvg-link="" tvg-name="BoxNation (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="More Sports",BoxNation (2) - BoxNation (2)
+http://sport3.plexflixiptv.co.uk:80/hls/148.m3u8?channelId=148&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="At The Races" tvg-logo="http://data.attheraces.com/assets/0.56/img/icons/tile.png" group-title="More Sports",At The Races - At The Races
+http://sport3.plexflixiptv.co.uk:80/hls/149.m3u8?channelId=149&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="At The Races (2)" tvg-link="" tvg-name="At The Races (2)" tvg-logo="http://data.attheraces.com/assets/0.56/img/icons/tile.png" group-title="More Sports",At The Races (2) - At The Races (2)
+http://sport3.plexflixiptv.co.uk:80/hls/150.m3u8?channelId=150&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="Racing UK" tvg-logo="https://www.racebets.com/images/static/partners/racinguk.png" group-title="More Sports",Racing UK - Racing UK
+http://sport3.plexflixiptv.co.uk:80/hls/151.m3u8?channelId=151&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Racing UK (2)" tvg-link="" tvg-name="Racing UK (2)" tvg-logo="https://www.racebets.com/images/static/partners/racinguk.png" group-title="More Sports",Racing UK (2) - Racing UK (2)
+http://sport3.plexflixiptv.co.uk:80/hls/152.m3u8?channelId=152&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="eir sport 1" tvg-link="" tvg-name="eir sport 1" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2015/11/Eir-logo.png" group-title="More Sports",eir sport 1 - eir sport 1
+http://sport3.plexflixiptv.co.uk:80/hls/158.m3u8?channelId=158&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="eir sport 2" tvg-link="" tvg-name="eir sport 2" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2015/11/Eir-logo.png" group-title="More Sports",eir sport 2 - eir sport 2
+http://sport3.plexflixiptv.co.uk:80/hls/159.m3u8?channelId=159&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="EuroSports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="More Sports",EuroSports 1 - EuroSports 1
+http://sport3.plexflixiptv.co.uk:80/hls/157.m3u8?channelId=157&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="EuroSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png" group-title="More Sports",EuroSports 2 - EuroSports 2
+http://sport3.plexflixiptv.co.uk:80/hls/156.m3u8?channelId=156&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="mutv.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="MUTV" tvg-logo="http://nextgen-iptv.com/Logos/spo/mutv.png" group-title="More Sports",MUTV - MUTV
+http://sport3.plexflixiptv.co.uk:80/hls/154.m3u8?channelId=154&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CHELSEATV.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="CHELSEA TV" tvg-logo="https://s1.mzstatic.com/us/r30/Purple4/v4/49/f2/2b/49f22bd5-f357-f9ff-d8f6-decbd75d7f85/mzl.oottsnmt.png" group-title="More Sports",CHELSEA TV - CHELSEA TV
+http://sport3.plexflixiptv.co.uk:80/hls/153.m3u8?channelId=153&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-link="http://plexflixiptv.co.uk:8080/master.xml" tvg-name="LFCTV" tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png" group-title="More Sports",LFCTV - LFCTV
+http://sport3.plexflixiptv.co.uk:80/hls/155.m3u8?channelId=155&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO ELEVEN SPORTS (E plus)" tvg-link="" tvg-name="MIO ELEVEN SPORTS (E plus)" tvg-logo="http://i2.wp.com/elevensportsnetwork.sg/wp-content/uploads/2016/05/ELEVEN-SPORTS-NETWORK_logo-RGB-01.png" group-title="Mio Stadium",MIO ELEVEN SPORTS (E plus) - MIO ELEVEN SPORTS (E plus)
+http://sport1.plexflixiptv.co.uk:80/hls/164.m3u8?channelId=164&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO STADIUM 102" tvg-link="" tvg-name="MIO STADIUM 102" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png" group-title="Mio Stadium",MIO STADIUM 102 - MIO STADIUM 102
+http://sport1.plexflixiptv.co.uk:80/hls/165.m3u8?channelId=165&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO STADIUM 103" tvg-link="" tvg-name="MIO STADIUM 103" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png" group-title="Mio Stadium",MIO STADIUM 103 - MIO STADIUM 103
+http://sport1.plexflixiptv.co.uk:80/hls/166.m3u8?channelId=166&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO STADIUM 104" tvg-link="" tvg-name="MIO STADIUM 104" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png" group-title="Mio Stadium",MIO STADIUM 104 - MIO STADIUM 104
+http://sport1.plexflixiptv.co.uk:80/hls/167.m3u8?channelId=167&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO STADIUM 105" tvg-link="" tvg-name="MIO STADIUM 105" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png" group-title="Mio Stadium",MIO STADIUM 105 - MIO STADIUM 105
+http://sport1.plexflixiptv.co.uk:80/hls/168.m3u8?channelId=168&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="MIO STADIUM 106" tvg-link="" tvg-name="MIO STADIUM 106" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png" group-title="Mio Stadium",MIO STADIUM 106 - MIO STADIUM 106
+http://sport1.plexflixiptv.co.uk:80/hls/169.m3u8?channelId=169&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",bein france 1 - bein france 1
+http://sport4.plexflixiptv.co.uk:80/hls/170.m3u8?channelId=170&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",bein france 2 - bein france 2
+http://sport4.plexflixiptv.co.uk:80/hls/171.m3u8?channelId=171&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",bein france 3 - bein france 3
+http://sport4.plexflixiptv.co.uk:80/hls/172.m3u8?channelId=172&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 1 HD - beINSport 1 HD
+http://sport4.plexflixiptv.co.uk:80/hls/173.m3u8?channelId=173&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 2 HD - beINSport 2 HD
+http://sport4.plexflixiptv.co.uk:80/hls/174.m3u8?channelId=174&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 3 HD - beINSport 3 HD
+http://sport4.plexflixiptv.co.uk:80/hls/175.m3u8?channelId=175&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="" tvg-name="beINSport 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 4 HD - beINSport 4 HD
+http://sport4.plexflixiptv.co.uk:80/hls/176.m3u8?channelId=176&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="" tvg-name="beINSport 5 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 5 HD - beINSport 5 HD
+http://sport4.plexflixiptv.co.uk:80/hls/177.m3u8?channelId=177&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="" tvg-name="beINSport 6 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 6 HD - beINSport 6 HD
+http://sport4.plexflixiptv.co.uk:80/hls/178.m3u8?channelId=178&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="" tvg-name="beINSport 7 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 7 HD - beINSport 7 HD
+http://sport4.plexflixiptv.co.uk:80/hls/179.m3u8?channelId=179&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="" tvg-name="beINSport 8 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 8 HD - beINSport 8 HD
+http://sport4.plexflixiptv.co.uk:80/hls/180.m3u8?channelId=180&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="" tvg-name="beINSport 9 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 9 HD - beINSport 9 HD
+http://sport4.plexflixiptv.co.uk:80/hls/181.m3u8?channelId=181&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="" tvg-name="beINSport 10 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 10 HD - beINSport 10 HD
+http://sport4.plexflixiptv.co.uk:80/hls/182.m3u8?channelId=182&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="" tvg-name="beINSport 11 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 11 HD - beINSport 11 HD
+http://sport4.plexflixiptv.co.uk:80/hls/183.m3u8?channelId=183&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="" tvg-name="beINSport 12 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 12 HD - beINSport 12 HD
+http://sport4.plexflixiptv.co.uk:80/hls/184.m3u8?channelId=184&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 13 HD" tvg-link="" tvg-name="beINSport 13 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 13 HD - beINSport 13 HD
+http://sport4.plexflixiptv.co.uk:80/hls/185.m3u8?channelId=185&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="beINSport 14 HD" tvg-link="" tvg-name="beINSport 14 HD" tvg-logo="https://pbs.twimg.com/profile_images/514522853551513600/QJQZOGRJ.png" group-title="bein sports",beINSport 14 HD - beINSport 14 HD
+http://sport4.plexflixiptv.co.uk:80/hls/186.m3u8?channelId=186&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="http://www.tsn.ca/polopoly_fs/1.426971.1453463748!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn.png" group-title="Canadian Channels",TSN 1 - TSN 1
+http://iptv11.plexflixiptv.co.uk:80/hls/187.m3u8?channelId=187&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="http://www.tsn.ca/polopoly_fs/1.426971.1453463748!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn.png" group-title="Canadian Channels",TSN 2 - TSN 2
+http://iptv11.plexflixiptv.co.uk:80/hls/188.m3u8?channelId=188&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="http://www.tsn.ca/polopoly_fs/1.426971.1453463748!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn.png" group-title="Canadian Channels",TSN 3 - TSN 3
+http://iptv11.plexflixiptv.co.uk:80/hls/189.m3u8?channelId=189&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="http://www.tsn.ca/polopoly_fs/1.426971.1453463748!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn.png" group-title="Canadian Channels",TSN 4 - TSN 4
+http://iptv11.plexflixiptv.co.uk:80/hls/190.m3u8?channelId=190&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="http://www.tsn.ca/polopoly_fs/1.426971.1453463748!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn.png" group-title="Canadian Channels",TSN 5 - TSN 5
+http://iptv11.plexflixiptv.co.uk:80/hls/191.m3u8?channelId=191&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="FOX SPORTS 1 HD" tvg-link="" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",FOX SPORTS 1 HD - FOX SPORTS 1 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/192.m3u8?channelId=192&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-link="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",FOX SPORTS 2 HD - FOX SPORTS 2 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/193.m3u8?channelId=193&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="FOX SPORTS 1 Thailand" tvg-link="" tvg-name="FOX SPORTS 1 Thailand" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",FOX SPORTS 1 Thailand - FOX SPORTS 1 Thailand
+http://iptv17.plexflixiptv.co.uk:80/hls/194.m3u8?channelId=194&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="FOX SPORTS 2 Thailand" tvg-link="" tvg-name="FOX SPORTS 2 Thailand" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",FOX SPORTS 2 Thailand - FOX SPORTS 2 Thailand
+http://iptv17.plexflixiptv.co.uk:80/hls/195.m3u8?channelId=195&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NL FOX SPORTS 1 HD" tvg-link="" tvg-name="NL FOX SPORTS 1 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",NL FOX SPORTS 1 HD - NL FOX SPORTS 1 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/198.m3u8?channelId=198&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NL FOX SPORTS 2 HD" tvg-link="" tvg-name="NL FOX SPORTS 2 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",NL FOX SPORTS 2 HD - NL FOX SPORTS 2 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/199.m3u8?channelId=199&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NL FOX SPORTS 3 HD" tvg-link="" tvg-name="NL FOX SPORTS 3 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",NL FOX SPORTS 3 HD - NL FOX SPORTS 3 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/200.m3u8?channelId=200&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NL FOX SPORTS 4 HD" tvg-link="" tvg-name="NL FOX SPORTS 4 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",NL FOX SPORTS 4 HD - NL FOX SPORTS 4 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/201.m3u8?channelId=201&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NL FOX SPORTS 5 HD" tvg-link="" tvg-name="NL FOX SPORTS 5 HD" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",NL FOX SPORTS 5 HD - NL FOX SPORTS 5 HD
+http://iptv17.plexflixiptv.co.uk:80/hls/202.m3u8?channelId=202&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Fox Sport 1 Malaysia" tvg-link="" tvg-name="Fox Sport 1 Malaysia" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",Fox Sport 1 Malaysia - Fox Sport 1 Malaysia
+http://iptv17.plexflixiptv.co.uk:80/hls/196.m3u8?channelId=196&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Fox Sport 2 Malaysia" tvg-link="" tvg-name="Fox Sport 2 Malaysia" tvg-logo="http://dgitalmedia.com/wp2016x/wp-content/uploads/2016/07/FOX-SPORTS.png" group-title="FOX SPORTS",Fox Sport 2 Malaysia - Fox Sport 2 Malaysia
+http://iptv17.plexflixiptv.co.uk:80/hls/197.m3u8?channelId=197&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="OSN sports 1" tvg-link="" tvg-name="OSN sports 1" tvg-logo="http://4.bp.blogspot.com/-fFzvb8jthT8/VP7iWjSD7GI/AAAAAAAACKQ/0Zqz_MeaQvY/s400/Osn.png" group-title="OSN SPORTS",OSN sports 1 - OSN sports 1
+http://dedi1.plexflixiptv.co.uk:80/hls/204.m3u8?channelId=204&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="OSN sports 2" tvg-link="" tvg-name="OSN sports 2" tvg-logo="http://4.bp.blogspot.com/-fFzvb8jthT8/VP7iWjSD7GI/AAAAAAAACKQ/0Zqz_MeaQvY/s400/Osn.png" group-title="OSN SPORTS",OSN sports 2 - OSN sports 2
+http://dedi1.plexflixiptv.co.uk:80/hls/205.m3u8?channelId=205&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="OSN sports 3" tvg-link="" tvg-name="OSN sports 3" tvg-logo="http://4.bp.blogspot.com/-fFzvb8jthT8/VP7iWjSD7GI/AAAAAAAACKQ/0Zqz_MeaQvY/s400/Osn.png" group-title="OSN SPORTS",OSN sports 3 - OSN sports 3
+http://dedi1.plexflixiptv.co.uk:80/hls/206.m3u8?channelId=206&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="OSN sports 4" tvg-link="" tvg-name="OSN sports 4" tvg-logo="http://4.bp.blogspot.com/-fFzvb8jthT8/VP7iWjSD7GI/AAAAAAAACKQ/0Zqz_MeaQvY/s400/Osn.png" group-title="OSN SPORTS",OSN sports 4 - OSN sports 4
+http://dedi1.plexflixiptv.co.uk:80/hls/207.m3u8?channelId=207&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="OSN WWE Network" tvg-link="" tvg-name="OSN WWE Network" tvg-logo="http://osnplay.osn.com/Global/Channel%20Logos/A_WWE%20-%20PLAY%20745x419.png" group-title="OSN SPORTS",OSN WWE Network - OSN WWE Network
+http://dedi1.plexflixiptv.co.uk:80/hls/208.m3u8?channelId=208&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-link="" tvg-name="Sport Klub 1" tvg-logo="http://1.bp.blogspot.com/-V2GJx20sldo/UlXzE9DS-8I/AAAAAAAAcPI/9JZfPeX9pXk/s1600/SportKlub+logo+2013.png" group-title="SportKlub and ArenaSport",Sport Klub 1 - Sport Klub 1
+http://dedi1.plexflixiptv.co.uk:80/hls/209.m3u8?channelId=209&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-link="" tvg-name="Sport Klub 2" tvg-logo="http://1.bp.blogspot.com/-V2GJx20sldo/UlXzE9DS-8I/AAAAAAAAcPI/9JZfPeX9pXk/s1600/SportKlub+logo+2013.png" group-title="SportKlub and ArenaSport",Sport Klub 2 - Sport Klub 2
+http://dedi1.plexflixiptv.co.uk:80/hls/210.m3u8?channelId=210&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-link="" tvg-name="Sport Klub 3" tvg-logo="http://1.bp.blogspot.com/-V2GJx20sldo/UlXzE9DS-8I/AAAAAAAAcPI/9JZfPeX9pXk/s1600/SportKlub+logo+2013.png" group-title="SportKlub and ArenaSport",Sport Klub 3 - Sport Klub 3
+http://dedi1.plexflixiptv.co.uk:80/hls/211.m3u8?channelId=211&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ArenaSport 1" tvg-link="" tvg-name="ArenaSport 1" tvg-logo="http://www.arenakettering.co.uk/wp-content/uploads/ARENA_sports-logo.png" group-title="SportKlub and ArenaSport",ArenaSport 1 - ArenaSport 1
+http://dedi1.plexflixiptv.co.uk:80/hls/212.m3u8?channelId=212&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ArenaSport 2" tvg-link="" tvg-name="ArenaSport 2" tvg-logo="http://www.arenakettering.co.uk/wp-content/uploads/ARENA_sports-logo.png" group-title="SportKlub and ArenaSport",ArenaSport 2 - ArenaSport 2
+http://dedi1.plexflixiptv.co.uk:80/hls/213.m3u8?channelId=213&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ArenaSport 3" tvg-link="" tvg-name="ArenaSport 3" tvg-logo="http://www.arenakettering.co.uk/wp-content/uploads/ARENA_sports-logo.png" group-title="SportKlub and ArenaSport",ArenaSport 3 - ArenaSport 3
+http://dedi1.plexflixiptv.co.uk:80/hls/214.m3u8?channelId=214&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ArenaSport 4" tvg-link="" tvg-name="ArenaSport 4" tvg-logo="http://www.arenakettering.co.uk/wp-content/uploads/ARENA_sports-logo.png" group-title="SportKlub and ArenaSport",ArenaSport 4 - ArenaSport 4
+http://dedi1.plexflixiptv.co.uk:80/hls/215.m3u8?channelId=215&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ArenaSport 5" tvg-link="" tvg-name="ArenaSport 5" tvg-logo="http://www.arenakettering.co.uk/wp-content/uploads/ARENA_sports-logo.png" group-title="SportKlub and ArenaSport",ArenaSport 5 - ArenaSport 5
+http://dedi1.plexflixiptv.co.uk:80/hls/216.m3u8?channelId=216&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-link="" tvg-name="Star Sports 1" tvg-logo="https://pbs.twimg.com/profile_images/565138080068165632/Efj6HgZH.png" group-title="STAR SPORTS AND ASTRO SPORTS",Star Sports 1 - Star Sports 1
+http://dedi1.plexflixiptv.co.uk:80/hls/217.m3u8?channelId=217&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-link="" tvg-name="Star Sports 2" tvg-logo="https://pbs.twimg.com/profile_images/565138080068165632/Efj6HgZH.png" group-title="STAR SPORTS AND ASTRO SPORTS",Star Sports 2 - Star Sports 2
+http://dedi1.plexflixiptv.co.uk:80/hls/218.m3u8?channelId=218&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-link="" tvg-name="Star Sports 3" tvg-logo="https://pbs.twimg.com/profile_images/565138080068165632/Efj6HgZH.png" group-title="STAR SPORTS AND ASTRO SPORTS",Star Sports 3 - Star Sports 3
+http://dedi1.plexflixiptv.co.uk:80/hls/219.m3u8?channelId=219&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Star Sports 4" tvg-link="" tvg-name="Star Sports 4" tvg-logo="https://pbs.twimg.com/profile_images/565138080068165632/Efj6HgZH.png" group-title="STAR SPORTS AND ASTRO SPORTS",Star Sports 4 - Star Sports 4
+http://dedi1.plexflixiptv.co.uk:80/hls/220.m3u8?channelId=220&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Astro Supersports 1" tvg-link="" tvg-name="Astro Supersports 1" tvg-logo="https://lh3.googleusercontent.com/-G2TSQf9RIYc/VjDKRlnjxcI/AAAAAAAAHOM/9dyfgoRVpzc/s630-Ic42/astro-supersports-1.png" group-title="STAR SPORTS AND ASTRO SPORTS",Astro Supersports 1 - Astro Supersports 1
+http://dedi1.plexflixiptv.co.uk:80/hls/221.m3u8?channelId=221&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Astro Supersports 2" tvg-link="" tvg-name="Astro Supersports 2" tvg-logo="https://lh3.googleusercontent.com/-G2TSQf9RIYc/VjDKRlnjxcI/AAAAAAAAHOM/9dyfgoRVpzc/s630-Ic42/astro-supersports-1.png" group-title="STAR SPORTS AND ASTRO SPORTS",Astro Supersports 2 - Astro Supersports 2
+http://dedi1.plexflixiptv.co.uk:80/hls/222.m3u8?channelId=222&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Astro Supersports 3" tvg-link="" tvg-name="Astro Supersports 3" tvg-logo="https://lh3.googleusercontent.com/-G2TSQf9RIYc/VjDKRlnjxcI/AAAAAAAAHOM/9dyfgoRVpzc/s630-Ic42/astro-supersports-1.png" group-title="STAR SPORTS AND ASTRO SPORTS",Astro Supersports 3 - Astro Supersports 3
+http://dedi1.plexflixiptv.co.uk:80/hls/223.m3u8?channelId=223&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Astro Supersports 4" tvg-link="" tvg-name="Astro Supersports 4" tvg-logo="https://lh3.googleusercontent.com/-G2TSQf9RIYc/VjDKRlnjxcI/AAAAAAAAHOM/9dyfgoRVpzc/s630-Ic42/astro-supersports-1.png" group-title="STAR SPORTS AND ASTRO SPORTS",Astro Supersports 4 - Astro Supersports 4
+http://dedi1.plexflixiptv.co.uk:80/hls/224.m3u8?channelId=224&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="WWE Network" tvg-link="" tvg-name="WWE Network" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="USA channels",WWE Network - WWE Network
+http://dedi1.plexflixiptv.co.uk:80/hls/226.m3u8?channelId=226&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US Versus NBA HD" tvg-link="" tvg-name="US Versus NBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="USA channels",US Versus NBA HD - US Versus NBA HD
+http://dedi1.plexflixiptv.co.uk:80/hls/227.m3u8?channelId=227&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Pocker Central" tvg-link="" tvg-name="Pocker Central" tvg-logo="http://etvix.com/wp-content/uploads/poker-central.png" group-title="USA channels",Pocker Central - Pocker Central
+http://dedi1.plexflixiptv.co.uk:80/hls/228.m3u8?channelId=228&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NHL NETWORK" tvg-link="" tvg-name="NHL NETWORK" tvg-logo="http://185.73.239.36:25461/live/plexpersonal/mainplex/242.ts" group-title="USA channels",NHL NETWORK - NHL NETWORK
+http://dedi1.plexflixiptv.co.uk:80/hls/229.m3u8?channelId=229&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="nba tv" tvg-link="" tvg-name="nba tv" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL._SL500_AA300_.png" group-title="USA channels",nba tv - nba tv
+http://dedi1.plexflixiptv.co.uk:80/hls/230.m3u8?channelId=230&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-link="" tvg-name="Ziggo Sport Golf" tvg-logo="https://www.xs4all.nl/upload/49a521b4-7d8f-4ec0-9d00-242b3553a05b_image110990076892966676.png" group-title="Golf Channels",Ziggo Sport Golf - Ziggo Sport Golf
+http://dedi4.plexflixiptv.co.uk:80/hls/257.m3u8?channelId=257&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Ten Golf" tvg-link="" tvg-name="Ten Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TEN_GOLF_HD_1.png" group-title="Golf Channels",Ten Golf - Ten Golf
+http://dedi4.plexflixiptv.co.uk:80/hls/258.m3u8?channelId=258&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC GOLF HD" tvg-link="" tvg-name="NBC GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="Golf Channels",NBC GOLF HD - NBC GOLF HD
+http://dedi4.plexflixiptv.co.uk:80/hls/260.m3u8?channelId=260&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Canal  Golf" tvg-link="" tvg-name="Canal  Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Canal%2B_Golf.svg/400px-Canal%2B_Golf.svg.png" group-title="Golf Channels",Canal  Golf - Canal  Golf
+http://dedi4.plexflixiptv.co.uk:80/hls/261.m3u8?channelId=261&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="C more Golf" tvg-link="" tvg-name="C more Golf" tvg-logo="http://ulango.tv/uploads/channels/2107793/logo_c%20more%20golf.png" group-title="Golf Channels",C more Golf - C more Golf
+http://dedi4.plexflixiptv.co.uk:80/hls/262.m3u8?channelId=262&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Viasat Sport Norway" tvg-link="" tvg-name="Viasat Sport Norway" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Viasat Sport Norway - Viasat Sport Norway
+http://dedi4.plexflixiptv.co.uk:80/hls/264.m3u8?channelId=264&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-link="" tvg-name="Viasat Sport" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Viasat Sport - Viasat Sport
+http://dedi4.plexflixiptv.co.uk:80/hls/266.m3u8?channelId=266&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Viasat Fotboll" tvg-link="" tvg-name="Viasat Fotboll" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Viasat Fotboll - Viasat Fotboll
+http://dedi4.plexflixiptv.co.uk:80/hls/267.m3u8?channelId=267&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="C MORE SPORT HD" tvg-link="" tvg-name="C MORE SPORT HD" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",C MORE SPORT HD
+http://dedi4.plexflixiptv.co.uk:80/hls/270.m3u8?channelId=270&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="C MORE LIVE HD" tvg-link="" tvg-name="C MORE LIVE HD" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",C MORE LIVE HD
+http://dedi4.plexflixiptv.co.uk:80/hls/271.m3u8?channelId=271&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="C MORE FOTBALL" tvg-link="" tvg-name="C MORE FOTBALL" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",C MORE FOTBALL
+http://dedi4.plexflixiptv.co.uk:80/hls/272.m3u8?channelId=272&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Ziggo Sport eXtra 1" tvg-link="" tvg-name="Ziggo Sport eXtra 1" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Ziggo Sport eXtra 1
+http://dedi4.plexflixiptv.co.uk:80/hls/273.m3u8?channelId=273&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Ziggo Sport eXtra 2" tvg-link="" tvg-name="Ziggo Sport eXtra 2" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Ziggo Sport eXtra 2
+http://dedi4.plexflixiptv.co.uk:80/hls/274.m3u8?channelId=274&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-link="" tvg-name="Ziggo Sport Voetbal" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",Ziggo Sport Voetbal
+http://dedi4.plexflixiptv.co.uk:80/hls/275.m3u8?channelId=275&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ligTV 1" tvg-link="" tvg-name="ligTV 1" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",ligTV 1 - ligTV 1
+http://dedi4.plexflixiptv.co.uk:80/hls/277.m3u8?channelId=277&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ligtv 2" tvg-link="" tvg-name="ligtv 2" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",ligtv 2 - ligtv 2
+http://dedi4.plexflixiptv.co.uk:80/hls/278.m3u8?channelId=278&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ligTV 3" tvg-link="" tvg-name="ligTV 3" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",ligTV 3 - ligTV 3
+http://dedi4.plexflixiptv.co.uk:80/hls/279.m3u8?channelId=279&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ligTV 4" tvg-link="" tvg-name="ligTV 4" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",ligTV 4 - ligTV 4
+http://dedi4.plexflixiptv.co.uk:80/hls/280.m3u8?channelId=280&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="DIGI SPORT 1" tvg-link="" tvg-name="DIGI SPORT 1" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",DIGI SPORT 1 - DIGI SPORT 1
+http://dedi4.plexflixiptv.co.uk:80/hls/281.m3u8?channelId=281&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="DIGI SPORT 2" tvg-link="" tvg-name="DIGI SPORT 2" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",DIGI SPORT 2 - DIGI SPORT 2
+http://dedi4.plexflixiptv.co.uk:80/hls/282.m3u8?channelId=282&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="DIGI SPORT 3" tvg-link="" tvg-name="DIGI SPORT 3" tvg-logo="https://cdn2.recombu.com/media/digital/news/legacy/M10865/1376581154_w320_h240.png" group-title="PikaFlik Xtra 3pm channels",DIGI SPORT 3 - DIGI SPORT 3
+http://dedi4.plexflixiptv.co.uk:80/hls/283.m3u8?channelId=283&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SPORTSNET-WEST HD" tvg-link="" tvg-name="SPORTSNET-WEST HD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SPORTSNET-WEST HD - SPORTSNET-WEST HD
+http://dedi4.plexflixiptv.co.uk:80/hls/286.m3u8?channelId=286&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SPORTSNET-PACIFIC HD" tvg-link="" tvg-name="SPORTSNET-PACIFIC HD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SPORTSNET-PACIFIC HD - SPORTSNET-PACIFIC HD
+http://dedi4.plexflixiptv.co.uk:80/hls/287.m3u8?channelId=287&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SPORTSNET-ONTARIOHD" tvg-link="" tvg-name="SPORTSNET-ONTARIOHD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SPORTSNET-ONTARIOHD - SPORTSNET-ONTARIOHD
+http://dedi4.plexflixiptv.co.uk:80/hls/288.m3u8?channelId=288&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SPORTSNET-ONE HD" tvg-link="" tvg-name="SPORTSNET-ONE HD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SPORTSNET-ONE HD - SPORTSNET-ONE HD
+http://dedi4.plexflixiptv.co.uk:80/hls/289.m3u8?channelId=289&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SPORTSNET-360HD" tvg-link="" tvg-name="SPORTSNET-360HD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SPORTSNET-360HD - SPORTSNET-360HD
+http://dedi4.plexflixiptv.co.uk:80/hls/290.m3u8?channelId=290&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="SN 1HD" tvg-link="" tvg-name="SN 1HD" tvg-logo="http://icons.iconarchive.com/icons/martz90/circle-addon2/512/sportsnet-icon.png" group-title="Canadian Channels",SN 1HD - SN 1HD
+http://dedi4.plexflixiptv.co.uk:80/hls/291.m3u8?channelId=291&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="CELTIC TV (LIVE FOR GAMES ONLY)" tvg-link="" tvg-name="CELTIC TV (LIVE FOR GAMES ONLY)" tvg-logo="http://rangers.co.uk/wp/wp-content/uploads/2015/08/CELTICFCLOGO.png" group-title="NBC and SPL",CELTIC TV (LIVE FOR GAMES ONLY) - CELTIC TV (LIVE FOR GAMES ONLY)
+http://dedi4.plexflixiptv.co.uk:80/hls/292.m3u8?channelId=292&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="RANGERS TV (live for games)" tvg-link="" tvg-name="RANGERS TV (live for games)" tvg-logo="http://images.techtimes.com/data/images/full/161816/original-power-rangers.png" group-title="NBC and SPL",RANGERS TV (live for games) - RANGERS TV (live for games)
+http://dedi4.plexflixiptv.co.uk:80/hls/293.m3u8?channelId=293&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 1 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 1 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://sport2.plexflixiptv.co.uk:80/hls/294.m3u8?channelId=294&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 2 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 2 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 2 (LIVE DURING EPL) - NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://sport3.plexflixiptv.co.uk:80/hls/295.m3u8?channelId=295&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 3 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 3 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 3 (LIVE DURING EPL) - NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://sport4.plexflixiptv.co.uk:80/hls/296.m3u8?channelId=296&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 4 (LIVE DURING EPL" tvg-link="" tvg-name="NBC E.P.L XTRA 4 (LIVE DURING EPL" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 4 (LIVE DURING EPL - NBC E.P.L XTRA 4 (LIVE DURING EPL
+http://dedi1.plexflixiptv.co.uk:80/hls/297.m3u8?channelId=297&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 5 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 5 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 5 (LIVE DURING EPL) - NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://dedi4.plexflixiptv.co.uk:80/hls/298.m3u8?channelId=298&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 6 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 6 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 6 (LIVE DURING EPL) - NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://sport2.plexflixiptv.co.uk:80/hls/299.m3u8?channelId=299&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="NBC E.P.L XTRA 7 (LIVE DURING EPL)" tvg-link="" tvg-name="NBC E.P.L XTRA 7 (LIVE DURING EPL)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/31/NBC_Sports_Live_Extra.png/revision/latest?cb=20160113005717" group-title="NBC and SPL",NBC E.P.L XTRA 7 (LIVE DURING EPL) - NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://plexflixiptv.co.uk:80/hls/300.m3u8?channelId=300&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="BEin SPORTS USA" tvg-link="" tvg-name="BEin SPORTS USA" tvg-logo="" group-title="bein sports",BEin SPORTS USA - BEin SPORTS USA
+http://Iptv5.plexflixiptv.co.uk:80/hls/303.m3u8?channelId=303&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Nbcsn" tvg-link="" tvg-name="Nbcsn" tvg-logo="http://nitrocircus.com/wp-content/uploads/2015/06/NBCSN_Vert_Positive_Flat-square.png" group-title="NBC and SPL",Nbcsn
+http://sport1.plexflixiptv.co.uk:80/hls/305.m3u8?channelId=305&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="Nbc goal rush" tvg-link="" tvg-name="Nbc goal rush" tvg-logo="http://www.sportsvideo.org/new/wp-content/uploads/2016/08/NBC-Sports-App.png" group-title="NBC and SPL",Nbc goal rush
+http://vod.plexflixiptv.co.uk:80/hls/306.m3u8?channelId=306&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="K+PM-HD" tvg-link="" tvg-name="K+PM-HD" tvg-logo="http://www.idea.rs/extension/kbase/design/kbase/images/branding/kplus_logo.png" group-title="PikaFlik Xtra 3pm channels",K+PM-HD
+http://iptv16.plexflixiptv.co.uk:80/hls/307.m3u8?channelId=307&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="K+PC-HD" tvg-link="" tvg-name="K+PC-HD" tvg-logo="http://www.idea.rs/extension/kbase/design/kbase/images/branding/kplus_logo.png" group-title="PikaFlik Xtra 3pm channels",K+PC-HD
+http://iptv16.plexflixiptv.co.uk:80/hls/308.m3u8?channelId=308&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="K+NS-HD" tvg-link="" tvg-name="K+NS-HD" tvg-logo="http://www.idea.rs/extension/kbase/design/kbase/images/branding/kplus_logo.png" group-title="PikaFlik Xtra 3pm channels",K+NS-HD
+http://iptv16.plexflixiptv.co.uk:80/hls/309.m3u8?channelId=309&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="K+1HD" tvg-link="" tvg-name="K+1HD" tvg-logo="http://www.idea.rs/extension/kbase/design/kbase/images/branding/kplus_logo.png" group-title="PikaFlik Xtra 3pm channels",K+1HD
+http://iptv16.plexflixiptv.co.uk:80/hls/310.m3u8?channelId=310&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="YES Sport 1HD" tvg-link="" tvg-name="YES Sport 1HD" tvg-logo="http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png" group-title="PikaFlik Xtra 3pm channels",YES Sport 1HD
+http://sport1.plexflixiptv.co.uk:80/hls/311.m3u8?channelId=311&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="YES Sport 2HD" tvg-link="" tvg-name="YES Sport 2HD" tvg-logo="http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png" group-title="PikaFlik Xtra 3pm channels",YES Sport 2HD
+http://sport2.plexflixiptv.co.uk:80/hls/312.m3u8?channelId=312&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="YES Sport 5 Gold" tvg-link="" tvg-name="YES Sport 5 Gold" tvg-logo="http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png" group-title="PikaFlik Xtra 3pm channels",YES Sport 5 Gold
+http://sport3.plexflixiptv.co.uk:80/hls/313.m3u8?channelId=313&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="YES Sport 5+Live+HD" tvg-link="" tvg-name="YES Sport 5+Live+HD" tvg-logo="http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png" group-title="PikaFlik Xtra 3pm channels",YES Sport 5+Live+HD
+http://dedi1.plexflixiptv.co.uk:80/hls/314.m3u8?channelId=314&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="YES Sport 5HD" tvg-link="" tvg-name="YES Sport 5HD" tvg-logo="http://www.underconsideration.com/brandnew/archives/premier_league_icon_outline.png" group-title="PikaFlik Xtra 3pm channels",YES Sport 5HD
+http://dedi4.plexflixiptv.co.uk:80/hls/315.m3u8?channelId=315&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="USA ESPN" tvg-link="" tvg-name="USA ESPN" tvg-logo="http://www.realtalkshows.com/wp-content/uploads/2016/04/espnusa-300x240.png" group-title="USA channels",USA ESPN
+http://iptv11.plexflixiptv.co.uk:80/hls/316.m3u8?channelId=316&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="USA ESPN 2" tvg-link="" tvg-name="USA ESPN 2" tvg-logo="http://www.realtalkshows.com/wp-content/uploads/2016/04/espnusa-300x240.png" group-title="USA channels",USA ESPN 2
+http://iptv12.plexflixiptv.co.uk:80/hls/317.m3u8?channelId=317&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="USA Discovery Science" tvg-link="" tvg-name="USA Discovery Science" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="USA channels",USA Discovery Science
+http://iptv13.plexflixiptv.co.uk:80/hls/318.m3u8?channelId=318&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="USA Discovery Channel" tvg-link="" tvg-name="USA Discovery Channel" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="USA channels",USA Discovery Channel
+http://iptv14.plexflixiptv.co.uk:80/hls/319.m3u8?channelId=319&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="USA AMC" tvg-link="" tvg-name="USA AMC" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="USA channels",USA AMC
+http://Iptv5.plexflixiptv.co.uk:80/hls/320.m3u8?channelId=320&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="cbs news" tvg-link="" tvg-name="cbs news" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="News",cbs news
+http://sport1.plexflixiptv.co.uk:80/hls/321.m3u8?channelId=321&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="ABC news" tvg-link="" tvg-name="ABC news" tvg-logo="http://www.freeiconspng.com/uploads/us-flag-icon-31.png" group-title="News",ABC news
+http://sport2.plexflixiptv.co.uk:80/hls/322.m3u8?channelId=322&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-MLB Network HD-US" tvg-link="" tvg-name="US/CA-MLB Network HD-US" tvg-logo="" group-title="USA channels",US/CA-MLB Network HD-US - US/CA-MLB Network HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/343.m3u8?channelId=343&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-WWE Network HD - US" tvg-link="" tvg-name="US/CA-WWE Network HD - US" tvg-logo="" group-title="USA channels",US/CA-WWE Network HD - US - US/CA-WWE Network HD - US
+http://sport2.plexflixiptv.co.uk:80/hls/323.m3u8?channelId=323&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-USA NETWORK HD-US" tvg-link="" tvg-name="US/CA-USA NETWORK HD-US" tvg-logo="" group-title="USA channels",US/CA-USA NETWORK HD-US - US/CA-USA NETWORK HD-US
+http://vod.plexflixiptv.co.uk:80/hls/324.m3u8?channelId=324&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Tennis Channel HD-US" tvg-link="" tvg-name="US/CA-Tennis Channel HD-US" tvg-logo="" group-title="USA channels",US/CA-Tennis Channel HD-US - US/CA-Tennis Channel HD-US
+http://vod.plexflixiptv.co.uk:80/hls/325.m3u8?channelId=325&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-TBS HD-US" tvg-link="" tvg-name="US/CA-TBS HD-US" tvg-logo="" group-title="USA channels",US/CA-TBS HD-US - US/CA-TBS HD-US
+http://vod.plexflixiptv.co.uk:80/hls/326.m3u8?channelId=326&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Syfy HD-US" tvg-link="" tvg-name="US/CA-Syfy HD-US" tvg-logo="" group-title="USA channels",US/CA-Syfy HD-US - US/CA-Syfy HD-US
+http://vod.plexflixiptv.co.uk:80/hls/327.m3u8?channelId=327&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Starz Cinema HD-US" tvg-link="" tvg-name="US/CA-Starz Cinema HD-US" tvg-logo="" group-title="USA channels",US/CA-Starz Cinema HD-US - US/CA-Starz Cinema HD-US
+http://vod.plexflixiptv.co.uk:80/hls/328.m3u8?channelId=328&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Sports Net World HD-US" tvg-link="" tvg-name="US/CA-Sports Net World HD-US" tvg-logo="" group-title="USA channels",US/CA-Sports Net World HD-US - US/CA-Sports Net World HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/329.m3u8?channelId=329&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Sports Net Ontario HD-US" tvg-link="" tvg-name="US/CA-Sports Net Ontario HD-US" tvg-logo="" group-title="USA channels",US/CA-Sports Net Ontario HD-US - US/CA-Sports Net Ontario HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/330.m3u8?channelId=330&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Sports Net One HD-US" tvg-link="" tvg-name="US/CA-Sports Net One HD-US" tvg-logo="" group-title="USA channels",US/CA-Sports Net One HD-US - US/CA-Sports Net One HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/331.m3u8?channelId=331&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Sports Net 360 HD-US" tvg-link="" tvg-name="US/CA-Sports Net 360 HD-US" tvg-logo="" group-title="USA channels",US/CA-Sports Net 360 HD-US - US/CA-Sports Net 360 HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/332.m3u8?channelId=332&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-SPIKE HD-US" tvg-link="" tvg-name="US/CA-SPIKE HD-US" tvg-logo="" group-title="USA channels",US/CA-SPIKE HD-US - US/CA-SPIKE HD-US
+http://vod.plexflixiptv.co.uk:80/hls/333.m3u8?channelId=333&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Showtime-US" tvg-link="" tvg-name="US/CA-Showtime-US" tvg-logo="" group-title="USA channels",US/CA-Showtime-US - US/CA-Showtime-US
+http://vod.plexflixiptv.co.uk:80/hls/334.m3u8?channelId=334&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-NHL Network HD-US" tvg-link="" tvg-name="US/CA-NHL Network HD-US" tvg-logo="" group-title="USA channels",US/CA-NHL Network HD-US - US/CA-NHL Network HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/335.m3u8?channelId=335&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-NFL Channel HD-US" tvg-link="" tvg-name="US/CA-NFL Channel HD-US" tvg-logo="" group-title="USA channels",US/CA-NFL Channel HD-US - US/CA-NFL Channel HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/336.m3u8?channelId=336&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-NBC-US" tvg-link="" tvg-name="US/CA-NBC-US" tvg-logo="" group-title="USA channels",US/CA-NBC-US - US/CA-NBC-US
+http://vod.plexflixiptv.co.uk:80/hls/337.m3u8?channelId=337&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-NBA HD-US" tvg-link="" tvg-name="US/CA-NBA HD-US" tvg-logo="" group-title="USA channels",US/CA-NBA HD-US - US/CA-NBA HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/339.m3u8?channelId=339&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Nat Geo HD-US" tvg-link="" tvg-name="US/CA-Nat Geo HD-US" tvg-logo="" group-title="USA channels",US/CA-Nat Geo HD-US - US/CA-Nat Geo HD-US
+http://vod.plexflixiptv.co.uk:80/hls/340.m3u8?channelId=340&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Nasa TV -US" tvg-link="" tvg-name="US/CA-Nasa TV -US" tvg-logo="" group-title="USA channels",US/CA-Nasa TV -US - US/CA-Nasa TV -US
+http://vod.plexflixiptv.co.uk:80/hls/341.m3u8?channelId=341&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-MoreMax HD-US" tvg-link="" tvg-name="US/CA-MoreMax HD-US" tvg-logo="" group-title="USA channels",US/CA-MoreMax HD-US - US/CA-MoreMax HD-US
+http://vod.plexflixiptv.co.uk:80/hls/342.m3u8?channelId=342&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Fox News HD-US" tvg-link="" tvg-name="US/CA-Fox News HD-US" tvg-logo="" group-title="USA channels",US/CA-Fox News HD-US - US/CA-Fox News HD-US
+http://vod.plexflixiptv.co.uk:80/hls/358.m3u8?channelId=358&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Fox HD-US" tvg-link="" tvg-name="US/CA-Fox HD-US" tvg-logo="" group-title="USA channels",US/CA-Fox HD-US - US/CA-Fox HD-US
+http://vod.plexflixiptv.co.uk:80/hls/359.m3u8?channelId=359&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Food Network-US" tvg-link="" tvg-name="US/CA-Food Network-US" tvg-logo="" group-title="USA channels",US/CA-Food Network-US - US/CA-Food Network-US
+http://vod.plexflixiptv.co.uk:80/hls/360.m3u8?channelId=360&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ESPN USA HD-US" tvg-link="" tvg-name="US/CA-ESPN USA HD-US" tvg-logo="" group-title="USA channels",US/CA-ESPN USA HD-US - US/CA-ESPN USA HD-US
+http://vod.plexflixiptv.co.uk:80/hls/362.m3u8?channelId=362&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ESPN U HD-US" tvg-link="" tvg-name="US/CA-ESPN U HD-US" tvg-logo="" group-title="USA channels",US/CA-ESPN U HD-US - US/CA-ESPN U HD-US
+http://vod.plexflixiptv.co.uk:80/hls/363.m3u8?channelId=363&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ESPN 2 HD-US" tvg-link="" tvg-name="US/CA-ESPN 2 HD-US" tvg-logo="" group-title="USA channels",US/CA-ESPN 2 HD-US - US/CA-ESPN 2 HD-US
+http://vod.plexflixiptv.co.uk:80/hls/365.m3u8?channelId=365&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-E! -US" tvg-link="" tvg-name="US/CA-E! -US" tvg-logo="" group-title="USA channels",US/CA-E! -US - US/CA-E! -US
+http://vod.plexflixiptv.co.uk:80/hls/366.m3u8?channelId=366&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Discovery HD-US" tvg-link="" tvg-name="US/CA-Discovery HD-US" tvg-logo="" group-title="USA channels",US/CA-Discovery HD-US - US/CA-Discovery HD-US
+http://vod.plexflixiptv.co.uk:80/hls/367.m3u8?channelId=367&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CW HD-US" tvg-link="" tvg-name="US/CA-CW HD-US" tvg-logo="" group-title="USA channels",US/CA-CW HD-US - US/CA-CW HD-US
+http://vod.plexflixiptv.co.uk:80/hls/368.m3u8?channelId=368&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Comedy Central US" tvg-link="" tvg-name="US/CA-Comedy Central US" tvg-logo="" group-title="USA channels",US/CA-Comedy Central US - US/CA-Comedy Central US
+http://vod.plexflixiptv.co.uk:80/hls/369.m3u8?channelId=369&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Fight Network-US" tvg-link="" tvg-name="US/CA-Fight Network-US" tvg-logo="" group-title="USA channels",US/CA-Fight Network-US - US/CA-Fight Network-US
+http://vod.plexflixiptv.co.uk:80/hls/361.m3u8?channelId=361&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CNN HD-US" tvg-link="" tvg-name="US/CA-CNN HD-US" tvg-logo="" group-title="USA channels",US/CA-CNN HD-US - US/CA-CNN HD-US
+http://vod.plexflixiptv.co.uk:80/hls/370.m3u8?channelId=370&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CNBC-US" tvg-link="" tvg-name="US/CA-CNBC-US" tvg-logo="" group-title="USA channels",US/CA-CNBC-US - US/CA-CNBC-US
+http://vod.plexflixiptv.co.uk:80/hls/371.m3u8?channelId=371&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-BLOOMBERG-US" tvg-link="" tvg-name="US/CA-BLOOMBERG-US" tvg-logo="" group-title="USA channels",US/CA-BLOOMBERG-US - US/CA-BLOOMBERG-US
+http://vod.plexflixiptv.co.uk:80/hls/376.m3u8?channelId=376&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ESPN News HD-US" tvg-link="" tvg-name="US/CA-ESPN News HD-US" tvg-logo="" group-title="USA channels",US/CA-ESPN News HD-US - US/CA-ESPN News HD-US
+http://vod.plexflixiptv.co.uk:80/hls/364.m3u8?channelId=364&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-AMC HD-US" tvg-link="" tvg-name="US/CA-AMC HD-US" tvg-logo="" group-title="USA channels",US/CA-AMC HD-US - US/CA-AMC HD-US
+http://vod.plexflixiptv.co.uk:80/hls/378.m3u8?channelId=378&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CBS News-US" tvg-link="" tvg-name="US/CA-CBS News-US" tvg-logo="" group-title="USA channels",US/CA-CBS News-US - US/CA-CBS News-US
+http://vod.plexflixiptv.co.uk:80/hls/372.m3u8?channelId=372&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CBS HD-US" tvg-link="" tvg-name="US/CA-CBS HD-US" tvg-logo="" group-title="USA channels",US/CA-CBS HD-US - US/CA-CBS HD-US
+http://vod.plexflixiptv.co.uk:80/hls/373.m3u8?channelId=373&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Animal Planet HD-US" tvg-link="" tvg-name="US/CA-Animal Planet HD-US" tvg-logo="" group-title="USA channels",US/CA-Animal Planet HD-US - US/CA-Animal Planet HD-US
+http://vod.plexflixiptv.co.uk:80/hls/377.m3u8?channelId=377&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Cartoon Network-US" tvg-link="" tvg-name="US/CA-Cartoon Network-US" tvg-logo="" group-title="USA channels",US/CA-Cartoon Network-US - US/CA-Cartoon Network-US
+http://vod.plexflixiptv.co.uk:80/hls/375.m3u8?channelId=375&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Action Max HD-US" tvg-link="" tvg-name="US/CA-Action Max HD-US" tvg-logo="" group-title="USA channels",US/CA-Action Max HD-US - US/CA-Action Max HD-US
+http://vod.plexflixiptv.co.uk:80/hls/379.m3u8?channelId=379&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ABC News-US" tvg-link="" tvg-name="US/CA-ABC News-US" tvg-logo="" group-title="USA channels",US/CA-ABC News-US - US/CA-ABC News-US
+http://vod.plexflixiptv.co.uk:80/hls/380.m3u8?channelId=380&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-ABC HD-US" tvg-link="" tvg-name="US/CA-ABC HD-US" tvg-logo="" group-title="USA channels",US/CA-ABC HD-US - US/CA-ABC HD-US
+http://vod.plexflixiptv.co.uk:80/hls/381.m3u8?channelId=381&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-CBN News-US" tvg-link="" tvg-name="US/CA-CBN News-US" tvg-logo="" group-title="USA channels",US/CA-CBN News-US - US/CA-CBN News-US
+http://vod.plexflixiptv.co.uk:80/hls/374.m3u8?channelId=374&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-A&E TV HD-US" tvg-link="" tvg-name="US/CA-A&E TV HD-US" tvg-logo="" group-title="USA channels",US/CA-A&E TV HD-US - US/CA-A&E TV HD-US
+http://vod.plexflixiptv.co.uk:80/hls/382.m3u8?channelId=382&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-5 Star Max-US" tvg-link="" tvg-name="US/CA-5 Star Max-US" tvg-logo="" group-title="USA channels",US/CA-5 Star Max-US - US/CA-5 Star Max-US
+http://vod.plexflixiptv.co.uk:80/hls/383.m3u8?channelId=383&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Investigation Discovery-US" tvg-link="" tvg-name="US/CA-Investigation Discovery-US" tvg-logo="" group-title="USA channels",US/CA-Investigation Discovery-US - US/CA-Investigation Discovery-US
+http://vod.plexflixiptv.co.uk:80/hls/344.m3u8?channelId=344&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Investigation Discovery HD-US" tvg-link="" tvg-name="US/CA-Investigation Discovery HD-US" tvg-logo="" group-title="USA channels",US/CA-Investigation Discovery HD-US - US/CA-Investigation Discovery HD-US
+http://vod.plexflixiptv.co.uk:80/hls/345.m3u8?channelId=345&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-HSN-US" tvg-link="" tvg-name="US/CA-HSN-US" tvg-logo="" group-title="USA channels",US/CA-HSN-US - US/CA-HSN-US
+http://vod.plexflixiptv.co.uk:80/hls/346.m3u8?channelId=346&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-History US" tvg-link="" tvg-name="US/CA-History US" tvg-logo="" group-title="USA channels",US/CA-History US - US/CA-History US
+http://vod.plexflixiptv.co.uk:80/hls/347.m3u8?channelId=347&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-HBO Zone-US" tvg-link="" tvg-name="US/CA-HBO Zone-US" tvg-logo="" group-title="USA channels",US/CA-HBO Zone-US - US/CA-HBO Zone-US
+http://vod.plexflixiptv.co.uk:80/hls/349.m3u8?channelId=349&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-HBO Signature-US" tvg-link="" tvg-name="US/CA-HBO Signature-US" tvg-logo="" group-title="USA channels",US/CA-HBO Signature-US - US/CA-HBO Signature-US
+http://vod.plexflixiptv.co.uk:80/hls/350.m3u8?channelId=350&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-HBO Comedy-US" tvg-link="" tvg-name="US/CA-HBO Comedy-US" tvg-logo="" group-title="USA channels",US/CA-HBO Comedy-US - US/CA-HBO Comedy-US
+http://vod.plexflixiptv.co.uk:80/hls/351.m3u8?channelId=351&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Golf HD-US" tvg-link="" tvg-name="US/CA-Golf HD-US" tvg-logo="" group-title="USA channels",US/CA-Golf HD-US - US/CA-Golf HD-US
+http://vod.plexflixiptv.co.uk:80/hls/352.m3u8?channelId=352&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-FXX-US" tvg-link="" tvg-name="US/CA-FXX-US" tvg-logo="" group-title="USA channels",US/CA-FXX-US - US/CA-FXX-US
+http://vod.plexflixiptv.co.uk:80/hls/353.m3u8?channelId=353&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-FX - US" tvg-link="" tvg-name="US/CA-FX - US" tvg-logo="" group-title="USA channels",US/CA-FX - US - US/CA-FX - US
+http://vod.plexflixiptv.co.uk:80/hls/354.m3u8?channelId=354&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-FreeRom HD-US" tvg-link="" tvg-name="US/CA-FreeRom HD-US" tvg-logo="" group-title="USA channels",US/CA-FreeRom HD-US - US/CA-FreeRom HD-US
+http://vod.plexflixiptv.co.uk:80/hls/355.m3u8?channelId=355&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Fox Sports 1 HD-US" tvg-link="" tvg-name="US/CA-Fox Sports 1 HD-US" tvg-logo="" group-title="USA channels",US/CA-Fox Sports 1 HD-US - US/CA-Fox Sports 1 HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/357.m3u8?channelId=357&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-Fox Sports 2 HD-US" tvg-link="" tvg-name="US/CA-Fox Sports 2 HD-US" tvg-logo="" group-title="USA channels",US/CA-Fox Sports 2 HD-US - US/CA-Fox Sports 2 HD-US
+http://sport2.plexflixiptv.co.uk:80/hls/356.m3u8?channelId=356&uid=264&deviceMac=00:1A:79:01:94:64
+#EXTINF:-1 tvg-id="US/CA-HBO-US" tvg-link="" tvg-name="US/CA-HBO-US" tvg-logo="" group-title="USA channels",US/CA-HBO-US - US/CA-HBO-US
+http://vod.plexflixiptv.co.uk:80/hls/348.m3u8?channelId=348&uid=264&deviceMac=00:1A:79:01:94:64
