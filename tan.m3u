@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1,UK | Sky Movies Premiere HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1105.ts
+#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1106.ts
+#EXTINF:-1,UK | Sky Movies Family HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1107.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1108.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1109.ts
+#EXTINF:-1,UK | SkyMTV
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1110.ts
+#EXTINF:-1,UK | Movies 4Men
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1111.ts
+#EXTINF:-1,UK | More4+1
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1112.ts
+#EXTINF:-1,UK | SkyOne HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1113.ts
+#EXTINF:-1,UK | SkTrueMovies 2 HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1114.ts
+#EXTINF:-1,UK | True Movies1 HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1115.ts
+#EXTINF:-1,UK | Racing
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1116.ts
+#EXTINF:-1,UK | Watch Ireland
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1117.ts
+#EXTINF:-1,UK | FOX News
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1118.ts
+#EXTINF:-1,UK | BBC News
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1119.ts
+#EXTINF:-1,UK | 5USA
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1120.ts
+#EXTINF:-1,UK | SkyMoviesDrama HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1121.ts
+#EXTINF:-1,UK | SkyMoviesSelect HD
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1122.ts
+#EXTINF:-1,UK | SkyMoviesThriller
+http://sutverduz.com:8080/live/fVNXZIwr65/75yzuIwmaE/1123.ts
 #EXTINF:0,USA: TVO KIDS
 http://live.softiptv.com:9900/live/jagdish/jagdish/17369.ts
 #EXTINF:0,USA: TMN ACTION
