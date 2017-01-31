@@ -29,7 +29,44 @@
            <title>Starz Edge</title> 
            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24921.ts&amp;streamtype=TSDOWNLOADER</link> 
        </item> 
-          <item> 
+          
+    <item> 
+     <title>Movie Drama</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2429.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>True Movies</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2430.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Thriller</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2427.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie One</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2422.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie Premier</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2421.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie Sci Fi</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2423.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie Atlantic</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2425.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie Family</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2426.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+     <item> 
+     <title>Movie Action</title>
+           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2424.ts&amp;streamtype=TSDOWNLOADER</link> 
+       </item> 
+ <item> 
            <title>TBS</title> 
            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24882.ts&amp;streamtype=TSDOWNLOADER</link> 
        </item>          <item> 
