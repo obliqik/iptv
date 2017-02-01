@@ -1,83 +1,271 @@
 #EXTM3U
-#EXTINF:-1,USA-CNN_Live
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2806.ts
-#EXTINF:-1,US-CNN News-intl.
-http://37.187.175.177:8000/live/Antonio2/Antonio2/191.ts
-#EXTINF:-1,USA-ABC_News
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1063.ts
-#EXTINF:-1,USA-BBC-News
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2071.ts
-#EXTINF:-1,USA-Bloomberg
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1304.ts
-#EXTINF:-1,USA-RT_News
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1910.ts
-#EXTINF:-1,USA_Al-jazeera
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1536.ts
-#EXTINF:-1,cspan1
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2734.ts
-#EXTINF:-1,cspan2
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2735.ts
-#EXTINF:-1,cspan3
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2736.ts
-#EXTINF:-1,US-USA Network
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2731.ts
-#EXTINF:-1,US-TBS HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2729.ts
-#EXTINF:-1,US-Bravo HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2732.ts
-#EXTINF:-1,USA-AMC HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2113.ts
-#EXTINF:-1,Usa- A&E hd
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2637.ts
-#EXTINF:-1,US-Boston City TV
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2737.ts
-#EXTINF:-1,US-AMG
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2733.ts
-#EXTINF:-1,USA-Family E
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2094.ts
-#EXTINF:-1,USA-HBO
-http://37.187.175.177:8000/live/Antonio2/Antonio2/827.ts
-#EXTINF:-1,USA-HBO1
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2115.ts
-#EXTINF:-1,US-Family FE
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1627.ts
-#EXTINF:-1,US-Hallmark HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2393.ts
-#EXTINF:-1,US-WWE
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2730.ts
-#EXTINF:-1,USA--NBC_golf
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1261.ts
-#EXTINF:-1,USA--AFL
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1240.ts
-#EXTINF:-1,USA:ESPN
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2078.ts
-#EXTINF:-1,USA-NBCSN sport
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2116.ts
-#EXTINF:-1,US-Sports Net
-http://37.187.175.177:8000/live/Antonio2/Antonio2/1625.ts
-#EXTINF:-1,USA-PAC-12 WS
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2101.ts
-#EXTINF:-1,USA:London live
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2084.ts
-#EXTINF:-1,USA:FOOD network
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2087.ts
-#EXTINF:-1,USA-NASA_HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2097.ts
-#EXTINF:-1,USA-QVC HD
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2114.ts
-#EXTINF:-1,USA-London_Live
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2096.ts
-#EXTINF:-1,USA-Spike
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2099.ts
-#EXTINF:-1,USA-Florida_Channel
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2102.ts
-#EXTINF:-1,USA-California_University
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2103.ts
-#EXTINF:-1,Ca-TVA Montreal
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2395.ts
-#EXTINF:-1,CA-evasion
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2389.ts
-#EXTINF:-1,Ca-RDI
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2397.ts
-#EXTINF:-1,US-FXX
-http://37.187.175.177:8000/live/Antonio2/Antonio2/2398.ts
+#EXTINF:-1,USA: A&E
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9315.ts
+#EXTINF:-1,USA: ABC News
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2931.ts
+#EXTINF:-1,USA: ABC Spark HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15243.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9516.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10166.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10167.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9488.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9517.ts
+#EXTINF:-1,USA: ABC W HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15244.ts
+#EXTINF:-1,USA: 360 North
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3863.ts
+#EXTINF:-1,USA: Animal Planet
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15250.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9520.ts
+#EXTINF:-1,USA: ASD TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3861.ts
+#EXTINF:-1,USA: AMC HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8415.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9518.ts
+#EXTINF:-1,USA: Church Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9536.ts
+#EXTINF:-1,USA: Discovery Science
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9546.ts
+#EXTINF:-1,USA: DTX
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9547.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8681.ts
+#EXTINF:-1,USA: Comedy Central
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15249.ts
+#EXTINF:-1,USA: Discovery Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15248.ts
+#EXTINF:-1,USA: Food Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9337.ts
+#EXTINF:-1,USA: Family CHRGD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15246.ts
+#EXTINF:-1,USA: Bloomberg
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9510.ts
+#EXTINF:-1,USA: CBS Action
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9340.ts
+#EXTINF:-1,USA: Eurosport 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14079.ts
+#EXTINF:-1,USA: Family Junior HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15247.ts
+#EXTINF:-1,USA: CBS DRAMA
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9339.ts
+#EXTINF:-1,USA: CNN HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8692.ts
+#EXTINF:-1,USA: Bravo
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8691.ts
+#EXTINF:-1,USA: ESPN 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13230.ts
+#EXTINF:-1,USA: Channel 11
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3860.ts
+#EXTINF:-1,USA: Country Music Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3859.ts
+#EXTINF:-1,USA: DTX HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9475.ts
+#EXTINF:-1,USA: CBS News HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9508.ts
+#EXTINF:-1,USA: Fight Sport
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8308.ts
+#EXTINF:-1,USA: E!
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8417.ts
+#EXTINF:-1,USA: ESPN U HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13229.ts
+#EXTINF:-1,USA: CBS Reality
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9338.ts
+#EXTINF:-1,USA: C-SPAN
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9318.ts
+#EXTINF:-1,USA: CSPAN 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9319.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9320.ts
+#EXTINF:-1,USA: E! Network HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9321.ts
+#EXTINF:-1,USA: BeIN Sports USA HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13227.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9519.ts
+#EXTINF:-1,USA: Fox Sport 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9391.ts
+#EXTINF:-1,USA: NBA TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8309.ts
+#EXTINF:-1,USA: HBO FAMILY
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8414.ts
+#EXTINF:-1,USA: HBO HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8411.ts
+#EXTINF:-1,USA: HBO ZONE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8412.ts
+#EXTINF:-1,USA: NBC HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8393.ts
+#EXTINF:-1,USA: Fox Sports 506 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9528.ts
+#EXTINF:-1,USA: LIFE TIME
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8687.ts
+#EXTINF:-1,USA: HBO Comedy
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9831.ts
+#EXTINF:-1,USA: Fox Soccer Plus
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15240.ts
+#EXTINF:-1,USA: Fox Sports Florida
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15241.ts
+#EXTINF:-1,USA: History HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15245.ts
+#EXTINF:-1,USA: Mello TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9502.ts
+#EXTINF:-1,USA: Mute TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9487.ts
+#EXTINF:-1,USA: NBC SN
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9523.ts
+#EXTINF:-1,USA: MLB Network HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15239.ts
+#EXTINF:-1,USA: Fox 43
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10174.ts
+#EXTINF:-1,USA: CBN News
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3872.ts
+#EXTINF:-1,USA: Starz  Edge
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10171.ts
+#EXTINF:-1,USA: TLC HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9480.ts
+#EXTINF:-1,USA: NHL Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12479.ts
+#EXTINF:-1,USA: RT Documentary
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9497.ts
+#EXTINF:-1,USA: RT America HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9498.ts
+#EXTINF:-1,USA: Poker Central
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9326.ts
+#EXTINF:-1,USA: Nick
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9333.ts
+#EXTINF:-1,USA: NBCSN XTRA 2
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14181.ts
+#EXTINF:-1,USA: NBCSN Golf HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9526.ts
+#EXTINF:-1,USA: Nasa TV HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9499.ts
+#EXTINF:-1,USA: Spike HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13179.ts
+#EXTINF:-1,USA: Sportsnet West HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13232.ts
+#EXTINF:-1,USA: NFL Network HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8693.ts
+#EXTINF:-1,USA: Sporstnet 360
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14036.ts
+#EXTINF:-1,USA: Sporstnet East HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14035.ts
+#EXTINF:-1,USA: Sporstnet Ontario HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14034.ts
+#EXTINF:-1,USA: Sporstnet Pacific HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14033.ts
+#EXTINF:-1,USA: Sportnet  One HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14037.ts
+#EXTINF:-1,USA: Sportsnet World
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14032.ts
+#EXTINF:-1,USA: TNT HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13180.ts
+#EXTINF:-1,USA: NBC XTRA 5
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14063.ts
+#EXTINF:-1,USA: NBC XTRA 4
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14062.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10143.ts
+#EXTINF:-1,USA: PAC Mountain 1080P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14067.ts
+#EXTINF:-1,USA: PAC Network National 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14068.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14070.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14069.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14072.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14071.ts
+#EXTINF:-1,USA: PAC-12 Net. (Encore)
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14078.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14073.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14075.ts
+#EXTINF:-1,USA: TBN
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9542.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14077.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14076.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14074.ts
+#EXTINF:-1,USA: Star Z Cinema
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9832.ts
+#EXTINF:-1,USA: NBC XTRA 3
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14061.ts
+#EXTINF:-1,USA: NBC XTRA 1
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14064.ts
+#EXTINF:-1,USA: TBS HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8685.ts
+#EXTINF:-1,USA: The Florida Channel
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9495.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9476.ts
+#EXTINF:-1,USA: Tru TV HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9330.ts
+#EXTINF:-1,USA: Twit TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9485.ts
+#EXTINF:-1,USA: USA Network HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9329.ts
+#EXTINF:-1,USA: Willow HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9328.ts
+#EXTINF:-1,USA: WWE
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9530.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8293.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8292.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8291.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8290.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8289.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12547.ts
+#EXTINF:-1,USA: WWE Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8410.ts
+#EXTINF:-1,USA: UALR TV
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3865.ts
+#EXTINF:-1,USA: Versus
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2904.ts
+#EXTINF:-1,USA: Yes Network
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15242.ts
+#EXTINF:-1,USA: Teletoon
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15251.ts
+#EXTINF:-1,USA: WHDH
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9491.ts
+#EXTINF:-1,=======   CINEMA   =======
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/640.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4413.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4414.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4415.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4412.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4371.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4407.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4411.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4409.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4408.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4369.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4410.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4370.ts
