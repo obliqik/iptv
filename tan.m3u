@@ -1,4 +1,105 @@
 #EXTM3U
+#EXTINF:-1,Channel 48:HBO
+http://217.23.4.192:7070/live/bob/bob/442.ts
+#EXTINF:-1,Channel 49:HBO COMEDY
+http://217.23.4.192:7070/live/bob/bob/443.ts
+#EXTINF:-1,Channel 50:HBO SIGNATURE
+http://217.23.4.192:7070/live/bob/bob/444.ts
+#EXTINF:-1,Channel 51:HBO ZONE
+http://217.23.4.192:7070/live/bob/bob/445.ts
+#EXTINF:-1,Channel 52:SHOWTIME
+http://217.23.4.192:7070/live/bob/bob/446.ts
+#EXTINF:-1,Sky Cinema Select
+http://217.23.4.192:7070/live/bob/bob/204.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+http://217.23.4.192:7070/live/bob/bob/205.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://217.23.4.192:7070/live/bob/bob/196.ts
+#EXTINF:-1,Sky Cinema Family
+http://217.23.4.192:7070/live/bob/bob/199.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://217.23.4.192:7070/live/bob/bob/200.ts
+#EXTINF:-1,Sky Cinema Disney
+http://217.23.4.192:7070/live/bob/bob/197.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://217.23.4.192:7070/live/bob/bob/203.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://217.23.4.192:7070/live/bob/bob/201.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://217.23.4.192:7070/live/bob/bob/202.ts
+#EXTINF:-1,USA Network HD
+http://217.23.4.192:7070/live/bob/bob/125.ts
+#EXTINF:-1,Bein Sports USA HD
+http://217.23.4.192:7070/live/bob/bob/130.ts
+#EXTINF:-1,WWE Network HD
+http://217.23.4.192:7070/live/bob/bob/137.ts
+#EXTINF:-1,Channel 01:ESPNEWS
+http://217.23.4.192:7070/live/bob/bob/395.ts
+#EXTINF:-1,Channel 02:ESPN
+http://217.23.4.192:7070/live/bob/bob/396.ts
+#EXTINF:-1,Channel 03:ESPN 2
+http://217.23.4.192:7070/live/bob/bob/397.ts
+#EXTINF:-1,Channel 04:ESPN U
+http://217.23.4.192:7070/live/bob/bob/398.ts
+#EXTINF:-1,Channel 05:FS1
+http://217.23.4.192:7070/live/bob/bob/399.ts
+#EXTINF:-1,Channel 06:FS2
+http://217.23.4.192:7070/live/bob/bob/400.ts
+#EXTINF:-1,Channel 07:NFL NETWORK
+http://217.23.4.192:7070/live/bob/bob/401.ts
+#EXTINF:-1,Channel 08:NBA TV
+http://217.23.4.192:7070/live/bob/bob/402.ts
+#EXTINF:-1,Channel 09:MLB NETWORK
+http://217.23.4.192:7070/live/bob/bob/403.ts
+#EXTINF:-1,Channel 10:NHL NETWORK
+http://217.23.4.192:7070/live/bob/bob/404.ts
+#EXTINF:-1,Channel 11:NBCSN
+http://217.23.4.192:7070/live/bob/bob/405.ts
+#EXTINF:-1,Channel 12
+http://217.23.4.192:7070/live/bob/bob/406.ts
+#EXTINF:-1,Channel 13
+http://217.23.4.192:7070/live/bob/bob/407.ts
+#EXTINF:-1,Channel 14
+http://217.23.4.192:7070/live/bob/bob/408.ts
+#EXTINF:-1,Channel 15
+http://217.23.4.192:7070/live/bob/bob/409.ts
+#EXTINF:-1,Channel 16: WWE Network
+http://217.23.4.192:7070/live/bob/bob/410.ts
+#EXTINF:-1,Channel 19
+http://217.23.4.192:7070/live/bob/bob/413.ts
+#EXTINF:-1,Channel 21
+http://217.23.4.192:7070/live/bob/bob/415.ts
+#EXTINF:-1,Channel 23
+http://217.23.4.192:7070/live/bob/bob/417.ts
+#EXTINF:-1,Channel 34:NBC
+http://217.23.4.192:7070/live/bob/bob/428.ts
+#EXTINF:-1,Channel 39:CNBC
+http://217.23.4.192:7070/live/bob/bob/433.ts
+#EXTINF:-1,Channel 46:COMEDY CENTRAL
+http://217.23.4.192:7070/live/bob/bob/440.ts
+#EXTINF:-1,Channel 47:AMC
+http://217.23.4.192:7070/live/bob/bob/441.ts
+#EXTINF:-1,Channel 53
+http://217.23.4.192:7070/live/bob/bob/447.ts
+#EXTINF:-1,Channel 76
+http://217.23.4.192:7070/live/bob/bob/470.ts
+#EXTINF:-1,Channel 78
+http://217.23.4.192:7070/live/bob/bob/472.ts
+#EXTINF:-1,Channel 79
+http://217.23.4.192:7070/live/bob/bob/473.ts
+#EXTINF:-1,Channel 80
+http://217.23.4.192:7070/live/bob/bob/474.ts
+#EXTINF:-1,Channel 81
+http://217.23.4.192:7070/live/bob/bob/475.ts
+#EXTINF:-1,Channel 82
+http://217.23.4.192:7070/live/bob/bob/476.ts
+#EXTINF:-1,Channel 83
+http://217.23.4.192:7070/live/bob/bob/477.ts
+#EXTINF:-1,Channel 84
+http://217.23.4.192:7070/live/bob/bob/478.ts
+#EXTINF:-1,Channel 92
+http://217.23.4.192:7070/live/bob/bob/486.ts
+
 #EXTINF:-1,USA | HBO HD
 http://164.132.168.74:8000/live/hagen025/h12345hh/3739.ts
 #EXTINF:-1,USA: A&E
