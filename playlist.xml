@@ -1,104 +1,102 @@
 
-<streamingInfos>
- 
-         <item> 
-           <title>HBO Zone</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24888.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-         <item> 
-           <title>HBO Signature</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24887.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>HBO Comedy</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24889.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>HBO</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24886.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>Starz Cinema</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24919.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>Starz East</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24920.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>Starz Edge</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24921.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          
-    <item> 
-     <title>Movie Drama</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2429.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>True Movies</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2430.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Thriller</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2427.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie One</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2422.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie Premier</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2421.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie Sci Fi</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2423.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie Atlantic</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2425.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie Family</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2426.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-     <item> 
-     <title>Movie Action</title>
-           <link>plugin://plugin.video.f4mTester/?url=http://supertv.dynns.com:8000/live/hagen025/h12345hh/2424.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
- <item> 
-           <title>TBS</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24882.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item>          <item> 
-           <title>SYFY</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24890.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-          <item> 
-           <title>Spike</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24907.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-  <item> 
-           <title>FX</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24892.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-   <item> 
-           <title>Bravo</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24901.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-   <item> 
-           <title>BET</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24922.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-   <item> 
-           <title>AE</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24915.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-   <item> 
-           <title>AMC</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/17404.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-   <item> 
-           <title>USA Network</title> 
-           <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/24894.ts&amp;streamtype=TSDOWNLOADER</link> 
-       </item> 
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+<item>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-04-2017 [COLOR lime]****[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>US: WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2730.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2723.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ EDGE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2672.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: Starz Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2673.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: Showtime Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2674.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: Showtime Extreme</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2676.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ShowTime 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2677.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ShowTime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2678.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CINEMAX 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/545.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: Cinemax East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2689.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: Cinemax 5 StarMax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2691.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CBS HD/ NFL Sunday Ticket 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2715.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO SIGNATURE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2711.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2724.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2712.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+</stream>
+
+
+
+
+   
+
+
+
+
