@@ -2,9 +2,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
-
 <item>
-<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-04-2017 [COLOR lime]****[/COLOR]</title>
+<title>US: OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime]****[COLOR cyan] UPDATED ON [COLOR yellow]02-04-2017 [COLOR lime]****[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
@@ -50,11 +54,6 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: OWN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>USA: CINEMAX 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/545.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
@@ -67,11 +66,6 @@
 <item>
 <title>US: Cinemax 5 StarMax</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2691.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>US: CBS HD/ NFL Sunday Ticket 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2715.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
