@@ -3,53 +3,52 @@
 
 <stream>
 <item>
-<title>US: OWN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>[COLOR lime]****[COLOR cyan] UPDATED ON [COLOR yellow]02-04-2017 [COLOR lime]****[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
-
+   <item>
+<title>OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
 <item>
-<title>US: WWE HD</title>
+<title>WWE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2730.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: USA Network HD</title>
+<title>USA Network HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2723.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ EDGE HD</title>
+<title>STARZ EDGE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2672.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Starz Comedy</title>
+<title>Starz Comedy</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2673.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Showtime Showcase</title>
+<title>Showtime Showcase</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2674.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Showtime Extreme</title>
+<title>Showtime Extreme</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2676.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ShowTime 2 HD</title>
+<title>ShowTime 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2677.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ShowTime</title>
+<title>ShowTime</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2678.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
@@ -59,27 +58,27 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Cinemax East</title>
+<title>Cinemax East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2689.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Cinemax 5 StarMax</title>
+<title>Cinemax 5 StarMax</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2691.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO SIGNATURE</title>
+<title>HBO SIGNATURE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2711.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO Family HD</title>
+<title>HBO Family HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2724.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO</title>
+<title>HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2712.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
