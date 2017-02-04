@@ -2,11 +2,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
-<item>
-<title>[COLOR lime]****[COLOR cyan] UPDATED ON [COLOR yellow]02-04-2017 [COLOR lime]****[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
-<thumbnail></thumbnail>
-</item>
    <item>
 <title>OWN HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.92.20:8000/live/chris/chris/2703.ts&amp;streamtype=TSDOWNLOADER</link>
