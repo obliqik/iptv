@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1,USA TSN 2  IPTVultra.com [1280x720]
+http://46.105.115.37:8000/live/iptv1790/179065287/224.ts
+#EXTINF:-1,USA TSN 4  IPTVultra.com [1280x720]
+http://46.105.115.37:8000/live/iptv1790/179065287/225.ts
+#EXTINF:-1,USA TSN 1  IPTVultra.com [1280x720]
+http://46.105.115.37:8000/live/iptv1790/179065287/223.ts
+#EXTINF:-1,USA NBA TV  IPTVultra.com [1280x720]
+http://163.172.80.69:8000/live/zeki/kilic/581.ts
+#EXTINF:-1,USA Fox Sports 1  IPTVultra.com [1280x720]
+http://46.105.115.37:8000/live/iptv1790/179065287/226.ts
+#EXTINF:-1,USA <> CBC  IPTVultra.com [720x576]
+http://46.105.105.235:8000/live/kook/kook/32230.ts
+#EXTINF:-1,USA <> E!  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32259.ts
+#EXTINF:-1,USA <> AMERICAN COUNTRY DISH SD  IPTVultra.com [640x480]
+http://46.105.105.235:8000/live/kook/kook/32131.ts
+#EXTINF:-1,USA <> OLN  IPTVultra.com [720x480]
+http://46.105.105.235:8000/live/kook/kook/32169.ts
+#EXTINF:-1,USA <> Starz Comedy  IPTVultra.com [864x480]
+http://46.105.105.235:8000/live/kook/kook/32162.ts
+#EXTINF:-1,USA <> TMN DRAMA DISH SD  IPTVultra.com [640x480]
+http://46.105.105.235:8000/live/kook/kook/32149.ts
+#EXTINF:-1,USA:USA/Canada<> TSN 2*  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32240.ts
+#EXTINF:-1,USA TNT HD Local  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32270.ts
+#EXTINF:-1,USA:USA/Canada<> Sportsnet 360 HD  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32247.ts
+#EXTINF:-1,USA <> Nat Geo Wild  IPTVultra.com [640x480]
+http://46.105.105.235:8000/live/kook/kook/32175.ts
+#EXTINF:-1,USA <> Insight HD  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32192.ts
+#EXTINF:-1,USA:USA/Canada<> TSN 1 HD  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32239.ts
+#EXTINF:-1,USA <> MAX WEST DISH SD  IPTVultra.com [640x480]
+http://46.105.105.235:8000/live/kook/kook/32144.ts
+#EXTINF:-1,USA:NBA  IPTVultra.com [1280x720]
+http://149.202.95.229:8000/live/fathi_loh/0657/3253.ts
+#EXTINF:-1,USA NICKELODEN HD Local  IPTVultra.com [1280x720]
+http://46.105.105.235:8000/live/kook/kook/32275.ts
+#EXTINF:-1,USA:TNS3  IPTVultra.com [1280x720]
+http://149.202.95.229:8000/live/fathi_loh/0657/3257.ts
+#EXTINF:-1,USA:TNS2  IPTVultra.com [1280x720]
+http://149.202.95.229:8000/live/fathi_loh/0657/3256.ts
+#EXTINF:-1,USA:USA Network  IPTVultra.com [1280x720]
+http://149.202.95.229:8000/live/fathi_loh/0657/3248.ts
+#EXTINF:-1,USA:FoxSports 2 HD  IPTVultra.com [1280x720]
+http://149.202.95.229:8000/live/fathi_loh/0657/3250.ts
+#EXTINF:-1,USA: AFN SPORTS  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9516.ts
+#EXTINF:-1,USA: AFN SPECTRUM  IPTVultra.com [720x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/10166.ts
+#EXTINF:-1,USA: AFN Prime Atlantic  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/10167.ts
+#EXTINF:-1,USA: DTX  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9547.ts
+#EXTINF:-1,USA: Church Channel  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9536.ts
+#EXTINF:-1,USA: Food Network  IPTVultra.com [544x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9337.ts
+#EXTINF:-1,USA: ABC News  IPTVultra.com [640x368]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/2931.ts
+#EXTINF:-1,USA: Bloomberg  IPTVultra.com [960x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9510.ts
+#EXTINF:-1,USA: ABC W HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15244.ts
+#EXTINF:-1,USA: AFN MOVIE  IPTVultra.com [720x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9488.ts
+#EXTINF:-1,USA: Animal Planet  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15250.ts
+#EXTINF:-1,USA:CBS/N  IPTVultra.com [864x480]
+http://149.202.95.229:8000/live/fathi_loh/0657/3240.ts
+#EXTINF:-1,USA: Comedy Central  IPTVultra.com [960x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15249.ts
+#EXTINF:-1,USA: Discovery Science  IPTVultra.com [544x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9546.ts
+#EXTINF:-1,USA: Discovery Channel  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15248.ts
+#EXTINF:-1,USA: AMC HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8415.ts
+#EXTINF:-1,USA: AFN SPORTS 2  IPTVultra.com [720x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9517.ts
+#EXTINF:-1,USA: A&E  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9315.ts
+#EXTINF:-1,USA: Eurosport 1  IPTVultra.com [640x368]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14079.ts
+#EXTINF:-1,USA: FOX Sport 1  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8681.ts
+#EXTINF:-1,USA: ABC Spark HD  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15243.ts
+#EXTINF:-1,USA: Family Junior HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15247.ts
+#EXTINF:-1,USA: CBS DRAMA  IPTVultra.com [544x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9339.ts
+#EXTINF:-1,USA: CNN HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8692.ts
+#EXTINF:-1,USA: ESPN 2  IPTVultra.com [720x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13230.ts
+#EXTINF:-1,USA: Bravo  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8691.ts
+#EXTINF:-1,USA: Channel 11  IPTVultra.com [320x240]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/3860.ts
+#EXTINF:-1,USA: Fight Sport  IPTVultra.com [1024x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8308.ts
+#EXTINF:-1,USA: CBS News HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9508.ts
+#EXTINF:-1,USA: DTX HD  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9475.ts
+#EXTINF:-1,USA: C SPAN  IPTVultra.com [1024x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9318.ts
+#EXTINF:-1,USA: ESPN U HD  IPTVultra.com [960x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13229.ts
+#EXTINF:-1,USA: CBS Reality  IPTVultra.com [640x368]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9338.ts
+#EXTINF:-1,USA: E!  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8417.ts
+#EXTINF:-1,USA: CSPAN 2  IPTVultra.com [1024x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9319.ts
+#EXTINF:-1,USA: C SPAN 3  IPTVultra.com [1024x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9320.ts
+#EXTINF:-1,USA: E! Network HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9321.ts
+#EXTINF:-1,USA: BeIN Sports USA HD  IPTVultra.com [960x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13227.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9519.ts
+#EXTINF:-1,USA: Fox Sport 2  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9391.ts
+#EXTINF:-1,USA: NBA TV  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8309.ts
+#EXTINF:-1,USA: HBO HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8411.ts
+#EXTINF:-1,USA: HBO FAMILY  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8414.ts
+#EXTINF:-1,USA: Fox Sports 506 HD  IPTVultra.com [720x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9528.ts
+#EXTINF:-1,USA: HBO Comedy  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9831.ts
+#EXTINF:-1,USA: MLB Network HD  IPTVultra.com [960x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15239.ts
+#EXTINF:-1,USA: HBO ZONE  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8412.ts
+#EXTINF:-1,USA: LIFE TIME  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8687.ts
+#EXTINF:-1,USA: NBC HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8393.ts
+#EXTINF:-1,USA: History HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15245.ts
+#EXTINF:-1,USA: Fox 43  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/10174.ts
+#EXTINF:-1,USA: NBC SN  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9523.ts
+#EXTINF:-1,USA: Fox Sports Florida  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15241.ts
+#EXTINF:-1,USA: Fox Soccer Plus  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15240.ts
+#EXTINF:-1,USA: Starz  Edge  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/10171.ts
+#EXTINF:-1,USA: CBN News  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/3872.ts
+#EXTINF:-1,USA: TLC HD  IPTVultra.com [544x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9480.ts
+#EXTINF:-1,USA: NHL Network  IPTVultra.com [720x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/12479.ts
+#EXTINF:-1,USA: RT Documentary  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9497.ts
+#EXTINF:-1,USA: RT America HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9498.ts
+#EXTINF:-1,USA: NBCSN Golf HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9526.ts
+#EXTINF:-1,USA: Sportnet  One HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14037.ts
+#EXTINF:-1,USA: Nasa TV HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9499.ts
+#EXTINF:-1,USA: Sportsnet World  IPTVultra.com [960x544]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14032.ts
+#EXTINF:-1,USA: Sporstnet Pacific HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14033.ts
+#EXTINF:-1,USA: NFL Network HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8693.ts
+#EXTINF:-1,USA: Sporstnet East HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14035.ts
+#EXTINF:-1,USA: Spike HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13179.ts
+#EXTINF:-1,USA: Sportsnet West HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13232.ts
+#EXTINF:-1,USA: TNT HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13180.ts
+#EXTINF:-1,USA: PAC 12 Washington HD  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/10143.ts
+#EXTINF:-1,USA: PAC Mountain 1080P  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14067.ts
+#EXTINF:-1,USA: PAC Network National 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14068.ts
+#EXTINF:-1,USA: PAC 12 Net. (Bay Area) 1080P  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14072.ts
+#EXTINF:-1,USA: PAC 12 Net. (Bay Area) 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14071.ts
+#EXTINF:-1,USA: PAC 12 Net. (Arizona) 1080P  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14070.ts
+#EXTINF:-1,USA: PAC 12 Net. (Oregon) 1080P  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14075.ts
+#EXTINF:-1,USA: PAC 12 Net. (Washington) 1080P  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14077.ts
+#EXTINF:-1,USA: PAC 12 Net. (Los Angeles) 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14073.ts
+#EXTINF:-1,USA: PAC 12 Net. (Arizona) 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14069.ts
+#EXTINF:-1,USA: PAC 12 Net. (Washington) 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14076.ts
+#EXTINF:-1,USA: NBC XTRA 1  IPTVultra.com [960x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14064.ts
+#EXTINF:-1,USA: USA Network HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9329.ts
+#EXTINF:-1,USA: TBN  IPTVultra.com [256x144]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9542.ts
+#EXTINF:-1,USA: PAC 12 Net. (Encore)  IPTVultra.com [640x368]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14078.ts
+#EXTINF:-1,USA: TBS HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8685.ts
+#EXTINF:-1,USA: Willow HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9328.ts
+#EXTINF:-1,USA: Tru TV HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9330.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8292.ts
+#EXTINF:-1,USA: PAC 12 Net. (Oregon) 720P  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/14074.ts
+#EXTINF:-1,USA: WWE  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9530.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8291.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8289.ts
+#EXTINF:-1,USA: WWE Network  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8410.ts
+#EXTINF:-1,USA: UALR TV  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/3865.ts
+#EXTINF:-1,USA: Yes Network  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15242.ts
+#EXTINF:-1,USA: Teletoon  IPTVultra.com [1920x1088]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/15251.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9518.ts
+#EXTINF:-1,USA: Mello TV  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9502.ts
+#EXTINF:-1,USA: CBS Action  IPTVultra.com [544x576]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9340.ts
+#EXTINF:-1,USA: Country Music Channel  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/3859.ts
+#EXTINF:-1,USA: Star Z Cinema  IPTVultra.com [864x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9832.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9520.ts
+#EXTINF:-1,USA: Nick  IPTVultra.com [640x480]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/9333.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD  IPTVultra.com [1280x720]
+http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/8290.ts
+#EXTINF:-1,USS Indianapolis: Men of Courage HD (EN)  IPTVultra.com [1920x800]
+http://185.2.83.253:6500/movie/HIjTUOzY7X/B1M1klFCbY/14994.mp4
