@@ -2,6 +2,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
+      
+       <item>
+<title>AE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.92.133:8000/live/brett/brett/2443.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>   
       <item>
 <title>FX HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.92.133:8000/live/brett/brett/2489.ts&amp;streamtype=TSDOWNLOADER</link>
