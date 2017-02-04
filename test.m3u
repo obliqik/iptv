@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1,[USA] Food-Network
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14457.ts
-#EXTINF:-1,[USA] FOX-HD
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14458.ts
-#EXTINF:-1,[USA] FOX-NEWS
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14459.ts
-#EXTINF:-1,[USA] H2
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14460.ts
-#EXTINF:-1,[USA] HALLMARK
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14461.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://pro-iptv.ddns.net:8080/live/12016/12016/5397.ts
+#EXTINF:-1,US: Starz Comedy
+http://pro-iptv.ddns.net:8080/live/12016/12016/5396.ts
+#EXTINF:-1,US: Showtime Showcase
+http://pro-iptv.ddns.net:8080/live/12016/12016/5402.ts
+#EXTINF:-1,US: Showtime Next
+http://pro-iptv.ddns.net:8080/live/12016/12016/5399.ts
+#EXTINF:-1,US: Showtime Extreme
+http://pro-iptv.ddns.net:8080/live/12016/12016/5398.ts
+#EXTINF:-1,US: ShowTime 2 HD
+http://pro-iptv.ddns.net:8080/live/12016/12016/5401.ts
+#EXTINF:-1,US: ShowTime HD
+http://pro-iptv.ddns.net:8080/live/12016/12016/5390.ts
 #EXTINF:-1,[USA] HBO
 http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14462.ts
 #EXTINF:-1,[USA] HBO-COMEDY
