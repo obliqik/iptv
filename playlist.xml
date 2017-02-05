@@ -15,6 +15,247 @@
 
 
 <item>
+<title>ABC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/ABCX/ABCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/AEX/AEX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AMC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/AMCX/AMCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/ANIMALPLANETX/ANIMALPLANETX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BET TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/BETX/BETX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRAVO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/BRAVOX/BRAVOX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CARTOON NETWORK TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/CARTOONNETWORKX/CARTOONNETWORKX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/CBSX/CBSX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNBC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/CNBCX/CNBCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/CNNX/CNNX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>COMEDY CENTRAL TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/COMEDYCENTRALX/COMEDYCENTRALX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CW TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/CWX/CWX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/DISCOVERYX/DISCOVERYX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/ESPNX/ESPNX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX NEWS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/FOXNEWSX/FOXNEWSX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/FXX/FXX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HISTORY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/HISTORYX/HISTORYX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIFE TIME TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/LIFETIMEX/LIFETIMEX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MY 9 TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/MY9X/MY9X.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NATIONAL GEOGRAPHIC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/NATIONALGEOX/NATIONALGEOX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/NBCX/NBCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NICK TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/NICKX/NICKX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PBS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/PBSX/PBSX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SPIKE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/SPIKEX/SPIKEX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SYFY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/SYFYX/SYFYX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TBS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/TBSX/TBSX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TNT TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/TNTX/TNTX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/USATV/USAX/USAX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BEIN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/BEINX/BEINX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/DISNEYX/DISNEYX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>E NETWORK TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/ENETWORKX/ENETWORKX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HG TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/HGTVX/HGTVX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>IDX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/IDX/IDX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/MTV/MTV.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MICKY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/MOVIE/MICKY.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTVX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/MTVX/MTVX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OWN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/OWNX/OWNX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OXYGEN TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/OXYGENX/OXYGENX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN LIVE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/TEST/TEST.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TLC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/TLCX/TLCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TNT TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/TNT/TNT.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TNTX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/TNTX/TNTX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USAX TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/USAX/USAX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VH1 USA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/STREAMLIVED/VH1X/VH1X.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAITI KISKETA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/HAITI/KISKEYA/KISKEYAX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAITI METRO TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/HAITI/METRO/METROX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAITI RTC TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/HAITI/RTC/RTCX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HAITI TELESHALOM TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://167.114.158.48/HAITI/TELESHALOM/TELESHALOMX.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Cinemax West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3374.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
