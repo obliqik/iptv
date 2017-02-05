@@ -9,7 +9,7 @@
 </item>
 <item>
 <title>WJXT News 4 Jax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8&amp;streamtype=TSDOWNLOADER</link>
+<link>http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8</link>
 <thumbnail></thumbnail>
 </item>   
        <item>
