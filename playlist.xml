@@ -2,81 +2,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
+        <item>
+<title>[COLOR lime]*[COLOR dodgerblue] FAV CHANNEL NOT HERE, TEXT ME!!! [COLOR lime]*[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
       <item>
 <title>[COLOR lime]****[COLOR cyan] UPDATE EVERY [COLOR yellow]72HR [COLOR lime]****[/COLOR]</title>
 <link>http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
-      <item>
-<title>[COLOR lime]*[COLOR dodgerblue] FAV CHANNEL NOT HERE, TEXT ME!!! [COLOR lime]*[/COLOR]</title>
-<link>http://www.youtube.com</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3361.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TMN 4 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3362.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TMN 3 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3363.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TMN 2 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3364.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TMN 1 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3365.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3366.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Poker Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3367.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>PAC 12 WD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3369.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>PAC-12 Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3368.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NFL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3370.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NDTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3371.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NBCSN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3372.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3373.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
+
 <item>
 <title>Max West</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3374.ts&amp;streamtype=TSDOWNLOADER</link>
