@@ -79,6 +79,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.92.133:8000/live/brett/brett/1758.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>    
+        
+<item>
 <title>FOX NEWS TV</title>
 <link>http://167.114.158.48/USATV/FOXNEWSX/FOXNEWSX.m3u8</link>
 <thumbnail></thumbnail>
