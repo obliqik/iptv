@@ -1,1064 +1,197 @@
 #EXTM3U
-#EXTINF:-1,ABC TV
-http://167.114.158.48/USATV/ABCX/ABCX.m3u8
-#EXTINF:-1,AE TV
-http://167.114.158.48/USATV/AEX/AEX.m3u8
-#EXTINF:-1,AMC TV
-http://167.114.158.48/USATV/AMCX/AMCX.m3u8
-#EXTINF:-1,ANIMAL PLANET TV
-http://167.114.158.48/USATV/ANIMALPLANETX/ANIMALPLANETX.m3u8
-#EXTINF:-1,BET TV
-http://167.114.158.48/USATV/BETX/BETX.m3u8
-#EXTINF:-1,BRAVO TV
-http://167.114.158.48/USATV/BRAVOX/BRAVOX.m3u8
-#EXTINF:-1,CARTOON NETWORK TV
-http://167.114.158.48/USATV/CARTOONNETWORKX/CARTOONNETWORKX.m3u8
-#EXTINF:-1,CBS TV
-http://167.114.158.48/USATV/CBSX/CBSX.m3u8
-#EXTINF:-1,CNBC TV
-http://167.114.158.48/USATV/CNBCX/CNBCX.m3u8
-#EXTINF:-1,CNN TV
-http://167.114.158.48/USATV/CNNX/CNNX.m3u8
-#EXTINF:-1,COMEDY CENTRAL TV
-http://167.114.158.48/USATV/COMEDYCENTRALX/COMEDYCENTRALX.m3u8
-#EXTINF:-1,CW TV
-http://167.114.158.48/USATV/CWX/CWX.m3u8
-#EXTINF:-1,DISCOVERY TV
-http://167.114.158.48/USATV/DISCOVERYX/DISCOVERYX.m3u8
-#EXTINF:-1,ESPN TV
-http://167.114.158.48/USATV/ESPNX/ESPNX.m3u8
-#EXTINF:-1,FOX NEWS TV
-http://167.114.158.48/USATV/FOXNEWSX/FOXNEWSX.m3u8
-#EXTINF:-1,FX TV
-http://167.114.158.48/USATV/FXX/FXX.m3u8
-#EXTINF:-1,HISTORY TV
-http://167.114.158.48/USATV/HISTORYX/HISTORYX.m3u8
-#EXTINF:-1,LIFE TIME TV
-http://167.114.158.48/USATV/LIFETIMEX/LIFETIMEX.m3u8
-#EXTINF:-1,MY 9 TV
-http://167.114.158.48/USATV/MY9X/MY9X.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC TV
-http://167.114.158.48/USATV/NATIONALGEOX/NATIONALGEOX.m3u8
-#EXTINF:-1,NBC TV
-http://167.114.158.48/USATV/NBCX/NBCX.m3u8
-#EXTINF:-1,NICK TV
-http://167.114.158.48/USATV/NICKX/NICKX.m3u8
-#EXTINF:-1,PBS TV
-http://167.114.158.48/USATV/PBSX/PBSX.m3u8
-#EXTINF:-1,SPIKE TV
-http://167.114.158.48/USATV/SPIKEX/SPIKEX.m3u8
-#EXTINF:-1,SYFY TV
-http://167.114.158.48/USATV/SYFYX/SYFYX.m3u8
-#EXTINF:-1,TBS TV
-http://167.114.158.48/USATV/TBSX/TBSX.m3u8
-#EXTINF:-1,TNT TV
-http://167.114.158.48/USATV/TNTX/TNTX.m3u8
-#EXTINF:-1,USA TV
-http://167.114.158.48/USATV/USAX/USAX.m3u8
-#EXTINF:-1,BEIN TV
-http://167.114.158.48/STREAMLIVED/BEINX/BEINX.m3u8
-#EXTINF:-1,DISNEY TV
-http://167.114.158.48/STREAMLIVED/DISNEYX/DISNEYX.m3u8
-#EXTINF:-1,E NETWORK TV
-http://167.114.158.48/STREAMLIVED/ENETWORKX/ENETWORKX.m3u8
-#EXTINF:-1,HG TV
-http://167.114.158.48/STREAMLIVED/HGTVX/HGTVX.m3u8
-#EXTINF:-1,IDX TV
-http://167.114.158.48/STREAMLIVED/IDX/IDX.m3u8
-#EXTINF:-1,MTV
-http://167.114.158.48/STREAMLIVED/MTV/MTV.m3u8
-#EXTINF:-1,MICKY TV
-http://167.114.158.48/STREAMLIVED/MOVIE/MICKY.m3u8
-#EXTINF:-1,MTVX TV
-http://167.114.158.48/STREAMLIVED/MTVX/MTVX.m3u8
-#EXTINF:-1,OWN TV
-http://167.114.158.48/STREAMLIVED/OWNX/OWNX.m3u8
-#EXTINF:-1,OXYGEN TV
-http://167.114.158.48/STREAMLIVED/OXYGENX/OXYGENX.m3u8
-#EXTINF:-1,CNN LIVE TV
-http://167.114.158.48/STREAMLIVED/TEST/TEST.m3u8
-#EXTINF:-1,TLC TV
-http://167.114.158.48/STREAMLIVED/TLCX/TLCX.m3u8
-#EXTINF:-1,TNT TV
-http://167.114.158.48/STREAMLIVED/TNT/TNT.m3u8
-#EXTINF:-1,TNTX TV
-http://167.114.158.48/STREAMLIVED/TNTX/TNTX.m3u8
-#EXTINF:-1,USAX TV
-http://167.114.158.48/STREAMLIVED/USAX/USAX.m3u8
-#EXTINF:-1,VH1 USA TV
-http://167.114.158.48/STREAMLIVED/VH1X/VH1X.m3u8
-#EXTINF:-1,HAITI KISKETA TV
-http://167.114.158.48/HAITI/KISKEYA/KISKEYAX.m3u8
-#EXTINF:-1,HAITI METRO TV
-http://167.114.158.48/HAITI/METRO/METROX.m3u8
-#EXTINF:-1,HAITI RTC TV
-http://167.114.158.48/HAITI/RTC/RTCX.m3u8
-#EXTINF:-1,HAITI TELESHALOM TV
-http://167.114.158.48/HAITI/TELESHALOM/TELESHALOMX.m3u8
-#EXTINF:-1,HAITI THN TV
-http://167.114.158.48/HAITI/TNH/TNHX.m3u8
-#EXTINF:-1,ESPN HD
-http://176.31.231.205:8000/live/anne/anne/143.ts
-#EXTINF:-1,ESPN 2 HD
-http://176.31.231.205:8000/live/anne/anne/144.ts
-#EXTINF:-1,ESPN U HD
-http://176.31.231.205:8000/live/anne/anne/4064.ts
-#EXTINF:-1,ESPN NEWS HD
-http://176.31.231.205:8000/live/anne/anne/4065.ts
-#EXTINF:-1,FOX SPORTS 1 HD
-http://176.31.231.205:8000/live/anne/anne/145.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://176.31.231.205:8000/live/anne/anne/146.ts
-#EXTINF:-1,NBC SPORTS
-http://176.31.231.205:8000/live/anne/anne/170.ts
-#EXTINF:-1,BIG 10 HD
-http://176.31.231.205:8000/live/anne/anne/3950.ts
-#EXTINF:-1,CBS SPORTS HD
-http://176.31.231.205:8000/live/anne/anne/169.ts
-#EXTINF:-1,SPORTSNET WORLD HD
-http://176.31.231.205:8000/live/anne/anne/150.ts
-#EXTINF:-1,SPORTSNET ONT HD
-http://176.31.231.205:8000/live/anne/anne/148.ts
-#EXTINF:-1,SPORTSNET ONE HD
-http://176.31.231.205:8000/live/anne/anne/149.ts
-#EXTINF:-1,SPORTSNET 360 HD
-http://176.31.231.205:8000/live/anne/anne/147.ts
-#EXTINF:-1,SPORTSNET PACIFIC HD
-http://176.31.231.205:8000/live/anne/anne/2434.ts
-#EXTINF:-1,TENNIS HD
-http://176.31.231.205:8000/live/anne/anne/167.ts
-#EXTINF:-1,GOLF HD
-http://176.31.231.205:8000/live/anne/anne/166.ts
-#EXTINF:-1,WWE HD
-http://176.31.231.205:8000/live/anne/anne/168.ts
-#EXTINF:-1,TSN 1 HD
-http://176.31.231.205:8000/live/anne/anne/138.ts
-#EXTINF:-1,TSN 2 HD
-http://176.31.231.205:8000/live/anne/anne/139.ts
-#EXTINF:-1,TSN 3 HD
-http://176.31.231.205:8000/live/anne/anne/140.ts
-#EXTINF:-1,TSN 4 HD
-http://176.31.231.205:8000/live/anne/anne/141.ts
-#EXTINF:-1,TSN 5 HD
-http://176.31.231.205:8000/live/anne/anne/142.ts
-#EXTINF:-1,WILLOW CRICKET HD
-http://176.31.231.205:8000/live/anne/anne/198.ts
-#EXTINF:-1,OSN CRICKET
-http://176.31.231.205:8000/live/anne/anne/4186.ts
-#EXTINF:-1,TEN CRICKET HD
-http://176.31.231.205:8000/live/anne/anne/197.ts
-#EXTINF:-1,TEN 1
-http://176.31.231.205:8000/live/anne/anne/4193.ts
-#EXTINF:-1,TEN 2
-http://176.31.231.205:8000/live/anne/anne/4194.ts
-#EXTINF:-1,TEN 3
-http://176.31.231.205:8000/live/anne/anne/4195.ts
-#EXTINF:-1,NEO SPORTS
-http://176.31.231.205:8000/live/anne/anne/4192.ts
-#EXTINF:-1,NHL NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/156.ts
-#EXTINF:-1,NHL CENTER ICE 1
-http://176.31.231.205:8000/live/anne/anne/159.ts
-#EXTINF:-1,NHL CENTER ICE 2
-http://176.31.231.205:8000/live/anne/anne/160.ts
-#EXTINF:-1,NHL CENTER ICE 3
-http://176.31.231.205:8000/live/anne/anne/161.ts
-#EXTINF:-1,NHL CENTER ICE 4
-http://176.31.231.205:8000/live/anne/anne/162.ts
-#EXTINF:-1,NHL CENTER ICE 5
-http://176.31.231.205:8000/live/anne/anne/163.ts
-#EXTINF:-1,NHL CENTER ICE 6
-http://176.31.231.205:8000/live/anne/anne/164.ts
-#EXTINF:-1,NFL RED ZONE HD - NEW
-http://176.31.231.205:8000/live/anne/anne/3949.ts
-#EXTINF:-1,NFL NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/157.ts
-#EXTINF:-1,NFL SUNDAY TICKET 1
-http://176.31.231.205:8000/live/anne/anne/3168.ts
-#EXTINF:-1,NFL SUNDAY TICKET 2
-http://176.31.231.205:8000/live/anne/anne/3169.ts
-#EXTINF:-1,NFL SUNDAY TICKET 3
-http://176.31.231.205:8000/live/anne/anne/3170.ts
-#EXTINF:-1,NFL SUNDAY TICKET 4
-http://176.31.231.205:8000/live/anne/anne/3171.ts
-#EXTINF:-1,NFL SUNDAY TICKET 5
-http://176.31.231.205:8000/live/anne/anne/3172.ts
-#EXTINF:-1,NFL SUNDAY TICKET 6
-http://176.31.231.205:8000/live/anne/anne/3173.ts
-#EXTINF:-1,NFL SUNDAY TICKET 7
-http://176.31.231.205:8000/live/anne/anne/3174.ts
-#EXTINF:-1,NFL SUNDAY TICKET 8
-http://176.31.231.205:8000/live/anne/anne/3175.ts
-#EXTINF:-1,NFL SUNDAY TICKET 9
-http://176.31.231.205:8000/live/anne/anne/3176.ts
-#EXTINF:-1,NFL SUNDAY TICKET 10
-http://176.31.231.205:8000/live/anne/anne/3177.ts
-#EXTINF:-1,NFL SUNDAY TICKET 11
-http://176.31.231.205:8000/live/anne/anne/3178.ts
-#EXTINF:-1,NFL SUNDAY TICKET 12
-http://176.31.231.205:8000/live/anne/anne/3179.ts
-#EXTINF:-1,NBA HD
-http://176.31.231.205:8000/live/anne/anne/165.ts
-#EXTINF:-1,NBA LEAGUE PASS 1
-http://176.31.231.205:8000/live/anne/anne/2190.ts
-#EXTINF:-1,NBA LEAGUE PASS 2
-http://176.31.231.205:8000/live/anne/anne/2191.ts
-#EXTINF:-1,NBA LEAGUE PASS 3
-http://176.31.231.205:8000/live/anne/anne/2192.ts
-#EXTINF:-1,NBA LEAGUE PASS 4
-http://176.31.231.205:8000/live/anne/anne/2193.ts
-#EXTINF:-1,NBA LEAGUE PASS 5
-http://176.31.231.205:8000/live/anne/anne/2194.ts
-#EXTINF:-1,NBA LEAGUE PASS 6
-http://176.31.231.205:8000/live/anne/anne/2195.ts
-#EXTINF:-1,SKY RACING HD (UK)
-http://176.31.231.205:8000/live/anne/anne/220.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://176.31.231.205:8000/live/anne/anne/204.ts
-#EXTINF:-1,SKY SPORTS 2 HD
-http://176.31.231.205:8000/live/anne/anne/205.ts
-#EXTINF:-1,SKY SPORTS 3 HD
-http://176.31.231.205:8000/live/anne/anne/206.ts
-#EXTINF:-1,SKY SPORTS 4 HD
-http://176.31.231.205:8000/live/anne/anne/207.ts
-#EXTINF:-1,SKY SPORTS 5 HD
-http://176.31.231.205:8000/live/anne/anne/208.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://176.31.231.205:8000/live/anne/anne/210.ts
-#EXTINF:-1,SKY SPORTS NEWS
-http://176.31.231.205:8000/live/anne/anne/203.ts
-#EXTINF:-1,SONY ESPN
-http://176.31.231.205:8000/live/anne/anne/4191.ts
-#EXTINF:-1,SONY SIX HD
-http://176.31.231.205:8000/live/anne/anne/193.ts
-#EXTINF:-1,STAR SPORTS 1 HD
-http://176.31.231.205:8000/live/anne/anne/199.ts
-#EXTINF:-1,STAR SPORTS 2 HD
-http://176.31.231.205:8000/live/anne/anne/200.ts
-#EXTINF:-1,STAR SPORTS 3 HD
-http://176.31.231.205:8000/live/anne/anne/201.ts
-#EXTINF:-1,STAR SPORTS 4 HD
-http://176.31.231.205:8000/live/anne/anne/202.ts
-#EXTINF:-1,STAR SPORTS SELECT HD
-http://176.31.231.205:8000/live/anne/anne/4196.ts
-#EXTINF:-1,EURO SPORT 1 HD
-http://176.31.231.205:8000/live/anne/anne/211.ts
-#EXTINF:-1,EURO SPORT 2 HD
-http://176.31.231.205:8000/live/anne/anne/212.ts
-#EXTINF:-1,MOTO GP
-http://176.31.231.205:8000/live/anne/anne/227.ts
-#EXTINF:-1,BT SPORTS EUROPE
-http://176.31.231.205:8000/live/anne/anne/232.ts
-#EXTINF:-1,BT SPORTS ESPN
-http://176.31.231.205:8000/live/anne/anne/233.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://176.31.231.205:8000/live/anne/anne/225.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://176.31.231.205:8000/live/anne/anne/226.ts
-#EXTINF:-1,HUNTING CHANNEL
-http://176.31.231.205:8000/live/anne/anne/4100.ts
-#EXTINF:-1,LFC TV HD
-http://176.31.231.205:8000/live/anne/anne/221.ts
-#EXTINF:-1,BEIN SPORTS HD
-http://176.31.231.205:8000/live/anne/anne/171.ts
-#EXTINF:-1,SKY BOX NATION
-http://176.31.231.205:8000/live/anne/anne/209.ts
-#EXTINF:-1,SETANTA SPORTS HD
-http://176.31.231.205:8000/live/anne/anne/234.ts
-#EXTINF:-1,PRIME TV
-http://176.31.231.205:8000/live/anne/anne/196.ts
-#EXTINF:-1,PREMIER SPORTS
-http://176.31.231.205:8000/live/anne/anne/194.ts
-#EXTINF:-1,TYC SPORTS (ES)
-http://176.31.231.205:8000/live/anne/anne/240.ts
-#EXTINF:-1,Polsat Sport NEWS (POLAND)
-http://176.31.231.205:8000/live/anne/anne/242.ts
-#EXTINF:-1,GOL TV (ES)
-http://176.31.231.205:8000/live/anne/anne/235.ts
-#EXTINF:-1,FOX DEPORTES (ES)
-http://176.31.231.205:8000/live/anne/anne/237.ts
-#EXTINF:-1,ESPN DEPORTES (ES)
-http://176.31.231.205:8000/live/anne/anne/238.ts
-#EXTINF:-1,BEIN DEPORTES HD (ES)
-http://176.31.231.205:8000/live/anne/anne/236.ts
-#EXTINF:-1,USA NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/312.ts
-#EXTINF:-1,TV LAND HD
-http://176.31.231.205:8000/live/anne/anne/313.ts
-#EXTINF:-1,TNT HD
-http://176.31.231.205:8000/live/anne/anne/341.ts
-#EXTINF:-1,TLC HD
-http://176.31.231.205:8000/live/anne/anne/328.ts
-#EXTINF:-1,TBS HD
-http://176.31.231.205:8000/live/anne/anne/317.ts
-#EXTINF:-1,SYFY HD
-http://176.31.231.205:8000/live/anne/anne/339.ts
-#EXTINF:-1,FX HD
-http://176.31.231.205:8000/live/anne/anne/314.ts
-#EXTINF:-1,FXX HD
-http://176.31.231.205:8000/live/anne/anne/315.ts
-#EXTINF:-1,FOOD HD
-http://176.31.231.205:8000/live/anne/anne/333.ts
-#EXTINF:-1,E! HD
-http://176.31.231.205:8000/live/anne/anne/338.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://176.31.231.205:8000/live/anne/anne/332.ts
-#EXTINF:-1,MTV HD
-http://176.31.231.205:8000/live/anne/anne/350.ts
-#EXTINF:-1,LIFE HD
-http://176.31.231.205:8000/live/anne/anne/325.ts
-#EXTINF:-1,LIFETIME MOVIES HD
-http://176.31.231.205:8000/live/anne/anne/326.ts
-#EXTINF:-1,IFC HD
-http://176.31.231.205:8000/live/anne/anne/327.ts
-#EXTINF:-1,ID HD
-http://176.31.231.205:8000/live/anne/anne/324.ts
-#EXTINF:-1,HISTORY HD
-http://176.31.231.205:8000/live/anne/anne/322.ts
-#EXTINF:-1,NAT GEO HD
-http://176.31.231.205:8000/live/anne/anne/330.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://176.31.231.205:8000/live/anne/anne/331.ts
-#EXTINF:-1,SMITHSONIAN HD
-http://176.31.231.205:8000/live/anne/anne/3951.ts
-#EXTINF:-1,HGTV HD
-http://176.31.231.205:8000/live/anne/anne/335.ts
-#EXTINF:-1,BRAVO HD
-http://176.31.231.205:8000/live/anne/anne/353.ts
-#EXTINF:-1,AMC HD
-http://176.31.231.205:8000/live/anne/anne/334.ts
-#EXTINF:-1,A&E HD
-http://176.31.231.205:8000/live/anne/anne/347.ts
-#EXTINF:-1,PBS HD
-http://176.31.231.205:8000/live/anne/anne/356.ts
-#EXTINF:-1,HALLMARK HD
-http://176.31.231.205:8000/live/anne/anne/321.ts
-#EXTINF:-1,DIY HD
-http://176.31.231.205:8000/live/anne/anne/329.ts
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://176.31.231.205:8000/live/anne/anne/320.ts
-#EXTINF:-1,DISCOVERY HD
-http://176.31.231.205:8000/live/anne/anne/319.ts
-#EXTINF:-1,DISCOVERY FAMILY
-http://176.31.231.205:8000/live/anne/anne/336.ts
-#EXTINF:-1,LOVE NATURE HD
-http://176.31.231.205:8000/live/anne/anne/1258.ts
-#EXTINF:-1,COMEDY NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/316.ts
-#EXTINF:-1,BET HD
-http://176.31.231.205:8000/live/anne/anne/351.ts
-#EXTINF:-1,BBC AMERICA HD
-http://176.31.231.205:8000/live/anne/anne/357.ts
-#EXTINF:-1,SHOWCASE HD
-http://176.31.231.205:8000/live/anne/anne/346.ts
-#EXTINF:-1,PEACHTREE HD
-http://176.31.231.205:8000/live/anne/anne/337.ts
-#EXTINF:-1,OWN HD
-http://176.31.231.205:8000/live/anne/anne/348.ts
-#EXTINF:-1,SPIKE HD
-http://176.31.231.205:8000/live/anne/anne/318.ts
-#EXTINF:-1,SLICE HD
-http://176.31.231.205:8000/live/anne/anne/343.ts
-#EXTINF:-1,TRU TV HD
-http://176.31.231.205:8000/live/anne/anne/340.ts
-#EXTINF:-1,TRAVEL HD
-http://176.31.231.205:8000/live/anne/anne/349.ts
-#EXTINF:-1,WE TV HD
-http://176.31.231.205:8000/live/anne/anne/342.ts
-#EXTINF:-1,W NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/344.ts
-#EXTINF:-1,VICELAND HD
-http://176.31.231.205:8000/live/anne/anne/323.ts
-#EXTINF:-1,VH1 HD
-http://176.31.231.205:8000/live/anne/anne/354.ts
-#EXTINF:-1,M20 MUSIC CHANNEL
-http://176.31.231.205:8000/live/anne/anne/4140.ts
-#EXTINF:-1,VELOCITY HD
-http://176.31.231.205:8000/live/anne/anne/367.ts
-#EXTINF:-1,NBC HD EAST
-http://176.31.231.205:8000/live/anne/anne/7.ts
-#EXTINF:-1,ABC HD EAST
-http://176.31.231.205:8000/live/anne/anne/10.ts
-#EXTINF:-1,CBS HD EAST
-http://176.31.231.205:8000/live/anne/anne/8.ts
-#EXTINF:-1,FOX HD EAST
-http://176.31.231.205:8000/live/anne/anne/9.ts
-#EXTINF:-1,CW11 HD
-http://176.31.231.205:8000/live/anne/anne/359.ts
-#EXTINF:-1,GLOBAL EAST HD
-http://176.31.231.205:8000/live/anne/anne/15.ts
-#EXTINF:-1,CTV NORTH
-http://176.31.231.205:8000/live/anne/anne/17.ts
-#EXTINF:-1,CTV EAST HD
-http://176.31.231.205:8000/live/anne/anne/16.ts
-#EXTINF:-1,CP24 HD
-http://176.31.231.205:8000/live/anne/anne/11.ts
-#EXTINF:-1,CITY TV HD
-http://176.31.231.205:8000/live/anne/anne/14.ts
-#EXTINF:-1,CHCH HD
-http://176.31.231.205:8000/live/anne/anne/358.ts
-#EXTINF:-1,CBC EAST HD
-http://176.31.231.205:8000/live/anne/anne/18.ts
-#EXTINF:-1,GLOBAL HD (MTL)
-http://176.31.231.205:8000/live/anne/anne/2397.ts
-#EXTINF:-1,CTV HD (MTL)
-http://176.31.231.205:8000/live/anne/anne/2398.ts
-#EXTINF:-1,VISION
-http://176.31.231.205:8000/live/anne/anne/355.ts
-#EXTINF:-1,OMNI 1 HD
-http://176.31.231.205:8000/live/anne/anne/12.ts
-#EXTINF:-1,OMNI 2 HD
-http://176.31.231.205:8000/live/anne/anne/13.ts
-#EXTINF:-1,NBC HD WEST
-http://176.31.231.205:8000/live/anne/anne/303.ts
-#EXTINF:-1,ABC HD WEST
-http://176.31.231.205:8000/live/anne/anne/306.ts
-#EXTINF:-1,CBS HD WEST
-http://176.31.231.205:8000/live/anne/anne/304.ts
-#EXTINF:-1,FOX HD WEST
-http://176.31.231.205:8000/live/anne/anne/305.ts
-#EXTINF:-1,CW11 HD WEST
-http://176.31.231.205:8000/live/anne/anne/2421.ts
-#EXTINF:-1,BC1 HD
-http://176.31.231.205:8000/live/anne/anne/307.ts
-#EXTINF:-1,GLOBAL BC HD
-http://176.31.231.205:8000/live/anne/anne/308.ts
-#EXTINF:-1,CTV VANCOUVER HD
-http://176.31.231.205:8000/live/anne/anne/310.ts
-#EXTINF:-1,CTV 2 VANCOUVER HD
-http://176.31.231.205:8000/live/anne/anne/2418.ts
-#EXTINF:-1,CITY VANCOUVER HD
-http://176.31.231.205:8000/live/anne/anne/311.ts
-#EXTINF:-1,CHEK VANCOUVER HD
-http://176.31.231.205:8000/live/anne/anne/2419.ts
-#EXTINF:-1,CBC VANCOUVER HD
-http://176.31.231.205:8000/live/anne/anne/309.ts
-#EXTINF:-1,CBC HALIFAX
-http://176.31.231.205:8000/live/anne/anne/4075.ts
-#EXTINF:-1,CTV HALIFAX
-http://176.31.231.205:8000/live/anne/anne/4074.ts
-#EXTINF:-1,CITY WINNIPEG HD
-http://176.31.231.205:8000/live/anne/anne/4070.ts
-#EXTINF:-1,CTV WINNIPEG HD
-http://176.31.231.205:8000/live/anne/anne/4069.ts
-#EXTINF:-1,CTV EDMONTON HD
-http://176.31.231.205:8000/live/anne/anne/4073.ts
-#EXTINF:-1,CITY EDMONTON HD
-http://176.31.231.205:8000/live/anne/anne/4072.ts
-#EXTINF:-1,BOUNCE HD
-http://176.31.231.205:8000/live/anne/anne/352.ts
-#EXTINF:-1,CEEN TV
-http://176.31.231.205:8000/live/anne/anne/389.ts
-#EXTINF:-1,WIN TV HD
-http://176.31.231.205:8000/live/anne/anne/388.ts
-#EXTINF:-1,CNN HD
-http://176.31.231.205:8000/live/anne/anne/360.ts
-#EXTINF:-1,HLN HD
-http://176.31.231.205:8000/live/anne/anne/362.ts
-#EXTINF:-1,FOX NEWS HD
-http://176.31.231.205:8000/live/anne/anne/363.ts
-#EXTINF:-1,BNN HD
-http://176.31.231.205:8000/live/anne/anne/366.ts
-#EXTINF:-1,BLOOMBERG
-http://176.31.231.205:8000/live/anne/anne/1662.ts
-#EXTINF:-1,CNBC HD
-http://176.31.231.205:8000/live/anne/anne/364.ts
-#EXTINF:-1,CTV NEWS NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/2423.ts
-#EXTINF:-1,CBS NEWS HD
-http://176.31.231.205:8000/live/anne/anne/3078.ts
-#EXTINF:-1,ABC NEWS HD
-http://176.31.231.205:8000/live/anne/anne/3077.ts
-#EXTINF:-1,CCTV NEWS
-http://176.31.231.205:8000/live/anne/anne/3965.ts
-#EXTINF:-1,MSNBC HD
-http://176.31.231.205:8000/live/anne/anne/365.ts
-#EXTINF:-1,CBC NEWS HD
-http://176.31.231.205:8000/live/anne/anne/361.ts
-#EXTINF:-1,ALJAZEERA ENGLISH
-http://176.31.231.205:8000/live/anne/anne/1661.ts
-#EXTINF:-1,RT NEWS ENGLISH
-http://176.31.231.205:8000/live/anne/anne/512.ts
-#EXTINF:-1,SKY RT NOW
-http://176.31.231.205:8000/live/anne/anne/1717.ts
-#EXTINF:-1,RT DOCUMENTARY
-http://176.31.231.205:8000/live/anne/anne/3075.ts
-#EXTINF:-1,SKY FOX NEWS
-http://176.31.231.205:8000/live/anne/anne/1752.ts
-#EXTINF:-1,WEATHER USA HD
-http://176.31.231.205:8000/live/anne/anne/3080.ts
-#EXTINF:-1,WEATHER CANADA HD
-http://176.31.231.205:8000/live/anne/anne/3079.ts
-#EXTINF:-1,HSN
-http://176.31.231.205:8000/live/anne/anne/3081.ts
-#EXTINF:-1,HSN 2
-http://176.31.231.205:8000/live/anne/anne/3082.ts
-#EXTINF:-1,YTV HD (NA)
-http://176.31.231.205:8000/live/anne/anne/390.ts
-#EXTINF:-1,TVO HD (NA)
-http://176.31.231.205:8000/live/anne/anne/391.ts
-#EXTINF:-1,TREEHOUSE HD
-http://176.31.231.205:8000/live/anne/anne/393.ts
-#EXTINF:-1,TELETOON HD
-http://176.31.231.205:8000/live/anne/anne/2422.ts
-#EXTINF:-1,NICKELODEON HD
-http://176.31.231.205:8000/live/anne/anne/394.ts
-#EXTINF:-1,FAMILY HD
-http://176.31.231.205:8000/live/anne/anne/396.ts
-#EXTINF:-1,DISNEY XD HD
-http://176.31.231.205:8000/live/anne/anne/397.ts
-#EXTINF:-1,DISNEY HD EAST
-http://176.31.231.205:8000/live/anne/anne/392.ts
-#EXTINF:-1,ABC SPARK HD
-http://176.31.231.205:8000/live/anne/anne/4063.ts
-#EXTINF:-1,FAMILY CHRGED HD
-http://176.31.231.205:8000/live/anne/anne/4068.ts
-#EXTINF:-1,FAMILY JR HD
-http://176.31.231.205:8000/live/anne/anne/4067.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://176.31.231.205:8000/live/anne/anne/395.ts
-#EXTINF:-1,SKY NICKTOONS
-http://176.31.231.205:8000/live/anne/anne/1729.ts
-#EXTINF:-1,SKY NICK JR TOO
-http://176.31.231.205:8000/live/anne/anne/1744.ts
-#EXTINF:-1,SKY NICK JR
-http://176.31.231.205:8000/live/anne/anne/1716.ts
-#EXTINF:-1,SKY NICK
-http://176.31.231.205:8000/live/anne/anne/1715.ts
-#EXTINF:-1,SKY DISNEY XD
-http://176.31.231.205:8000/live/anne/anne/1747.ts
-#EXTINF:-1,SKY DISNEY JR
-http://176.31.231.205:8000/live/anne/anne/1746.ts
-#EXTINF:-1,SKY DISNEY
-http://176.31.231.205:8000/live/anne/anne/1745.ts
-#EXTINF:-1,SKY CARTOON NETWORK
-http://176.31.231.205:8000/live/anne/anne/1773.ts
-#EXTINF:-1,HIFI HD
-http://176.31.231.205:8000/live/anne/anne/345.ts
-#EXTINF:-1,TCM HD
-http://176.31.231.205:8000/live/anne/anne/368.ts
-#EXTINF:-1,MOVIE TIME HD
-http://176.31.231.205:8000/live/anne/anne/369.ts
-#EXTINF:-1,ACTION HD
-http://176.31.231.205:8000/live/anne/anne/370.ts
-#EXTINF:-1,HBO EAST HD
-http://176.31.231.205:8000/live/anne/anne/371.ts
-#EXTINF:-1,HBO COMEDY HD
-http://176.31.231.205:8000/live/anne/anne/373.ts
-#EXTINF:-1,HBO SIGNATURE HD
-http://176.31.231.205:8000/live/anne/anne/372.ts
-#EXTINF:-1,STARZ HD
-http://176.31.231.205:8000/live/anne/anne/374.ts
-#EXTINF:-1,STARZ EDGE HD
-http://176.31.231.205:8000/live/anne/anne/377.ts
-#EXTINF:-1,STARZ KIDZ HD
-http://176.31.231.205:8000/live/anne/anne/375.ts
-#EXTINF:-1,STARZ COMEDY HD
-http://176.31.231.205:8000/live/anne/anne/376.ts
-#EXTINF:-1,STARZ BLACK HD
-http://176.31.231.205:8000/live/anne/anne/378.ts
-#EXTINF:-1,ENCORE WESTERN HD
-http://176.31.231.205:8000/live/anne/anne/379.ts
-#EXTINF:-1,THRILLER MAX HD
-http://176.31.231.205:8000/live/anne/anne/384.ts
-#EXTINF:-1,MOREMAX HD
-http://176.31.231.205:8000/live/anne/anne/381.ts
-#EXTINF:-1,CINEMAX EAST HD
-http://176.31.231.205:8000/live/anne/anne/380.ts
-#EXTINF:-1,ACTION MAX HD
-http://176.31.231.205:8000/live/anne/anne/383.ts
-#EXTINF:-1,5STAR MAX HD
-http://176.31.231.205:8000/live/anne/anne/382.ts
-#EXTINF:-1,TMC EAST HD
-http://176.31.231.205:8000/live/anne/anne/387.ts
-#EXTINF:-1,SHOWTIME EAST
-http://176.31.231.205:8000/live/anne/anne/385.ts
-#EXTINF:-1,SHOWTIME SHOWCASE HD
-http://176.31.231.205:8000/live/anne/anne/386.ts
-#EXTINF:-1,SKY WATCH
-http://176.31.231.205:8000/live/anne/anne/1776.ts
-#EXTINF:-1,SKY V CHANNEL
-http://176.31.231.205:8000/live/anne/anne/1727.ts
-#EXTINF:-1,SKY NEWS IRELAND
-http://176.31.231.205:8000/live/anne/anne/1759.ts
-#EXTINF:-1,SKY TRU TV
-http://176.31.231.205:8000/live/anne/anne/1723.ts
-#EXTINF:-1,SKY TLC IRELAND
-http://176.31.231.205:8000/live/anne/anne/1770.ts
-#EXTINF:-1,SKY TLC
-http://176.31.231.205:8000/live/anne/anne/1790.ts
-#EXTINF:-1,SKY TBN
-http://176.31.231.205:8000/live/anne/anne/1722.ts
-#EXTINF:-1,SKY TCM
-http://176.31.231.205:8000/live/anne/anne/1785.ts
-#EXTINF:-1,SKY SONY MOVIE
-http://176.31.231.205:8000/live/anne/anne/1772.ts
-#EXTINF:-1,SKY SONY CHANNEL
-http://176.31.231.205:8000/live/anne/anne/2179.ts
-#EXTINF:-1,SKY MOVIES SHOWCASE
-http://176.31.231.205:8000/live/anne/anne/1742.ts
-#EXTINF:-1,SKY MOVIES SELECT
-http://176.31.231.205:8000/live/anne/anne/1734.ts
-#EXTINF:-1,SKY MOVIES SCI-FI & HORROR
-http://176.31.231.205:8000/live/anne/anne/1781.ts
-#EXTINF:-1,SKY MOVIES ROBOTS
-http://176.31.231.205:8000/live/anne/anne/1782.ts
-#EXTINF:-1,SKY MOVIES PREMIERE
-http://176.31.231.205:8000/live/anne/anne/1733.ts
-#EXTINF:-1,SKY MOVIES GREATS
-http://176.31.231.205:8000/live/anne/anne/1780.ts
-#EXTINF:-1,SKY MOVIES FAMILY
-http://176.31.231.205:8000/live/anne/anne/1736.ts
-#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
-http://176.31.231.205:8000/live/anne/anne/1779.ts
-#EXTINF:-1,SKY MOVIES DISNEY
-http://176.31.231.205:8000/live/anne/anne/1743.ts
-#EXTINF:-1,SKY MOVIES CRIME & THRILLER
-http://176.31.231.205:8000/live/anne/anne/1735.ts
-#EXTINF:-1,SKY MOVIES COMEDY
-http://176.31.231.205:8000/live/anne/anne/1737.ts
-#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
-http://176.31.231.205:8000/live/anne/anne/1738.ts
-#EXTINF:-1,SKY MOVIES 4 MEN
-http://176.31.231.205:8000/live/anne/anne/1771.ts
-#EXTINF:-1,SKY REAL LIVES
-http://176.31.231.205:8000/live/anne/anne/1757.ts
-#EXTINF:-1,SKY QUEST
-http://176.31.231.205:8000/live/anne/anne/1768.ts
-#EXTINF:-1,SKY NAT GEO WILD
-http://176.31.231.205:8000/live/anne/anne/1756.ts
-#EXTINF:-1,SKY NAT GEO
-http://176.31.231.205:8000/live/anne/anne/1755.ts
-#EXTINF:-1,SKY MUTV
-http://176.31.231.205:8000/live/anne/anne/228.ts
-#EXTINF:-1,SKY MOTORS TV UK
-http://176.31.231.205:8000/live/anne/anne/1777.ts
-#EXTINF:-1,SKY MADE IN TN
-http://176.31.231.205:8000/live/anne/anne/1728.ts
-#EXTINF:-1,SKY LIVING
-http://176.31.231.205:8000/live/anne/anne/1739.ts
-#EXTINF:-1,SKY INVESTIGATION DISCOVERY
-http://176.31.231.205:8000/live/anne/anne/1763.ts
-#EXTINF:-1,SKY INSPIRATION
-http://176.31.231.205:8000/live/anne/anne/1778.ts
-#EXTINF:-1,SKY HOME HEALTH
-http://176.31.231.205:8000/live/anne/anne/1769.ts
-#EXTINF:-1,SKY HOME
-http://176.31.231.205:8000/live/anne/anne/1718.ts
-#EXTINF:-1,SKY HISTORY
-http://176.31.231.205:8000/live/anne/anne/1758.ts
-#EXTINF:-1,SKY HISTORY 1
-http://176.31.231.205:8000/live/anne/anne/1753.ts
-#EXTINF:-1,SKY HISTORY 2
-http://176.31.231.205:8000/live/anne/anne/1754.ts
-#EXTINF:-1,SKY GOOD FOOD
-http://176.31.231.205:8000/live/anne/anne/1787.ts
-#EXTINF:-1,SKY FOX
-http://176.31.231.205:8000/live/anne/anne/1741.ts
-#EXTINF:-1,SKY FOOD NETWORK
-http://176.31.231.205:8000/live/anne/anne/1788.ts
-#EXTINF:-1,SKY EWTN
-http://176.31.231.205:8000/live/anne/anne/1720.ts
-#EXTINF:-1,SKY EDEN
-http://176.31.231.205:8000/live/anne/anne/1789.ts
-#EXTINF:-1,SKY DRAMA
-http://176.31.231.205:8000/live/anne/anne/1725.ts
-#EXTINF:-1,SKY DMAX
-http://176.31.231.205:8000/live/anne/anne/1762.ts
-#EXTINF:-1,SKY DISCOVERY TURBO
-http://176.31.231.205:8000/live/anne/anne/1767.ts
-#EXTINF:-1,SKY DISCOVERY SHED
-http://176.31.231.205:8000/live/anne/anne/1761.ts
-#EXTINF:-1,SKY DISCOVERY SCIENCE
-http://176.31.231.205:8000/live/anne/anne/1766.ts
-#EXTINF:-1,SKY DISCOVERY HISTORY
-http://176.31.231.205:8000/live/anne/anne/1765.ts
-#EXTINF:-1,SKY DISCOVERY
-http://176.31.231.205:8000/live/anne/anne/1764.ts
-#EXTINF:-1,SKY DAYSTAR
-http://176.31.231.205:8000/live/anne/anne/1726.ts
-#EXTINF:-1,SKY DAVE
-http://176.31.231.205:8000/live/anne/anne/1775.ts
-#EXTINF:-1,SKY CRIME & INVESTIGATION
-http://176.31.231.205:8000/live/anne/anne/1751.ts
-#EXTINF:-1,SKY COMEDY XTRA
-http://176.31.231.205:8000/live/anne/anne/1732.ts
-#EXTINF:-1,SKY COMEDY CENTRAL 1
-http://176.31.231.205:8000/live/anne/anne/1731.ts
-#EXTINF:-1,SKY COMEDY CENTRAL
-http://176.31.231.205:8000/live/anne/anne/1748.ts
-#EXTINF:-1,SKY BOX OFFICE
-http://176.31.231.205:8000/live/anne/anne/1786.ts
-#EXTINF:-1,SKY BET
-http://176.31.231.205:8000/live/anne/anne/1730.ts
-#EXTINF:-1,Channel 49:HBO COMEDY
-http://217.23.4.192:7070/live/bob/bob/443.ts
-#EXTINF:-1,Channel 50:HBO SIGNATURE
-http://217.23.4.192:7070/live/bob/bob/444.ts
-#EXTINF:-1,Channel 51:HBO ZONE
-http://217.23.4.192:7070/live/bob/bob/445.ts
-#EXTINF:-1,Channel 52:SHOWTIME
-http://217.23.4.192:7070/live/bob/bob/446.ts
-#EXTINF:-1,Sky Cinema Select
-http://217.23.4.192:7070/live/bob/bob/204.ts
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror
-http://217.23.4.192:7070/live/bob/bob/205.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://217.23.4.192:7070/live/bob/bob/196.ts
-#EXTINF:-1,Sky Cinema Family
-http://217.23.4.192:7070/live/bob/bob/199.ts
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://217.23.4.192:7070/live/bob/bob/200.ts
-#EXTINF:-1,Sky Cinema Disney
-http://217.23.4.192:7070/live/bob/bob/197.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://217.23.4.192:7070/live/bob/bob/203.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://217.23.4.192:7070/live/bob/bob/201.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://217.23.4.192:7070/live/bob/bob/202.ts
-#EXTINF:-1,USA Network HD
-http://217.23.4.192:7070/live/bob/bob/125.ts
-#EXTINF:-1,Bein Sports USA HD
-http://217.23.4.192:7070/live/bob/bob/130.ts
-#EXTINF:-1,WWE Network HD
-http://217.23.4.192:7070/live/bob/bob/137.ts
-#EXTINF:-1,Channel 01:ESPNEWS
-http://217.23.4.192:7070/live/bob/bob/395.ts
-#EXTINF:-1,Channel 02:ESPN
-http://217.23.4.192:7070/live/bob/bob/396.ts
-#EXTINF:-1,Channel 03:ESPN 2
-http://217.23.4.192:7070/live/bob/bob/397.ts
-#EXTINF:-1,Channel 04:ESPN U
-http://217.23.4.192:7070/live/bob/bob/398.ts
-#EXTINF:-1,Channel 05:FS1
-http://217.23.4.192:7070/live/bob/bob/399.ts
-#EXTINF:-1,Channel 06:FS2
-http://217.23.4.192:7070/live/bob/bob/400.ts
-#EXTINF:-1,Channel 07:NFL NETWORK
-http://217.23.4.192:7070/live/bob/bob/401.ts
-#EXTINF:-1,Channel 08:NBA TV
-http://217.23.4.192:7070/live/bob/bob/402.ts
-#EXTINF:-1,Channel 09:MLB NETWORK
-http://217.23.4.192:7070/live/bob/bob/403.ts
-#EXTINF:-1,Channel 10:NHL NETWORK
-http://217.23.4.192:7070/live/bob/bob/404.ts
-#EXTINF:-1,Channel 11:NBCSN
-http://217.23.4.192:7070/live/bob/bob/405.ts
-#EXTINF:-1,Channel 12
-http://217.23.4.192:7070/live/bob/bob/406.ts
-#EXTINF:-1,Channel 13
-http://217.23.4.192:7070/live/bob/bob/407.ts
-#EXTINF:-1,Channel 14
-http://217.23.4.192:7070/live/bob/bob/408.ts
-#EXTINF:-1,Channel 15
-http://217.23.4.192:7070/live/bob/bob/409.ts
-#EXTINF:-1,Channel 16: WWE Network
-http://217.23.4.192:7070/live/bob/bob/410.ts
-#EXTINF:-1,Channel 19
-http://217.23.4.192:7070/live/bob/bob/413.ts
-#EXTINF:-1,Channel 21
-http://217.23.4.192:7070/live/bob/bob/415.ts
-#EXTINF:-1,Channel 23
-http://217.23.4.192:7070/live/bob/bob/417.ts
-#EXTINF:-1,Channel 34:NBC
-http://217.23.4.192:7070/live/bob/bob/428.ts
-#EXTINF:-1,Channel 39:CNBC
-http://217.23.4.192:7070/live/bob/bob/433.ts
-#EXTINF:-1,Channel 46:COMEDY CENTRAL
-http://217.23.4.192:7070/live/bob/bob/440.ts
-#EXTINF:-1,Channel 47:AMC
-http://217.23.4.192:7070/live/bob/bob/441.ts
-#EXTINF:-1,Channel 53
-http://217.23.4.192:7070/live/bob/bob/447.ts
-#EXTINF:-1,Channel 76
-http://217.23.4.192:7070/live/bob/bob/470.ts
-#EXTINF:-1,Channel 78
-http://217.23.4.192:7070/live/bob/bob/472.ts
-#EXTINF:-1,Channel 79
-http://217.23.4.192:7070/live/bob/bob/473.ts
-#EXTINF:-1,Channel 80
-http://217.23.4.192:7070/live/bob/bob/474.ts
-#EXTINF:-1,Channel 81
-http://217.23.4.192:7070/live/bob/bob/475.ts
-#EXTINF:-1,Channel 82
-http://217.23.4.192:7070/live/bob/bob/476.ts
-#EXTINF:-1,Channel 83
-http://217.23.4.192:7070/live/bob/bob/477.ts
-#EXTINF:-1,Channel 84
-http://217.23.4.192:7070/live/bob/bob/478.ts
-#EXTINF:-1,Channel 92
-http://217.23.4.192:7070/live/bob/bob/486.ts
-
-#EXTINF:-1,USA | HBO HD
-http://164.132.168.74:8000/live/hagen025/h12345hh/3739.ts
-#EXTINF:-1,USA: A&E
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9315.ts
-#EXTINF:-1,USA: ABC News
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2931.ts
-#EXTINF:-1,USA: ABC Spark HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15243.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9516.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10166.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10167.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9488.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9517.ts
-#EXTINF:-1,USA: ABC W HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15244.ts
-#EXTINF:-1,USA: 360 North
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3863.ts
-#EXTINF:-1,USA: Animal Planet
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15250.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9520.ts
-#EXTINF:-1,USA: ASD TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3861.ts
-#EXTINF:-1,USA: AMC HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8415.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9518.ts
-#EXTINF:-1,USA: Church Channel
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9536.ts
-#EXTINF:-1,USA: Discovery Science
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9546.ts
-#EXTINF:-1,USA: DTX
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9547.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8681.ts
-#EXTINF:-1,USA: Comedy Central
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15249.ts
-#EXTINF:-1,USA: Discovery Channel
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15248.ts
-#EXTINF:-1,USA: Food Network
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9337.ts
-#EXTINF:-1,USA: Family CHRGD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15246.ts
-#EXTINF:-1,USA: Bloomberg
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9510.ts
-#EXTINF:-1,USA: CBS Action
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9340.ts
-#EXTINF:-1,USA: Eurosport 1
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14079.ts
-#EXTINF:-1,USA: Family Junior HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15247.ts
-#EXTINF:-1,USA: CBS DRAMA
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9339.ts
-#EXTINF:-1,USA: CNN HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8692.ts
-#EXTINF:-1,USA: Bravo
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8691.ts
-#EXTINF:-1,USA: ESPN 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13230.ts
-#EXTINF:-1,USA: Channel 11
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3860.ts
-#EXTINF:-1,USA: Country Music Channel
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3859.ts
-#EXTINF:-1,USA: DTX HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9475.ts
-#EXTINF:-1,USA: CBS News HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9508.ts
-#EXTINF:-1,USA: Fight Sport
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8308.ts
-#EXTINF:-1,USA: E!
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8417.ts
-#EXTINF:-1,USA: ESPN U HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13229.ts
-#EXTINF:-1,USA: CBS Reality
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9338.ts
-#EXTINF:-1,USA: C-SPAN
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9318.ts
-#EXTINF:-1,USA: CSPAN 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9319.ts
-#EXTINF:-1,USA: C-SPAN 3
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9320.ts
-#EXTINF:-1,USA: E! Network HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9321.ts
-#EXTINF:-1,USA: BeIN Sports USA HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13227.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9519.ts
-#EXTINF:-1,USA: Fox Sport 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9391.ts
-#EXTINF:-1,USA: NBA TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8309.ts
-#EXTINF:-1,USA: HBO FAMILY
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8414.ts
-#EXTINF:-1,USA: HBO HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8411.ts
-#EXTINF:-1,USA: HBO ZONE
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8412.ts
-#EXTINF:-1,USA: NBC HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8393.ts
-#EXTINF:-1,USA: Fox Sports 506 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9528.ts
-#EXTINF:-1,USA: LIFE TIME
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8687.ts
-#EXTINF:-1,USA: HBO Comedy
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9831.ts
-#EXTINF:-1,USA: Fox Soccer Plus
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15240.ts
-#EXTINF:-1,USA: Fox Sports Florida
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15241.ts
-#EXTINF:-1,USA: History HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15245.ts
-#EXTINF:-1,USA: Mello TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9502.ts
-#EXTINF:-1,USA: Mute TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9487.ts
-#EXTINF:-1,USA: NBC SN
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9523.ts
-#EXTINF:-1,USA: MLB Network HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15239.ts
-#EXTINF:-1,USA: Fox 43
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10174.ts
-#EXTINF:-1,USA: CBN News
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3872.ts
-#EXTINF:-1,USA: Starz  Edge
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10171.ts
-#EXTINF:-1,USA: TLC HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9480.ts
-#EXTINF:-1,USA: NHL Network
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12479.ts
-#EXTINF:-1,USA: RT Documentary
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9497.ts
-#EXTINF:-1,USA: RT America HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9498.ts
-#EXTINF:-1,USA: Poker Central
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9326.ts
-#EXTINF:-1,USA: Nick
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9333.ts
-#EXTINF:-1,USA: NBCSN XTRA 2
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14181.ts
-#EXTINF:-1,USA: NBCSN Golf HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9526.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9499.ts
-#EXTINF:-1,USA: Spike HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13179.ts
-#EXTINF:-1,USA: Sportsnet West HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13232.ts
-#EXTINF:-1,USA: NFL Network HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8693.ts
-#EXTINF:-1,USA: Sporstnet 360
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14036.ts
-#EXTINF:-1,USA: Sporstnet East HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14035.ts
-#EXTINF:-1,USA: Sporstnet Ontario HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14034.ts
-#EXTINF:-1,USA: Sporstnet Pacific HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14033.ts
-#EXTINF:-1,USA: Sportnet  One HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14037.ts
-#EXTINF:-1,USA: Sportsnet World
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14032.ts
-#EXTINF:-1,USA: TNT HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13180.ts
-#EXTINF:-1,USA: NBC XTRA 5
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14063.ts
-#EXTINF:-1,USA: NBC XTRA 4
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14062.ts
-#EXTINF:-1,USA: PAC-12 Washington HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/10143.ts
-#EXTINF:-1,USA: PAC Mountain 1080P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14067.ts
-#EXTINF:-1,USA: PAC Network National 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14068.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14070.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14069.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14072.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14071.ts
-#EXTINF:-1,USA: PAC-12 Net. (Encore)
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14078.ts
-#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14073.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14075.ts
-#EXTINF:-1,USA: TBN
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9542.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14077.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14076.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14074.ts
-#EXTINF:-1,USA: Star Z Cinema
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9832.ts
-#EXTINF:-1,USA: NBC XTRA 3
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14061.ts
-#EXTINF:-1,USA: NBC XTRA 1
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14064.ts
-#EXTINF:-1,USA: TBS HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8685.ts
-#EXTINF:-1,USA: The Florida Channel
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9495.ts
-#EXTINF:-1,USA: Travel Channel HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9476.ts
-#EXTINF:-1,USA: Tru TV HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9330.ts
-#EXTINF:-1,USA: Twit TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9485.ts
-#EXTINF:-1,USA: USA Network HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9329.ts
-#EXTINF:-1,USA: Willow HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9328.ts
-#EXTINF:-1,USA: WWE
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9530.ts
-#EXTINF:-1,USA: Tsn Sport 1 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8293.ts
-#EXTINF:-1,USA: Tsn Sport 2 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8292.ts
-#EXTINF:-1,USA: Tsn Sport 3 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8291.ts
-#EXTINF:-1,USA: Tsn Sport 4 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8290.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8289.ts
-#EXTINF:-1,USA: Tsn Sport 5 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12547.ts
-#EXTINF:-1,USA: WWE Network
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8410.ts
-#EXTINF:-1,USA: UALR TV
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/3865.ts
-#EXTINF:-1,USA: Versus
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2904.ts
-#EXTINF:-1,USA: Yes Network
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15242.ts
-#EXTINF:-1,USA: Teletoon
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15251.ts
-#EXTINF:-1,USA: WHDH
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/9491.ts
-#EXTINF:-1,=======   CINEMA   =======
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/640.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4413.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4414.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4415.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4412.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4371.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4407.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4411.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4409.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4408.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4369.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4410.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4370.ts
+#EXTINF: -1, USA: the Edge the Starz
+http://151.80.97.110:25461/live/wind/1/1653.ts
+#EXTINF: -1, USA: the HBO 2
+http : //151.80.97.110: 25461 / live / wind / 1 / 2185.ts
+#EXTINF: -1, USA: the HD OWN
+http://151.80.97.110:25461/live/wind/1/2099.ts
+#EXTINF: -1, USA: the NBA the TV the HD
+http://151.80.97.110:25461/live/wind/1/2098.ts
+#EXTINF: -1, USA: HIFI
+http://151.80.97.110:25461/live/wind/ 1 / 2097.ts
+#EXTINF: -1, USA: the Free the Form
+http://151.80.97.110:25461/live/wind/1/2096.ts
+#EXTINF: -1, USA: the HD Cinemax East the TEST
+http: // 151.80.97.110:25461/live/wind/1/2092.ts
+#EXTINF: -1, USA: Cinemax Actionmax the TEST
+http://151.80.97.110:25461/live/wind/1/2093.ts
+#EXTINF: -1 , USA: BTN Sports the HD the TEST
+http://151.80.97.110:25461/live/wind/1/2094.ts
+#EXTINF: -1, USA: ESPN's the HD NEWS
+http://151.80.97.110:25461/live/wind /1/2071.ts
+#EXTINF: -1, USA: the CW
+http://151.80.97.110:25461/live/wind/1/2072.ts
+#EXTINF: -1, USA: the NBC the EXTRA the TIME the HD 7 (MATCH TIME )
+http://151.80.97.110:25461/live/wind/1/2055.ts
+#EXTINF: -1, USA: the NBC the EXTRA the TIME the HD 6 (the MATCH the TIME)
+http://151.80.97.110:25461/live/wind /1/2054.ts
+#EXTINF: -1, USA: the Edge the Starz the HD
+http://151.80.97.110:25461/live/wind/1/1845.ts
+#EXTINF: -1, USA: Redbull the TV
+http: // 151.80.97.110:25461/live/wind/1/1810.ts
+#EXTINF: -1, USA: the NFL the Network 1080i
+http://151.80.97.110:25461/live/wind/1/1839.ts
+#EXTINF: -1 , USA: HGTV's the HD
+http://151.80.97.110:25461/live/wind/1/1803.ts
+#EXTINF: -1, USA: Fight the Network
+http://151.80.97.110:25461/live/wind/1/ 1811.ts
+#EXTINF: -1, USA: ESPN's 2 the HD
+http://151.80.97.110:25461/live/wind/1/1831.ts
+#EXTINF: -1, USA: the HD the Disney
+http://151.80.97.110 : 25461 / live / wind / 1 / 1812.ts
+#EXTINF: -1, USA: the Discovery Science the HD
+http://151.80.97.110:25461/live/wind/1/1835.ts
+#EXTINF: -1, USA: the Network the HD the Cartoon
+http://151.80.97.110:25461/live/wind/1/1802.ts
+#EXTINF: -1, RU: the NTV FOOTBALL 2 the HD
+http://151.80.97.110:25461/live/wind/1/ 1862.ts
+#EXTINF: -1, RU: the NTV FOOTBALL 1 the HD
+http://151.80.97.110:25461/live/wind/1/1867.ts
+#EXTINF: -1, USA: the WWE the HD
+http: //151.80. 97,110: 25461 / live / wind / 1 / 20.ts
+#EXTINF: -1, USA: ByuTV the HD
+http://151.80.97.110:25461/live/wind/1/66.ts
+#EXTINF: -1, USA: the H2
+http://151.80.97.110:25461/live/wind/1/1621.ts
+#EXTINF: -1, the NBC USA the Golf
+http://151.80.97.110:25461/live/wind/1/1553.ts
+#EXTINF : -1, USA Investigation, the Discovery
+http://151.80.97.110:25461/live/wind/1/1644.ts
+#EXTINF: -1, the H2 USA
+http://151.80.97.110:25461/live/wind/1/ 1552.ts
+#EXTINF: -1, the CN USA
+http://151.80.97.110:25461/live/wind/1/826.ts
+#EXTINF: -1, USA 5 CINEMAX the STAR
+http://151.80.97.110:25461/ live / wind / 1 / 1418.ts
+#EXTINF: -1, USA: NBCSN
+http://151.80.97.110:25461/live/wind/1/1551.ts
+#EXTINF: -1, USA: A & the E
+http: // 151.80.97.110:25461/live/wind/1/915.ts
+#EXTINF: -1, USA: the Starz the Encore
+http://151.80.97.110:25461/live/wind/1/1652.ts
+#EXTINF: -1, USA: the Starz East
+http://151.80.97.110:25461/live/wind/1/1666.ts
+#EXTINF: -1, USA: the Comedy the Starz
+http://151.80.97.110:25461/live/wind/1/1667 .ts
+#EXTINF: -1, USA: the Starz the Cinema
+http://151.80.97.110:25461/live/wind/1/1668.ts
+#EXTINF: -1, USA: the HD by SPIKE
+http://151.80.97.110:25461 /live/wind/1/1762.ts
+#EXTINF: -1, USA: the Showtime West
+http://151.80.97.110:25461/live/wind/1/1658.ts
+#EXTINF: -1, USA: the HD the SHOWTIME
+http : //151.80.97.110: 25461 / live / wind / 1 / 1415.ts
+#EXTINF: -1, USA: the Showtime 2
+http://151.80.97.110:25461/live/wind/1/1669.ts
+#EXTINF: -1, USA: Poker's Central
+http://151.80.97.110:25461/live/wind/1/1620.ts
+#EXTINF: -1, USA: Washington You Pac12
+http://151.80.97.110:25461/live/wind/ 1 / 1619.ts
+#EXTINF: -1, USA: Pac12 Tempa bay Area
+http://151.80.97.110:25461/live/wind/1/1617.ts
+#EXTINF: -1, USA: Pac12 Oregon You
+http: // 151.80.97.110:25461/live/wind/1/1616.ts
+#EXTINF: -1, USA: Pac12 the Los Angeles Times
+http://151.80.97.110:25461/live/wind/1/1618.ts
+#EXTINF: -1 , USA: Arizona You Pac12
+http://151.80.97.110:25461/live/wind/1/1615.ts
+#EXTINF: -1, USA: Nasa the TV the HD
+http://151.80.97.110:25461/live/wind/1 /67.ts
+#EXTINF: -1, USA: MoreMax the HD
+http://151.80.97.110:25461/live/wind/1/1416.ts
+#EXTINF: -1, USA: the HBO Zone
+http://151.80.97.110 : 25461 / live / wind / 1 / 1645.ts
+#EXTINF: -1, USA: the HD the HBO
+http://151.80.97.110:25461/live/wind/1/1414.ts
+#EXTINF: -1, USA: the HBO East
+http://151.80.97.110:25461/live/wind/1/1665.ts
+#EXTINF: -1, USA: the Comedy the HBO
+http://151.80.97.110:25461/live/wind/1/1663.ts
+# EXTINF: -1, USA: the FXX
+http://151.80.97.110:25461/live/wind/1/1764.ts
+#EXTINF: -1, USA: Fox | Sports 2 the HD
+http://151.80.97.110:25461/live /wind/1/1694.ts
+#EXTINF: -1, USA: Fox | the HD
+http://151.80.97.110:25461/live/wind/1/917.ts
+#EXTINF: -1, USA: the DIY the NETWORK the HD
+http: //151.80.97.110:25461/live/wind/1/1763.ts
+#EXTINF: -1, USA: the DISCOVERY the FAMILY the HD
+http://151.80.97.110:25461/live/wind/1/1412.ts
+#EXTINF: -1, USA: the HD to DESTINATION the AMERICA
+http://151.80.97.110:25461/live/wind/1/1413.ts
+#EXTINF: -1, USA: the CNBC
+http://151.80.97.110:25461/live/wind/ 1 / 918.ts
+#EXTINF: -1, USA: CINEMAX the HD
+http://151.80.97.110:25461/live/wind/1/1411.ts
+#EXTINF: -1, USA: the AMC the HD
+http: //151.80. 97,110: 25461 / live / wind / 1 / 920.ts
+#EXTINF: -1, USA: the ABC
+http://151.80.97.110:25461/live/wind/1/914.ts
+#EXTINF: -1, USA: the FX
+http://151.80.97.110:25461/live/wind/1/819.ts
+#EXTINF: -1, USA TNT
+http://151.80.97.110:25461/live/wind/1/810.ts
+#EXTINF: - 1, the TBS USA
+http://151.80.97.110:25461/live/wind/1/812.ts
+#EXTINF: -1, USA SyFy
+http://151.80.97.110:25461/live/wind/1/813.ts
+#EXTINF: -1, USA: Sport 1, the HD
+http://151.80.97.110:25461/live/wind/1/266.ts
+#EXTINF: -1, the Spike USA
+http://151.80.97.110:25461/live/ wind / 1 / 811.ts
+#EXTINF: -1, USA Poker's Central
+http://151.80.97.110:25461/live/wind/1/299.ts
+#EXTINF: -1, USA of PBS
+http://151.80.97.110 : 25461 / live / wind / 1 / 808.ts
+#EXTINF: -1, the NICK USA
+http://151.80.97.110:25461/live/wind/1/814.ts
+#EXTINF: -1, the NFL the NOW USA
+http: //151.80.97.110:25461/live/wind/1/287.ts
+#EXTINF: -1, the NBC USA
+http://151.80.97.110:25461/live/wind/1/815.ts
+#EXTINF: -1, MY9 USA
+http://151.80.97.110:25461/live/wind/1/816.ts
+#EXTINF: -1, USA LIFETIME
+http://151.80.97.110:25461/live/wind/1/817.ts
+#EXTINF : -1, the HISTORY USA
+http://151.80.97.110:25461/live/wind/1/818.ts
+#EXTINF: -1, the FOX NEWS USA
+http://151.80.97.110:25461/live/wind/1/ 820.ts
+#EXTINF: -1, USA ESPN's the HD
+http://151.80.97.110:25461/live/wind/1/821.ts
+#EXTINF: -1, USA the E!
+http://151.80.97.110:25461/live/wind/1/258.ts
+#EXTINF: -1, the DISCOVERY USA the HD
+http://151.80.97.110:25461/live/wind/1/822.ts
+#EXTINF: -1, USA of CENTRAL COMEDY
+http://151.80.97.110:25461/live/wind/1/823.ts
+#EXTINF: -1, the CNN USA
+http://151.80.97.110:25461/live/wind/1/824 .ts
+#EXTINF: -1, the CNBC USA
+http://151.80.97.110:25461/live/wind/1/825.ts
+#EXTINF: -1, the BRAVO USA
+http://151.80.97.110:25461/live/wind /1/807.ts
+#EXTINF: -1, USA by Bloomberg
+http://151.80.97.110:25461/live/wind/1/303.ts
+#EXTINF: -1, the Animal Planet USA
+http://151.80.97.110: 25461 / live / wind / 1 / 806.ts
+#EXTINF: -1, USA AETV
+http://151.80.97.110:25461/live/wind/1/805.ts
+#EXTINF: -1, the ABC NEWS USA the NOW
+http: //151.80.97.110:25461/live/wind/1/292.ts
+#EXTINF: -1, the ABC NEWS USA
+http://151.80.97.110:25461/live/wind/1/827.ts
+#EXTINF: -1 , USA the ABC
+http://151.80.97.110:25461/live/wind/1/828.ts
+#EXTINF: -1, USA | TLC HD
+http://151.80.97.110:25461/live/wind/1/113.ts
+#EXTINF: -1, USA | The HD the Hallmark
+http://151.80.97.110:25461/live/wind/1/110.ts
+#EXTINF: -1, USA | Fox Sports 1, the HD
+http://151.80.97.110:25461/live/wind/1/108.ts
+#EXTINF: -1, USA | The NETWORK FOOD
+http://151.80.97.110:25461/live/wind/1/109.ts
+#EXTINF: -1, USA | Discoveries the HD the Amazing
+http://151.80.97.110:25461/live/wind/1/111.ts
+#EXTINF: -1, USA: USA the Network
+http://151.80.97.110:25461/live/wind/1/809. the ts 
