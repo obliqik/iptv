@@ -1,462 +1,148 @@
-
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
 <stream>
 
-
 <item>
-<title>Cinemax West</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3374.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14462.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO-COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14463.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO-SIGNATURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14464.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO-ZONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14465.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fox Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3375.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fox Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3376.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3377.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3378.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TBS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3358.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3359.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BYU Sports TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3360.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TNT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3379.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3380.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3381.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3382.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3384.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CW HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3385.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>COMEDY CENTRAL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3386.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3387.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNBC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3388.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3389.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3352.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3353.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3354.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3355.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3356.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CA | Sportsnet 360 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3357.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3390.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BRAVO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3391.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ANIMAL PLANET HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3392.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>AMC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3393.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ABC NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3394.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ABS-CBN News Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14438.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fox Sports 506 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14439.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NBA </title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14440.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NFL Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14441.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>5USA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14442.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>AFN-SPORTS-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14443.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14444.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BOSTON-CITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14445.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BYU-Sports_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14446.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14447.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS-DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14448.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS-NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14449.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14450.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Discovery-Science_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14451.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>E4-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14452.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14453.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fashion-One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14454.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FIGHT-NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14455.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FIGHT-SPORT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14456.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Food-Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14457.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14458.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX-NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14459.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>H2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14460.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HALLMARK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14461.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-06-2017 [COLOR lime]****[/COLOR]</title>
+<link>http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>HSN-1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14466.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Hits</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/33.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>HSN-2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14467.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Action</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/10.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<item>
-<title>WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3361.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Greats</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2975.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TMN 4 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3362.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Premiere</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/5.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TMN 3 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3363.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Premiere+</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2976.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TMN 2 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3364.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Christmas</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/1393.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TMN 1 MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3365.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Atlantic+1</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/29.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TLC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3366.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Family</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Poker Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3367.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>sky comedy</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3336.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PAC 12 WD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3369.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Cartoon Network</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3015.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PAC-12 Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3368.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Nick JR</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3013.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NFL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3370.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Disney Jr</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3014.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NDTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3371.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Disney</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3012.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NBCSN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3372.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Discovery Channel</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3008.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/urhd56/I6kXfK37zL/3373.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<title>MelloTV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14468.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Discovery History</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3007.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Nasa-TVHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14469.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Discovery Science</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3006.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PAC12_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14470.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Discovery Turbo</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3005.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PAG-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14471.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT SPORT 1</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3003.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Pocker-Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14472.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT SPORT 2</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3004.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>RT-America_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14473.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT SPORT EXTRA</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3009.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>showtime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14474.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT SPORT EUROPE</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3010.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Sports-Net</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14475.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Setanta Sport Irland 1</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3011.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>The-Florida-Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14476.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sport 1 HD</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3001.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Travel-Channe_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14477.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sport 2 HD</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/3000.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TSN-2HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14478.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sport 3 HD</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2999.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TSN-3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14479.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sport 4 HD</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2998.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TSN-4HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14480.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sport 5 HD</title>
+<link>http://149.202.81.100:8000/live/testcup/testcup/2997.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>TSN-5HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14481.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>UC-TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14482.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA-Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14483.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Versus-NBA_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14484.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 </stream>
-
-
-
-
-   
-
 
 
 
