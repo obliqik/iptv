@@ -8,70 +8,608 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Sky Movies Premiere HD</title>
+<title>USA: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2442.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: A&E HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2443.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: A&E TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2444.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ABC Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2445.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ABC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2446.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AETV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2447.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Movie</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2448.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2449.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Prime Atlantic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2450.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Prime Pacific</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2451.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Pulse</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2452.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Spectrum</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2453.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2454.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AFN Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2455.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2456.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2457.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Bounce TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2458.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Bravo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2459.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Bravo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2460.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: BTN Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2461.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ByuTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2462.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2463.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2464.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CBS Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2465.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Cinemax 5 StarMax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2466.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Cinemax East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2467.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2468.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2469.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Comedy Central HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2470.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CW HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2471.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Discovery Channel HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2472.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Discovery Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2473.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2474.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Discovery Science HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2475.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Discovery Velocity</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2476.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Disney Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2477.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: DIY Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2478.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2479.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2480.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2481.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: ESPN HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2482.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Fight Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2483.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Fight Sport US</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2484.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Fine Living Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2485.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Food Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2486.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: FOXX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2487.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: FreeRom HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2488.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2489.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: FXX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2490.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: H2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2491.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Hallmark</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2492.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2493.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2494.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2495.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2496.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2497.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2498.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Signature</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2499.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Signature HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2500.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Zone HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2501.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HGTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2502.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HIFI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2503.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2504.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Investigation Discovery</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2505.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Life Time</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2506.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: MLB Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2507.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: MSNBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2508.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: MTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2509.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Nat Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2510.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: National Geographic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2511.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2512.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBC Golf</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2513.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBC Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2514.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBC Sports Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2515.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NFL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2516.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NFL Now HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2517.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NHL Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Nick</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Nickelodeon HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2520.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2521.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: PBS America</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2522.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: PIX 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2523.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Poker Central</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2524.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2525.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2526.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime Extreme</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2527.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2528.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime West</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2529.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Spike HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2530.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2531.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2532.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2533.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Edge HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2534.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2535.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2536.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: TBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2537.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: The Weather Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2538.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2539.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2540.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Tru TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2541.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: USA BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2542.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2543.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: UTV IE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2544.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2545.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Viceland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2546.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: WE TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2547.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: WWE H</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2548.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Sky Movies Scifi / Horror HD</title>
+<title>Sky Movies Scifi / Horror HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1106.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Sky Movies Family HD</title>
+<title>Sky Movies Family HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Sky Movies Action</title>
+<title>Sky Movies Action</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1108.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Sky Movies Comedy</title>
+<title>Sky Movies Comedy</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1109.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | SkyMTV</title>
+<title>SkyMTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1110.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | Movies 4Men</title>
+<title>Movies 4Men</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1111.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | More4+1</title>
+<title>More4+1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1112.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | SkyOne HD</title>
+<title>SkyOne HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1113.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | SkTrueMovies 2 HD</title>
+<title>SkTrueMovies 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1114.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | True Movies1 HD</title>
+<title>True Movies1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1115.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | SkyMoviesDrama HD</title>
+<title>SkyMoviesDrama HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1121.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>UK | SkyMoviesSelect HD</title>
+<title>SkyMoviesSelect HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1122.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
+
+
 
 <item>
 <title>[USA] HBO</title>
