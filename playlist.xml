@@ -3,8 +3,73 @@
 <stream>
 
 <item>
-<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-06-2017 [COLOR lime]****[/COLOR]</title>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-08-2017 [COLOR lime]****[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1105.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Sky Movies Scifi / Horror HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1106.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Sky Movies Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1107.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Sky Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1108.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1109.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | SkyMTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1110.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | Movies 4Men</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1111.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | More4+1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1112.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | SkyOne HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1113.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | SkTrueMovies 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1114.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | True Movies1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1115.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | SkyMoviesDrama HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1121.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UK | SkyMoviesSelect HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/felice/15122016/1122.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 
