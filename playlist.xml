@@ -8,17 +8,124 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: A&E</title>
+<title>USA: Cinemax 5 StarMax</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2466.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Cinemax East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2467.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2493.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2494.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2495.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2496.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Family HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2497.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2498.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Signature</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2499.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Signature HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2500.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: HBO Zone HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2501.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2525.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2526.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime Extreme</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2527.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2528.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Showtime West</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2529.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Cinema</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2531.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2532.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz East</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2533.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Edge HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2534.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: Starz Encore</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2535.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+  
+  
+<item>
+<title>USA: AE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2442.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: A&E HD</title>
+<title>USA: AE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2443.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: A&E TV HD</title>
+<title>USA: AE TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2444.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
@@ -127,16 +234,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2465.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA: Cinemax 5 StarMax</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2466.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Cinemax East</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2467.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: CNBC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2468.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -262,51 +360,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2492.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA: HBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2493.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2494.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2495.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO East</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2496.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO Family HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2497.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2498.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO Signature</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2499.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO Signature HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2500.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: HBO Zone HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2501.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: HGTV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2502.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -422,61 +476,13 @@
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2524.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA: Showtime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2525.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Showtime 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2526.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Showtime Extreme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2527.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Showtime Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2528.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Showtime West</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2529.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: Spike HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2530.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA: Starz Cinema</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2531.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Starz Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2532.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Starz East</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2533.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Starz Edge HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2534.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: Starz Encore</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2535.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/brett/brett/2536.ts&amp;streamtype=TSDOWNLOADER</link>
