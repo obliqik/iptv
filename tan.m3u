@@ -1,251 +1,241 @@
 #EXTM3U
-#EXTINF:0,USA:USA Net
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2918.ts
-#EXTINF:0,USA:Nick
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2922.ts
-#EXTINF:0,USA:NDTV
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2924.ts
-#EXTINF:0,USA:E! HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2914.ts
-#EXTINF:0,USA: Starz Cinema
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2919.ts
-#EXTINF:0,USA: SHOW TIME
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3764.ts
-#EXTINF:0,USA: CNN
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3333.ts
-#EXTINF:0,USA: CBS NEW – S
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3762.ts
-#EXTINF:0,US: WWE Network
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2211.ts
-#EXTINF:0,US: Versus NBA HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5109.ts
-#EXTINF:0,US: TSN 5
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2322.ts
-#EXTINF:0,US: TSN 4
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2206.ts
-#EXTINF:0,US: TSN 3
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2321.ts
-#EXTINF:0,US: TSN 2
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2205.ts
-#EXTINF:0,US: TSN 1
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2204.ts
-#EXTINF:0,US: TSC
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5111.ts
-#EXTINF:0,US: Travel Channel HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5057.ts
-#EXTINF:0,US: Toonami Aftermath
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5058.ts
-#EXTINF:0,US: The Florida Channel
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5060.ts
-#EXTINF:0,US: TBS HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5061.ts
-#EXTINF:0,US: SyFy US
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5062.ts
-#EXTINF:0,US: Starz Edge
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5065.ts
-#EXTINF:0,US: Starz East
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5063.ts
-#EXTINF:0,US: STARS KIDS & FAMILY
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5064.ts
-#EXTINF:0,US: SportsNet Ontario
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5067.ts
-#EXTINF:0,US: SportsNet One HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5068.ts
-#EXTINF:0,US: RT America HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5070.ts
-#EXTINF:0,US: Poker Central
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2214.ts
-#EXTINF:0,US: PAG HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5072.ts
-#EXTINF:0,US: NFL HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5073.ts
-#EXTINF:0,US: NBCSN
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5075.ts
-#EXTINF:0,US: NBC HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5074.ts
-#EXTINF:0,US: NBC Golf HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2216.ts
-#EXTINF:0,US: Nasa TV HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5076.ts
-#EXTINF:0,US: Mute TV
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5077.ts
-#EXTINF:0,US: Mello TV
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5078.ts
-#EXTINF:0,US: LIFE TIME
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5079.ts
-#EXTINF:0,US: ID
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5081.ts
-#EXTINF:0,US: HSN 1
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5082.ts
-#EXTINF:0,US: History Channel
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5083.ts
-#EXTINF:0,US: HGTV
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5084.ts
-#EXTINF:0,US: HBO ZONE
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2209.ts
-#EXTINF:0,US: HBO SIGNATURE
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5085.ts
-#EXTINF:0,US: HBO Family
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5086.ts
-#EXTINF:0,US: HBO East
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5087.ts
-#EXTINF:0,US: HBO
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5088.ts
-#EXTINF:0,US: HALLMARK
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5089.ts
-#EXTINF:0,US: Fox Sports 2
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2208.ts
-#EXTINF:0,US: Fox Sports 1
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2207.ts
-#EXTINF:0,US: Fox Sports 2
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2213.ts
-#EXTINF:0,US: Fox Sports 1
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2212.ts
-#EXTINF:0,US: FOX Deportes HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2217.ts
-#EXTINF:0,US: Fox 59 News
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3380.ts
-#EXTINF:0,US: FOX
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3379.ts
-#EXTINF:0,US: Fight Network
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3219.ts
-#EXTINF:0,US: ESPN
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2323.ts
-#EXTINF:0,US: Discovery Science HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5091.ts
-#EXTINF:0,US: Discovery Channel HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5092.ts
-#EXTINF:0,US: Cpac
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5093.ts
-#EXTINF:0,US: Comedy C HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2215.ts
-#EXTINF:0,US: CNBC
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2203.ts
-#EXTINF:0,US: Cinemax
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5094.ts
-#EXTINF:0,US: CBSN HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5095.ts
-#EXTINF:0,US: CBS News HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5096.ts
-#EXTINF:0,US: CBS DRAMA
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5097.ts
-#EXTINF:0,US: CBS ACTION
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5098.ts
-#EXTINF:0,US: BYU Sports TV HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5099.ts
-#EXTINF:0,US: BRAVO
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2210.ts
-#EXTINF:0,US: Bloomberg
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5100.ts
-#EXTINF:0,US: BEIN SPORT
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2320.ts
-#EXTINF:0,US: Animal Planet
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5101.ts
-#EXTINF:0,US: AMG TV
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5102.ts
-#EXTINF:0,US: AFN Sports 2
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2331.ts
-#EXTINF:0,US: AFN SPORTS
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5103.ts
-#EXTINF:0,US: AFN PULSE
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5104.ts
-#EXTINF:0,US: AFN MOVIE
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5105.ts
-#EXTINF:0,US: ABC News HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5106.ts
-#EXTINF:0,US: ABC News
-http://193.70.44.113:2500/live/124D7E441/124D7E441/2202.ts
-#EXTINF:0,US: 360 North
-http://193.70.44.113:2500/live/124D7E441/124D7E441/5107.ts
-#EXTINF:0,US WWE
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3221.ts
-#EXTINF:0,US Fox Sports 506 HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3230.ts
-#EXTINF:0,US Fight Sport
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3220.ts
-#EXTINF:0,US BYU Sports TV HD
-http://193.70.44.113:2500/live/124D7E441/124D7E441/3231.ts
-#EXTINF:-1,UK | Sky Movies Premiere HD
-http://193.70.116.156:8080/live/felice/15122016/1105.ts
-#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
-http://193.70.116.156:8080/live/felice/15122016/1106.ts
-#EXTINF:-1,UK | Sky Movies Family HD
-http://193.70.116.156:8080/live/felice/15122016/1107.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://193.70.116.156:8080/live/felice/15122016/1108.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://193.70.116.156:8080/live/felice/15122016/1109.ts
-#EXTINF:-1,UK | SkyMTV
-http://193.70.116.156:8080/live/felice/15122016/1110.ts
-#EXTINF:-1,UK | Movies 4Men
-http://193.70.116.156:8080/live/felice/15122016/1111.ts
-#EXTINF:-1,UK | More4+1
-http://193.70.116.156:8080/live/felice/15122016/1112.ts
-#EXTINF:-1,UK | SkyOne HD
-http://193.70.116.156:8080/live/felice/15122016/1113.ts
-#EXTINF:-1,UK | SkTrueMovies 2 HD
-http://193.70.116.156:8080/live/felice/15122016/1114.ts
-#EXTINF:-1,UK | True Movies1 HD
-http://193.70.116.156:8080/live/felice/15122016/1115.ts
-#EXTINF:-1,UK | Racing
-http://193.70.116.156:8080/live/felice/15122016/1116.ts
-#EXTINF:-1,UK | Watch Ireland
-http://193.70.116.156:8080/live/felice/15122016/1117.ts
-#EXTINF:-1,UK | FOX News
-http://193.70.116.156:8080/live/felice/15122016/1118.ts
-#EXTINF:-1,UK | BBC News
-http://193.70.116.156:8080/live/felice/15122016/1119.ts
-#EXTINF:-1,UK | 5USA
-http://193.70.116.156:8080/live/felice/15122016/1120.ts
-#EXTINF:-1,UK | SkyMoviesDrama HD
-http://193.70.116.156:8080/live/felice/15122016/1121.ts
-#EXTINF:-1,UK | SkyMoviesSelect HD
-http://193.70.116.156:8080/live/felice/15122016/1122.ts
-#EXTINF:-1,UK | SkyMoviesThriller
-http://193.70.116.156:8080/live/felice/15122016/1123.ts
-#EXTINF:-1,UK | NationalGeographic
-http://193.70.116.156:8080/live/felice/15122016/1124.ts
-#EXTINF:-1,UK | Discovery Investigation HD
-http://193.70.116.156:8080/live/felice/15122016/1125.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://193.70.116.156:8080/live/felice/15122016/1126.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://193.70.116.156:8080/live/felice/15122016/1127.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://193.70.116.156:8080/live/felice/15122016/1128.ts
-#EXTINF:-1,UK | DiscoveryHistory
-http://193.70.116.156:8080/live/felice/15122016/1129.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://193.70.116.156:8080/live/felice/15122016/1130.ts
-#EXTINF:-1,UK | DisneyChannel
-http://193.70.116.156:8080/live/felice/15122016/1131.ts
-#EXTINF:-1,UK | DisneyJunior
-http://193.70.116.156:8080/live/felice/15122016/1132.ts
-#EXTINF:-1,UK | ComedyCentral
-http://193.70.116.156:8080/live/felice/15122016/1133.ts
-#EXTINF:-1,UK | Channel5
-http://193.70.116.156:8080/live/felice/15122016/1134.ts
-#EXTINF:-1,UK | Channel4
-http://193.70.116.156:8080/live/felice/15122016/1135.ts
-#EXTINF:-1,UK | CBSAction
-http://193.70.116.156:8080/live/felice/15122016/1136.ts
-#EXTINF:-1,UK | CBSDrama
-http://193.70.116.156:8080/live/felice/15122016/1137.ts
-#EXTINF:-1,UK | CBSReality
-http://193.70.116.156:8080/live/felice/15122016/1138.ts
-#EXTINF:-1,UK | BBC4
-http://193.70.116.156:8080/live/felice/15122016/1139.ts
-#EXTINF:-1,UK | BBC3
-http://193.70.116.156:8080/live/felice/15122016/1140.ts
-#EXTINF:-1,UK | BBC2
-http://193.70.116.156:8080/live/felice/15122016/1141.ts
-#EXTINF:-1,UK | BBC1
-http://193.70.116.156:8080/live/felice/15122016/1142.ts
-#EXTINF:-1,UK | ITV4
-http://193.70.116.156:8080/live/felice/15122016/1143.ts
-#EXTINF:-1,UK | ITV3
-http://193.70.116.156:8080/live/felice/15122016/1144.ts
-#EXTINF:-1,UK | ITV2
-http://193.70.116.156:8080/live/felice/15122016/1145.ts
-#EXTINF:-1,UK | ITV1
-http://193.70.116.156:8080/live/felice/15122016/1146.ts
+#EXTINF:-1,USA:NBC XTRA 1 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2399.ts
+#EXTINF:-1,USA:NBC XTRA 2 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2401.ts
+#EXTINF:-1,USA:NBC XTRA 3 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2403.ts
+#EXTINF:-1,USA:NBC XTRA 4 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2405.ts
+#EXTINF:-1,USA:NBC XTRA 5 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2407.ts
+#EXTINF:-1,USA:NBCSN HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2408.ts
+#EXTINF:-1,VIP: MIO Stadium 102 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2552.ts
+#EXTINF:-1,VIP: MIO Stadium 103 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2553.ts
+#EXTINF:-1,VIP: MIO Stadium 104 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2554.ts
+#EXTINF:-1,VIP: MIO Stadium 105 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2555.ts
+#EXTINF:-1,VIP: MIO Stadium 106 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2556.ts
+#EXTINF:-1,VIP: MIO Stadium 107 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2557.ts
+#EXTINF:-1,VIP: MIO Stadium 108 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2558.ts
+#EXTINF:-1,USA: A&E
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2442.ts
+#EXTINF:-1,USA: A&E HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2443.ts
+#EXTINF:-1,USA: A&E TV HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2444.ts
+#EXTINF:-1,USA: ABC Family
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2445.ts
+#EXTINF:-1,USA: ABC HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2446.ts
+#EXTINF:-1,USA: AETV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2447.ts
+#EXTINF:-1,USA: AFN Movie
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2448.ts
+#EXTINF:-1,USA: AFN News
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2449.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2450.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2451.ts
+#EXTINF:-1,USA: AFN Pulse
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2452.ts
+#EXTINF:-1,USA: AFN Spectrum
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2453.ts
+#EXTINF:-1,USA: AFN Sports 1
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2454.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2455.ts
+#EXTINF:-1,USA: AMC HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2456.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2457.ts
+#EXTINF:-1,USA: Bounce TV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2458.ts
+#EXTINF:-1,USA: Bravo
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2459.ts
+#EXTINF:-1,USA: Bravo HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2460.ts
+#EXTINF:-1,USA: BTN Sport HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2461.ts
+#EXTINF:-1,USA: ByuTV HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2462.ts
+#EXTINF:-1,USA: Cartoon Network
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2463.ts
+#EXTINF:-1,USA: CBS HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2464.ts
+#EXTINF:-1,USA: CBS Sports
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2465.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2466.ts
+#EXTINF:-1,USA: Cinemax East
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2467.ts
+#EXTINF:-1,USA: CNBC
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2468.ts
+#EXTINF:-1,USA: CNN HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2469.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2470.ts
+#EXTINF:-1,USA: CW HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2471.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2472.ts
+#EXTINF:-1,USA: Discovery Family HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2473.ts
+#EXTINF:-1,USA: Discovery HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2474.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2475.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2476.ts
+#EXTINF:-1,USA: Disney Channel
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2477.ts
+#EXTINF:-1,USA: DIY Network HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2478.ts
+#EXTINF:-1,USA: ESPN
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2479.ts
+#EXTINF:-1,USA: ESPN 2
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2480.ts
+#EXTINF:-1,USA: ESPN HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2481.ts
+#EXTINF:-1,USA: ESPN HD 2
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2482.ts
+#EXTINF:-1,USA: Fight Network
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2483.ts
+#EXTINF:-1,USA: Fight Sport US
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2484.ts
+#EXTINF:-1,USA: Fine Living Network
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2485.ts
+#EXTINF:-1,USA: Food Network HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2486.ts
+#EXTINF:-1,USA: FOXX HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2487.ts
+#EXTINF:-1,USA: FreeRom HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2488.ts
+#EXTINF:-1,USA: FX HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2489.ts
+#EXTINF:-1,USA: FXX
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2490.ts
+#EXTINF:-1,USA: H2
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2491.ts
+#EXTINF:-1,USA: Hallmark
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2492.ts
+#EXTINF:-1,USA: HBO
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2493.ts
+#EXTINF:-1,USA: HBO 2
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2494.ts
+#EXTINF:-1,USA: HBO Comedy
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2495.ts
+#EXTINF:-1,USA: HBO East
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2496.ts
+#EXTINF:-1,USA: HBO Family HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2497.ts
+#EXTINF:-1,USA: HBO HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2498.ts
+#EXTINF:-1,USA: HBO Signature
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2499.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2500.ts
+#EXTINF:-1,USA: HBO Zone HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2501.ts
+#EXTINF:-1,USA: HGTV HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2502.ts
+#EXTINF:-1,USA: HIFI
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2503.ts
+#EXTINF:-1,USA: History
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2504.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2505.ts
+#EXTINF:-1,USA: Life Time
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2506.ts
+#EXTINF:-1,USA: MLB Network
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2507.ts
+#EXTINF:-1,USA: MSNBC HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2508.ts
+#EXTINF:-1,USA: MTV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2509.ts
+#EXTINF:-1,USA: Nat Geo HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2510.ts
+#EXTINF:-1,USA: National Geographic
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2511.ts
+#EXTINF:-1,USA: NBA TV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2512.ts
+#EXTINF:-1,USA: NBC Golf
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2513.ts
+#EXTINF:-1,USA: NBC Sport
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2514.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2515.ts
+#EXTINF:-1,USA: NFL Network HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2516.ts
+#EXTINF:-1,USA: NFL Now HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2517.ts
+#EXTINF:-1,USA: NHL Network
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2518.ts
+#EXTINF:-1,USA: Nick
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2519.ts
+#EXTINF:-1,USA: Nickelodeon HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2520.ts
+#EXTINF:-1,USA: OWN HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2521.ts
+#EXTINF:-1,USA: PBS America
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2522.ts
+#EXTINF:-1,USA: PIX 11
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2523.ts
+#EXTINF:-1,USA: Poker Central
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2524.ts
+#EXTINF:-1,USA: Showtime
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2525.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2526.ts
+#EXTINF:-1,USA: Showtime Extreme
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2527.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2528.ts
+#EXTINF:-1,USA: Showtime West
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2529.ts
+#EXTINF:-1,USA: Spike HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2530.ts
+#EXTINF:-1,USA: Starz Cinema
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2531.ts
+#EXTINF:-1,USA: Starz Comedy
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2532.ts
+#EXTINF:-1,USA: Starz East
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2533.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2534.ts
+#EXTINF:-1,USA: Starz Encore
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2535.ts
+#EXTINF:-1,USA: SYFY HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2536.ts
+#EXTINF:-1,USA: TBS HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2537.ts
+#EXTINF:-1,USA: The Weather Channel
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2538.ts
+#EXTINF:-1,USA: TLC HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2539.ts
+#EXTINF:-1,USA: TNT
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2540.ts
+#EXTINF:-1,USA: Tru TV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2541.ts
+#EXTINF:-1,USA: USA BET
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2542.ts
+#EXTINF:-1,USA: USA Network HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2543.ts
+#EXTINF:-1,USA: UTV IE
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2544.ts
+#EXTINF:-1,USA: VH1
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2545.ts
+#EXTINF:-1,USA: Viceland
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2546.ts
+#EXTINF:-1,USA: WE TV
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2547.ts
+#EXTINF:-1,USA: WWE HD
+http://mediaiptv.xyz:8000/live/Jonny/Jonny/2548.ts
