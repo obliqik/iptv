@@ -1,4 +1,232 @@
 #EXTM3U
+#EXTINF:-1,USA/CA: A&E TV HD
+http://51.254.197.61:4545/live/conan/conan/287.ts
+#EXTINF:-1,USA/CA: ABC HD
+http://51.254.197.61:4545/live/conan/conan/136.ts
+#EXTINF:-1,USA/CA: AMC HD
+http://51.254.197.61:4545/live/conan/conan/139.ts
+#EXTINF:-1,USA/CA: BRAVO HD
+http://51.254.197.61:4545/live/conan/conan/156.ts
+#EXTINF:-1,USA/CA: CBS HD
+http://51.254.197.61:4545/live/conan/conan/159.ts
+#EXTINF:-1,USA/CA: CBC HD
+http://51.254.197.61:4545/live/conan/conan/560.ts
+#EXTINF:-1,USA/CA: CITY FHD
+http://51.254.197.61:4545/live/conan/conan/579.ts
+#EXTINF:-1,USA/CA: CI NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/938.ts
+#EXTINF:-1,USA/CA: COMEDY CENTRAL HD
+http://51.254.197.61:4545/live/conan/conan/161.ts
+#EXTINF:-1,USA/CA: CREATE HD
+http://51.254.197.61:4545/live/conan/conan/581.ts
+#EXTINF:-1,USA/CA: CTV HD
+http://51.254.197.61:4545/live/conan/conan/2818.ts
+#EXTINF:-1,USA/CA: E! ENTERTAINMENT SD
+http://51.254.197.61:4545/live/conan/conan/1772.ts
+#EXTINF:-1,USA/CA: FREEFORM HD
+http://51.254.197.61:4545/live/conan/conan/939.ts
+#EXTINF:-1,USA/CA: FOX HD
+http://51.254.197.61:4545/live/conan/conan/1619.ts
+#EXTINF:-1,USA/CA: FX HD
+http://51.254.197.61:4545/live/conan/conan/144.ts
+#EXTINF:-1,USA/CA: FXX HD
+http://51.254.197.61:4545/live/conan/conan/283.ts
+#EXTINF:-1,USA/CA: GLOBAL HD
+http://51.254.197.61:4545/live/conan/conan/583.ts
+#EXTINF:-1,USA/CA: GSN HD
+http://51.254.197.61:4545/live/conan/conan/940.ts
+#EXTINF:-1,USA/CA: HALLMARK HD
+http://51.254.197.61:4545/live/conan/conan/2037.ts
+#EXTINF:-1,USA/CA: HGTV HD
+http://51.254.197.61:4545/live/conan/conan/147.ts
+#EXTINF:-1,USA/CA: LIFETIME HD
+http://51.254.197.61:4545/live/conan/conan/148.ts
+#EXTINF:-1,USA/CA: ME TV HD
+http://51.254.197.61:4545/live/conan/conan/564.ts
+#EXTINF:-1,USA/CA: MTV HD LIVE
+http://51.254.197.61:4545/live/conan/conan/2610.ts
+#EXTINF:-1,USA/CA: NBC HD
+http://51.254.197.61:4545/live/conan/conan/149.ts
+#EXTINF:-1,USA/CA: OWN HD
+http://51.254.197.61:4545/live/conan/conan/179.ts
+#EXTINF:-1,USA/CA: PEACH TREE HD
+http://51.254.197.61:4545/live/conan/conan/1798.ts
+#EXTINF:-1,USA/CA: PBS HD
+http://51.254.197.61:4545/live/conan/conan/941.ts
+#EXTINF:-1,USA/CA: SPIKE HD
+http://51.254.197.61:4545/live/conan/conan/152.ts
+#EXTINF:-1,USA/CA: SLICE HD
+http://51.254.197.61:4545/live/conan/conan/566.ts
+#EXTINF:-1,USA/CA: SYFY HD
+http://51.254.197.61:4545/live/conan/conan/153.ts
+#EXTINF:-1,USA/CA: TBS HD
+http://51.254.197.61:4545/live/conan/conan/154.ts
+#EXTINF:-1,USA/CA: THE CW HD
+http://51.254.197.61:4545/live/conan/conan/301.ts
+#EXTINF:-1,USA/CA: TNT HD
+http://51.254.197.61:4545/live/conan/conan/155.ts
+#EXTINF:-1,USA/CA: TLC HD
+http://51.254.197.61:4545/live/conan/conan/1180.ts
+#EXTINF:-1,USA/CA: TRU TV HD
+http://51.254.197.61:4545/live/conan/conan/738.ts
+#EXTINF:-1,USA/CA: TV LAND HD
+http://51.254.197.61:4545/live/conan/conan/405.ts
+#EXTINF:-1,USA/CA: USA NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/180.ts
+#EXTINF:-1,USA/CA: ANIMAL PLANET HD
+http://51.254.197.61:4545/live/conan/conan/1037.ts
+#EXTINF:-1,USA/CA: DESTINATION AMERICA HD
+http://51.254.197.61:4545/live/conan/conan/2608.ts
+#EXTINF:-1,USA/CA: DISCOVERY CHANNEL  HD
+http://51.254.197.61:4545/live/conan/conan/163.ts
+#EXTINF:-1,USA/CA: DISCOVERY SCIENCE HD
+http://51.254.197.61:4545/live/conan/conan/1115.ts
+#EXTINF:-1,USA/CA: VH1
+http://51.254.197.61:4545/live/conan/conan/162.ts
+#EXTINF:-1,USA/CA: DIY NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/165.ts
+#EXTINF:-1,USA/CA: HISTORY HD
+http://51.254.197.61:4545/live/conan/conan/380.ts
+#EXTINF:-1,USA/CA: INVESTIGATION DISCOVERY HD
+http://51.254.197.61:4545/live/conan/conan/327.ts
+#EXTINF:-1,USA/CA: NATIONAL GEOGRAPHIC HD
+http://51.254.197.61:4545/live/conan/conan/2588.ts
+#EXTINF:-1,USA/CA: NAT GEO WILD HD
+http://51.254.197.61:4545/live/conan/conan/2587.ts
+#EXTINF:-1,USA/CA: VELOCITY HD
+http://51.254.197.61:4545/live/conan/conan/331.ts
+#EXTINF:-1,USA/CA: CINEMAX HD
+http://51.254.197.61:4545/live/conan/conan/160.ts
+#EXTINF:-1,USA/CA: CINEMAX MOREMAX HD
+http://51.254.197.61:4545/live/conan/conan/172.ts
+#EXTINF:-1,USA/CA: HBO HD
+http://51.254.197.61:4545/live/conan/conan/146.ts
+#EXTINF:-1,USA/CA: HBO FAMILY SD
+http://51.254.197.61:4545/live/conan/conan/985.ts
+#EXTINF:-1,USA/CA: HBO ZONE HD
+http://51.254.197.61:4545/live/conan/conan/1181.ts
+#EXTINF:-1,USA/CA: MOVIES HD
+http://51.254.197.61:4545/live/conan/conan/585.ts
+#EXTINF:-1,USA/CA: SHOWTIME HD
+http://51.254.197.61:4545/live/conan/conan/1778.ts
+#EXTINF:-1,USA/CA: SHOWTIME 2 HD
+http://51.254.197.61:4545/live/conan/conan/1782.ts
+#EXTINF:-1,USA/CA: STARZ EDGE HD
+http://51.254.197.61:4545/live/conan/conan/1182.ts
+#EXTINF:-1,USA/CA: STARZ ENCORE HD
+http://51.254.197.61:4545/live/conan/conan/1789.ts
+#EXTINF:-1,USA/CA: ABC NEWS SD
+http://51.254.197.61:4545/live/conan/conan/138.ts
+#EXTINF:-1,USA/CA: CNBC HD
+http://51.254.197.61:4545/live/conan/conan/631.ts
+#EXTINF:-1,USA/CA: CP 24 HD
+http://51.254.197.61:4545/live/conan/conan/580.ts
+#EXTINF:-1,USA/CA: CNN HD
+http://51.254.197.61:4545/live/conan/conan/744.ts
+#EXTINF:-1,USA/CA: FOX BUSINESS NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/1179.ts
+#EXTINF:-1,USA/CA: FOX NEWS HD
+http://51.254.197.61:4545/live/conan/conan/269.ts
+#EXTINF:-1,USA/CA: MSNBC HD
+http://51.254.197.61:4545/live/conan/conan/1118.ts
+#EXTINF:-1,USA/CA: CARTOON NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/158.ts
+#EXTINF:-1,USA/CA: DISNEY CHANNEL HD
+http://51.254.197.61:4545/live/conan/conan/746.ts
+#EXTINF:-1,USA/CA: NICK JR HD
+http://51.254.197.61:4545/live/conan/conan/164.ts
+#EXTINF:-1,USA/CA: NICKELODEON HD
+http://51.254.197.61:4545/live/conan/conan/178.ts
+#EXTINF:-1,USA/CA: NICKTOONS HD
+http://51.254.197.61:4545/live/conan/conan/1109.ts
+#EXTINF:-1,USA/CA: BEIN USA HD
+http://51.254.197.61:4545/live/conan/conan/847.ts
+#EXTINF:-1,USA/CA: BTN HD
+http://51.254.197.61:4545/live/conan/conan/403.ts
+#EXTINF:-1,USA/CA: CBS SPORTS NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/828.ts
+#EXTINF:-1,USA/CA: ESPN 2 HD
+http://51.254.197.61:4545/live/conan/conan/167.ts
+#EXTINF:-1,USA/CA: ESPN HD
+http://51.254.197.61:4545/live/conan/conan/166.ts
+#EXTINF:-1,USA/CA: ESPN NEWS HD
+http://51.254.197.61:4545/live/conan/conan/918.ts
+#EXTINF:-1,USA/CA: FOX SPORTS 1 HD
+http://51.254.197.61:4545/live/conan/conan/120.ts
+#EXTINF:-1,USA/CA: FOX SPORTS 2 HD
+http://51.254.197.61:4545/live/conan/conan/121.ts
+#EXTINF:-1,USA/CA: FOX SPORTS WEST HD
+http://51.254.197.61:4545/live/conan/conan/143.ts
+#EXTINF:-1,USA/CA: MLB NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/171.ts
+#EXTINF:-1,USA/CA: NBA TV HD
+http://51.254.197.61:4545/live/conan/conan/173.ts
+#EXTINF:-1,USA/CA: NBC GOLF HD
+http://51.254.197.61:4545/live/conan/conan/395.ts
+#EXTINF:-1,USA/CA: NBCSN HD
+http://51.254.197.61:4545/live/conan/conan/132.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/93.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 2 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/94.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 3 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/95.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 4 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/96.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 5 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/97.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 6 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/98.ts
+#EXTINF:-1,USA/CA: NBC EXTRA TIME HD 7 (LIVE ON MATCHES ONLY)
+http://51.254.197.61:4545/live/conan/conan/114.ts
+#EXTINF:-1,USA/CA: NFL NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/334.ts
+#EXTINF:-1,USA/CA: NFL NOW HD
+http://51.254.197.61:4545/live/conan/conan/175.ts
+#EXTINF:-1,USA/CA: NHL NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/176.ts
+#EXTINF:-1,USA/CA: PAC12 WASHINGTON
+http://51.254.197.61:4545/live/conan/conan/2612.ts
+#EXTINF:-1,USA/CA: PAC12 BAY AREA
+http://51.254.197.61:4545/live/conan/conan/2613.ts
+#EXTINF:-1,USA/CA: PAC12 LOS ANGLES
+http://51.254.197.61:4545/live/conan/conan/2615.ts
+#EXTINF:-1,USA/CA: PAC12 OREGON
+http://51.254.197.61:4545/live/conan/conan/2614.ts
+#EXTINF:-1,USA/CA: SEC NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/261.ts
+#EXTINF:-1,USA/CA: SPORTS NET 360 HD
+http://51.254.197.61:4545/live/conan/conan/569.ts
+#EXTINF:-1,USA/CA: SPORTS NET EAST HD
+http://51.254.197.61:4545/live/conan/conan/570.ts
+#EXTINF:-1,USA/CA: SPORTS NET ONTARIO HD
+http://51.254.197.61:4545/live/conan/conan/571.ts
+#EXTINF:-1,USA/CA: SPORTS NET PACIFIC HD
+http://51.254.197.61:4545/live/conan/conan/572.ts
+#EXTINF:-1,USA/CA: SPORTS NET WEST HD
+http://51.254.197.61:4545/live/conan/conan/573.ts
+#EXTINF:-1,USA/CA: SPORTS NET WORLD HD
+http://51.254.197.61:4545/live/conan/conan/568.ts
+#EXTINF:-1,USA/CA: SPORTS NET ONE HD
+http://51.254.197.61:4545/live/conan/conan/567.ts
+#EXTINF:-1,USA/CA: TENNIS CHANNEL HD
+http://51.254.197.61:4545/live/conan/conan/407.ts
+#EXTINF:-1,USA/CA: TSN 1 HD
+http://51.254.197.61:4545/live/conan/conan/574.ts
+#EXTINF:-1,USA/CA: TSN 2 HD
+http://51.254.197.61:4545/live/conan/conan/575.ts
+#EXTINF:-1,USA/CA: TSN 3 HD
+http://51.254.197.61:4545/live/conan/conan/576.ts
+#EXTINF:-1,USA/CA: TSN 4 HD
+http://51.254.197.61:4545/live/conan/conan/577.ts
+#EXTINF:-1,USA/CA: TSN 5 HD
+http://51.254.197.61:4545/live/conan/conan/578.ts
+#EXTINF:-1,USA/CA: THE OFFICIAL OLYMPIC CHANNEL
+http://51.254.197.61:4545/live/conan/conan/2611.ts
+#EXTINF:-1,USA/CA: WILLOW CRICKET HD
+http://51.254.197.61:4545/live/conan/conan/181.ts
+#EXTINF:-1,USA/CA: WWE NETWORK HD
+http://51.254.197.61:4545/live/conan/conan/87.ts
 #EXTINF:-1,USA:NBC XTRA 1 HD
 http://mediaiptv.xyz:8000/live/Jonny/Jonny/2399.ts
 #EXTINF:-1,USA:NBC XTRA 2 HD
