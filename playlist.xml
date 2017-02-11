@@ -1,6 +1,579 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <stream>
+<item>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]02-10-2017 [COLOR lime]****[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>USA/CA: A&E TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/287.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ABC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/136.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: AMC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/139.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: BRAVO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/156.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/159.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/560.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CITY FHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/579.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CI NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/938.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: COMEDY CENTRAL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/161.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CREATE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/581.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2818.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: E! ENTERTAINMENT SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1772.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FREEFORM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/939.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1619.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/144.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FXX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/283.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: GLOBAL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/583.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: GSN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/940.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HALLMARK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2037.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HGTV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/147.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: LIFETIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/148.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ME TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/564.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: MTV HD LIVE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2610.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/149.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/179.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PEACH TREE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1798.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/941.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPIKE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/152.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SLICE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/566.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/153.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TBS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/154.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: THE CW HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/301.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TNT HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/155.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TLC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1180.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TRU TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/738.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TV LAND HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/405.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: USA NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/180.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ANIMAL PLANET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1037.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: DESTINATION AMERICA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2608.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: DISCOVERY CHANNEL  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/163.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: DISCOVERY SCIENCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1115.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/162.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: DIY NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/165.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HISTORY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/380.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: INVESTIGATION DISCOVERY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/327.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NATIONAL GEOGRAPHIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2588.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NAT GEO WILD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2587.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: VELOCITY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/331.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CINEMAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/160.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CINEMAX MOREMAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/172.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/146.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HBO FAMILY SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/985.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: HBO ZONE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1181.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: MOVIES HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/585.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SHOWTIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1778.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SHOWTIME 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1782.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: STARZ EDGE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1182.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: STARZ ENCORE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1789.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ABC NEWS SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/138.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CNBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/631.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CP 24 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/580.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/744.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX BUSINESS NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1179.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/269.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: MSNBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1118.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CARTOON NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/158.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: DISNEY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/746.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NICK JR HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/164.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NICKELODEON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/178.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NICKTOONS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/1109.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: BEIN USA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/847.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: BTN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/403.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: CBS SPORTS NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/828.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ESPN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/167.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/166.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: ESPN NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX SPORTS 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/120.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX SPORTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/121.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: FOX SPORTS WEST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/143.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: MLB NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/171.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBA TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/173.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC GOLF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/395.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBCSN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/132.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/93.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 2 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/94.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 3 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/95.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 4 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/96.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 5 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/97.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 6 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/98.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NBC EXTRA TIME HD 7 (LIVE ON MATCHES ONLY)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/114.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NFL NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/334.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NFL NOW HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/175.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: NHL NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/176.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PAC12 WASHINGTON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2612.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PAC12 BAY AREA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2613.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PAC12 LOS ANGLES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2615.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: PAC12 OREGON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2614.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SEC NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/261.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET 360 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/569.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/570.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET ONTARIO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/571.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET PACIFIC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/572.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET WEST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/573.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET WORLD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/568.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: SPORTS NET ONE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/567.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TENNIS CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/407.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TSN 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/574.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TSN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/575.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/576.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TSN 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/577.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/578.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: THE OFFICIAL OLYMPIC CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/2611.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA/CA: WILLOW CRICKET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.61:4545/live/conan/conan/181.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+
 
 
 <item>
