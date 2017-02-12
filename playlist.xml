@@ -8,62 +8,32 @@
 </item>
 
 <item>
-<title>USA: VirginTV Radio</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17366.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: TVO KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17369.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: TMN ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17370.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: OMNI TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17377.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: NBC TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17380.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: NBC GOLF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17361.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: NBA</title>
+<title>NBA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17381.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: LMN</title>
+<title>LMN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17384.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: FMLY CHANNEL</title>
+<title>FMLY CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17391.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: CRCOL HD</title>
+<title>CRCOL HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17396.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: CNN</title>
+<title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17399.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: AMC</title>
+<title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17404.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
@@ -78,312 +48,312 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: A&E</title>
+<title>A&E</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24915.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ABC HD</title>
+<title>ABC HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24914.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ABC NEWS HD</title>
+<title>ABC NEWS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24918.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AFN SPORTS 2</title>
+<title>AFN SPORTS 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24855.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AMC</title>
+<title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24883.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ANIMAL PLANET</title>
+<title>ANIMAL PLANET</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24913.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ASTRO SUPERSPORT 1</title>
+<title>ASTRO SUPERSPORT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24874.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ASTRO SUPERSPORT 2</title>
+<title>ASTRO SUPERSPORT 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24875.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ASTRO SUPERSPORT 3</title>
+<title>ASTRO SUPERSPORT 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24876.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BEIN SPORTS HD</title>
+<title>BEIN SPORTS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24858.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BET</title>
+<title>BET</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24922.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BRAVO HD</title>
+<title>BRAVO HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24901.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BYU SPORTS TV HD</title>
+<title>BYU SPORTS TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24879.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: C-SPAN3</title>
+<title>C-SPAN3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24854.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CBS NEWS HD</title>
+<title>CBS NEWS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24917.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CBS SPORT NETWORK</title>
+<title>CBS SPORT NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24916.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CNBC</title>
+<title>CNBC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CNN</title>
+<title>CNN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24899.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CPAC</title>
+<title>CPAC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24911.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CW HD</title>
+<title>CW HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24909.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: DISCOVERY CHANNEL HD</title>
+<title>DISCOVERY CHANNEL HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24904.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: DISCOVERY SCIENCE HD</title>
+<title>DISCOVERY SCIENCE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24903.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ESPN</title>
+<title>ESPN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24872.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ESPN 2</title>
+<title>ESPN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24873.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX NEWS</title>
+<title>FOX NEWS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24893.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORT 1</title>
+<title>FOX SPORT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24848.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORT 2</title>
+<title>FOX SPORT 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24850.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORT 506</title>
+<title>FOX SPORT 506</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24851.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORTS 1 US HD</title>
+<title>FOX SPORTS 1 US HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24847.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORTS 2 US HD</title>
+<title>FOX SPORTS 2 US HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24849.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FX HD</title>
+<title>FX HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24892.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO</title>
+<title>HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24886.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO COMEDY HD</title>
+<title>HBO COMEDY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24889.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO SIGNATURE HD</title>
+<title>HBO SIGNATURE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24887.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO ZONE</title>
+<title>HBO ZONE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24888.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HISTORY HD</title>
+<title>HISTORY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24905.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ID</title>
+<title>ID</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24885.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: LIFETIME HD</title>
+<title>LIFETIME HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24898.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NASA TV HD</title>
+<title>NASA TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24881.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NAT GEO</title>
+<title>NAT GEO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24908.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBA TV HD</title>
+<title>NBA TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24846.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBC GOLF</title>
+<title>NBC GOLF</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24861.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBC HD</title>
+<title>NBC HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24862.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NFL NETWORK</title>
+<title>NFL NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24871.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: PAC 12 WASHINGTON HD</title>
+<title>PAC 12 WASHINGTON HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24844.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SPIKE HD</title>
+<title>SPIKE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24907.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SPORT NET360</title>
+<title>SPORT NET360</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24860.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ CINEMA</title>
+<title>STARZ CINEMA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24919.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ EAST</title>
+<title>STARZ EAST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24920.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ EDGE</title>
+<title>STARZ EDGE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24921.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SYFY HD</title>
+<title>SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24890.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TBS</title>
+<title>TBS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24882.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 1</title>
+<title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24839.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 2</title>
+<title>TSN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24840.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 3</title>
+<title>TSN 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24841.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 4</title>
+<title>TSN 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24842.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 5</title>
+<title>TSN 5</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: USA NETWORK HD</title>
+<title>USA NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: WILLOW CRICKET HD</title>
+<title>WILLOW CRICKET HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24857.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: RT AMERICA</title>
+<title>RT AMERICA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24900.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AFN MOVIE</title>
+<title>AFN MOVIE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/26163.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Bloomberg</title>
+<title>Bloomberg</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/25730.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
