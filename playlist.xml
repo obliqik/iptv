@@ -673,19 +673,20 @@
 
 <item>
 <title>XXX TR VOD |  Female Fake Taxi 11 Elicia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/movie/felice/15122016/5012.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>http://193.70.116.156:8080/movie/felice/15122016/5012.mp4</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>XXX TR VOD |  Female Fake Taxi 7 Elicia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/movie/felice/15122016/5021.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>http://193.70.116.156:8080/movie/felice/15122016/5021.mp4</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>XXX TR VOD |  Female Fake Taxi 9 Elicia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/movie/felice/15122016/5023.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>http://193.70.116.156:8080/movie/felice/15122016/5023.mp4</link>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>XXX: Primafila Hot Club 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://149.202.75.24:8000/live/dreamserver/dreamserver/821.ts&amp;streamtype=TSDOWNLOADER</link>
