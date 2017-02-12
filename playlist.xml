@@ -7,24 +7,44 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>NBA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17381.ts&amp;streamtype=TSDOWNLOADER</link>
+ <item>
+<title>USA NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24894.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+  <item>
+<title>STARZ CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24919.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>LMN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17384.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>STARZ EAST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24920.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>FMLY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17391.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>STARZ EDGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24921.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CRCOL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17396.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24886.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24889.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO SIGNATURE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24887.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24888.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -202,26 +222,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24892.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24886.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24889.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO SIGNATURE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24887.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO ZONE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24888.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>HISTORY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24905.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -283,20 +284,26 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>STARZ CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24919.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NBA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17381.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>STARZ EAST</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24920.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>LMN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17384.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>STARZ EDGE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24921.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>FMLY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17391.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>CRCOL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/17396.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24890.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -332,11 +339,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24894.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>WILLOW CRICKET HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24857.ts&amp;streamtype=TSDOWNLOADER</link>
