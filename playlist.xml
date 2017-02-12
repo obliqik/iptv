@@ -22,6 +22,106 @@
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
+ 
+<item>
+<title>HBO EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/371.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/373.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO SIGNATURE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/372.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARZ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/374.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARZ EDGE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/377.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARZ KIDZ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/375.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARZ COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/376.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STARZ BLACK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/378.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ENCORE WESTERN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/379.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THRILLER MAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/384.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOREMAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/381.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CINEMAX EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/380.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ACTION MAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/383.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>5STAR MAX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/382.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TMC EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/387.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SHOWTIME EAST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/385.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TCM HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/368.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOVIE TIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/369.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ACTION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://176.31.231.205:8000/live/habib/habib/370.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
   <item>
 <title>STARZ CINEMA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/24919.ts&amp;streamtype=TSDOWNLOADER</link>
