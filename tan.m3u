@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:0,Sky Action
+http://185.53.163.72:9981/stream/channelid/381276555
+#EXTINF:0,Sky Comedy
+http://185.53.163.72:9981/stream/channelid/511219469
+#EXTINF:0,Sky Disney
+http://185.53.163.72:9981/stream/channelid/1792691457
+#EXTINF:0,Sky Family
+http://185.53.163.72:9981/stream/channelid/953008490
+#EXTINF:0,Sky Greats
+http://185.53.163.72:9981/stream/channelid/1314398350
+#EXTINF:0,Sky Prem+1
+http://185.53.163.72:9981/stream/channelid/604345621
+#EXTINF:0,Sky Premiere
+http://185.53.163.72:9981/stream/channelid/1331968556
+#EXTINF:0,Sky ScFi/Horror
+http://185.53.163.72:9981/stream/channelid/180960498
+#EXTINF:0,Sky Select
+http://185.53.163.72:9981/stream/channelid/854393875
+#EXTINF:0,Sky Sp NewsHQ
+http://185.53.163.72:9981/stream/channelid/1405996306
+#EXTINF:0,Sky Sports 2
+http://185.53.163.72:9981/stream/channelid/1431602713
+#EXTINF:0,Sky Sports 3
+http://185.53.163.72:9981/stream/channelid/797519265
+#EXTINF:0,Sky Thriller
+http://185.53.163.72:9981/stream/channelid/228080914
+#EXTINF:0,Sky Valentine
+http://185.53.163.72:9981/stream/channelid/665828344
 #EXTINF:0,3e
 http://185.53.163.73:9981/stream/channelid/37687195
 #EXTINF:0,5 USA
