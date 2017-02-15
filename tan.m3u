@@ -1,4 +1,134 @@
 #EXTM3U
+#EXTINF:0,3e
+http://185.53.163.73:9981/stream/channelid/37687195
+#EXTINF:0,5 USA
+http://185.53.163.73:9981/stream/channelid/369928111
+#EXTINF:0,alibi
+http://185.53.163.73:9981/stream/channelid/1260197761
+#EXTINF:0,Animal Planet
+http://185.53.163.73:9981/stream/channelid/893874200
+#EXTINF:0,At The Races
+http://185.53.163.73:9981/stream/channelid/1458400384
+#EXTINF:0,BBC NEWS
+http://185.53.163.73:9981/stream/channelid/1004923851
+#EXTINF:0,BBC One Lon
+http://185.53.163.73:9981/stream/channelid/1523387068
+#EXTINF:0,BBC Parliament
+http://185.53.163.73:9981/stream/channelid/1355613084
+#EXTINF:0,BBC Two Eng
+http://185.53.163.73:9981/stream/channelid/94326096
+#EXTINF:0,Channel 4
+http://185.53.163.73:9981/stream/channelid/445513232
+#EXTINF:0,Channel 5
+http://185.53.163.73:9981/stream/channelid/1099017521
+#EXTINF:0,Disc.History
+http://185.53.163.73:9981/stream/channelid/2123274239
+#EXTINF:0,Disc.Science
+http://185.53.163.73:9981/stream/channelid/1119868544
+#EXTINF:0,Discovery
+http://185.53.163.73:9981/stream/channelid/1143936344
+#EXTINF:0,Disney Chnl
+http://185.53.163.73:9981/stream/channelid/1010595777
+#EXTINF:0,Disney Junior
+http://185.53.163.73:9981/stream/channelid/415265989
+#EXTINF:0,Disney XD
+http://185.53.163.73:9981/stream/channelid/1694728179
+#EXTINF:0,Drama
+http://185.53.163.73:9981/stream/channelid/496826187
+#EXTINF:0,E!
+http://185.53.163.73:9981/stream/channelid/1634501559
+#EXTINF:0,e4
+http://185.53.163.73:9981/stream/channelid/1780063958
+#EXTINF:0,Eden
+http://185.53.163.73:9981/stream/channelid/2137150810
+#EXTINF:0,Film4
+http://185.53.163.73:9981/stream/channelid/1357792496
+#EXTINF:0,FOX
+http://185.53.163.73:9981/stream/channelid/2017576982
+#EXTINF:0,GOLD
+http://185.53.163.73:9981/stream/channelid/1776079558
+#EXTINF:0,History
+http://185.53.163.73:9981/stream/channelid/50371493
+#EXTINF:0,Home & Health
+http://185.53.163.73:9981/stream/channelid/1412203726
+#EXTINF:0,ID
+http://185.53.163.73:9981/stream/channelid/173752442
+#EXTINF:0,ITV
+http://185.53.163.73:9981/stream/channelid/148096267
+#EXTINF:0,ITV2
+http://185.53.163.73:9981/stream/channelid/1184438439
+#EXTINF:0,ITV3
+http://185.53.163.73:9981/stream/channelid/110432161
+#EXTINF:0,ITV4
+http://185.53.163.73:9981/stream/channelid/366757899
+#EXTINF:0,ITVBe
+http://185.53.163.73:9981/stream/channelid/1979818562
+#EXTINF:0,LFCTV
+http://185.53.163.73:9981/stream/channelid/1697904201
+#EXTINF:0,MTV
+http://185.53.163.73:9981/stream/channelid/1665413240
+#EXTINF:0,MTV HITS
+http://185.53.163.73:9981/stream/channelid/273224140
+#EXTINF:0,MUTV
+http://185.53.163.73:9981/stream/channelid/347129378
+#EXTINF:0,Nat Geo
+http://185.53.163.73:9981/stream/channelid/1365972990
+#EXTINF:0,Nat Geo Wild
+http://185.53.163.73:9981/stream/channelid/2145173028
+#EXTINF:0,Sky Arts
+http://185.53.163.73:9981/stream/channelid/1353487008
+#EXTINF:0,Sky Atlantic+1
+http://185.53.163.73:9981/stream/channelid/1168952108
+#EXTINF:0,Sky Living
+http://185.53.163.73:9981/stream/channelid/292878776
+#EXTINF:0,Sky Sports 1
+http://185.53.163.73:9981/stream/channelid/559337302
+#EXTINF:0,Sky Sports 3
+http://185.53.163.73:9981/stream/channelid/1010891870
+#EXTINF:0,Sky Sports 4
+http://185.53.163.73:9981/stream/channelid/1804322985
+#EXTINF:0,Sky Sports 5
+http://185.53.163.73:9981/stream/channelid/1515011870
+#EXTINF:0,Sky Sports F1
+http://185.53.163.73:9981/stream/channelid/1175922723
+#EXTINF:0,Sky1
+http://185.53.163.73:9981/stream/channelid/519224715
+#EXTINF:0,Sky2
+http://185.53.163.73:9981/stream/channelid/1339273446
+#EXTINF:0,STV
+http://185.53.163.73:9981/stream/channelid/324057851
+#EXTINF:0,Syfy
+http://185.53.163.73:9981/stream/channelid/537454467
+#EXTINF:0,TLC
+http://185.53.163.73:9981/stream/channelid/751963620
+#EXTINF:0,UTV
+http://185.53.163.73:9981/stream/channelid/1294495950
+#EXTINF:0,VIVA
+http://185.53.163.73:9981/stream/channelid/1614244452
+#EXTINF:0,YESTERDAY
+http://185.53.163.73:9981/stream/channelid/1937651572
+#EXTINF:-1,Animal Planet UK
+http://185.53.163.73:9981/stream/channelid/893874200
+#EXTINF:-1,Discovery Channel UK
+http://185.53.163.73:9981/stream/channelid/1143936344
+#EXTINF:-1,Discovey History UK
+http://185.53.163.73:9981/stream/channelid/2123274239
+#EXTINF:-1,Discovery Science UK
+http://185.53.163.73:9981/stream/channelid/1119868544
+#EXTINF:-1,History Channel UK
+http://185.53.163.73:9981/stream/channelid/50371493
+#EXTINF:-1,At The Races UK
+http://185.53.163.73:9981/stream/channelid/1458400384
+#EXTINF:-1,BBC One UK
+http://185.53.163.73:9981/stream/channelid/1523387068
+#EXTINF:-1,BBC Two UK
+http://185.53.163.73:9981/stream/channelid/94326096
+#EXTINF:-1,BBC News UK
+http://185.53.163.73:9981/stream/channelid/1004923851
+#EXTINF:-1,Fox US
+http://185.53.163.73:9981/stream/channelid/2017576982
+#EXTINF:-1,E!
+http://185.53.163.73:9981/stream/channelid/1634501559
 #EXTINF:-1,USA: A&E
 http://mediaiptv.xyz:8000/live/Alan1/Alan1/2442.ts
 #EXTINF:-1,USA: A&E HD
