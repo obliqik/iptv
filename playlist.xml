@@ -2,48 +2,8 @@
 
 <stream>
 <item>
-<title>[COLOR white]*** [COLOR dodgerblue]LIVETV [COLOR gold]Updated 02-17-2017 [COLOR white]***[/COLOR]</title>
+<title>[COLOR white]*** [COLOR dodgerblue]LIVE[COLOR white]TV [COLOR gold]Updated 02-18-2017 [COLOR white]***[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyThriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/795.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: Sky Movie Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/793.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyPremier</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/792.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyFamily</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/790.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyDrama</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/789.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyDisney</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/788.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyComedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/787.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>: SkyAction</title>
-<link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/784.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
