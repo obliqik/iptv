@@ -1,16 +1,19 @@
 #EXTM3U
+#EXTINF:-1,USA:USA Net
+http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2918.ts
 #EXTINF:-1,US: Cinemax
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5094.ts
-#EXTINF:-1,US: HBO ZONE
-http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2209.ts
+#EXTINF:-1,US: HBO
+http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5088.ts
+
 #EXTINF:-1,US: HBO SIGNATURE
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5085.ts
 #EXTINF:-1,US: HBO Family
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5086.ts
 #EXTINF:-1,US: HBO East
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5087.ts
-#EXTINF:-1,US: HBO
-http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5088.ts
+#EXTINF:-1,US: HBO ZONE
+http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2209.ts
 #EXTINF:-1,US: Starz Edge
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5065.ts
 #EXTINF:-1,US: Starz East
@@ -22,9 +25,6 @@ http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2919.ts
 #EXTINF:-1,USA: SHOW TIME
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/3764.ts
 
-
-#EXTINF:-1,USA:USA Net
-http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2918.ts
 #EXTINF:-1,USA:Poker Central
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/2921.ts
 #EXTINF:-1,USA:Nick
@@ -41,7 +41,7 @@ http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5061.ts
 #EXTINF:-1,US: SyFy US
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/5062.ts
 
-#EXTINF:-1,USA: CBS NEW,S
+#EXTINF:-1,USA: CBS NEWS
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/3762.ts
 #EXTINF:-1,USA: BET
 http://clientportalpro.com:2500/live/guw0tVl928/DBSsajewrW/3763.ts
