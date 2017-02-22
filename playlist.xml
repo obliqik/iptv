@@ -8,6 +8,295 @@
 </item>
 
 
+<item>
+<title>ABC NEWS</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX NEWS</title>
+<link>http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS NEWS HD</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN</title>
+<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BLOOMBERG HD</title>
+<link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC WORLD NEWS</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRU TV</title>
+<link>http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>H2</title>
+<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY CHANNEL HD</title>
+<link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET HD</title>
+<link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NASA TV HD</title>
+<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK WORLD HD</title>
+<link>https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Arirang</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MBC</title>
+<link>http://119.202.61.202:1935/live/livetv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT DOCUMENTARY CHANNEL</title>
+<link>http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RAI NEWS</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HISTORY LAB – ITÁLIA</title>
+<link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DW HD</title>
+<link>http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TV5 MONDE</title>
+<link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA</title>
+<link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nicktoons</title>
+<link>http://208.86.19.13:8080/live/15.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TNT</title>
+<link>http://208.86.19.13:8080/live/16.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNN</title>
+<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Freeform</title>
+<link>http://208.86.19.13:8080/live/27.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Discovery</title>
+<link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC America</title>
+<link>http://208.86.19.13:8080/live/34.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBS 2</title>
+<link>http://208.86.19.13:8080/live/101.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NBC 4</title>
+<link>http://208.86.19.123:8080/live/102.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox 5</title>
+<link>http://208.86.19.13:8080/live/103.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ABC 7</title>
+<link>http://208.86.19.123:8080/live/104.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>My 9</title>
+<link>http://208.86.19.13:8080/live/105.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PIX 11</title>
+<link>http://208.86.19.13:8080/live/106.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PBS THIRTEEN</title>
+<link>http://208.86.19.123:8080/live/107.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>WLIW 21</title>
+<link>http://208.86.19.13:8080/live/108.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ION</title>
+<link>http://208.86.19.123:8080/live/109.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CNN</title>
+<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ME TV</title>
+<link>http://208.86.19.13:8080/live/32.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FILM ASIA</title>
+<link>http://208.86.19.13:8080/live/835.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PLUS TV</title>
+<link>http://208.86.19.13:8080/live/837.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BTV WORLD</title>
+<link>http://208.86.19.13:8080/live/836.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CINEMA-1 TV</title>
+<link>http://208.86.19.13:8080/live/840.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OZTV</title>
+<link>http://208.86.19.13:8080/live/103.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PIX2</title>
+<link>http://208.86.19.13:8080/live/106.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EI</title>
+<link>http://208.86.19.13:8080/live/108.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISH TV</title>
+<link>http://208.86.19.13:8080/live/628.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DUNYA TV</title>
+<link>http://208.86.19.13:8080/live/629.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DWV</title>
+<link>http://208.86.19.13:8080/live/630.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EXNEWS</title>
+<link>http://208.86.19.13:8080/live/631.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NATIONAL</title>
+<link>http://208.86.19.13:8080/live/632.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>9 KANAL</title>
+<link>http://208.86.19.13:8080/live/803.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ETV</title>
+<link>http://208.86.19.13:8080/live/804.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>JAMUNA TV</title>
+<link>http://208.86.19.13:8080/live/805.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ATN</title>
+<link>http://208.86.19.13:8080/live/806.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>A PLUS</title>
+<link>http://208.86.19.13:8080/live/831.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TV</title>
+<link>http://208.86.19.13:8080/live/832.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STAR LITE</title>
+<link>http://208.86.19.13:8080/live/834.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
 
 
 
