@@ -1,4 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1,---- OFFLINE ATM -------------
+#EXTINF:-1,USA Network
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1,CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+#EXTINF:-1,Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1,BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1,CBS 2
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1,NBC 4
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,ABC 7
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1,My 9
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+#EXTINF:-1,PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,PBS THIRTEEN
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+#EXTINF:-1,WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,ION
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+#EXTINF:-1,USA: CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,ME TV
+http://208.86.19.13:8080/live/32.stream/index.m3u8
+#EXTINF:-1,FILM ASIA
+http://208.86.19.13:8080/live/835.stream/index.m3u8
+#EXTINF:-1,PLUS TV
+http://208.86.19.13:8080/live/837.stream/index.m3u8
+#EXTINF:-1,BTV WORLD
+http://208.86.19.13:8080/live/836.stream/index.m3u8
+#EXTINF:-1,CINEMA-1 TV
+http://208.86.19.13:8080/live/840.stream/index.m3u8
+#EXTINF:-1,OZTV
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,PIX2
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,EI
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,DISH TV
+http://208.86.19.13:8080/live/628.stream/index.m3u8
+#EXTINF:-1,DUNYA TV
+http://208.86.19.13:8080/live/629.stream/index.m3u8
+#EXTINF:-1,DWV
+http://208.86.19.13:8080/live/630.stream/index.m3u8
+#EXTINF:-1,EXNEWS
+http://208.86.19.13:8080/live/631.stream/index.m3u8
+#EXTINF:-1,NATIONAL
+http://208.86.19.13:8080/live/632.stream/index.m3u8
+#EXTINF:-1,9 KANAL
+http://208.86.19.13:8080/live/803.stream/index.m3u8
+#EXTINF:-1,ETV
+http://208.86.19.13:8080/live/804.stream/index.m3u8
+#EXTINF:-1,JAMUNA TV
+http://208.86.19.13:8080/live/805.stream/index.m3u8
+#EXTINF:-1,ATN
+http://208.86.19.13:8080/live/806.stream/index.m3u8
+#EXTINF:-1,A PLUS
+http://208.86.19.13:8080/live/831.stream/index.m3u8
+#EXTINF:-1,TV
+http://208.86.19.13:8080/live/832.stream/index.m3u8
+#EXTINF:-1,STAR LITE
+http://208.86.19.13:8080/live/834.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
 
