@@ -6,6 +6,12 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
+  
+<item>
+<title>US: USA NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24894.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
 <item>
 <title>US: HBO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24886.ts&amp;streamtype=TSDOWNLOADER</link>
@@ -41,11 +47,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24921.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>US: USA NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24894.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: TVO KIDS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17369.ts&amp;streamtype=TSDOWNLOADER</link>
