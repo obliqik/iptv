@@ -2,10 +2,379 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 02-21-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 02-23-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>US: HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24886.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24889.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO SIGNATURE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24887.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24888.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24919.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ EAST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24920.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ EDGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24921.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: USA NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24894.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: TVO KIDS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17369.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: TMN ACTION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17370.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: OMNI TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17377.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBC TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17380.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBC GOLF HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17361.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: NBA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17381.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: LMN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17384.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: FMLY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17391.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CRCOL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17396.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17399.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/17404.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US-National-Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/5811.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US-CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/5821.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24915.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: SPIKE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24907.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24890.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24882.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ABC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24914.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ABC NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: AFN SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24855.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24883.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ANIMAL PLANET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24913.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ASTRO SUPERSPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24874.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ASTRO SUPERSPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24875.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ASTRO SUPERSPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24876.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BEIN SPORTS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24858.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24922.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BRAVO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24901.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BYU SPORTS TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24879.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: C-SPAN3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24854.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CBS NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CBS SPORT NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24916.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24897.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24899.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CPAC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24911.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CW HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24909.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: DISCOVERY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24904.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: DISCOVERY SCIENCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24903.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24872.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24873.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24893.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24848.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24850.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORT 506</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24851.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORTS 1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24847.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORTS 2 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24849.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24892.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HISTORY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24905.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24885.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: LIFETIME HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24898.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NASA TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24881.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NAT GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24908.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBA TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24846.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBC GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24861.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24862.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NFL NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24871.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: PAC 12 WASHINGTON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24844.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: SPORT NET360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24860.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24839.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24840.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24841.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24842.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24843.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: WILLOW CRICKET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24857.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: RT AMERICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24900.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
 
 
 <item>
