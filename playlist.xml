@@ -8,12 +8,12 @@
 </item>
   
 <item>
-<title>US: USA NETWORK HD</title>
+<title>USA NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/admin/admin/24894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title> 360 North</title>
+<title>360 North</title>
 <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/miku211@gmail.com/tbQm93Ir91/23410.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
