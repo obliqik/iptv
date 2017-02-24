@@ -1,5 +1,84 @@
 #EXTM3U
 
+#EXTINF:-1,*-*-*-*-*USA_ARENA*-*-*-*-*
+http://37.187.161.210:8080/live/sony/sony/1741.ts
+#EXTINF:-1,USA_VERSUS_HD
+http://37.187.161.210:8080/live/sony/sony/2060.ts
+#EXTINF:-1,USA_NBA_TV
+http://37.187.161.210:8080/live/sony/sony/2057.ts
+#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
+http://37.187.161.210:8080/live/sony/sony/2054.ts
+#EXTINF:-1,USA_CBS_NEWS_HD
+http://37.187.161.210:8080/live/sony/sony/2058.ts
+#EXTINF:-1,USA_5_USA
+http://37.187.161.210:8080/live/sony/sony/2055.ts
+#EXTINF:-1,Arena_Sport_1
+http://37.187.161.210:8080/live/sony/sony/2046.ts
+#EXTINF:-1,Arena_Sport_2
+http://37.187.161.210:8080/live/sony/sony/2047.ts
+#EXTINF:-1,Arena_Sport_3
+http://37.187.161.210:8080/live/sony/sony/2048.ts
+#EXTINF:-1,Arena_Sport_4
+http://37.187.161.210:8080/live/sony/sony/2049.ts
+#EXTINF:-1,*-*-*-*-*CANAL_HOLANDA*-*-*-*-*
+http://37.187.161.210:8080/live/sony/sony/2108.ts
+#EXTINF:-1,Film 1 Action
+http://37.187.161.210:8080/live/sony/sony/2109.ts
+#EXTINF:-1,Film 1 Comedy
+http://37.187.161.210:8080/live/sony/sony/2113.ts
+#EXTINF:-1,Film 1 Premiere
+http://37.187.161.210:8080/live/sony/sony/2110.ts
+#EXTINF:-1,Film 1 Spotlight
+http://37.187.161.210:8080/live/sony/sony/2111.ts
+#EXTINF:-1,Film 1 Sundance
+http://37.187.161.210:8080/live/sony/sony/2112.ts
+#EXTINF:-1,Fox Sports 1
+http://37.187.161.210:8080/live/sony/sony/2129.ts
+#EXTINF:-1,Fox Sports 2
+http://37.187.161.210:8080/live/sony/sony/2130.ts
+#EXTINF:-1,Fox Sports 3
+http://37.187.161.210:8080/live/sony/sony/2131.ts
+#EXTINF:-1,HBO 1
+http://37.187.161.210:8080/live/sony/sony/2114.ts
+#EXTINF:-1,HBO 2
+http://37.187.161.210:8080/live/sony/sony/2115.ts
+#EXTINF:-1,HBO 3
+http://37.187.161.210:8080/live/sony/sony/2116.ts
+#EXTINF:-1,NPO 1
+http://37.187.161.210:8080/live/sony/sony/2117.ts
+#EXTINF:-1,NPO 2
+http://37.187.161.210:8080/live/sony/sony/2118.ts
+#EXTINF:-1,NPO 3
+http://37.187.161.210:8080/live/sony/sony/2119.ts
+#EXTINF:-1,RTL 4
+http://37.187.161.210:8080/live/sony/sony/2120.ts
+#EXTINF:-1,SBS 6
+http://37.187.161.210:8080/live/sony/sony/2122.ts
+#EXTINF:-1,RTL 5
+http://37.187.161.210:8080/live/sony/sony/2121.ts
+#EXTINF:-1,RTL 7
+http://37.187.161.210:8080/live/sony/sony/2124.ts
+#EXTINF:-1,RTL 8
+http://37.187.161.210:8080/live/sony/sony/2123.ts
+#EXTINF:-1,SBS 9
+http://37.187.161.210:8080/live/sony/sony/2125.ts
+#EXTINF:-1,*-*-*-*-*SKY_ENGLAND*-*-*-*-*
+http://37.187.161.210:8080/live/sony/sony/1986.ts
+#EXTINF:-1,SKY_MOVIES_SYFY_HORROR
+http://37.187.161.210:8080/live/sony/sony/1614.ts
+#EXTINF:-1,SKY_MOVIES_THRILLER
+http://37.187.161.210:8080/live/sony/sony/1774.ts
+#EXTINF:-1,SKY_MOVIES_SCIFI
+http://37.187.161.210:8080/live/sony/sony/1775.ts
+#EXTINF:-1,SKY_MOVIES_FAMILY
+http://37.187.161.210:8080/live/sony/sony/1776.ts
+#EXTINF:-1,SKY_MOVIES_DISNEY
+http://37.187.161.210:8080/live/sony/sony/1777.ts
+#EXTINF:-1,Sky_Showcase_HD
+http://37.187.161.210:8080/live/sony/sony/1456.ts
+#EXTINF:-1,Sky_Select_HD
+http://37.187.161.210:8080/live/sony/sony/1457.ts
+
 
 
 #EXTINF:-1,SKY_MOVIES_SYFY_HORROR
