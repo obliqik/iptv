@@ -1,4 +1,7 @@
 #EXTM3U
+
+
+
 #EXTINF:-1,SKY_MOVIES_SYFY_HORROR
 http://37.187.161.210:8080/live/reda/reda/1614.ts
 #EXTINF:-1,SKY_MOVIES_THRILLER
@@ -73,6 +76,121 @@ http://37.187.161.210:8080/live/reda/reda/2047.ts
 http://37.187.161.210:8080/live/reda/reda/2048.ts
 #EXTINF:-1,Arena_Sport_4
 http://37.187.161.210:8080/live/reda/reda/2049.ts
+
+#EXTINF:-1,****CANADA*****
+http://ip.cs4ip.com:8000/live/1111/1111/5302.ts
+#EXTINF:-1,CA: ABC HD
+http://ip.cs4ip.com:8000/live/1111/1111/5247.ts
+#EXTINF:-1,CA: ABC SPARK HD
+http://ip.cs4ip.com:8000/live/1111/1111/5248.ts
+#EXTINF:-1,CA: Aljazeera english
+http://ip.cs4ip.com:8000/live/1111/1111/5294.ts
+#EXTINF:-1,CA: AMC_HD
+http://ip.cs4ip.com:8000/live/1111/1111/5299.ts
+#EXTINF:-1,CA: BET
+http://ip.cs4ip.com:8000/live/1111/1111/5249.ts
+#EXTINF:-1,CA: BRAVO HD
+http://ip.cs4ip.com:8000/live/1111/1111/5250.ts
+#EXTINF:-1,CA: CANAL D
+http://ip.cs4ip.com:8000/live/1111/1111/5278.ts
+#EXTINF:-1,CA: CARTOON NETWORK HD
+http://ip.cs4ip.com:8000/live/1111/1111/5251.ts
+#EXTINF:-1,CA: CBC HD
+http://ip.cs4ip.com:8000/live/1111/1111/5252.ts
+#EXTINF:-1,CA: CBC TORONTO
+http://ip.cs4ip.com:8000/live/1111/1111/5283.ts
+#EXTINF:-1,CA: CITY HD
+http://ip.cs4ip.com:8000/live/1111/1111/5253.ts
+#EXTINF:-1,CA: COMEDY CHANNEL
+http://ip.cs4ip.com:8000/live/1111/1111/5254.ts
+#EXTINF:-1,CA: comedygold
+http://ip.cs4ip.com:8000/live/1111/1111/5264.ts
+#EXTINF:-1,CA: COTTAGE LIFE
+http://ip.cs4ip.com:8000/live/1111/1111/5293.ts
+#EXTINF:-1,CA: CP24 HD
+http://ip.cs4ip.com:8000/live/1111/1111/5255.ts
+#EXTINF:-1,CA: CTV HD
+http://ip.cs4ip.com:8000/live/1111/1111/5256.ts
+#EXTINF:-1,CA: DEJAVIEW
+http://ip.cs4ip.com:8000/live/1111/1111/5274.ts
+#EXTINF:-1,CA: DISCOVERY SCIENCE HD
+http://ip.cs4ip.com:8000/live/1111/1111/5258.ts
+#EXTINF:-1,CA: DISNEY Junior HD
+http://ip.cs4ip.com:8000/live/1111/1111/5260.ts
+#EXTINF:-1,CA: DISNEY_XD
+http://ip.cs4ip.com:8000/live/1111/1111/5277.ts
+#EXTINF:-1,CA: E HD
+http://ip.cs4ip.com:8000/live/1111/1111/5246.ts
+#EXTINF:-1,CA: EVASION
+http://ip.cs4ip.com:8000/live/1111/1111/5273.ts
+#EXTINF:-1,CA: FOX HD
+http://ip.cs4ip.com:8000/live/1111/1111/5265.ts
+#EXTINF:-1,CA: FX HD
+http://ip.cs4ip.com:8000/live/1111/1111/5266.ts
+#EXTINF:-1,CA: FYI
+http://ip.cs4ip.com:8000/live/1111/1111/5267.ts
+#EXTINF:-1,CA: G4 CANADA
+http://ip.cs4ip.com:8000/live/1111/1111/5300.ts
+#EXTINF:-1,CA: GLOBAL HD
+http://ip.cs4ip.com:8000/live/1111/1111/5268.ts
+#EXTINF:-1,CA: GLOBO
+http://ip.cs4ip.com:8000/live/1111/1111/5269.ts
+#EXTINF:-1,CA: Golf Channel
+http://ip.cs4ip.com:8000/live/1111/1111/5295.ts
+#EXTINF:-1,CA: GSN
+http://ip.cs4ip.com:8000/live/1111/1111/5270.ts
+#EXTINF:-1,CA: ICI ARTV
+http://ip.cs4ip.com:8000/live/1111/1111/5263.ts
+#EXTINF:-1,CA: ICI RDI
+http://ip.cs4ip.com:8000/live/1111/1111/5261.ts
+#EXTINF:-1,CA: LCN
+http://ip.cs4ip.com:8000/live/1111/1111/5257.ts
+#EXTINF:-1,CA: MOVIE TIME HD
+http://ip.cs4ip.com:8000/live/1111/1111/5271.ts
+#EXTINF:-1,CA: MTV CANADA
+http://ip.cs4ip.com:8000/live/1111/1111/5259.ts
+#EXTINF:-1,CA: MUCH MUSIC
+http://ip.cs4ip.com:8000/live/1111/1111/5272.ts
+#EXTINF:-1,CA: NBC HD
+http://ip.cs4ip.com:8000/live/1111/1111/5276.ts
+#EXTINF:-1,CA: nick
+http://ip.cs4ip.com:8000/live/1111/1111/5275.ts
+#EXTINF:-1,CA: OWN HD
+http://ip.cs4ip.com:8000/live/1111/1111/5279.ts
+#EXTINF:-1,CA: PEACHTREE TV
+http://ip.cs4ip.com:8000/live/1111/1111/5280.ts
+#EXTINF:-1,CA: SLICE HD
+http://ip.cs4ip.com:8000/live/1111/1111/5282.ts
+#EXTINF:-1,CA: SPIKE
+http://ip.cs4ip.com:8000/live/1111/1111/5284.ts
+#EXTINF:-1,CA: SPORTSNET 360 HD
+http://ip.cs4ip.com:8000/live/1111/1111/5285.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://ip.cs4ip.com:8000/live/1111/1111/5287.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://ip.cs4ip.com:8000/live/1111/1111/5286.ts
+#EXTINF:-1,CA: tele-quebec
+http://ip.cs4ip.com:8000/live/1111/1111/5262.ts
+#EXTINF:-1,CA: TELETOON HD
+http://ip.cs4ip.com:8000/live/1111/1111/5288.ts
+#EXTINF:-1,CA: THE SHOPPING CHANNEL HD
+http://ip.cs4ip.com:8000/live/1111/1111/5289.ts
+#EXTINF:-1,CA: TMN
+http://ip.cs4ip.com:8000/live/1111/1111/5290.ts
+#EXTINF:-1,CA: TRAVEL CHANNEL
+http://ip.cs4ip.com:8000/live/1111/1111/5291.ts
+#EXTINF:-1,CA: TREE HOUSE HD
+http://ip.cs4ip.com:8000/live/1111/1111/5292.ts
+#EXTINF:-1,CA: TV5
+http://ip.cs4ip.com:8000/live/1111/1111/5298.ts
+#EXTINF:-1,CA: TVA
+http://ip.cs4ip.com:8000/live/1111/1111/5296.ts
+#EXTINF:-1,CA: vrak tv
+http://ip.cs4ip.com:8000/live/1111/1111/5281.ts
+#EXTINF:-1,CA: W NETWORK HD
+http://ip.cs4ip.com:8000/live/1111/1111/5297.ts
+#EXTINF:-1,CA: YTV HD
+http://ip.cs4ip.com:8000/live/1111/1111/5301.ts
 
 
 #EXTINF:-1,USA Network
