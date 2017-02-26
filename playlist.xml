@@ -6,7 +6,11 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
-  
+<item>
+<title>USA</title>
+<link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>ABC NEWS</title>
@@ -23,26 +27,14 @@
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>CNN</title>
-<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>BLOOMBERG HD</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>BBC WORLD NEWS</title>
-<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TRU TV</title>
-<link>http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+
+  
 <item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
@@ -108,11 +100,7 @@
 <link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA</title>
-<link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>Nicktoons</title>
 <link>http://208.86.19.13:8080/live/15.stream/index.m3u8</link>
