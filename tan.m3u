@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,►►►NICK JR◄◄◄
+http://149.202.63.35:8080/nickjr/playlist.m3u8
 #EXTINF:-1,►►►SKY UK◄◄◄
 http://163.172.102.132:8000/live/12345/54321/4058.ts
 #EXTINF:-1,(UK): TCM
