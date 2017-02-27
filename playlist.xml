@@ -2,7 +2,7 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 02-25-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 02-27-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
@@ -11,6 +11,71 @@
 <link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>OWN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5279.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY Junior HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5260.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY_XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5277.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>E HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5246.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EVASION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5273.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5265.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5266.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ABC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5247.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ABC SPARK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5248.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AMC_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5299.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5249.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRAVO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5250.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
 
 <item>
 <title>ABC NEWS</title>
