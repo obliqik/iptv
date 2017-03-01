@@ -2,6 +2,33 @@
 #EXTINF:-1,NICK JR
 http://149.202.63.35:8080/nickjr/playlist.m3u8
 
+#EXTINF:-1,UK | Sky Movies Premiere HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1105.ts
+#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1106.ts
+#EXTINF:-1,UK | Sky Movies Family HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1107.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1108.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1109.ts
+#EXTINF:-1,UK | SkyMoviesDrama HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1121.ts
+#EXTINF:-1,UK | SkyMoviesSelect HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1122.ts
+#EXTINF:-1,UK | SkyMoviesThriller
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1123.ts
+#EXTINF:-1,UK | Movies 4Men
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1111.ts
+#EXTINF:-1,UK | More4+1
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1112.ts
+#EXTINF:-1,UK | SkyOne HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1113.ts
+#EXTINF:-1,UK | SkTrueMovies 2 HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1114.ts
+#EXTINF:-1,UK | True Movies1 HD
+http://sutverduz.com:8080/live/LtPhlsMOOV/2ze4l4Kedp/1115.ts
+
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 #EXTINF:-1,Nicktoons
