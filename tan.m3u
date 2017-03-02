@@ -76,3 +76,77 @@ http://208.86.19.13:8080/live/834.stream/index.m3u8
 #EXTINF:-1,Fox 5
 http://208.86.19.13:8080/live/103.stream/index.m3u8
 
+
+#EXTM3U
+#EXTINF:0,Movies 24
+http://149.14.4.125:9085/best/mov24/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://149.14.4.125:9085/best/skysp5/playlist.m3u8
+#EXTINF:0,History 2
+http://149.14.4.125:9085/best/h2/playlist.m3u8
+#EXTINF:0,ITV Encore
+http://149.14.4.125:9085/best/itvencore/playlist.m3u8
+#EXTINF:0,MTV
+http://149.14.4.125:9085/best/mtv/playlist.m3u8
+#EXTINF:0,Viva
+http://149.14.4.125:9085/best/viva/playlist.m3u8
+#EXTINF:0,MTV Base
+http://149.14.4.125:9085/best/mtvbase/playlist.m3u8
+#EXTINF:0,BT Sports 3
+http://149.14.4.125:9085/best/bt3/playlist.m3u8
+#EXTINF:0,MUTV
+http://149.14.4.125:9085/best/mutv/playlist.m3u8
+#EXTINF:0,MTV Music
+http://149.14.4.125:9085/best/mtvmusic/playlist.m3u8
+#EXTINF:0,mtvrocks
+http://149.14.4.125:9085/best/mtvrocks/playlist.m3u8
+#EXTINF:0,Channel 4
+http://149.14.4.125:9085/best/ch4/playlist.m3u8
+#EXTINF:0,CBBC
+http://149.14.4.125:9085/best/cbbc/playlist.m3u8
+#EXTINF:0,cbsdrama
+http://149.14.4.125:9085/best/cbsdrama/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://149.14.4.125:9085/best/cartoon/playlist.m3u8
+#EXTINF:0,History
+http://149.14.4.125:9085/best/history/playlist.m3u8
+#EXTINF:0,Nat Geo Wild
+http://149.14.4.125:9085/best/natgeow/playlist.m3u8
+#EXTINF:0,National Geographic
+http://149.14.4.125:9085/best/natgeo/playlist.m3u8
+#EXTINF:0,Animal Planet
+http://149.14.4.125:9085/best/animal/playlist.m3u8
+#EXTINF:0,Discovery Turbo
+http://149.14.4.125:9085/best/turbo/playlist.m3u8
+#EXTINF:0,Discovery Science
+http://149.14.4.125:9085/best/discovs/playlist.m3u8
+#EXTINF:0,Discovery Channel
+http://149.14.4.125:9085/best/discov/playlist.m3u8
+#EXTINF:0,BBC News
+http://149.14.4.125:9085/best/bbcnews/playlist.m3u8
+#EXTINF:0,4seven
+http://149.14.4.125:9085/best/4seven/playlist.m3u8
+#EXTINF:0,5usa
+http://149.14.4.125:9085/best/5usa/playlist.m3u8
+#EXTINF:0,challenge
+http://149.14.4.125:9085/best/challenge/playlist.m3u8
+#EXTINF:0,film4
+http://149.14.4.125:9085/best/film4/playlist.m3u8
+#EXTINF:0,Spike
+http://149.14.4.125:9085/best/spike/playlist.m3u8
+#EXTINF:0,e4
+http://149.14.4.125:9085/best/e4/playlist.m3u8
+#EXTINF:0,more4
+http://149.14.4.125:9085/best/more4/playlist.m3u8
+#EXTINF:0,movies4men
+http://149.14.4.125:9085/best/movies4men/playlist.m3u8
+#EXTINF:0,mtvclassic
+http://149.14.4.125:9085/best/mtvclassic/playlist.m3u8
+#EXTINF:0,sky2
+http://149.14.4.125:9085/best/sky2/playlist.m3u8
+#EXTINF:0,skynews
+http://149.14.4.125:9085/best/skynews/playlist.m3u8
+#EXTINF:0,syfy
+http://149.14.4.125:9085/best/syfy/playlist.m3u8
+#EXTINF:0,fox
+http://149.14.4.125:9085/best/fox/playlist.m3u8
