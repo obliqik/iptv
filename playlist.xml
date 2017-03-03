@@ -2,183 +2,626 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 02-27-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-03-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
-</item>
 <item>
-<title>(UK): Sky Movies Thriller</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6290.ts</link>
+<title>HBO</title>
+<link>http://183.88.0.69:8010/play/a00m</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Showcase</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6291.ts</link>
+<title>FX</title>
+<link>http://183.88.0.69:8010/play/a023</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Select</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6292.ts</link>
+<title>DISNEY XD</title>
+<link>http://183.88.0.69:8010/play/a00x</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Premiere</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6293.ts</link>
+<title>HBO HD</title>
+<link>http://183.88.0.69:8010/play/a00u</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Greats</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6294.ts</link>
+<title>FOX CRIME</title>
+<link>http://183.88.0.69:8010/play/a020</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Family</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6295.ts</link>
+<title>FOX ACTION MOVIES HD</title>
+<link>http://183.88.0.69:8010/play/a010</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>(UK): Sky Movies Disney</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6296.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Movies Comedy</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6297.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Movies Action</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6298.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Movie Sci-Fi</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6299.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Living</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6300.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Drama & Romance</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6301.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Atlantic</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6302.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Sky Arts 1</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6303.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Setanta</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6304.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Nickloedon</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6310.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Nick Toons</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6311.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Nick JR</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6312.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Disney XD</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6335.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Disney Junior</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6336.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>(UK): Disney</title>
-<link>http://163.172.102.132:8000/live/12345/54321/6337.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-  
-<item>
-<title>USA</title>
-<link>http://208.86.19.123:8080/live/11.stream/index.m3u8</link>
+<title>DIVA UNIVERSAL</title>
+<link>http://183.88.0.69:8010/play/a03n</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>OWN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5279.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>UNIVERSAL SD</title>
+<link>http://183.88.0.69:8010/play/a03m</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DISNEY Junior HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5260.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CNN</title>
+<link>http://183.88.0.69:8010/play/a00l</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DISNEY_XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5277.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CARTOON NETWORK</title>
+<link>http://183.88.0.69:8010/play/a01b</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5246.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>COMEDY CENTRAL</title>
+<link>http://183.88.0.69:8010/play/a03b</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EVASION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5273.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NICKJR</title>
+<link>http://183.88.0.69:8010/play/a01c</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5265.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BBC WORLD NEWS</title>
+<link>http://183.88.0.69:8010/play/a03g</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>FX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5266.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>SKYNET MOVIES HD</title>
+<link>http://183.88.0.69:8010/play/a00v</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ABC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5247.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>E!</title>
+<link>http://183.88.0.69:8010/play/a03o</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ABC SPARK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5248.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>ASN</title>
+<link>http://183.88.0.69:8010/play/a02p</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>AMC_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5299.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>WORLD MOVIES</title>
+<link>http://183.88.0.69:8010/play/a01k</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5249.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>UP TO DATE</title>
+<link>http://183.88.0.69:8010/play/a03a</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BRAVO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/1111/1111/5250.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MWD</title>
+<link>http://183.88.0.69:8010/play/a014</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>BBC CBEEBIES</title>
+<link>http://183.88.0.69:8010/play/a03f</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS HD</title>
+<link>http://183.88.0.69:8010/play/a00r</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SUN TV</title>
+<link>http://183.88.0.69:8010/play/a00o</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX MOVIES PREMIUM</title>
+<link>http://183.88.0.69:8010/play/a01l</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-1</title>
+<link>http://183.88.0.69:8010/play/a02j</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-2</title>
+<link>http://183.88.0.69:8010/play/a02k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BABY TV</title>
+<link>http://183.88.0.69:8010/play/a01e</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NAT GEO PEOPLE</title>
+<link>http://183.88.0.69:8010/play/a02z</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZEE TV</title>
+<link>http://183.88.0.69:8010/play/a01z</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET CARTOON</title>
+<link>http://183.88.0.69:8010/play/a01d</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EURO SPORTS NEWS</title>
+<link>http://183.88.0.69:8010/play/a00g</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NICKELODEON</title>
+<link>http://183.88.0.69:8010/play/a01f</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORTS 1</title>
+<link>http://183.88.0.69:8010/play/a02m</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHANNEL 9</title>
+<link>http://183.88.0.69:8010/play/a01a</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ASIAN MOVIES</title>
+<link>http://183.88.0.69:8010/play/a01j</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOME CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a03t</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORTS 3</title>
+<link>http://183.88.0.69:8010/play/a02o</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TINE-YIN-THAR</title>
+<link>http://183.88.0.69:8010/play/a03s</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY</title>
+<link>http://183.88.0.69:8010/play/a031</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HEALTH</title>
+<link>http://183.88.0.69:8010/play/a03r</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AGRICULTURE/FOREST</title>
+<link>http://183.88.0.69:8010/play/a03q</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CI</title>
+<link>http://183.88.0.69:8010/play/a00j</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GLOBALNET</title>
+<link>http://183.88.0.69:8010/play/a039</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OUTDOOR CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a03d</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CINEMAX</title>
+<link>http://183.88.0.69:8010/play/a00n</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EDUCATION CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a03p</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV CHINA</title>
+<link>http://183.88.0.69:8010/play/a01s</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STAR WORLD</title>
+<link>http://183.88.0.69:8010/play/a021</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIFETIME</title>
+<link>http://183.88.0.69:8010/play/a03l</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DMAX</title>
+<link>http://183.88.0.69:8010/play/a035</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>H2</title>
+<link>http://183.88.0.69:8010/play/a03k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOTORVISION</title>
+<link>http://183.88.0.69:8010/play/a03j</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX FAMILY MOVIES</title>
+<link>http://183.88.0.69:8010/play/a01m</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>M-BIZ</title>
+<link>http://183.88.0.69:8010/play/a018</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EDGE SPORTS</title>
+<link>http://183.88.0.69:8010/play/a03i</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SHOPPING CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a00p</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MYANMAR MOVIES</title>
+<link>http://183.88.0.69:8010/play/a01h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET MUSIC</title>
+<link>http://183.88.0.69:8010/play/a01o</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STATE&DIVISION HLUTTAW</title>
+<link>http://183.88.0.69:8010/play/a03h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-5</title>
+<link>http://183.88.0.69:8010/play/a00b</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AXN</title>
+<link>http://183.88.0.69:8010/play/a00i</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGC</title>
+<link>http://183.88.0.69:8010/play/a02x</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MITV</title>
+<link>http://183.88.0.69:8010/play/a016</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORTS NEWS</title>
+<link>http://183.88.0.69:8010/play/a022</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RED BY HBO</title>
+<link>http://183.88.0.69:8010/play/a03c</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CH-V</title>
+<link>http://183.88.0.69:8010/play/a01p</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MYANMAR ARTS</title>
+<link>http://183.88.0.69:8010/play/a01i</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC EARTH</title>
+<link>http://183.88.0.69:8010/play/a03e</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HLUTTAW</title>
+<link>http://183.88.0.69:8010/play/a037</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZING</title>
+<link>http://183.88.0.69:8010/play/a01r</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-6</title>
+<link>http://183.88.0.69:8010/play/a00c</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY KIDS</title>
+<link>http://183.88.0.69:8010/play/a036</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://183.88.0.69:8010/play/a034</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DWTV</title>
+<link>http://183.88.0.69:8010/play/a02g</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EVE</title>
+<link>http://183.88.0.69:8010/play/a033</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MNTV</title>
+<link>http://183.88.0.69:8010/play/a017</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MRTV</title>
+<link>http://183.88.0.69:8010/play/a013</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NGC WILD</title>
+<link>http://183.88.0.69:8010/play/a02y</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FIGHT SPORTS HD</title>
+<link>http://183.88.0.69:8010/play/a00z</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET KNOWLEDGE</title>
+<link>http://183.88.0.69:8010/play/a02w</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CCTV 4</title>
+<link>http://183.88.0.69:8010/play/a02a</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY JUNIOR ASIA</title>
+<link>http://183.88.0.69:8010/play/a02u</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STAR CHINESE MOVIES</title>
+<link>http://183.88.0.69:8010/play/a02e</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK WORLD PREMIUM</title>
+<link>http://183.88.0.69:8010/play/a027</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NHK WORLD TV</title>
+<link>http://183.88.0.69:8010/play/a028</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>INTERNATIONAL DRAMA</title>
+<link>http://183.88.0.69:8010/play/a01y</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX SPORTS 2</title>
+<link>http://183.88.0.69:8010/play/a02n</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET LIVE CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a02r</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GOLF</title>
+<link>http://183.88.0.69:8010/play/a02q</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://183.88.0.69:8010/play/a030</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-3</title>
+<link>http://183.88.0.69:8010/play/a02l</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MRTV ENTERTAINTMENT</title>
+<link>http://183.88.0.69:8010/play/a015</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FOX NEWS</title>
+<link>http://183.88.0.69:8010/play/a00f</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ZEE CINEMA ME</title>
+<link>http://183.88.0.69:8010/play/a01n</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HISTORY HD</title>
+<link>http://183.88.0.69:8010/play/a00y</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PHOENIX INFO NEWS</title>
+<link>http://183.88.0.69:8010/play/a02i</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBS WORLD</title>
+<link>http://183.88.0.69:8010/play/a025</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FASHION ONE</title>
+<link>http://183.88.0.69:8010/play/a01v</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET SPORTS-4</title>
+<link>http://183.88.0.69:8010/play/a00a</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNAI</title>
+<link>http://183.88.0.69:8010/play/a02f</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISNEY CHANNEL ASIA</title>
+<link>http://183.88.0.69:8010/play/a02t</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BUDDHA</title>
+<link>http://183.88.0.69:8010/play/a012</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CHANNEL ONE</title>
+<link>http://183.88.0.69:8010/play/a019</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKY NEWS</title>
+<link>http://183.88.0.69:8010/play/a00e</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET TEEN</title>
+<link>http://183.88.0.69:8010/play/a01u</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CNBC</title>
+<link>http://183.88.0.69:8010/play/a02c</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CCTV 9</title>
+<link>http://183.88.0.69:8010/play/a02b</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV SEA</title>
+<link>http://183.88.0.69:8010/play/a01t</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CCTV NEWS</title>
+<link>http://183.88.0.69:8010/play/a029</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MONEY CHANNEL</title>
+<link>http://183.88.0.69:8010/play/a02s</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BLOOMBERG</title>
+<link>http://183.88.0.69:8010/play/a02d</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FRANCE 24</title>
+<link>http://183.88.0.69:8010/play/a02h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>M</title>
+<link>http://183.88.0.69:8010/play/a024</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV CHOICE</title>
+<link>http://183.88.0.69:8010/play/a038</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY TLC</title>
+<link>http://183.88.0.69:8010/play/a032</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV LIVE HD</title>
+<link>http://183.88.0.69:8010/play/a00s</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>WORLD DRAMA</title>
+<link>http://183.88.0.69:8010/play/a01x</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NAT GEO MUSIC</title>
+<link>http://183.88.0.69:8010/play/a01q</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>N/A</title>
+<link>http://183.88.0.69:8010/play/a00k</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HADAYA</title>
+<link>http://183.88.0.69:8010/play/a01g</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARIRANG</title>
+<link>http://183.88.0.69:8010/play/a026</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ANIMAX</title>
+<link>http://183.88.0.69:8010/play/a00h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>DISCOVERY HD WORLD</title>
+<link>http://183.88.0.69:8010/play/a00t</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYNET-HD-PAY PER VIEW</title>
+<link>http://183.88.0.69:8010/play/a00w</link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
@@ -186,7 +629,7 @@
 
 <item>
 <title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on</link>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
