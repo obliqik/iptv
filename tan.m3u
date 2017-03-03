@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1,HBO HD
+http://183.88.0.69:8010/play/a00u
+#EXTINF:-1,HBO
+http://183.88.0.69:8010/play/a00m
+#EXTINF:-1,FX
+http://183.88.0.69:8010/play/a023
+#EXTINF:-1,DISNEY XD
+http://183.88.0.69:8010/play/a00x
+EXTINF:-1,FOX ACTION MOVIES HD
+http://183.88.0.69:8010/play/a010
+#EXTINF:-1,DIVA UNIVERSAL
+http://183.88.0.69:8010/play/a03n
+#EXTINF:-1,FOX CRIME
+http://183.88.0.69:8010/play/a020
+#EXTINF:-1,UNIVERSAL SD
+http://183.88.0.69:8010/play/a03m
+#EXTINF:-1,CNN
+http://183.88.0.69:8010/play/a00l
+#EXTINF:-1,CARTOON NETWORK
+http://183.88.0.69:8010/play/a01b
+#EXTINF:-1,COMEDY CENTRAL
+http://183.88.0.69:8010/play/a03b
+#EXTINF:-1,NICKJR
+http://183.88.0.69:8010/play/a01c
+
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 #EXTINF:-1,Nicktoons
