@@ -2,9 +2,272 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-03-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-04-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
+
+<item>
+<title>USA: NBA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17381.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: LMN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17384.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CRCOL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17396.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17399.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17404.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US-National-Geo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/5811.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US-CNN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/5821.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24915.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ABC NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: AFN SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24855.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24883.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ANIMAL PLANET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24913.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24922.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: BRAVO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24901.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CBS NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CBS SPORT NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24916.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CNBC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24897.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CNN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24899.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CPAC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24911.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: CW HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24909.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: DISCOVERY CHANNEL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24904.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: DISCOVERY SCIENCE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24903.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24872.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24873.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24848.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24850.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORTS 1 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24847.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FOX SPORTS 2 US HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24849.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24892.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO COMEDY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24889.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO SIGNATURE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24887.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24888.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: HISTORY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24905.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NASA TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24881.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NAT GEO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24908.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBA TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24846.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBC GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24861.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NBC HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24862.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: NFL NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24871.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: PAC 12 WASHINGTON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24844.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: SPORT NET360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24860.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ EAST</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24920.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: STARZ EDGE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24921.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24890.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24882.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24839.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24840.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24841.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24842.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: USA NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24894.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US: WILLOW CRICKET HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24857.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>US:  RT AMERICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24900.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+
+
 <item>
 <title>HBO</title>
 <link>http://183.88.0.69:8010/play/a00m</link>
@@ -186,11 +449,7 @@
 <link>http://183.88.0.69:8010/play/a02o</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>TINE-YIN-THAR</title>
-<link>http://183.88.0.69:8010/play/a03s</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>DISCOVERY</title>
 <link>http://183.88.0.69:8010/play/a031</link>
@@ -232,16 +491,6 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>MTV CHINA</title>
-<link>http://183.88.0.69:8010/play/a01s</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>STAR WORLD</title>
-<link>http://183.88.0.69:8010/play/a021</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>LIFETIME</title>
 <link>http://183.88.0.69:8010/play/a03l</link>
 <thumbnail></thumbnail>
@@ -276,353 +525,6 @@
 <link>http://183.88.0.69:8010/play/a03i</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>SHOPPING CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a00p</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MYANMAR MOVIES</title>
-<link>http://183.88.0.69:8010/play/a01h</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET MUSIC</title>
-<link>http://183.88.0.69:8010/play/a01o</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>STATE&DIVISION HLUTTAW</title>
-<link>http://183.88.0.69:8010/play/a03h</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-5</title>
-<link>http://183.88.0.69:8010/play/a00b</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>AXN</title>
-<link>http://183.88.0.69:8010/play/a00i</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NGC</title>
-<link>http://183.88.0.69:8010/play/a02x</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MITV</title>
-<link>http://183.88.0.69:8010/play/a016</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX SPORTS NEWS</title>
-<link>http://183.88.0.69:8010/play/a022</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RED BY HBO</title>
-<link>http://183.88.0.69:8010/play/a03c</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CH-V</title>
-<link>http://183.88.0.69:8010/play/a01p</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MYANMAR ARTS</title>
-<link>http://183.88.0.69:8010/play/a01i</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC EARTH</title>
-<link>http://183.88.0.69:8010/play/a03e</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HLUTTAW</title>
-<link>http://183.88.0.69:8010/play/a037</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ZING</title>
-<link>http://183.88.0.69:8010/play/a01r</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-6</title>
-<link>http://183.88.0.69:8010/play/a00c</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCOVERY KIDS</title>
-<link>http://183.88.0.69:8010/play/a036</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCOVERY SCIENCE</title>
-<link>http://183.88.0.69:8010/play/a034</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DWTV</title>
-<link>http://183.88.0.69:8010/play/a02g</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>EVE</title>
-<link>http://183.88.0.69:8010/play/a033</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MNTV</title>
-<link>http://183.88.0.69:8010/play/a017</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MRTV</title>
-<link>http://183.88.0.69:8010/play/a013</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NGC WILD</title>
-<link>http://183.88.0.69:8010/play/a02y</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FIGHT SPORTS HD</title>
-<link>http://183.88.0.69:8010/play/a00z</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET KNOWLEDGE</title>
-<link>http://183.88.0.69:8010/play/a02w</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CCTV 4</title>
-<link>http://183.88.0.69:8010/play/a02a</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISNEY JUNIOR ASIA</title>
-<link>http://183.88.0.69:8010/play/a02u</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>STAR CHINESE MOVIES</title>
-<link>http://183.88.0.69:8010/play/a02e</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NHK WORLD PREMIUM</title>
-<link>http://183.88.0.69:8010/play/a027</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NHK WORLD TV</title>
-<link>http://183.88.0.69:8010/play/a028</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>INTERNATIONAL DRAMA</title>
-<link>http://183.88.0.69:8010/play/a01y</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX SPORTS 2</title>
-<link>http://183.88.0.69:8010/play/a02n</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET LIVE CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a02r</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GOLF</title>
-<link>http://183.88.0.69:8010/play/a02q</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ANIMAL PLANET</title>
-<link>http://183.88.0.69:8010/play/a030</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-3</title>
-<link>http://183.88.0.69:8010/play/a02l</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MRTV ENTERTAINTMENT</title>
-<link>http://183.88.0.69:8010/play/a015</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX NEWS</title>
-<link>http://183.88.0.69:8010/play/a00f</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ZEE CINEMA ME</title>
-<link>http://183.88.0.69:8010/play/a01n</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HISTORY HD</title>
-<link>http://183.88.0.69:8010/play/a00y</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>PHOENIX INFO NEWS</title>
-<link>http://183.88.0.69:8010/play/a02i</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>KBS WORLD</title>
-<link>http://183.88.0.69:8010/play/a025</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FASHION ONE</title>
-<link>http://183.88.0.69:8010/play/a01v</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-4</title>
-<link>http://183.88.0.69:8010/play/a00a</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNAI</title>
-<link>http://183.88.0.69:8010/play/a02f</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISNEY CHANNEL ASIA</title>
-<link>http://183.88.0.69:8010/play/a02t</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BUDDHA</title>
-<link>http://183.88.0.69:8010/play/a012</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CHANNEL ONE</title>
-<link>http://183.88.0.69:8010/play/a019</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKY NEWS</title>
-<link>http://183.88.0.69:8010/play/a00e</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET TEEN</title>
-<link>http://183.88.0.69:8010/play/a01u</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNBC</title>
-<link>http://183.88.0.69:8010/play/a02c</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CCTV 9</title>
-<link>http://183.88.0.69:8010/play/a02b</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MTV SEA</title>
-<link>http://183.88.0.69:8010/play/a01t</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CCTV NEWS</title>
-<link>http://183.88.0.69:8010/play/a029</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MONEY CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a02s</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BLOOMBERG</title>
-<link>http://183.88.0.69:8010/play/a02d</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FRANCE 24</title>
-<link>http://183.88.0.69:8010/play/a02h</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>M</title>
-<link>http://183.88.0.69:8010/play/a024</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ITV CHOICE</title>
-<link>http://183.88.0.69:8010/play/a038</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCOVERY TLC</title>
-<link>http://183.88.0.69:8010/play/a032</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MTV LIVE HD</title>
-<link>http://183.88.0.69:8010/play/a00s</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>WORLD DRAMA</title>
-<link>http://183.88.0.69:8010/play/a01x</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NAT GEO MUSIC</title>
-<link>http://183.88.0.69:8010/play/a01q</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>N/A</title>
-<link>http://183.88.0.69:8010/play/a00k</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HADAYA</title>
-<link>http://183.88.0.69:8010/play/a01g</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ARIRANG</title>
-<link>http://183.88.0.69:8010/play/a026</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ANIMAX</title>
-<link>http://183.88.0.69:8010/play/a00h</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCOVERY HD WORLD</title>
-<link>http://183.88.0.69:8010/play/a00t</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET-HD-PAY PER VIEW</title>
-<link>http://183.88.0.69:8010/play/a00w</link>
-<thumbnail></thumbnail>
-</item>
-
-
 
 
 
@@ -642,14 +544,11 @@
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
 <title>BLOOMBERG HD</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
-  
 <item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
