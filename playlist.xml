@@ -12,16 +12,6 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: LMN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17384.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: CRCOL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17396.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>USA: CNN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17399.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
