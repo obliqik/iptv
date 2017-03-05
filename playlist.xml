@@ -6,16 +6,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 
-<item>
-<title>USA: NBA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17381.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>USA: CNN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17399.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>USA: AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17404.ts&amp;streamtype=TSDOWNLOADER</link>
