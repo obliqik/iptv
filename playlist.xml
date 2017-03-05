@@ -2,13 +2,13 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-04-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-05-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 
 
 <item>
-<title>USA: AMC</title>
+<title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/17404.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
@@ -672,7 +672,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA: CNN</title>
+<title>CNN</title>
 <link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -783,6 +783,3 @@
 
 
 </stream>
-
-
-
