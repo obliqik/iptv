@@ -5,9 +5,7 @@
 <title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-05-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
-<title>[COLOR white] --- ------ ------ ------ ------ ------ --- [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
-<thumbnail></thumbnail>
+
 
 <item>
 <title>AMC</title>
@@ -15,237 +13,237 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US-National-Geo</title>
+<title>National-Geo</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/5811.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US-CNN HD</title>
+<title>CNN HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/5821.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: A&E</title>
+<title> A&E</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24915.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ABC NEWS HD</title>
+<title> ABC NEWS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24918.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AFN SPORTS 2</title>
+<title> AFN SPORTS 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24855.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AMC</title>
+<title> AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24883.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ANIMAL PLANET</title>
+<title> ANIMAL PLANET</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24913.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BET</title>
+<title> BET</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24922.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: BRAVO HD</title>
+<title> BRAVO HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24901.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CBS NEWS HD</title>
+<title> CBS NEWS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24917.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CBS SPORT NETWORK</title>
+<title> CBS SPORT NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24916.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CNBC</title>
+<title> CNBC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CNN</title>
+<title> CNN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24899.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CPAC</title>
+<title> CPAC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24911.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: CW HD</title>
+<title> CW HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24909.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: DISCOVERY CHANNEL HD</title>
+<title> DISCOVERY CHANNEL HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24904.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: DISCOVERY SCIENCE HD</title>
+<title> DISCOVERY SCIENCE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24903.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ESPN</title>
+<title> ESPN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24872.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ESPN 2</title>
+<title> ESPN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24873.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORT 1</title>
+<title> FOX SPORT 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24848.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORT 2</title>
+<title> FOX SPORT 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24850.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORTS 1 US HD</title>
+<title> FOX SPORTS 1 US HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24847.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX SPORTS 2 US HD</title>
+<title> FOX SPORTS 2 US HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24849.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FX HD</title>
+<title> FX HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24892.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO COMEDY HD</title>
+<title> HBO COMEDY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24889.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO SIGNATURE HD</title>
+<title> HBO SIGNATURE HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24887.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HBO ZONE</title>
+<title> HBO ZONE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24888.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: HISTORY HD</title>
+<title> HISTORY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24905.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NASA TV HD</title>
+<title> NASA TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24881.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NAT GEO</title>
+<title> NAT GEO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24908.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBA TV HD</title>
+<title> NBA TV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24846.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBC GOLF</title>
+<title> NBC GOLF</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24861.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NBC HD</title>
+<title> NBC HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24862.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: NFL NETWORK</title>
+<title> NFL NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24871.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: PAC 12 WASHINGTON HD</title>
+<title> PAC 12 WASHINGTON HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24844.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SPORT NET360</title>
+<title> SPORT NET360</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24860.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ EAST</title>
+<title> STARZ EAST</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24920.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: STARZ EDGE</title>
+<title> STARZ EDGE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24921.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SYFY HD</title>
+<title> SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24890.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TBS</title>
+<title> TBS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24882.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 1</title>
+<title> TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24839.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 2</title>
+<title> TSN 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24840.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 3</title>
+<title> TSN 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24841.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TSN 4</title>
+<title> TSN 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24842.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: USA NETWORK HD</title>
+<title> USA NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24894.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: WILLOW CRICKET HD</title>
+<title> WILLOW CRICKET HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24857.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US:  RT AMERICA</title>
+<title>  RT AMERICA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24900.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
