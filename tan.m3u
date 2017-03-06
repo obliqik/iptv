@@ -1,4 +1,74 @@
 #EXTM3U
+#EXTINF:-1,—— USA TV ——
+http://bb1.sendevric.com:8000/live/jean/jean123/6374.ts
+#EXTINF:-1,USA – SHOWTIME HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6346.ts
+#EXTINF:-1,USA – HGTV HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6359.ts
+#EXTINF:-1,USA – HBO HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6356.ts
+#EXTINF:-1,USA – SPIKE HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6345.ts
+#EXTINF:-1,USA – SYFY USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6344.ts
+#EXTINF:-1,USA – USA Network
+http://bb1.sendevric.com:8000/live/jean/jean123/6338.ts
+#EXTINF:-1,USA – NBC HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6348.ts
+#EXTINF:-1,USA – AMC
+http://bb1.sendevric.com:8000/live/jean/jean123/6353.ts
+#EXTINF:-1,USA – FX HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6362.ts
+#EXTINF:-1,USA – ABC HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6354.ts
+#EXTINF:-1,USA – CBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6350.ts
+#EXTINF:-1,USA – THE CW Central
+http://bb1.sendevric.com:8000/live/jean/jean123/6343.ts
+#EXTINF:-1,USA – PBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6347.ts
+#EXTINF:-1,USA – TNT
+http://bb1.sendevric.com:8000/live/jean/jean123/6342.ts
+#EXTINF:-1,USA – US TLC
+http://bb1.sendevric.com:8000/live/jean/jean123/6339.ts
+#EXTINF:-1,USA – US TBS HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6340.ts
+#EXTINF:-1,USA – A & E
+http://bb1.sendevric.com:8000/live/jean/jean123/6355.ts
+#EXTINF:-1,USA – BRAVO USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6352.ts
+#EXTINF:-1,USA – TRU TV
+http://bb1.sendevric.com:8000/live/jean/jean123/6364.ts
+#EXTINF:-1,USA – Travel Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6373.ts
+#EXTINF:-1,USA – History Channel USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6366.ts
+#EXTINF:-1,USA – Hallmark
+http://bb1.sendevric.com:8000/live/jean/jean123/6357.ts
+#EXTINF:-1,USA – Lifetime
+http://bb1.sendevric.com:8000/live/jean/jean123/6358.ts
+#EXTINF:-1,USA – DIY Network HD
+http://bb1.sendevric.com:8000/live/jean/jean123/6365.ts
+#EXTINF:-1,USA – Discovery Channel
+http://bb1.sendevric.com:8000/live/jean/jean123/6367.ts
+#EXTINF:-1,USA – Animal Planet US
+http://bb1.sendevric.com:8000/live/jean/jean123/6368.ts
+#EXTINF:-1,USA – Comedy Central HD US
+http://bb1.sendevric.com:8000/live/jean/jean123/6349.ts
+#EXTINF:-1,USA – Cartoon Network USA
+http://bb1.sendevric.com:8000/live/jean/jean123/6351.ts
+#EXTINF:-1,USA – US NICK
+http://bb1.sendevric.com:8000/live/jean/jean123/6341.ts
+#EXTINF:-1,USA – FOX NEWS
+http://bb1.sendevric.com:8000/live/jean/jean123/6369.ts
+#EXTINF:-1,USA – ABC NEWS
+http://bb1.sendevric.com:8000/live/jean/jean123/6372.ts
+#EXTINF:-1,USA – Bloomberg
+http://bb1.sendevric.com:8000/live/jean/jean123/6363.ts
+#EXTINF:-1,USA – CNN
+http://bb1.sendevric.com:8000/live/jean/jean123/6370.ts
+#EXTINF:-1,USA – CNBC
+http://bb1.sendevric.com:8000/live/jean/jean123/6371.ts
 #EXTINF:-1,hbo
 http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
 #EXTINF:-1,hbo family
