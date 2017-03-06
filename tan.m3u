@@ -1,177 +1,49 @@
 #EXTM3U
-#EXTINF:-1,HBO HD
-http://183.88.0.69:8010/play/a00u
-#EXTINF:-1,HBO
-http://183.88.0.69:8010/play/a00m
-#EXTINF:-1,FX
-http://183.88.0.69:8010/play/a023
-#EXTINF:-1,DISNEY XD
-http://183.88.0.69:8010/play/a00x
-EXTINF:-1,FOX ACTION MOVIES HD
-http://183.88.0.69:8010/play/a010
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.88.0.69:8010/play/a03n
-#EXTINF:-1,FOX CRIME
-http://183.88.0.69:8010/play/a020
-#EXTINF:-1,UNIVERSAL SD
-http://183.88.0.69:8010/play/a03m
-#EXTINF:-1,CNN
-http://183.88.0.69:8010/play/a00l
-#EXTINF:-1,CARTOON NETWORK
-http://183.88.0.69:8010/play/a01b
-#EXTINF:-1,COMEDY CENTRAL
-http://183.88.0.69:8010/play/a03b
-#EXTINF:-1,NICKJR
-http://183.88.0.69:8010/play/a01c
-
-#EXTINF:-1,USA Network
-http://208.86.19.123:8080/live/11.stream/index.m3u8
-#EXTINF:-1,Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:-1,TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-#EXTINF:-1,CNN
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1,Freeform
-http://208.86.19.13:8080/live/27.stream/index.m3u8
-#EXTINF:-1,Discovery
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-#EXTINF:-1,BBC America
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-#EXTINF:-1,CBS 2
-http://208.86.19.13:8080/live/101.stream/index.m3u8
-#EXTINF:-1,NBC 4
-http://208.86.19.123:8080/live/102.stream/index.m3u8
-#EXTINF:-1,Fox 5
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-#EXTINF:-1,ABC 7
-http://208.86.19.123:8080/live/104.stream/index.m3u8
-#EXTINF:-1,My 9
-http://208.86.19.13:8080/live/105.stream/index.m3u8
-#EXTINF:-1,PIX 11
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-#EXTINF:-1,PBS THIRTEEN
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-#EXTINF:-1,WLIW 21
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-#EXTINF:-1,ION
-http://208.86.19.123:8080/live/109.stream/index.m3u8
-#EXTINF:-1,USA: CNN
-http://208.86.19.13:8080/live/20.stream/index.m3u8
-#EXTINF:-1,ME TV
-http://208.86.19.13:8080/live/32.stream/index.m3u8
-#EXTINF:-1,FILM ASIA
-http://208.86.19.13:8080/live/835.stream/index.m3u8
-#EXTINF:-1,PLUS TV
-http://208.86.19.13:8080/live/837.stream/index.m3u8
-#EXTINF:-1,BTV WORLD
-http://208.86.19.13:8080/live/836.stream/index.m3u8
-#EXTINF:-1,CINEMA-1 TV
-http://208.86.19.13:8080/live/840.stream/index.m3u8
-#EXTINF:-1,OZTV
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-#EXTINF:-1,PIX2
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-#EXTINF:-1,EI
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-#EXTINF:-1,DISH TV
-http://208.86.19.13:8080/live/628.stream/index.m3u8
-#EXTINF:-1,DUNYA TV
-http://208.86.19.13:8080/live/629.stream/index.m3u8
-#EXTINF:-1,DWV
-http://208.86.19.13:8080/live/630.stream/index.m3u8
-#EXTINF:-1,EXNEWS
-http://208.86.19.13:8080/live/631.stream/index.m3u8
-#EXTINF:-1,NATIONAL
-http://208.86.19.13:8080/live/632.stream/index.m3u8
-#EXTINF:-1,9 KANAL
-http://208.86.19.13:8080/live/803.stream/index.m3u8
-#EXTINF:-1,ETV
-http://208.86.19.13:8080/live/804.stream/index.m3u8
-#EXTINF:-1,JAMUNA TV
-http://208.86.19.13:8080/live/805.stream/index.m3u8
-#EXTINF:-1,ATN
-http://208.86.19.13:8080/live/806.stream/index.m3u8
-#EXTINF:-1,A PLUS
-http://208.86.19.13:8080/live/831.stream/index.m3u8
-#EXTINF:-1,TV
-http://208.86.19.13:8080/live/832.stream/index.m3u8
-#EXTINF:-1,STAR LITE
-http://208.86.19.13:8080/live/834.stream/index.m3u8
-#EXTINF:-1,Fox 5
-http://208.86.19.13:8080/live/103.stream/index.m3u8
-
-
-#EXTM3U
-#EXTINF:0,Movies 24
-http://149.14.4.125:9085/best/mov24/playlist.m3u8
-#EXTINF:0,Sky Sports 5
-http://149.14.4.125:9085/best/skysp5/playlist.m3u8
-#EXTINF:0,History 2
-http://149.14.4.125:9085/best/h2/playlist.m3u8
-#EXTINF:0,ITV Encore
-http://149.14.4.125:9085/best/itvencore/playlist.m3u8
-#EXTINF:0,MTV
-http://149.14.4.125:9085/best/mtv/playlist.m3u8
-#EXTINF:0,Viva
-http://149.14.4.125:9085/best/viva/playlist.m3u8
-#EXTINF:0,MTV Base
-http://149.14.4.125:9085/best/mtvbase/playlist.m3u8
-#EXTINF:0,BT Sports 3
-http://149.14.4.125:9085/best/bt3/playlist.m3u8
-#EXTINF:0,MUTV
-http://149.14.4.125:9085/best/mutv/playlist.m3u8
-#EXTINF:0,MTV Music
-http://149.14.4.125:9085/best/mtvmusic/playlist.m3u8
-#EXTINF:0,mtvrocks
-http://149.14.4.125:9085/best/mtvrocks/playlist.m3u8
-#EXTINF:0,Channel 4
-http://149.14.4.125:9085/best/ch4/playlist.m3u8
-#EXTINF:0,CBBC
-http://149.14.4.125:9085/best/cbbc/playlist.m3u8
-#EXTINF:0,cbsdrama
-http://149.14.4.125:9085/best/cbsdrama/playlist.m3u8
-#EXTINF:0,Cartoon Network
-http://149.14.4.125:9085/best/cartoon/playlist.m3u8
-#EXTINF:0,History
-http://149.14.4.125:9085/best/history/playlist.m3u8
-#EXTINF:0,Nat Geo Wild
-http://149.14.4.125:9085/best/natgeow/playlist.m3u8
-#EXTINF:0,National Geographic
-http://149.14.4.125:9085/best/natgeo/playlist.m3u8
-#EXTINF:0,Animal Planet
-http://149.14.4.125:9085/best/animal/playlist.m3u8
-#EXTINF:0,Discovery Turbo
-http://149.14.4.125:9085/best/turbo/playlist.m3u8
-#EXTINF:0,Discovery Science
-http://149.14.4.125:9085/best/discovs/playlist.m3u8
-#EXTINF:0,Discovery Channel
-http://149.14.4.125:9085/best/discov/playlist.m3u8
-#EXTINF:0,BBC News
-http://149.14.4.125:9085/best/bbcnews/playlist.m3u8
-#EXTINF:0,4seven
-http://149.14.4.125:9085/best/4seven/playlist.m3u8
-#EXTINF:0,5usa
-http://149.14.4.125:9085/best/5usa/playlist.m3u8
-#EXTINF:0,challenge
-http://149.14.4.125:9085/best/challenge/playlist.m3u8
-#EXTINF:0,film4
-http://149.14.4.125:9085/best/film4/playlist.m3u8
-#EXTINF:0,Spike
-http://149.14.4.125:9085/best/spike/playlist.m3u8
-#EXTINF:0,e4
-http://149.14.4.125:9085/best/e4/playlist.m3u8
-#EXTINF:0,more4
-http://149.14.4.125:9085/best/more4/playlist.m3u8
-#EXTINF:0,movies4men
-http://149.14.4.125:9085/best/movies4men/playlist.m3u8
-#EXTINF:0,mtvclassic
-http://149.14.4.125:9085/best/mtvclassic/playlist.m3u8
-#EXTINF:0,sky2
-http://149.14.4.125:9085/best/sky2/playlist.m3u8
-#EXTINF:0,skynews
-http://149.14.4.125:9085/best/skynews/playlist.m3u8
-#EXTINF:0,syfy
-http://149.14.4.125:9085/best/syfy/playlist.m3u8
-#EXTINF:0,fox
-http://149.14.4.125:9085/best/fox/playlist.m3u8
+#EXTINF:-1,hbo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
+#EXTINF:-1,hbo family
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0eca0c2784c1339f7ee47db4906f2181c23efabe/3181.m3u8
+#EXTINF:-1,hbo 2
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1963212bcce3ab90e0cb7300ef4b868dfab208f/103.m3u8
+#EXTINF:-1,hbo plus
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b0ae4816e4df5ffa59f99552103c780d66078c29/104.m3u8
+#EXTINF:-1,máx prime
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/5a88aed28580a65625471fb8c7326231abbdb2c0/968.m3u8
+#EXTINF:-1,multipremier
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/abc2f17f8ed8cdb3325d29007c753e9b40f155f0/111.m3u8
+#EXTINF:-1,fox family
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/8a732c7edbf6fcc9fd5e4aabc13ea511560a275d/90.m3u8
+#EXTINF:-1,fox comedy
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/6a13833df1e420ddfe24fe35138439b07736ec1d/91.m3u8
+#EXTINF:-1,DirecTV sports
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f88c9f198ca06f1bca210be9e7959f4cebf0dd48/3172.m3u8
+#EXTINF:-1,deportv
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/a16a2eefba7fa5c271ee923e57e65f9efa5bae75/3171.m3u8
+#EXTINF:-1,nba
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/bb36848ec08f4c9fe625b41fcab71ea1b5e5ff1f/379.m3u8
+#EXTINF:-1,tdn
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/d14287b3d84c0ddaba408fba70acfc80ff4a149f/702747a1039bfd7906cdf02a7f1a3a518df32527/277.m3u8
+#EXTINF:-1,Univisión tdn
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/7dcfaddac67d1d6a1549d25040d08504a3ea23f9/277.m3u8
+#EXTINF:-1,DirecTV trailers
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1818a1c1b4d012d74e16b8a3664741cfcb18454/281.m3u8
+#EXTINF:-1,las estrellas
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f3e8eddc27ec83d210bd656c8c6c1e2a28e6711a/233.m3u8
+#EXTINF:-1,unimas
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f2e1ea44e26f7602361df0dbc3a0a43a7395f5cb/248.m3u8
+#EXTINF:-1,univision
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/9f929680c7cc1d9dba8a49b530bb5e83a4b43c46/247.m3u8
+#EXTINF:-1,telemundo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/be8e37702a6fa7076e4d6d28fc52de2d8b83d4cd/242.m3u8
+#EXTINF:-1,deportes 1
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0f791cc64c683c46d00e4129cca1a07e13c45daf/1505.m3u8
+#EXTINF:-1,deportes 2
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/eece234094a53e544ac75ea3ecaaf79e6349d1d0/1506.m3u8
+#EXTINF:-1,show beyond
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/46447dbe35101ebbbe6cacabc76161422db6a838/510.m3u8
+#EXTINF:-1,show extreme
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/787a21fe42613b380b44b47c993bf64bb60038b8/509.m3u8
+#EXTINF:-1,tnt us
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/d8b59edaa9637ee7c08b21d781f08d8db0ec6373/364.m3u8
+#EXTINF:-1,show next
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0311822bd2f7f32c7a7a18063c6d2db5b4fd7613/511.m3u8
