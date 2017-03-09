@@ -5,113 +5,111 @@
 <title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-09-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 
-
 <item>
-<title>US: HBO 1</title>
+<title>HBO 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1433.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Starz Edge</title>
+<title>Starz Edge</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1438.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Starz East</title>
+<title>Starz East</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1450.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: ShowTime HD</title>
+<title>ShowTime HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1439.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Showtime 2 HD</title>
+<title>Showtime 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1480.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Cinemax</title>
+<title>Cinemax</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1461.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: USA Network</title>
+<title>USA Network</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1498.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TMN Action</title>
+<title>TMN Action</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1471.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TMN Movies 1</title>
+<title>TMN Movies 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1467.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TMN Movies 2</title>
+<title>TMN Movies 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1468.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TMN Movies 3</title>
+<title>TMN Movies 3</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1469.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TMN Movies 4</title>
+<title>TMN Movies 4</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1470.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: SYFY HD</title>
+<title>SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1481.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FX HD</title>
+<title>FX HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1478.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: AMC</title>
+<title>AMC</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1492.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: FOX 1</title>
+<title>FOX 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1435.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Fox Clasic</title>
+<title>Fox Clasic</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1443.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Fox Movies</title>
+<title>Fox Movies</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1447.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: Fox Action</title>
+<title>Fox Action</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1448.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: A&E Network</title>
+<title>A&E Network</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1458.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>US: TNT</title>
+<title>TNT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/abc0420/abc0420/1484.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
-
 
 
 <item>
