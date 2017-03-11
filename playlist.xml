@@ -4,22 +4,193 @@
 <item>
 <title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-11-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
-
+<item>
+<title>[COLOR gold][B]A&E[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/316.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/314.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BET HD..</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/299.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/315.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/313.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/319.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/318.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/320.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/324.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/323.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/309.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/317.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/321.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/302.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/305.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Lifetime USA HD..</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/300.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/308.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/311.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/322.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/306.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/301.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TNT HD..</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/298.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/312.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/310.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/307.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA NETWORK</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/242.ts</link>
+<thumbnail></thumbnail>
+</item>
+<title>USA Network Option 2</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/111.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO 2</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/174.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO Comedy</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/173.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO Family</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/172.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO Option 1</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/176.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HBO Option 2</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/175.ts</link>
+<thumbnail></thumbnail>
+</item>
+<title>The Movie Network 1</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/124.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Movie Network 2</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/123.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Movie Network 3</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/122.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Movie Network 4</title>
+<link>http://dns.theplayersklub.us:2095/live/beta/beta/121.ts</link>
+<thumbnail></thumbnail>
+</item>
+  
+  
+  
 <item>
 <title>ABC News</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/107.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>ABC 2</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/108.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>| USA |</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/240.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>A&E</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/239.ts</link>
@@ -40,11 +211,7 @@
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/228.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>Bein Sports</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/227.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>Cartoon Network Option 2</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/222.ts</link>
@@ -115,31 +282,7 @@
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/181.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>HBO 2</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/174.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO Comedy</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/173.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO Family</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/172.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO Option 1</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/176.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO Option 2</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/175.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>MLB Network</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/160.ts</link>
@@ -186,25 +329,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>The Movie Network 1</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/124.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>The Movie Network 2</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/123.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>The Movie Network 3</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/122.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>The Movie Network 4</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/121.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>The Weather Channel</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/120.ts</link>
@@ -216,10 +341,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>USA Network Option 2</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/111.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>A&E.</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/267.ts</link>
@@ -350,139 +472,10 @@
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/243.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>USA NETWORK</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/242.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>AxN</title>
 <link>http://dns.theplayersklub.us:2095/live/beta/beta/270.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]A&E[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/316.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/314.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BET HD..</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/299.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/315.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/313.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/319.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/318.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/320.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/324.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/323.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/309.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/317.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/321.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/302.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/305.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Lifetime USA HD..</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/300.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/308.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/311.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/322.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/306.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/301.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TNT HD..</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/298.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/312.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/310.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/307.ts</link>
 <thumbnail></thumbnail>
 </item>
 
