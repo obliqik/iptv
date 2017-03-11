@@ -2,45 +2,10 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-09-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-11-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link>
 
 
-<item>
-<title>Sky Movies Action & Adventure</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26927.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26928.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Modern_Greats</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26929.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Premiere</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26930.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Select</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26932.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky Movies Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26933.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky-movies-Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/26917.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HBO</title>
