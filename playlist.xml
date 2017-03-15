@@ -2,99 +2,99 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-11-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-15-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
 <item>
 <title>[COLOR gold][B]HBO[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/317.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/317.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/321.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/321.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HBO 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/174.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/174.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/173.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/173.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/172.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/172.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/340.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/340.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/313.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/331.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/330.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/330.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]SHOWTIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/332.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CINEMAX [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/350.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/328.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]STARZ EAST[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/329.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]SPIKE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/246.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/246.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]SYFY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/245.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TNT.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/243.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/243.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]USA NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/242.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/242.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]OWN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/311.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/311.ts</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -102,553 +102,553 @@
 
 <item>
 <title>[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLOR white] HD[/COLOR].</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/107.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/107.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ABC NEWS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/108.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/108.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]A & E[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/239.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/239.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/228.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/228.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CBSN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/220.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/220.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/211.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/211.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/206.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/195.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/195.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/188.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/187.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]MLB NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/160.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/160.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]MTV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/158.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/158.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/157.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NBCSN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/149.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/149.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NFL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/148.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/148.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/147.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/147.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TCM[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/128.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/128.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/121.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/120.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/120.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TLC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/119.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/119.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]A&E.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/267.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/267.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ABC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/263.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/263.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/241.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/241.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/262.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/258.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/266.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/266.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CNN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/260.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/260.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/257.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/255.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ESPN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/256.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/256.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FOX NEWS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/252.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/252.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HISTORY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/251.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]LIFE.TIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/250.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/250.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]MY9[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/249.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/249.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/247.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NBC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/248.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/248.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NICKELODEON[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/265.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]PBS.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/264.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/264.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR gold][B]AXN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/270.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/270.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]A&E[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/316.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/316.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]AMC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/314.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]BET[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/299.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/299.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]BRAVO[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/315.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/315.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]CW[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/319.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/319.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FOX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/318.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FREEFORM[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/320.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/320.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/324.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FXX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/323.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]H2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/309.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]HGTV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/302.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/302.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/305.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]LIFETIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/300.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/300.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/308.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/308.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]PBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/322.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/322.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/306.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/306.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/301.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/301.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TNT[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/298.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/298.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/312.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/312.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/310.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/310.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]VELOCITY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/307.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/307.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/303.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/303.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/353.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/352.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/352.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]BET [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/351.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/351.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR gold][B]CNBC [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/349.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/349.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/348.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/348.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/347.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/346.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/346.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]E![/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/345.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/345.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ENCORE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/344.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/344.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]ESPN 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/343.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/343.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]FYI [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/342.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/342.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]HALLMARK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/341.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/341.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/339.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/339.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/338.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/338.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]MSNBC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/337.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/337.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NBA TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/336.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/336.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NBC GOLF[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/335.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/335.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NICK JR[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/333.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]NICK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/334.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/327.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/327.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/326.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/326.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR gold][B]TV Land[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/325.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/325.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL Red Zone[/B][/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/368.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/368.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 1 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/355.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/355.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 10 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/367.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/367.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 12 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/365.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/365.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 13 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/364.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/364.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 2 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/363.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/363.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 3 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/362.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/362.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 4 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/361.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/361.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 5 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/360.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/360.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 6 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/359.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/359.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 7 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/358.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/358.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 9 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/356.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/356.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white]11 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/366.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/366.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white]8 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/357.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/357.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 1 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/380.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/380.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 10 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/376.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/376.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 14 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/375.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/375.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 15 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/374.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/374.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 2 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/373.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/373.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 3 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/372.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/372.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 4 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/371.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/371.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 5 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/370.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/370.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 6 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/369.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/369.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 7 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/379.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/379.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 8 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/378.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/378.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 9 HD[/COLOR]</title>
-<link>http://dns.theplayersklub.us:2095/live/beta/beta/377.ts</link>
+<link>http://dns.theplayersklub.us:2095/live/playersklub/playersklub/377.ts</link>
 <thumbnail></thumbnail>
 </item>
 
