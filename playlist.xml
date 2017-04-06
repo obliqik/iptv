@@ -7,7 +7,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
 
 <item>
-<title>A&E</title>
+<title>A & E</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/672.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -17,7 +17,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>auctionmax</title>
+<title>AuctionMax</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/645.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -27,37 +27,37 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>bet</title>
+<title>BET</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/630.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CartoonNetwork</title>
+<title>Cartoon Network</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>cbs</title>
+<title>CBS</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/669.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>cbs news</title>
+<title>CBS News</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/653.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>cinemax</title>
+<title>Cinemax</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/644.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>cnn</title>
+<title>CNN</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/668.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ComedyCentral</title>
+<title>Comedy Central</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/667.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -67,7 +67,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>cw</title>
+<title>CW</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/666.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -87,7 +87,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>diy</title>
+<title>DIY</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/650.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -122,22 +122,22 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>fx</title>
+<title>FX</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/664.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>fxx</title>
+<title>FXX</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/635.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>fyi</title>
+<title>FYI</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/643.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>h2</title>
+<title>H2</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/633.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -152,7 +152,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>hbo</title>
+<title>HBO</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/634.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -167,12 +167,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>life time</title>
+<title>LIFE TIME</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/663.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>lifetime movie network</title>
+<title>Lifetime Movie Network</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/649.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -182,17 +182,17 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>nba tv</title>
+<title>NBA TV</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/639.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>nbc</title>
+<title>NBC</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/662.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NEWS12CONNECTICUT</title>
+<title>NEWS 12 CONNECTICUT</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/619.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -217,12 +217,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>showtime</title>
+<title>Showtime</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/638.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>spike</title>
+<title>Spike</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/659.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -237,262 +237,218 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>syfy</title>
+<title>Syfy</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/658.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>tbs</title>
+<title>TBS</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/657.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>tnt</title>
+<title>TNT</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/656.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>trutv</title>
+<title>Tru TV</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/648.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>UnivisionDeportes</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/617.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>Velocity</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/646.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>wwe</title>
+<title>WWE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/631.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/808.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/810.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]...FOR MORE CONTENT. UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/813.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]...FOR MORE. CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/812.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]...FOR. MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/811.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE..[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/816.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]PREMIUM CLIENTS ONLY.[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/815.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]PREMIUM CLIENTS ONLY[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/814.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>free  BET(BLACK ENTERTAINMENT CHANNEL)</title>
+<title>BET(BLACK ENTERTAINMENT CHANNEL)</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/807.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  BNN</title>
+<title>BNN</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/806.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CARTOON NETWORK</title>
+<title>CARTOON NETWORK</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/805.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CBC TORONTO</title>
+<title>CBC TORONTO</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/804.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CHCH</title>
+<title>CHCH</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/803.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CITY VANCOUVER</title>
+<title>CITY VANCOUVER</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/802.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  COMEDY GOLD</title>
+<title>COMEDY GOLD</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/801.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  COTTAGE LIFE</title>
+<title>COTTAGE LIFE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/800.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CP24</title>
+<title>CP24</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/799.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  CTV TORONTO</title>
+<title>CTV TORONTO</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/798.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  DEJA VIEW</title>
+<title>DEJA VIEW</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/797.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  E!</title>
+<title>E!</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/796.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  FYI</title>
+<title>FYI</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/794.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  G4</title>
+<title>G4</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/793.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  GLOBAL TV CALGARY</title>
+<title>GLOBAL TV CALGARY</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/792.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  GLOBAL TV EDMONTON</title>
+<title>GLOBAL TV EDMONTON</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/791.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  GSN</title>
+<title>GSN</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/789.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  MOVIE TIME</title>
+<title>MOVIE TIME</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/787.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  MTV CANADA</title>
+<title>MTV CANADA</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/786.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  MUCH MUSIC</title>
+<title>MUCH MUSIC</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/785.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  MUSIQUE</title>
+<title>MUSIQUE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/784.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  NICK</title>
+<title>NICK</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/783.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  OLN</title>
+<title>OLN</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/782.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  OWN (OPRAH WINFREY NETWORK)</title>
+<title>OWN (OPRAH WINFREY NETWORK)</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/781.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  PEACHTREE TV</title>
+<title>PEACHTREE TV</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/780.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  SILVER SCREEN CLASSICS</title>
+<title>SILVER SCREEN CLASSICS</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/779.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  SLICE</title>
+<title>SLICE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/778.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  SPIKE</title>
+<title>SPIKE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/777.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  SPORTSNET WORLD HD</title>
+<title>SPORTSNET WORLD HD</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/776.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  TELETOON</title>
+<title>TELETOON</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/775.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  THE MOVIE NETWORK</title>
+<title>THE MOVIE NETWORK</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/774.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  TRAVEL CHANNEL</title>
+<title>TRAVEL CHANNEL</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/773.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  TREE HOUSE</title>
+<title>TREE HOUSE</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/772.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  VRAK TV</title>
+<title>VRAK TV</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/771.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  W NETWORK</title>
+<title>W NETWORK</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/770.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  WORLD FISHING</title>
+<title>WORLD FISHING</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/769.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>free  YTV</title>
+<title>YTV</title>
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/768.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -506,17 +462,5 @@
 <link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/822.ts</link>
 <thumbnail></thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
 
 </stream>
