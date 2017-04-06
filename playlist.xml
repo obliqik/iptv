@@ -3,1190 +3,516 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 03-23-2017 [COLOR white][/COLOR]</title>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 04-05-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
-<item>
-<title>[COLOR gold][B]HBO[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/317.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/321.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/174.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/173.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/172.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/340.ts</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
-<title>[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/313.ts</link>
+<title>A&E</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/672.ts</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/331.ts</link>
+<title>AnimalPlanet</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/671.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/330.ts</link>
+<title>auctionmax</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/645.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]SHOWTIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/332.ts</link>
+<title>BBC AMERICA</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/628.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]CINEMAX [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/350.ts</link>
+<title>bet</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/630.ts</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
-<title>[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/328.ts</link>
+<title>CartoonNetwork</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]STARZ EAST[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/329.ts</link>
+<title>cbs</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/669.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]SPIKE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/246.ts</link>
+<title>cbs news</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/653.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]SYFY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/245.ts</link>
+<title>cinemax</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/644.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]TNT.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/243.ts</link>
+<title>cnn</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/668.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]USA NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/242.ts</link>
+<title>ComedyCentral</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/667.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]OWN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/311.ts</link>
+<title>COOKING CHANNEL</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/627.ts</link>
 <thumbnail></thumbnail>
 </item>
-
-
-
 <item>
-<title>[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLOR white] HD[/COLOR].</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/107.ts</link>
+<title>cw</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/666.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]ABC NEWS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/108.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]A & E[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/239.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/228.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CBSN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/220.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/211.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/206.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/195.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/188.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/187.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]MLB NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/160.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]MTV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/158.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/157.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NBCSN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/149.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NFL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/148.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/147.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TCM[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/128.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/121.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/120.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TLC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/119.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]A&E.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/267.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]ABC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/263.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/241.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/262.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/258.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/266.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CNN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/260.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/257.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/255.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]ESPN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/256.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOX NEWS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/252.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HISTORY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/251.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]LIFE.TIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/250.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]MY9[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/249.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/247.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NBC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/248.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NICKELODEON[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/265.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]PBS.[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/264.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR gold][B]AXN[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/270.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]A&E[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/316.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]AMC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/314.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BET[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/299.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BRAVO[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/315.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]CW[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/319.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FOX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/318.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FREEFORM[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/320.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/324.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FXX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/323.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]H2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/309.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]HGTV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/302.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/305.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]LIFETIME[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/300.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/308.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]PBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/322.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/306.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TBS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/301.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TNT[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/298.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/312.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/310.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]VELOCITY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/307.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/303.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/353.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/352.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]BET [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/351.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]CNBC [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/349.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/348.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/347.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/346.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]E![/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/345.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]ENCORE[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/344.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]ESPN 2[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/343.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]FYI [/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/342.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HALLMARK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/341.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/339.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/338.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]MSNBC[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/337.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NBA TV[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/336.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NBC GOLF[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/335.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NICK JR[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/333.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]NICK[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/334.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/327.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/326.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]TV Land[/B][/COLOR][COLOR white] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/325.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL Red Zone[/B][/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/368.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 1 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/355.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 10 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/367.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 12 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/365.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 13 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/364.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 2 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/363.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 3 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/362.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 4 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/361.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 5 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/360.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 6 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/359.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 7 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/358.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white] 9 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/356.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white]11 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/366.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLOR white]8 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/357.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 1 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/380.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 10 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/376.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 14 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/375.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 15 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/374.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 2 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/373.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 3 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/372.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 4 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/371.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 5 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/370.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 6 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/369.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 7 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/379.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 8 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/378.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLOR white] 9 HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/377.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
-
-
-
-<item>
-<title>HBO</title>
-<link>http://183.88.0.69:8010/play/a00m</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FX</title>
-<link>http://183.88.0.69:8010/play/a023</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISNEY XD</title>
-<link>http://183.88.0.69:8010/play/a00x</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO HD</title>
-<link>http://183.88.0.69:8010/play/a00u</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX CRIME</title>
-<link>http://183.88.0.69:8010/play/a020</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX ACTION MOVIES HD</title>
-<link>http://183.88.0.69:8010/play/a010</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DIVA UNIVERSAL</title>
-<link>http://183.88.0.69:8010/play/a03n</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UNIVERSAL SD</title>
-<link>http://183.88.0.69:8010/play/a03m</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNN</title>
-<link>http://183.88.0.69:8010/play/a00l</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CARTOON NETWORK</title>
-<link>http://183.88.0.69:8010/play/a01b</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>COMEDY CENTRAL</title>
-<link>http://183.88.0.69:8010/play/a03b</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NICKJR</title>
-<link>http://183.88.0.69:8010/play/a01c</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC WORLD NEWS</title>
-<link>http://183.88.0.69:8010/play/a03g</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET MOVIES HD</title>
-<link>http://183.88.0.69:8010/play/a00v</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>E!</title>
-<link>http://183.88.0.69:8010/play/a03o</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ASN</title>
-<link>http://183.88.0.69:8010/play/a02p</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>WORLD MOVIES</title>
-<link>http://183.88.0.69:8010/play/a01k</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>UP TO DATE</title>
-<link>http://183.88.0.69:8010/play/a03a</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MWD</title>
-<link>http://183.88.0.69:8010/play/a014</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC CBEEBIES</title>
-<link>http://183.88.0.69:8010/play/a03f</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS HD</title>
-<link>http://183.88.0.69:8010/play/a00r</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SUN TV</title>
-<link>http://183.88.0.69:8010/play/a00o</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX MOVIES PREMIUM</title>
-<link>http://183.88.0.69:8010/play/a01l</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-1</title>
-<link>http://183.88.0.69:8010/play/a02j</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET SPORTS-2</title>
-<link>http://183.88.0.69:8010/play/a02k</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BABY TV</title>
-<link>http://183.88.0.69:8010/play/a01e</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NAT GEO PEOPLE</title>
-<link>http://183.88.0.69:8010/play/a02z</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ZEE TV</title>
-<link>http://183.88.0.69:8010/play/a01z</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SKYNET CARTOON</title>
-<link>http://183.88.0.69:8010/play/a01d</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>EURO SPORTS NEWS</title>
-<link>http://183.88.0.69:8010/play/a00g</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NICKELODEON</title>
-<link>http://183.88.0.69:8010/play/a01f</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX SPORTS 1</title>
-<link>http://183.88.0.69:8010/play/a02m</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CHANNEL 9</title>
-<link>http://183.88.0.69:8010/play/a01a</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ASIAN MOVIES</title>
-<link>http://183.88.0.69:8010/play/a01j</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HOME CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a03t</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX SPORTS 3</title>
-<link>http://183.88.0.69:8010/play/a02o</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY</title>
-<link>http://183.88.0.69:8010/play/a031</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HEALTH</title>
-<link>http://183.88.0.69:8010/play/a03r</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>AGRICULTURE/FOREST</title>
-<link>http://183.88.0.69:8010/play/a03q</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CI</title>
-<link>http://183.88.0.69:8010/play/a00j</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GLOBALNET</title>
-<link>http://183.88.0.69:8010/play/a039</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>OUTDOOR CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a03d</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CINEMAX</title>
-<link>http://183.88.0.69:8010/play/a00n</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>EDUCATION CHANNEL</title>
-<link>http://183.88.0.69:8010/play/a03p</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>LIFETIME</title>
-<link>http://183.88.0.69:8010/play/a03l</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DMAX</title>
-<link>http://183.88.0.69:8010/play/a035</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>H2</title>
-<link>http://183.88.0.69:8010/play/a03k</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MOTORVISION</title>
-<link>http://183.88.0.69:8010/play/a03j</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX FAMILY MOVIES</title>
-<link>http://183.88.0.69:8010/play/a01m</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>M-BIZ</title>
-<link>http://183.88.0.69:8010/play/a018</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>EDGE SPORTS</title>
-<link>http://183.88.0.69:8010/play/a03i</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-<item>
-<title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOX NEWS</title>
-<link>http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS NEWS HD</title>
-<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BLOOMBERG HD</title>
-<link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>H2</title>
-<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DISCOVERY CHANNEL HD</title>
-<link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ANIMAL PLANET HD</title>
-<link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NASA TV HD</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NHK WORLD HD</title>
-<link>https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Arirang</title>
-<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MBC</title>
-<link>http://119.202.61.202:1935/live/livetv/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RT DOCUMENTARY CHANNEL</title>
-<link>http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RAI NEWS</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HISTORY LAB – ITÁLIA</title>
-<link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DW HD</title>
-<link>http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FRANCE 24</title>
-<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TV5 MONDE</title>
-<link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Nicktoons</title>
-<link>http://208.86.19.13:8080/live/15.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TNT</title>
-<link>http://208.86.19.13:8080/live/16.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNN</title>
-<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Freeform</title>
-<link>http://208.86.19.13:8080/live/27.stream/index.m3u8</link>
+<title>Destination America</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/621.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>Discovery</title>
-<link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/652.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BBC America</title>
-<link>http://208.86.19.13:8080/live/34.stream/index.m3u8</link>
+<title>DiscoveryScience</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/651.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CBS 2</title>
-<link>http://208.86.19.13:8080/live/101.stream/index.m3u8</link>
+<title>diy</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/650.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NBC 4</title>
-<link>http://208.86.19.123:8080/live/102.stream/index.m3u8</link>
+<title>E!</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/655.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Fox 5</title>
-<link>http://208.86.19.13:8080/live/103.stream/index.m3u8</link>
+<title>ESPN2</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/616.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ABC 7</title>
-<link>http://208.86.19.123:8080/live/104.stream/index.m3u8</link>
+<title>FOOD NETWORK</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/626.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>My 9</title>
-<link>http://208.86.19.13:8080/live/105.stream/index.m3u8</link>
+<title>fox</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/665.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PIX 11</title>
-<link>http://208.86.19.13:8080/live/106.stream/index.m3u8</link>
+<title>FOXNEWS30</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/618.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PBS THIRTEEN</title>
-<link>http://208.86.19.123:8080/live/107.stream/index.m3u8</link>
+<title>FOXSPORT1 </title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/625.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>WLIW 21</title>
-<link>http://208.86.19.13:8080/live/108.stream/index.m3u8</link>
+<title>fx</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/664.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ION</title>
-<link>http://208.86.19.123:8080/live/109.stream/index.m3u8</link>
+<title>fxx</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/635.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CNN</title>
-<link>http://208.86.19.13:8080/live/20.stream/index.m3u8</link>
+<title>fyi</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/643.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ME TV</title>
-<link>http://208.86.19.13:8080/live/32.stream/index.m3u8</link>
+<title>h2</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/633.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>FILM ASIA</title>
-<link>http://208.86.19.13:8080/live/835.stream/index.m3u8</link>
+<title>HBO COMEDY</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/624.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PLUS TV</title>
-<link>http://208.86.19.13:8080/live/837.stream/index.m3u8</link>
+<title>HBO FAMILY</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/623.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BTV WORLD</title>
-<link>http://208.86.19.13:8080/live/836.stream/index.m3u8</link>
+<title>hbo</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/634.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CINEMA-1 TV</title>
-<link>http://208.86.19.13:8080/live/840.stream/index.m3u8</link>
+<title>HBO SIGNATURE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/642.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>OZTV</title>
-<link>http://208.86.19.13:8080/live/103.stream/index.m3u8</link>
+<title>INVESTIGATION DISCOVERY</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/641.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PIX2</title>
-<link>http://208.86.19.13:8080/live/106.stream/index.m3u8</link>
+<title>life time</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/663.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EI</title>
-<link>http://208.86.19.13:8080/live/108.stream/index.m3u8</link>
+<title>lifetime movie network</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/649.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DISH TV</title>
-<link>http://208.86.19.13:8080/live/628.stream/index.m3u8</link>
+<title>MSNBC</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/640.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DUNYA TV</title>
-<link>http://208.86.19.13:8080/live/629.stream/index.m3u8</link>
+<title>nba tv</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/639.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DWV</title>
-<link>http://208.86.19.13:8080/live/630.stream/index.m3u8</link>
+<title>nbc</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/662.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>EXNEWS</title>
-<link>http://208.86.19.13:8080/live/631.stream/index.m3u8</link>
+<title>NEWS12CONNECTICUT</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/619.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NATIONAL</title>
-<link>http://208.86.19.13:8080/live/632.stream/index.m3u8</link>
+<title>NEWS12THEBRONX</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/620.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>9 KANAL</title>
-<link>http://208.86.19.13:8080/live/803.stream/index.m3u8</link>
+<title>nfl network</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/632.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ETV</title>
-<link>http://208.86.19.13:8080/live/804.stream/index.m3u8</link>
+<title>NFLNOW</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/622.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>JAMUNA TV</title>
-<link>http://208.86.19.13:8080/live/805.stream/index.m3u8</link>
+<title>pbs</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/660.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ATN</title>
-<link>http://208.86.19.13:8080/live/806.stream/index.m3u8</link>
+<title>showtime</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/638.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>A PLUS</title>
-<link>http://208.86.19.13:8080/live/831.stream/index.m3u8</link>
+<title>spike</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/659.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TV</title>
-<link>http://208.86.19.13:8080/live/832.stream/index.m3u8</link>
+<title>STARZ CINEMA</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/636.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>STAR LITE</title>
-<link>http://208.86.19.13:8080/live/834.stream/index.m3u8</link>
+<title>STARZ EAST</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/637.ts</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>syfy</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/658.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>tbs</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/657.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>tnt</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/656.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>trutv</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/648.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UnivisionDeportes</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/617.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Velocity</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/646.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>wwe</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/631.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/808.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/810.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR MORE CONTENT. UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/813.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR MORE. CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/812.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR. MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/811.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]...FOR MORE CONTENT UPGARDE..[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/816.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]PREMIUM CLIENTS ONLY.[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/815.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]PREMIUM CLIENTS ONLY[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/814.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  BET(BLACK ENTERTAINMENT CHANNEL)</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/807.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  BNN</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/806.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CARTOON NETWORK</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/805.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CBC TORONTO</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/804.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CHCH</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/803.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CITY VANCOUVER</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/802.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  COMEDY GOLD</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/801.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  COTTAGE LIFE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/800.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CP24</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/799.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  CTV TORONTO</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/798.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  DEJA VIEW</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/797.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  E!</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/796.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  FYI</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/794.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  G4</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/793.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  GLOBAL TV CALGARY</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/792.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  GLOBAL TV EDMONTON</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/791.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  GSN</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/789.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  MOVIE TIME</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/787.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  MTV CANADA</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/786.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  MUCH MUSIC</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/785.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  MUSIQUE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/784.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  NICK</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/783.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  OLN</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/782.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  OWN (OPRAH WINFREY NETWORK)</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/781.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  PEACHTREE TV</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/780.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  SILVER SCREEN CLASSICS</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/779.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  SLICE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/778.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  SPIKE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/777.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  SPORTSNET WORLD HD</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/776.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  TELETOON</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/775.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  THE MOVIE NETWORK</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/774.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  TRAVEL CHANNEL</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/773.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  TREE HOUSE</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/772.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  VRAK TV</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/771.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  W NETWORK</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/770.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  WORLD FISHING</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/769.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>free  YTV</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/768.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN Deportes</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/823.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Fox Deporte</title>
+<link>http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/822.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
 
 
 
