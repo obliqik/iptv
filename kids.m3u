@@ -1,43 +1,50 @@
 #EXTM3U
-#EXTINF:-1,Disney Chnl
-http://5.255.90.223:2086/play/DisneyChnl
-#EXTINF:-1,Disney Junior+1
-http://5.255.90.223:2086/play/DisneyJunior1
-#EXTINF:-1,Disney XD+1
-http://5.255.90.223:2086/play/DisneyXD1
-#EXTINF:-1,Pick
-http://5.255.90.223:2086/play/Pick
-#EXTINF:-1,Disney Chnl+1
-http://5.255.90.223:2086/play/a01a
-#EXTINF:-1,Disney XD
-http://5.255.90.223:2086/play/DisneyXD
-#EXTINF:-1,Disney Junior
-http://5.255.90.223:2086/play/DisneyJunior
-#EXTINF:-1,Nick Jr+1
-http://5.255.90.223:2082/play/NickJr1
-#EXTINF:-1,GOLD
-http://5.255.90.223:2082/play/gold
-#EXTINF:-1,MTV MUSIC
-http://5.255.90.223:2082/play/mtv
-#EXTINF:-1,ComedyXtra+1
-http://5.255.90.223:2082/play/ComedyXtra1
-#EXTINF:-1,ComedyCent+1
-http://5.255.90.223:2082/play/ComedyCent1
-#EXTINF:-1,Nickelodeon
-http://5.255.90.223:2082/play/Nickelodeon
-#EXTINF:-1,Alibi
-http://5.255.90.223:2082/play/alibi
-#EXTINF:-1,Nicktoons
-http://5.255.90.223:2082/play/Nicktoons
-#EXTINF:-1,Dave
-http://5.255.90.223:2082/play/Dave
-#EXTINF:-1,Dave Ja Vu
-http://5.255.90.223:2082/play/DaveJaVu
-#EXTINF:-1,Nick Jr Too
-http://5.255.90.223:2082/play/NickJrToo
-#EXTINF:-1,ComedyXtra
-http://5.255.90.223:2082/play/ComedyXtra
-#EXTINF:-1,Nick Jr.
-http://5.255.90.223:2082/play/NickJr
-#EXTINF:-1,ComedyCentral
-http://5.255.90.223:2082/play/ComedyCentral
+#EXTINF:-1, Discovery
+http://5.255.90.223:2086/play/a02l
+#EXTINF:-1, Nickelodeon
+http://5.255.90.223:2086/play/a02h
+#EXTINF:-1, Nick Jr Too
+http://5.255.90.223:2086/play/a02i
+#EXTINF:-1, ComedyCentral
+http://5.255.90.223:2086/play/a02a
+#EXTINF:-1, Disc.Science
+http://5.255.90.223:2086/play/a02p
+#EXTINF:-1, Discovery
+http://5.255.90.223:2086/play/a02t
+#EXTINF:-1, ComedyXtra
+http://5.255.90.223:2086/play/a02c
+#EXTINF:-1, TLC
+http://5.255.90.223:2086/play/a02w
+#EXTINF:-1, ID
+http://5.255.90.223:2086/play/a02v
+#EXTINF:-1, ComedyCent+1
+http://5.255.90.223:2086/play/a02b
+#EXTINF:-1, Nick Jr Too
+http://5.255.90.223:2086/play/a02f
+#EXTINF:-1, MTV MUSIC
+http://5.255.90.223:2086/play/a02j
+#EXTINF:-1, Discovery+1
+http://5.255.90.223:2086/play/a02n
+#EXTINF:-1, QUEST
+http://5.255.90.223:2086/play/a02u
+#EXTINF:-1, Disc.Turbo
+http://5.255.90.223:2086/play/a02s
+#EXTINF:-1, Home & Health
+http://5.255.90.223:2086/play/a02r
+#EXTINF:-1, Disc.History
+http://5.255.90.223:2086/play/a02q
+#EXTINF:-1, Nick Jr+1
+http://5.255.90.223:2086/play/a02g
+#EXTINF:-1, TLC
+http://5.255.90.223:2086/play/a02o
+#EXTINF:-1, ComedyXtra+1
+http://5.255.90.223:2086/play/a02d
+#EXTINF:-1, ComedyCent+1
+http://5.255.90.223:2086/play/a029
+#EXTINF:-1, Nicktoons
+http://5.255.90.223:2086/play/a028
+#EXTINF:-1, Animal Planet
+http://5.255.90.223:2086/play/a02m
+#EXTINF:-1, Nick Jr.
+http://5.255.90.223:2086/play/a02e
+
