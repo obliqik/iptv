@@ -38,6 +38,26 @@ http://5.255.90.223:2086/play/a02g
 #EXTINF:-1, TLC
 http://5.255.90.223:2086/play/a02o
 #EXTINF:-1, ComedyXtra+1
+#EXTINF:-1,Nick Jr
+http://5.255.90.223:2082/play/NickJr1
+#EXTINF:-1,mtv
+http://5.255.90.223:2082/play/mtv
+#EXTINF:-1,Comedy Xtra
+http://5.255.90.223:2082/play/ComedyXtra1
+#EXTINF:-1,Comedy Cent 1
+http://5.255.90.223:2082/play/ComedyCent1
+#EXTINF:-1,Nickelodeon
+http://5.255.90.223:2082/play/Nickelodeon
+#EXTINF:-1,Nicktoons
+http://5.255.90.223:2082/play/Nicktoons
+#EXTINF:-1,Nick Jr Too
+http://5.255.90.223:2082/play/NickJrToo
+#EXTINF:-1,Comedy Xtra
+http://5.255.90.223:2082/play/ComedyXtra
+#EXTINF:-1,Nick Jr
+http://5.255.90.223:2082/play/NickJr
+#EXTINF:-1,Comedy Central
+http://5.255.90.223:2082/play/ComedyCentral
 http://5.255.90.223:2086/play/a02d
 #EXTINF:-1, ComedyCent+1
 http://5.255.90.223:2086/play/a029
