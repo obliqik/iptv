@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+<item>
+<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 04-10-2017 [COLOR white][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
+
 <item>
 <title>A & E</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/672.ts</link>
