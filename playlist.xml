@@ -6,16 +6,72 @@
 <item>
 <title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 04-10-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
+
+ <item>
+<title>[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/331.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/332.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/328.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/329.ts</link>
+<thumbnail></thumbnail>
+</item>
+ <item>
+<title>[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/350.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/317.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/321.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/174.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/173.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/172.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/242.ts</link>
+<thumbnail></thumbnail>
+</item>  
+  
+
+  
+  
 <item>
 <title>[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/108.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/228.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/220.ts</link>
@@ -46,21 +102,7 @@
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/187.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/174.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/173.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/172.ts</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/158.ts</link>
@@ -191,11 +233,8 @@
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/243.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/242.ts</link>
-<thumbnail></thumbnail>
-</item>
+  
+ 
 <item>
 <title>[COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/299.ts</link>
@@ -236,16 +275,8 @@
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/309.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/317.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/321.ts</link>
-<thumbnail></thumbnail>
-</item>
+
+  
 <item>
 <title>[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/302.ts</link>
@@ -306,11 +337,10 @@
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/352.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/350.ts</link>
-<thumbnail></thumbnail>
-</item>
+
+ 
+  
+  
 <item>
 <title>[COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/349.ts</link>
@@ -381,27 +411,11 @@
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/334.ts</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/331.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/332.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/328.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/329.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
+
+  
+  
+  
+  <item>
 <title>[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
 <link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/327.ts</link>
 <thumbnail></thumbnail>
