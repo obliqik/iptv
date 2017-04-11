@@ -6,462 +6,1016 @@
 <item>
 <title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 04-10-2017 [COLOR white][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
+<item>
+<title>[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/108.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/228.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/220.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/211.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/206.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/195.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/188.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/187.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/174.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/173.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/172.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/158.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/157.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NBCSN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/149.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NFL NOW[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/148.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/147.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TCM[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/128.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TLC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/119.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]A&E.[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/267.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ABC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/263.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/241.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/262.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/258.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/266.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CNN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/260.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/257.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/255.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ESPN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/256.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/252.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HISTORY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/251.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]MY9[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/249.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/247.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NBC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/248.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NICKELODEON[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/265.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SPIKE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/246.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SYFY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/245.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TNT.[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/243.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/242.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/299.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/315.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/319.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/318.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/320.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/324.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/323.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/309.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/317.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/321.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/302.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/305.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]LIFETIME[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/300.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/308.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/311.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/322.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/306.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/301.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TNT[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/298.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/307.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/303.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/352.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/350.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/349.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/346.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]E![/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/345.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ENCORE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/344.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ESPN 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/343.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FYI [/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/342.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]HALLMARK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/341.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/339.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/338.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]MSNBC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/337.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NBA TV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/336.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NBC GOLF[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/335.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NICK JR[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/333.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]NICK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/334.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/331.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/332.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/328.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/329.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/327.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/326.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TV Land[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/325.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 1 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/380.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 2 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/373.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 3 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/372.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 4 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/371.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 5 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/370.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 6 HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/369.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/388.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/387.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CBS NEWS.[COLOR white] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/389.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/390.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]C-SPAN 3[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/401.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]VH 1[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/402.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FIGHT NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/419.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FIGHT BOX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/418.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Destination America HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/425.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Big Ten Network HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/428.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]CINEMAX MOREMAX[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/446.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]EURO NEWS[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/439.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]FOX[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/442.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]UNIVISION[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/437.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]ANTENA 3[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/434.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]TELEMUNDO[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/433.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]LEVANTE TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/432.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]TRU TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/431.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/466.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] WESTCHESTER[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/467.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]CBN TV[/B][/COLOR][COLORwhite] NTV[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/452.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 23[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/457.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 25[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/458.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 30[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/459.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 59[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/456.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]KRGV 5[/B][/COLOR][COLORwhite] NEWS[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/451.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]KTVT 11[/B][/COLOR][COLORwhite] NEWS[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/450.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] BROOKLYN[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/461.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] CONNECTICUT[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/462.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] HUDSON VALLEY[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/463.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/460.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] NEW JERSEY[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/464.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] THE BRONX[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/465.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR darkturquoise][B]WJFW[/B][/COLOR][COLORwhite] NEWSWATCH 12[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/454.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Disney JR. HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/469.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Disney XD HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/471.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]FOX BUSINESS[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/472.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]TV ONE[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/474.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]ESPN U[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/475.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Velocity HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/478.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Viceland HD[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/477.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Baby First Tv[/B][/COLOR][COLORwhite] SD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/479.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]DOGTV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/480.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]4K TV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/481.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Fear Factor[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/482.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Anime TV[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/483.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B][COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] YTV[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/484.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] ABC SPARK[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/524.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] BET[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/523.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] BNN[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/522.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CARTOON NETWORK[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/521.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CBC TORONTO[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/520.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CHCH[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/519.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CITY VANCOUVER[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/518.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] COMEDY white[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/517.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] COTTAGE LIFE[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/516.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CP24[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/515.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] CTV TORONTO[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/514.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] DEJA VIEW</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/513.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] E![/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/512.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] EVASION[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/511.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] FYI[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/510.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] G4[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/509.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] GLOBAL TV CALGARY[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/508.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] GLOBAL TV EDMONTON[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/507.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] GSN[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/505.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] MOVIE TIME[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/503.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] MTV CANADA[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/502.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] MUCH MUSIC</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/501.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] OLN[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/498.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] OWN (OPRAH WINFREY NETWORK)[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/497.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] PEACHTREE TV</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/496.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] SILVER SCREEN CLASSICS[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/495.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] SLICE[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/494.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] SPIKE[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/493.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] SPORTSNET WORLD HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/492.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] TELETOON[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/491.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] THE MOVIE NETWORK[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/490.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] TRAVEL CHANNEL[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/489.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] TREE HOUSE[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/488.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] VRAK TV[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/487.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] W NETWORK[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/486.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]CA [/B][/COLOR][COLOR darkgoldenrod][B] WORLD FISHING[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/485.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightsalmon][B]MLB Live 4[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/547.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightsalmon][B]MLB Live 5[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/548.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightsalmon][B]MLB Live 7[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/550.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightsalmon][B]MLB Live 8[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/551.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]LMN[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/553.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]WGN AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/554.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]WGN NEWS CHICAGO[/B][/COLOR][COLORwhite] HD[/COLOR</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/555.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]Starz Edge[/B][/COLOR][COLORwhite] HD[/COLOR</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/558.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/562.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]TSN 1[/B][/COLOR][COLOR darkgoldenrod][B] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/1078.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]TSN 2[/B][/COLOR][COLOR darkgoldenrod][B] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/1077.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]TSN 3[/B][/COLOR][COLOR darkgoldenrod][B] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/1076.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]TSN 4[/B][/COLOR][COLOR darkgoldenrod][B] HD[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/1075.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]TSN 5[/B][/COLOR][COLOR darkgoldenrod][B] HD[/B][/COLOR</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/1074.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Action[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/582.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Action[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/581.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Comedy[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/580.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Comedy[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/579.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Disney[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/578.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Disney[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/577.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Drama[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/576.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Family[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/575.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Family[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/574.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Greats[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/573.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Greats[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/572.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Hits[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/565.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Premier[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/571.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Premier[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/570.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Sci-Fi[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/569.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Sci-Fi[/B][/COLOR][COLORwhite] HD[/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/568.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lightblue][B]Sky Cinema Select[/B][/COLOR]</title>
+<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/567.ts</link>
+<thumbnail></thumbnail>
+</item>
 
-<item>
-<title>A&E</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/672.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Animal Planet</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/671.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Cinemax ActionMax</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/645.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BBC AMERICA</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/628.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BET</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/630.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Cartoon Network</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/670.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/669.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBS News</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/653.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Cinemax</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/644.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CNN</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/668.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Comedy Central</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/667.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>COOKING CHANNEL</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/627.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CW</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/666.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Destination America</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/621.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Discovery</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/652.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DiscoveryScience</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/651.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DIY</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/650.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>E!</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/655.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN2</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/616.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOOD NETWORK</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/626.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>fox</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/665.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOXNEWS30</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/618.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FOXSPORT1 </title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/625.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FX</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/664.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FXX</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/635.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FYI</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/643.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>H2</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/633.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO COMEDY</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/624.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO FAMILY</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/623.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/634.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>HBO SIGNATURE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/642.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>INVESTIGATION DISCOVERY</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/641.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>LIFE TIME</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/663.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Lifetime Movie Network</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/649.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MSNBC</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/640.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NBA TV</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/639.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NBC</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/662.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NEWS 12 CONNECTICUT</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/619.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NEWS12THEBRONX</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/620.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>nfl network</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/632.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NFLNOW</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/622.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>pbs</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/660.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Showtime</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/638.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Spike</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/659.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>STARZ CINEMA</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/636.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>STARZ EAST</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/637.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Syfy</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/658.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TBS</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/657.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TNT</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/656.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Tru TV</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/648.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Velocity</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/646.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>WWE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/631.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BET(BLACK ENTERTAINMENT CHANNEL)</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/807.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BNN</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/806.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CARTOON NETWORK</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/805.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CBC TORONTO</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/804.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CHCH</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/803.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CITY VANCOUVER</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/802.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>COMEDY GOLD</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/801.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>COTTAGE LIFE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/800.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CP24</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/799.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>CTV TORONTO</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/798.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>DEJA VIEW</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/797.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>E!</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/796.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>FYI</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/794.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>G4</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/793.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GLOBAL TV CALGARY</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/792.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GLOBAL TV EDMONTON</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/791.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>GSN</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/789.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MOVIE TIME</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/787.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MTV CANADA</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/786.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MUCH MUSIC</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/785.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MUSIQUE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/784.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>NICK</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/783.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>OLN</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/782.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>OWN (OPRAH WINFREY NETWORK)</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/781.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>PEACHTREE TV</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/780.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SILVER SCREEN CLASSICS</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/779.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SLICE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/778.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SPIKE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/777.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>SPORTSNET WORLD HD</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/776.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TELETOON</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/775.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>THE MOVIE NETWORK</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/774.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TRAVEL CHANNEL</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/773.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>TREE HOUSE</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/772.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>VRAK TV</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/771.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>W NETWORK</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/770.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>WORLD FISHING</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/769.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>YTV</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/768.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>ESPN Deportes</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/823.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Fox Deporte</title>
-<link>http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/822.ts</link>
-<thumbnail></thumbnail>
-</item>
 
 </stream>
