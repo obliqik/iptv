@@ -1,2 +1,88 @@
 #EXTM3U
-COMING SOON
+#EXTINF:-1,= Adultos ==
+
+
+
+
+
+#EXTINF:-1,Dark
+
+http://89.29.203.196:9090/play/a045
+
+#EXTINF:-1,HOT 
+
+http://178.193.237.115:9000/play/a083 
+
+
+
+#EXTINF:-1, VIP频道 XXX
+
+http://edge2.everyon.tv/etv2sb/pld10062/playlist.m3u8
+
+#EXTINF:-1, VIP频道 Girls Tv
+
+http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
+
+#EXTINF:-1, VIP频道 VIKI
+
+http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
+
+#EXTINF:-1, VIP频道 MenList
+
+http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
+
+#EXTINF:-1, VIP频道 Hot
+
+http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+
+#EXTINF:-1, VIP频道 XXX
+
+http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
+
+#EXTINF:-1, VIP频道 XXX
+
+http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
+
+#EXTINF:-1,JASMIN.TV
+
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1,BRAZZERS
+
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1,BRAZZERS
+
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:1, BRAZZERS 1 
+
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:1, BRAZZERS 2 
+
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:1, BRAZZERS 4
+
+http://static.brazzers.com/scenes/3330/180sec.flv
+
+#EXTINF:1, BRAZZERS 5 
+
+http://static.brazzers.com/scenes/3340/180sec.flv
+
+#EXTINF:1, BRAZZERS 7 
+
+http://static.brazzers.com/scenes/3342/180sec.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="Exabyte TV " tvg-logo="" group-title="XXX",BS24 Live
+
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.ipernity.com/111/65/75/4726575.ed7e8d2b.640.jpg" group-title="XXX",Playboy Asia
+
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0687/9031/files/Under18sm_a76e7ce8-3f69-4194-96d6-5f75c8e5b6d5.png?11903342358387533317",ButGO
+
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
