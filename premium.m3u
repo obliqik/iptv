@@ -1,381 +1,383 @@
+
+
 #EXTM3U
 #EXTINF:-1,CINEMAX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/425.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/425.ts
 #EXTINF:-1,CINEMAX 5 STARMAX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/424.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/424.ts
 #EXTINF:-1,CINEMAX ACTIONMAX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/423.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/423.ts
 #EXTINF:-1,CINEMAX MOREMAX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/422.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/422.ts
 #EXTINF:-1,EPIX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/421.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/421.ts
 #EXTINF:-1,EPIX 2
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/420.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/420.ts
 #EXTINF:-1,HBO
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/419.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/419.ts
 #EXTINF:-1,HBO CA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/250.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/250.ts
 #EXTINF:-1,MOVIETIME
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/249.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/249.ts
 #EXTINF:-1,HBO COMEDY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/418.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/418.ts
 #EXTINF:-1,HBO FAMILY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/417.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/417.ts
 #EXTINF:-1,HBO SIGNATURE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/416.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/416.ts
 #EXTINF:-1,HBO ZONE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/415.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/415.ts
 #EXTINF:-1,SHOWTIME
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/414.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/414.ts
 #EXTINF:-1,SHOWTIME 2
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/413.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/413.ts
 #EXTINF:-1,SHOWTIME SHOWCASE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/412.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/412.ts
 #EXTINF:-1,STARZ
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/411.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/411.ts
 #EXTINF:-1,STARZ CINEMA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/410.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/410.ts
 #EXTINF:-1,STARZ EDGE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/409.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/409.ts
 #EXTINF:-1,STARZ ENCORE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/408.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/408.ts
 #EXTINF:-1,OWN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/468.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/468.ts
 #EXTINF:-1,SPIKE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/464.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/464.ts
 #EXTINF:-1,USA NETWORK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/454.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/454.ts
 #EXTINF:-1,SLICE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/245.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/245.ts
 #EXTINF:-1,SPIKE CA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/244.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/244.ts
 
 
 
 #EXTINF:-1,CBS SPORTS NETWORK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/112.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/112.ts
 #EXTINF:-1,ESPN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/111.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/111.ts
 #EXTINF:-1,ESPN 2
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/110.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/110.ts
 #EXTINF:-1,ESPN NEWS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/109.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/109.ts
 
 #EXTINF:-1,FIGHT NETWORK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/105.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/105.ts
 #EXTINF:-1,FOX SPORTS 1 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/104.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/104.ts
 #EXTINF:-1,FOX SPORTS 2 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/103.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/103.ts
 #EXTINF:-1,MAVTV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/101.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/101.ts
 #EXTINF:-1,NBA TV HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/98.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/98.ts
 #EXTINF:-1,NBC GOLF
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/97.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/97.ts
 #EXTINF:-1,NBCSN HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/96.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/96.ts
 #EXTINF:-1,NFL NETWORK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/95.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/95.ts
 #EXTINF:-1,NHL NETWORK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/94.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/94.ts
 
 #EXTINF:-1,A&E
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/511.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/511.ts
 #EXTINF:-1,ABC EAST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/510.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/510.ts
 #EXTINF:-1,ABC WEST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/509.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/509.ts
 #EXTINF:-1,ABC NEWS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/355.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/355.ts
 #EXTINF:-1,AMC
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/508.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/508.ts
 #EXTINF:-1,AMERICAN HEROS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/507.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/507.ts
 #EXTINF:-1,ANTENNA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/506.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/506.ts
 #EXTINF:-1,BBC AMERICA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/505.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/505.ts
 #EXTINF:-1,BET
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/504.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/504.ts
 #EXTINF:-1,BOUNCE TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/503.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/503.ts
 #EXTINF:-1,BRAVO HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/502.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/502.ts
 #EXTINF:-1,BUZZER
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/501.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/501.ts
 #EXTINF:-1,CBS EAST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/500.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/500.ts
 #EXTINF:-1,CBS WEST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/499.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/499.ts
 #EXTINF:-1,CBSN HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/498.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/498.ts
 #EXTINF:-1,COMET TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/496.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/496.ts
 #EXTINF:-1,COZI
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/495.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/495.ts
 #EXTINF:-1,CW HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/494.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/494.ts
 #EXTINF:-1,E! ENTERTAINMENT
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/493.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/493.ts
 #EXTINF:-1,FOX EAST HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/492.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/492.ts
 #EXTINF:-1,FOX-WEST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/491.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/491.ts
 #EXTINF:-1,FREEFORM HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/490.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/490.ts
 #EXTINF:-1,FYI
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/487.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/487.ts
 #EXTINF:-1,GET TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/486.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/486.ts
 #EXTINF:-1,HALLMARK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/485.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/485.ts
 #EXTINF:-1,HIFI
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/484.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/484.ts
 #EXTINF:-1,HSN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/483.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/483.ts
 #EXTINF:-1,IFC HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/482.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/482.ts
 #EXTINF:-1,ION
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/481.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/481.ts
 #EXTINF:-1,ION LIFE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/480.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/480.ts
 #EXTINF:-1,KTLA 5
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/479.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/479.ts
 #EXTINF:-1,LIFETIME
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/477.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/477.ts
 #EXTINF:-1,LMN HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/476.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/476.ts
 #EXTINF:-1,MELLO TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/475.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/475.ts
 #EXTINF:-1,MOVIES!
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/474.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/474.ts
 #EXTINF:-1,MTV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/473.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/473.ts
 #EXTINF:-1,MY 13
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/472.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/472.ts
 #EXTINF:-1,NASA HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/471.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/471.ts
 #EXTINF:-1,NBC EAST HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/470.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/470.ts
 #EXTINF:-1,NBC-WEST
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/469.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/469.ts
 
 #EXTINF:-1,OXYGEN HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/466.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/466.ts
 #EXTINF:-1,QVC
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/465.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/465.ts
 
 
 #EXTINF:-1,SUNDANCE TV HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/463.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/463.ts
 #EXTINF:-1,SYFY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/462.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/462.ts
 #EXTINF:-1,TBS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/461.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/461.ts
 #EXTINF:-1,TCM
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/460.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/460.ts
 #EXTINF:-1,TLC HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/459.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/459.ts
 #EXTINF:-1,TNT HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/458.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/458.ts
 #EXTINF:-1,TRU TV HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/457.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/457.ts
 #EXTINF:-1,TV LAND HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/456.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/456.ts
 #EXTINF:-1,TV ONE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/455.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/455.ts
 
 #EXTINF:-1,VH1 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/453.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/453.ts
 #EXTINF:-1,VICELAND HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/452.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/452.ts
 
 #EXTINF:-1,ABC SPARK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/263.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/263.ts
 #EXTINF:-1,BET CA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/262.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/262.ts
 #EXTINF:-1,CBC
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/261.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/261.ts
 #EXTINF:-1,CHCH HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/260.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/260.ts
 #EXTINF:-1,CITY TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/259.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/259.ts
 #EXTINF:-1,CMT
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/258.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/258.ts
 #EXTINF:-1,COMDEY GOLD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/257.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/257.ts
 #EXTINF:-1,CP24 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/256.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/256.ts
 #EXTINF:-1,CTV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/255.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/255.ts
 #EXTINF:-1,DEJAVIEW
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/254.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/254.ts
 #EXTINF:-1,E! ENTERTAINMENT CA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/253.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/253.ts
 #EXTINF:-1,GLOBAL TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/252.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/252.ts
 #EXTINF:-1,GSN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/251.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/251.ts
 
 #EXTINF:-1,OLN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/248.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/248.ts
 #EXTINF:-1,PEACHTREE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/247.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/247.ts
 #EXTINF:-1,SILVER SCREEN CLASSICS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/246.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/246.ts
 
 
 #EXTINF:-1,TELETOON
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/243.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/243.ts
 #EXTINF:-1,TREEHOUSE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/242.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/242.ts
 #EXTINF:-1,W NETWORK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/236.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/236.ts
 #EXTINF:-1,YTV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/235.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/235.ts
 #EXTINF:-1,BABY TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/273.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/273.ts
 #EXTINF:-1,BOOMERANG
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/272.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/272.ts
 #EXTINF:-1,CARTOON NETWORK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/271.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/271.ts
 #EXTINF:-1,DISNEY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/270.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/270.ts
 #EXTINF:-1,DISNEY JR
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/269.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/269.ts
 #EXTINF:-1,DISNEY XD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/268.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/268.ts
 #EXTINF:-1,NICK JR
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/267.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/267.ts
 #EXTINF:-1,NICKELODEN HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/266.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/266.ts
 #EXTINF:-1,NICKTOONS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/265.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/265.ts
 #EXTINF:-1,TEEN NICK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/264.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/264.ts
 
 #EXTINF:-1,CBS ACTION
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/320.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/320.ts
 #EXTINF:-1,CBS DRAMA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/319.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/319.ts
 #EXTINF:-1,CBS REALITY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/318.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/318.ts
 #EXTINF:-1,CHALLENGE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/317.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/317.ts
 #EXTINF:-1,CHANNEL 4 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/316.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/316.ts
 #EXTINF:-1,CHANNEL 5 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/315.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/315.ts
 #EXTINF:-1,DAVE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/314.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/314.ts
 #EXTINF:-1,DMAX
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/313.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/313.ts
 #EXTINF:-1,DRAMA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/312.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/312.ts
 #EXTINF:-1,EDEN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/311.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/311.ts
 #EXTINF:-1,HORROR CHANNEL
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/310.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/310.ts
 #EXTINF:-1,ITV 1
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/309.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/309.ts
 #EXTINF:-1,ITV 2
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/308.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/308.ts
 #EXTINF:-1,ITV 3
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/307.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/307.ts
 #EXTINF:-1,ITV 4
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/306.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/306.ts
 #EXTINF:-1,ITV Be
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/305.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/305.ts
 #EXTINF:-1,ITV ENCORE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/304.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/304.ts
 #EXTINF:-1,SKY ARTS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/303.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/303.ts
 #EXTINF:-1,SKY ATLANTIC HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/302.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/302.ts
 #EXTINF:-1,SKY CINEMA ACTION & ADVENTURE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/301.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/301.ts
 #EXTINF:-1,SKY CINEMA COMEDY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/300.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/300.ts
 #EXTINF:-1,SKY CINEMA CRIME & THRILLER  HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/299.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/299.ts
 #EXTINF:-1,SKY CINEMA DISNEY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/298.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/298.ts
 #EXTINF:-1,SKY CINEMA DRAMA & ROMANCE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/297.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/297.ts
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/296.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/296.ts
 #EXTINF:-1,SKY CINEMA GREATS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/295.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/295.ts
 #EXTINF:-1,SKY CINEMA PREMIERE HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/294.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/294.ts
 #EXTINF:-1,SKY CINEMA SCI-FI & HORROR HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/293.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/293.ts
 #EXTINF:-1,SKY CINEMA SELECT HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/292.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/292.ts
 #EXTINF:-1,SKY LIVING
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/291.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/291.ts
 #EXTINF:-1,SKY NEWS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/290.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/290.ts
 #EXTINF:-1,SKY ONE
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/289.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/289.ts
 #EXTINF:-1,SKY TWO
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/288.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/288.ts
 #EXTINF:-1,VH1 UK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/274.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/274.ts
 #EXTINF:-1,YESTERDAY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/287.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/287.ts
 #EXTINF:-1,ANIMAL PLANET HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/341.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/341.ts
 #EXTINF:-1,CRIME INVESTIGATION
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/340.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/340.ts
 #EXTINF:-1,DESTINATION AMERICA
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/339.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/339.ts
 #EXTINF:-1,DISCOVERY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/338.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/338.ts
 #EXTINF:-1,DIY NETWORK HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/337.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/337.ts
 #EXTINF:-1,FOOD NETWORK
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/336.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/336.ts
 #EXTINF:-1,HGTV HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/335.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/335.ts
 #EXTINF:-1,HISTORY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/333.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/333.ts
 #EXTINF:-1,HISTORY 2 HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/334.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/334.ts
 #EXTINF:-1,INVESTIGATION DISCOVERY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/332.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/332.ts
 #EXTINF:-1,NAT GEO HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/331.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/331.ts
 #EXTINF:-1,NAT GEO WILD  HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/330.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/330.ts
 #EXTINF:-1,TRAVEL CHANNEL
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/329.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/329.ts
 #EXTINF:-1,VELOCITY HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/328.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/328.ts
 #EXTINF:-1,BBC NEWS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/354.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/354.ts
 #EXTINF:-1,BLOOMBERG TV
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/356.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/356.ts
 #EXTINF:-1,CBS NEWS
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/350.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/350.ts
 #EXTINF:-1,CNN
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/349.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/349.ts
 #EXTINF:-1,C-SPAN 1
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/353.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/353.ts
 #EXTINF:-1,C-SPAN 2
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/352.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/352.ts
 #EXTINF:-1,C-SPAN 3
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/351.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/351.ts
 #EXTINF:-1,FOX 11 NEWS LOS ANGELES
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/348.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/348.ts
 #EXTINF:-1,FOX NEWS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/346.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/346.ts
 #EXTINF:-1,MSNBC HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/345.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/345.ts
 #EXTINF:-1,NEWS 12 LONG ISLAND
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/344.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/344.ts
 #EXTINF:-1,NEWS 12 NEW JERSEY
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/343.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/343.ts
 #EXTINF:-1,WGN NEWS HD
-http://bbrtv.ddns.net:8000/live/xxxxx1/xxxxx1/342.ts
+http://bbrtv.ddns.net:8000/live/openup/forme/342.ts
