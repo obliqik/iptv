@@ -1,4 +1,87 @@
 #EXTM3U
+#EXTINF:-1,US: HBO Zone HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1662.ts
+#EXTINF:-1,US: HBO US
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1637.ts
+#EXTINF:-1,US: HBO Signature HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1628.ts
+#EXTINF:-1,US: Showtime HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1629.ts
+
+
+#EXTINF:-1,US: TSN 3 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/392.ts
+#EXTINF:-1,US: TSN 2 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/393.ts
+#EXTINF:-1,US: TSN 1 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/394.ts
+#EXTINF:-1,US:TSN 4 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/914.ts
+#EXTINF:-1,US: News Brooklyn
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/395.ts
+#EXTINF:-1,US: ESPN
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/396.ts
+
+#EXTINF:-1,US: ABC News USA
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/398.ts
+
+#EXTINF:-1,US: Tsn Spor 1 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1694.ts
+#EXTINF:-1,US: TBS HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1623.ts
+#EXTINF:-1,US: Sport NET 1 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1696.ts
+
+#EXTINF:-1,US: NFL Network HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1703.ts
+#EXTINF:-1,US: NBC GOLF
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1633.ts
+#EXTINF:-1,US: NBA TV
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1635.ts
+#EXTINF:-1,US: National Geographic
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1668.ts
+#EXTINF:-1,US: Nasa HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1704.ts
+#EXTINF:-1,US: MUSIC RMC1
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1686.ts
+#EXTINF:-1,US: HISTORY HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1667.ts
+
+#EXTINF:-1,US: FX
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1665.ts
+#EXTINF:-1,US: Fox Sports 2 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1698.ts
+#EXTINF:-1,US: Fox Sports 1 HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1702.ts
+#EXTINF:-1,US: FOX Sport 1
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1641.ts
+#EXTINF:-1,US: ESPN-HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1673.ts
+#EXTINF:-1,US: E!
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1626.ts
+#EXTINF:-1,US: Discovery Science HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1659.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1671.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1647.ts
+#EXTINF:-1,US: CNBC
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1649.ts
+#EXTINF:-1,US: CBS NEWS
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1705.ts
+#EXTINF:-1,US: BLOOMBERG
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1655.ts
+#EXTINF:-1,US: Animal Planet HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1658.ts
+#EXTINF:-1,US: AMC HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1660.ts
+#EXTINF:-1,US: ABC News
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1691.ts
+#EXTINF:-1,US: ABC HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1669.ts
+#EXTINF:-1,US: A&E TV HD
+http://www.tbs-tv.com:25461/live/Clear/Visionclient/1670.ts
+
 #EXTINF:-1,UK: BBC1 HD
 http://www.tbs-tv.com:25461/live/Clear/Visionclient/10.ts
 #EXTINF:-1,UK: BBC2 HD
@@ -289,88 +372,8 @@ http://www.tbs-tv.com:25461/live/Clear/Visionclient/2000.ts
 http://www.tbs-tv.com:25461/live/Clear/Visionclient/1999.ts
 #EXTINF:-1,CA: Ytv
 http://www.tbs-tv.com:25461/live/Clear/Visionclient/1997.ts
-#EXTINF:-1,UK: AT THE RACES
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/106.ts
-#EXTINF:-1,US: TSN 3 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/392.ts
-#EXTINF:-1,US: TSN 2 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/393.ts
-#EXTINF:-1,US: TSN 1 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/394.ts
-#EXTINF:-1,US:TSN 4 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/914.ts
-#EXTINF:-1,US: News Brooklyn
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/395.ts
-#EXTINF:-1,US: ESPN
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/396.ts
-#EXTINF:-1,US: BBC News
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/397.ts
-#EXTINF:-1,US: ABC News USA
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/398.ts
-#EXTINF:-1,USA: VirginTV Radio
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1675.ts
-#EXTINF:-1,US: Tsn Spor 1 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1694.ts
-#EXTINF:-1,US: TBS HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1623.ts
-#EXTINF:-1,US: Sport NET 1 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1696.ts
-#EXTINF:-1,US: Showtime HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1629.ts
-#EXTINF:-1,US: NFL Network HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1703.ts
-#EXTINF:-1,US: NBC GOLF
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1633.ts
-#EXTINF:-1,US: NBA TV
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1635.ts
-#EXTINF:-1,US: National Geographic
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1668.ts
-#EXTINF:-1,US: Nasa HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1704.ts
-#EXTINF:-1,US: MUSIC RMC1
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1686.ts
-#EXTINF:-1,US: HISTORY HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1667.ts
-#EXTINF:-1,US: HBO Zone HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1662.ts
-#EXTINF:-1,US: HBO US
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1637.ts
-#EXTINF:-1,US: HBO Signature HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1628.ts
-#EXTINF:-1,US: FX
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1665.ts
-#EXTINF:-1,US: Fox Sports 2 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1698.ts
-#EXTINF:-1,US: Fox Sports 1 HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1702.ts
-#EXTINF:-1,US: FOX Sport 1
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1641.ts
-#EXTINF:-1,US: ESPN-HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1673.ts
-#EXTINF:-1,US: E!
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1626.ts
-#EXTINF:-1,US: Discovery Science HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1659.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1671.ts
-#EXTINF:-1,US: COMEDY CENTRAL HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1647.ts
-#EXTINF:-1,US: CNBC
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1649.ts
-#EXTINF:-1,US: CBS NEWS
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1705.ts
-#EXTINF:-1,US: BLOOMBERG
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1655.ts
-#EXTINF:-1,US: Animal Planet HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1658.ts
-#EXTINF:-1,US: AMC HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1660.ts
-#EXTINF:-1,US: ABC News
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1691.ts
-#EXTINF:-1,US: ABC HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1669.ts
-#EXTINF:-1,US: A&E TV HD
-http://www.tbs-tv.com:25461/live/Clear/Visionclient/1670.ts
+
+
 #EXTINF:-1,AR: BEIN SPORTS 1 HD
 http://www.tbs-tv.com:25461/live/Clear/Visionclient/1.ts
 #EXTINF:-1,AR: BEIN SPORTS 2 HD
