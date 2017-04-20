@@ -31,7 +31,8 @@ http://bbrtv.ddns.net:8000/live/openthe/door/136.ts
 http://bbrtv.ddns.net:8000/live/openthe/door/127.ts
 #EXTINF:-1,ES - FOX SPORTS 2 HD
 http://bbrtv.ddns.net:8000/live/openthe/door/126.ts
-
+#EXTINF:-1,CBS SPORTS NETWORK
+http://bbrtv.ddns.net:8000/live/openup/forme/112.ts
 #EXTINF:-1,ES - ESPN HD
 http://bbrtv.ddns.net:8000/live/openthe/door/131.ts
 #EXTINF:-1,ES - ESPN DEPORTES
