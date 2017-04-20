@@ -27,17 +27,15 @@ http://bbrtv.ddns.net:8000/live/openthe/door/275.ts
 #EXTINF:-1,ES - BEIN SPORTS
 http://bbrtv.ddns.net:8000/live/openthe/door/136.ts
 
+#EXTINF:-1,ES - FOX SPORTS 1 HD
+http://bbrtv.ddns.net:8000/live/openthe/door/127.ts
+#EXTINF:-1,ES - FOX SPORTS 2 HD
+http://bbrtv.ddns.net:8000/live/openthe/door/126.ts
+
 #EXTINF:-1,ES - ESPN HD
 http://bbrtv.ddns.net:8000/live/openthe/door/131.ts
 #EXTINF:-1,ES - ESPN DEPORTES
 http://bbrtv.ddns.net:8000/live/openthe/door/546.ts
 #EXTINF:-1,ES - FOX DEPORTES HD
 http://bbrtv.ddns.net:8000/live/openthe/door/130.ts
-#EXTINF:-1,ES - FOX HD
-http://bbrtv.ddns.net:8000/live/openthe/door/129.ts
-#EXTINF:-1,ES - FOX MOVIES HD
-http://bbrtv.ddns.net:8000/live/openthe/door/128.ts
-#EXTINF:-1,ES - FOX SPORTS 1 HD
-http://bbrtv.ddns.net:8000/live/openthe/door/127.ts
-#EXTINF:-1,ES - FOX SPORTS 2 HD
-http://bbrtv.ddns.net:8000/live/openthe/door/126.ts
+
