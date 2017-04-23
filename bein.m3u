@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,NFL NOW HD (KODI)
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 #EXTINF:-1,*-*-*-*-*BEIN SPORT HD*-*-*-*-*
 http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1644.ts
 #EXTINF:-1,BEINSPORT NEWS ARABIC
