@@ -1,69 +1,162 @@
 #EXTM3U
-#EXTINF:-1,SPORT: beiN Sports 1 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/661.ts
-#EXTINF:-1,SPORT: beiN Sports 2 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/662.ts
-#EXTINF:-1,SPORT: beiN Sports 3 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/663.ts
-#EXTINF:-1,SPORT: beiN Sports 4 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/664.ts
-#EXTINF:-1,SPORT: beiN Sports 5 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/665.ts
-#EXTINF:-1,SPORT: beiN Sports 6 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/666.ts
-#EXTINF:-1,SPORT: beiN Sports 7 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/667.ts
-#EXTINF:-1,SPORT: beiN Sports 8 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/668.ts
-#EXTINF:-1,SPORT: beiN Sports 9 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/669.ts
-#EXTINF:-1,SPORT: beiN Sports 10 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/670.ts
+#EXTINF:-1,Bein(low):beIN10
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1724.ts
+#EXTINF:-1,Bein(low):beIN09
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1723.ts
+#EXTINF:-1,Bein(low):beIN08
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1722.ts
+#EXTINF:-1,Bein(low):beIN06
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1721.ts
+#EXTINF:-1,Bein(low):beIN05
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1720.ts
+#EXTINF:-1,AR: BEIN-SPORT 9
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1713.ts
+#EXTINF:-1,AR: BEIN-SPORT 8
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1711.ts
+#EXTINF:-1,AR: BEIN-SPORT 7
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1710.ts
+#EXTINF:-1,AR: BEIN-SPORT 6
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1709.ts
+#EXTINF:-1,AR: BEIN-SPORT 5
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1708.ts
+#EXTINF:-1,AR: BEIN-SPORT 10
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1712.ts
+#EXTINF:-1,ES: C Footbol_SPAIN
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1669.ts
+#EXTINF:-1,ES: C Footbol
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1670.ts
+#EXTINF:-1,ES | CanalPlus Futbol
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1664.ts
+#EXTINF:-1,UK | Sky Sports 1 HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1646.ts
+#EXTINF:-1,UK | Sky Sports 1
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1645.ts
+#EXTINF:-1,UK: SKY SPORTS 1HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1665.ts
+#EXTINF:-1,UK_Sky.Sport.1.UK
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1667.ts
+#EXTINF:-1,UK: SKY SPORTS 1SD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1666.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1726.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1725.ts
+#EXTINF:-1,FR | Bein Sport 1
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1647.ts
+#EXTINF:-1,FR: BEIN-SPORTS 1 HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1714.ts
+#EXTINF:-1,FR: BEINSPORT_1_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1684.ts
+#EXTINF:-1,FR: BEINSPORT-1HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1700.ts
+#EXTINF:-1,FR:_Bein_Sports_1_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1687.ts
+#EXTINF:-1,FR | Bein Sport 2
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1648.ts
+#EXTINF:-1,FR: BEINSPORT_2_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1685.ts
+#EXTINF:-1,FR: BEINSPORT-2HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1701.ts
+#EXTINF:-1,FR:_Bein_Sports_2_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1688.ts
+#EXTINF:-1,FR:BEIN-SPORTS 2 HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1715.ts
+#EXTINF:-1,FR | Bein Sport 3
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1649.ts
+#EXTINF:-1,FR: BEINSPORT_3 _HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1686.ts
+#EXTINF:-1,FR: BEINSPORT-3HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1702.ts
+#EXTINF:-1,FR:_Bein_Sports_3_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1689.ts
+#EXTINF:-1,FR:BEIN-SPORTS 3 HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1716.ts
+#EXTINF:-1,FR: SFR_sport 1_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1698.ts
+#EXTINF:-1,FR: SFR_SPORT_1_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1690.ts
+#EXTINF:-1,FR: SFR_SPORT_2_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1691.ts
+#EXTINF:-1,FR: SFR_SPORT_3_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1692.ts
+#EXTINF:-1,FR: SFR_sport 3_HD
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1699.ts
+#EXTINF:-1,FR: INFOSPORT
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1693.ts
+#EXTINF:-1,FR: Foot_24
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1694.ts
+#EXTINF:-1,FR: Equipe21
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1697.ts
+#EXTINF:-1,EUROSPORT_2
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1696.ts
+#EXTINF:-1,EUROSPORT_1
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1695.ts
+#EXTINF:-1,*-*-*-*-*BEIN_SPORT_HD*-*-*-*-*
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1644.ts
+#EXTINF:-1,BEINSPORT_NEWS_ARABIC
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1673.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 1
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1650.ts
+#EXTINF:-1,BEIN_SPORTS_1_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1674.ts
+#EXTINF:-1,Bein: SPORT 1 HD (AR)
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1671.ts
+#EXTINF:-1,AR: BEIN-SPORT 1
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1704.ts
+#EXTINF:-1,Bein(low):beIN01
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1717.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 2
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1651.ts
+#EXTINF:-1,BEIN_SPORTS_2_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1675.ts
+#EXTINF:-1,AR: BEIN-SPORT 2
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1705.ts
+#EXTINF:-1,Bein(low):beIN02
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1718.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 3
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1652.ts
+#EXTINF:-1,BEIN_SPORTS_3_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1676.ts
+#EXTINF:-1,AR: BEIN-SPORT 3
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1706.ts
+#EXTINF:-1,Bein: PORT 3 HD (AR)
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1672.ts
+#EXTINF:-1,BEIN_SPORTS_4_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1677.ts
+#EXTINF:-1,AR: BEIN-SPORT 4
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1707.ts
+#EXTINF:-1,Bein(low):beIN04
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1719.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 9
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1658.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 8
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1657.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 7
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1656.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 6
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1655.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 5
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1654.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 4
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1653.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 16
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1662.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 12
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1661.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 11
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1660.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 10
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1659.ts
+#EXTINF:-1,BEIN_SPORTS_HD9_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1681.ts
+#EXTINF:-1,BEIN_SPORTS_HD8_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1680.ts
+#EXTINF:-1,BEIN_SPORTS_HD10_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1682.ts
+#EXTINF:-1,BEIN_SPORTS_6_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1679.ts
+#EXTINF:-1,BEIN_SPORTS_5_HD_AR
+http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1678.ts
+
 #EXTINF:-1,NFL NOW HD (KODI)
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-#EXTINF:-1,SPORT:Bein Sport News
-http://client.momoiptv.com:8088/live/aminx/aminx/33.ts
-#EXTINF:-1,SPORT:Bein Sport Global
-http://client.momoiptv.com:8088/live/aminx/aminx/34.ts
-#EXTINF:-1,ES: Movistar Partidazo HD
-http://client.momoiptv.com:8088/live/aminx/aminx/2669.ts
-#EXTINF:-1,Vip: BeIn Sport 1HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2530.ts
-#EXTINF:-1,Vip: BeIn Sport 2HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2531.ts
-#EXTINF:-1,Vip: BeIn Sport 3HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2532.ts
-#EXTINF:-1,Vip: BeIn Sport 4HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2533.ts
-#EXTINF:-1,Vip: BeIn Sport 5HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2534.ts
-#EXTINF:-1,Vip: BeIn Sport 6HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2535.ts
-#EXTINF:-1,Vip: BeIn Sport 7HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2536.ts
-#EXTINF:-1,Vip: BeIn Sport 8HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2537.ts
-#EXTINF:-1,Vip: BeIn Sport 9HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2538.ts
-#EXTINF:-1,Vip: BeIn Sport 10HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2539.ts
-#EXTINF:-1,Vip: BeIn Sport 11HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2540.ts
-#EXTINF:-1,Vip: BeIn Sport 12HD 1280P
-http://client.momoiptv.com:8088/live/aminx/aminx/2541.ts
-#EXTINF:-1,Vip: Bein Sport 13 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/1638.ts
-#EXTINF:-1,Vip: Bein Sport 14 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/1639.ts
-#EXTINF:-1,Vip: Bein Sport 15 HD
-http://client.momoiptv.com:8088/live/aminx/aminx/1640.ts
-#EXTINF:-1,Vip: Bein Sport NBA
-http://client.momoiptv.com:8088/live/aminx/aminx/1385.ts
-#EXTINF:-1,VIP: Bein Sport HD USA
-http://client.momoiptv.com:8088/live/aminx/aminx/1744.ts
-#EXTINF:-1,Extra:Bein 1 HD 64
-http://client.momoiptv.com:8088/live/aminx/aminx/2001.ts
-#EXTINF:-1,Extra:Bein 2 HD 64
-http://client.momoiptv.com:8088/live/aminx/aminx/2002.ts
-#EXTINF:-1,Extra:Bein 3 HD 64
-http://client.momoiptv.com:8088/live/aminx/aminx/2003.ts
