@@ -1,23 +1,69 @@
 #EXTM3U
+#EXTINF:-1,SPORT: beiN Sports 1 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/661.ts
+#EXTINF:-1,SPORT: beiN Sports 2 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/662.ts
+#EXTINF:-1,SPORT: beiN Sports 3 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/663.ts
+#EXTINF:-1,SPORT: beiN Sports 4 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/664.ts
+#EXTINF:-1,SPORT: beiN Sports 5 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/665.ts
+#EXTINF:-1,SPORT: beiN Sports 6 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/666.ts
+#EXTINF:-1,SPORT: beiN Sports 7 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/667.ts
+#EXTINF:-1,SPORT: beiN Sports 8 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/668.ts
+#EXTINF:-1,SPORT: beiN Sports 9 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/669.ts
+#EXTINF:-1,SPORT: beiN Sports 10 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/670.ts
 #EXTINF:-1,NFL NOW HD (KODI)
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-#EXTINF:-1,SPORTS | BEIN SPORTS 9
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1658.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 8
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1657.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 7
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1656.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 6
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1655.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 5
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1654.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 4
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1653.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 16
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1662.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 12
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1661.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 11
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1660.ts
-#EXTINF:-1,SPORTS | BEIN SPORTS 10
-http://server.iptv.bz:9090/live/hamzasat07/t7DOneRzLo/1659.ts
+#EXTINF:-1,SPORT:Bein Sport News
+http://client.momoiptv.com:8088/live/aminx/aminx/33.ts
+#EXTINF:-1,SPORT:Bein Sport Global
+http://client.momoiptv.com:8088/live/aminx/aminx/34.ts
+#EXTINF:-1,ES: Movistar Partidazo HD
+http://client.momoiptv.com:8088/live/aminx/aminx/2669.ts
+#EXTINF:-1,Vip: BeIn Sport 1HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2530.ts
+#EXTINF:-1,Vip: BeIn Sport 2HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2531.ts
+#EXTINF:-1,Vip: BeIn Sport 3HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2532.ts
+#EXTINF:-1,Vip: BeIn Sport 4HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2533.ts
+#EXTINF:-1,Vip: BeIn Sport 5HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2534.ts
+#EXTINF:-1,Vip: BeIn Sport 6HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2535.ts
+#EXTINF:-1,Vip: BeIn Sport 7HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2536.ts
+#EXTINF:-1,Vip: BeIn Sport 8HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2537.ts
+#EXTINF:-1,Vip: BeIn Sport 9HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2538.ts
+#EXTINF:-1,Vip: BeIn Sport 10HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2539.ts
+#EXTINF:-1,Vip: BeIn Sport 11HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2540.ts
+#EXTINF:-1,Vip: BeIn Sport 12HD 1280P
+http://client.momoiptv.com:8088/live/aminx/aminx/2541.ts
+#EXTINF:-1,Vip: Bein Sport 13 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/1638.ts
+#EXTINF:-1,Vip: Bein Sport 14 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/1639.ts
+#EXTINF:-1,Vip: Bein Sport 15 HD
+http://client.momoiptv.com:8088/live/aminx/aminx/1640.ts
+#EXTINF:-1,Vip: Bein Sport NBA
+http://client.momoiptv.com:8088/live/aminx/aminx/1385.ts
+#EXTINF:-1,VIP: Bein Sport HD USA
+http://client.momoiptv.com:8088/live/aminx/aminx/1744.ts
+#EXTINF:-1,Extra:Bein 1 HD 64
+http://client.momoiptv.com:8088/live/aminx/aminx/2001.ts
+#EXTINF:-1,Extra:Bein 2 HD 64
+http://client.momoiptv.com:8088/live/aminx/aminx/2002.ts
+#EXTINF:-1,Extra:Bein 3 HD 64
+http://client.momoiptv.com:8088/live/aminx/aminx/2003.ts
