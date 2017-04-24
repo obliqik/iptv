@@ -1,6 +1,7 @@
 
-#EXTINF:-1,BBC - UK
+#EXTINF:-1,Sky Greats - UK
 http://151.80.35.29:25461/live/stalker/stalker/678.ts
+
 #EXTINF:-1,Sky Action - UK
 http://151.80.35.29:25461/live/stalker/stalker/668.ts
 #EXTINF:-1,Sky Atlantic +1 - UK
@@ -13,8 +14,7 @@ http://151.80.35.29:25461/live/stalker/stalker/670.ts
 http://151.80.35.29:25461/live/stalker/stalker/674.ts
 #EXTINF:-1,Sky Family - UK
 http://151.80.35.29:25461/live/stalker/stalker/673.ts
-#EXTINF:-1,Sky Greats - UK
-http://151.80.35.29:25461/live/stalker/stalker/678.ts
+
 #EXTINF:-1,Sky One - UK
 http://151.80.35.29:25461/live/stalker/stalker/634.ts
 #EXTINF:-1,Sky Select - UK
