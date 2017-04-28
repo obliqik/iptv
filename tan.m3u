@@ -1,7 +1,6 @@
 #EXTM3U
-
-
-
+#EXTINF:-1, ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,A&E HD
 http://ramboiptv.net:8000/live/mohnd03/Dh4eWdNrxH/1746.ts
 #EXTINF:-1,ABC EAST HD
