@@ -2,15 +2,12 @@
 
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
-
 #EXTINF:-1, ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, CBS NEWS HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1, ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,USA
-http://208.86.19.123:8080/live/11.stream/index.m3u8
 #EXTINF:-1,Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1,TNT
