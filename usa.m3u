@@ -1,10 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,FOX Movies
-http://93.174.93.84:8081/live/starmovies-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE3IDM6Mjc6NDEgQU0maGFzaF92YWx1ZT1hdmVHdGxzVHBDc211SE5zc05SaDlRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2Mi4xNTguMTIyLjE0NiZzdHJtX2xlbj0xOA==
-
+http://93.174.93.84:8081/live/starmovies-hq/playlist.m3u8
 #EXTINF:-1,HBO
-http://93.174.93.84:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDE3IDM6MzM6NDggQU0maGFzaF92YWx1ZT0wVHpOdU9SNGtBQitjL2dyTXU3YnJ3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2Mi4xNTguMTIyLjE0NiZzdHJtX2xlbj0xMQ==
+http://93.174.93.84:8081/live/hbo-hq/playlist.m3u8
 
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
