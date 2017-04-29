@@ -1,4 +1,22 @@
-#EXTM3U ///////// bein sports /////
+#EXTINF:-1,BeIN SPORTS 1 HD
+http://iptvdini.zapto.org:8000/live/limi/limi/1381.ts
+#EXTINF:-1,BeIN SPORTS 2 HD
+http://iptvdini.zapto.org:8000/live/limi/limi/1382.ts
+#EXTINF:-1,BeIN SPORTS 3 HD
+http://iptvdini.zapto.org:8000/live/limi/limi/1383.ts
+#EXTINF:-1,BeIN SPORTS 4 HD
+http://iptvdini.zapto.org:8000/live/limi/limi/1384.ts
+#EXTINF:-1,BeIN SPORTS 5 HD
+http://iptvdini.zapto.org:8000/live/limi/limi/1385.ts
+#EXTINF:-1,BEIN Sports 6 (AR)
+http://iptvdini.zapto.org:8000/live/limi/limi/2018.ts
+#EXTINF:-1,BEIN Sports 7 (AR)
+http://iptvdini.zapto.org:8000/live/limi/limi/2017.ts
+#EXTINF:-1,BEIN Sports 8 (AR)
+http://iptvdini.zapto.org:8000/live/limi/limi/2016.ts
+#EXTINF:-1,BEIN Sports 9 (AR)
+http://iptvdini.zapto.org:8000/live/limi/limi/2015.ts
+#EXTINF:-1, --------------- more BeIN SPORTS below -------------
 #EXTINF:0,BeinSport-Full-HD1
 http://iptv.am000.tv:8000/live/ibrahem/ibrahem/1.ts
 #EXTINF:0,BeinSport-Full-HD2
