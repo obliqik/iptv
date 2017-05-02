@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1,beIN Sport 1 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1-hq
+#EXTINF:-1,beIN Sport 2 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2-hq
+#EXTINF:-1,beIN Sport 3 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3-hq
+#EXTINF:-1,beIN Sport 4 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein4-hq
+#EXTINF:-1,beIN Sport 5 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein5-hq
+#EXTINF:-1,beIN Sport 6 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein6-hq
+#EXTINF:-1,beIN Sport 7 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein7-hq
+#EXTINF:-1,beIN Sport 8 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein8-hq
+#EXTINF:-1,beIN Sport 9 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein9-hq
+#EXTINF:-1,beIN Sport 10 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein10-hq
+#EXTINF:-1,beIN Sport fr1 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1fr-hq
+#EXTINF:-1,beIN Sport fr2 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2fr-hq
+#EXTINF:-1,beIN Sport fr3 HD
+http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3fr-hq
+
 #EXTINF:-1,Bein Sport 1
 http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/61.ts
 #EXTINF:-1,Bein Sport 2
