@@ -1,6 +1,38 @@
 
 #EXTINF:-1,AMC
 http://192.99.63.38:8080/AMCHD/index.m3u8
+
+#EXTINF:-1,True Movies+1
+http://212.231.80.4:3000/play/a00f
+#EXTINF:-1,True Ent +1
+http://212.231.80.4:3000/play/a00h
+#EXTINF:-1,The Vault
+http://212.231.80.4:3000/play/a00c
+#EXTINF:-1,True Movies
+http://212.231.80.4:3000/play/a006
+#EXTINF:-1,POP+1
+http://212.231.80.4:3000/play/a00g
+#EXTINF:-1,POP Max
+http://212.231.80.4:3000/play/a00a
+#EXTINF:-1,Tiny Pop
+http://212.231.80.4:3000/play/a007
+#EXTINF:-1,Kix
+http://212.231.80.4:3000/play/a00b
+#EXTINF:-1,Chartshow Hits
+http://212.231.80.4:3000/play/a005
+#EXTINF:-1,Scuzz
+http://212.231.80.4:3000/play/a004
+#EXTINF:-1,True Ent
+http://212.231.80.4:3000/play/a00e
+#EXTINF:-1,Chart Show TV
+http://212.231.80.4:3000/play/a00d
+#EXTINF:-1,Starz TV
+http://212.231.80.4:3000/play/a008
+#EXTINF:-1,POP
+http://212.231.80.4:3000/play/a009
+#EXTINF:-1,tru TV
+http://212.231.80.4:3000/play/a003
+
 #EXTINF:-1,MTV music
 http://89.38.8.130:39439
 http://89.38.8.130:39438
