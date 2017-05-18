@@ -2,10 +2,6 @@
 
 <stream>
 <item>
-<title>[COLOR white] ---| [COLOR dodgerblue]LIVE[COLOR white]TV |---  [COLOR gold]Updated 04-30-2017 [COLOR white][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.youtube.com</link></item>
-
-<item>
 <title>A & E</title>
 <link>http://dns1.theplayersklub.host:2095/live/leetv/leetv1/672.ts</link>
 <thumbnail></thumbnail>
