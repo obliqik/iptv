@@ -2,6 +2,101 @@
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 
+#EXTINF:-1,ABC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/990.m3u8
+#EXTINF:-1,NBC - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/988.m3u8
+#EXTINF:-1,MSNBC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/989.m3u8
+#EXTINF:-1,FOX NEWS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/998.m3u8
+#EXTINF:-1,SEC NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1367.m3u8
+#EXTINF:-1,BNN - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1370.m3u8
+#EXTINF:-1,FINE LIVING - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1371.m3u8
+#EXTINF:-1,TBS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1366.m3u8
+#EXTINF:-1,BET - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1002.m3u8
+#EXTINF:-1,CNBC - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/992.m3u8
+#EXTINF:-1,FOX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/993.m3u8
+#EXTINF:-1,CBS - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/991.m3u8
+#EXTINF:-1,CW HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/994.m3u8
+#EXTINF:-1,CNN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1001.m3u8
+#EXTINF:-1,DIY NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1359.m3u8
+#EXTINF:-1,SPIKE HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1358.m3u8
+#EXTINF:-1,BRAVO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1363.m3u8
+#EXTINF:-1,OXYGEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1365.m3u8
+#EXTINF:-1,BTN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1364.m3u8
+#EXTINF:-1,FOOD NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1004.m3u8
+#EXTINF:-1,HGTV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1357.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1005.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1373.m3u8
+#EXTINF:-1,FUEL TV  HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1372.m3u8
+#EXTINF:-1,E! HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1254.m3u8
+#EXTINF:-1,LIFETIME HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1250.m3u8
+#EXTINF:-1,ANIMAL PLANET HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1251.m3u8
+#EXTINF:-1,TNT HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1006.m3u8
+#EXTINF:-1,FX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1003.m3u8
+#EXTINF:-1,AMC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1275.m3u8
+#EXTINF:-1,A&E HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1273.m3u8
+#EXTINF:-1,HBO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/997.m3u8
+#EXTINF:-1,CINEMAX ACTION HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1012.m3u8
+#EXTINF:-1,CINEMAX MOREMAX - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1274.m3u8
+#EXTINF:-1,BEIN SPORTS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1431.m3u8
+#EXTINF:-1,ESPN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1253.m3u8
+#EXTINF:-1,FIGHT SPORT - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1013.m3u8
+#EXTINF:-1,GOL TV - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1010.m3u8
+#EXTINF:-1,NFL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1009.m3u8
+#EXTINF:-1,NHL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1008.m3u8
+#EXTINF:-1,NBA TV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1007.m3u8
+#EXTINF:-1,BOOMERANG - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1261.m3u8
+#EXTINF:-1,CARTOON NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1000.m3u8
+#EXTINF:-1,NICKELODEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1011.m3u8
+#EXTINF:-1,DISCOVERY HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1015.m3u8
+#EXTINF:-1,H2 - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1016.m3u8
+#EXTINF:-1,HISTORY HD - USA
+http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1014.m3u8
+
 #EXTINF:-1,Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
