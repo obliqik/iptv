@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,USA Network HD -
+http://149.56.98.189:25461/live/Venda/260417/620.m3u8
 #EXTINF:-1,USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 
