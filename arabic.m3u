@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1,[COLOR yellow]SudanTV[/COLOR]
+http://ipc.proipciptv.com:8000/live/stalker/maybeda/3356.ts
+#EXTINF:-1,[COLOR yellow]Dbanga_Sudan_TV[/COLOR]
+http://ipc.proipciptv.com:8000/live/stalker/maybeda/1576.ts
+#EXTINF:-1,[COLOR yellow]Neelain_Sport-Sudan[/COLOR]
+http://ipc.proipciptv.com:8000/live/stalker/maybeda/4839.ts
+#EXTINF:-1,[COLOR yellow]Alshouroq-Sudan[/COLOR]
+http://ipc.proipciptv.com:8000/live/stalker/maybeda/4838.ts
+
 #EXTINF:-1,[COLOR yellow]Al Shorooq(Sudan)[/COLOR]
 rtmp://82.212.74.98/live//7913
 #EXTINF:-1,[COLOR yellow]Sudania 24[/COLOR]
