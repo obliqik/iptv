@@ -1,22 +1,5 @@
 
 
-#EXTINF:-1,BEINSPORT1SD
+#EXTINF:-1,Offline
 http://51.254.113.188:8000/live/anis/anis/190.ts
-#EXTINF:-1,BEINSPORT2SD
-http://51.254.113.188:8000/live/anis/anis/191.ts
-#EXTINF:-1,BEINSPORT3SD
-http://51.254.113.188:8000/live/anis/anis/192.ts
-#EXTINF:-1,BEINSPORT4SD
-http://51.254.113.188:8000/live/anis/anis/193.ts
-#EXTINF:-1,BEINSPORT5SD
-http://51.254.113.188:8000/live/anis/anis/194.ts
-#EXTINF:-1,BEINSPORT6SD
-http://51.254.113.188:8000/live/anis/anis/195.ts
-#EXTINF:-1,BEINSPORT7SD
-http://51.254.113.188:8000/live/anis/anis/196.ts
-#EXTINF:-1,BEINSPORT8SD
-http://51.254.113.188:8000/live/anis/anis/197.ts
-#EXTINF:-1,BEINSPORT9SD
-http://51.254.113.188:8000/live/anis/anis/198.ts
-#EXTINF:-1,BEINSPORT10SD
-http://51.254.113.188:8000/live/anis/anis/199.ts
+
