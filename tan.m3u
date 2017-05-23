@@ -1,89 +1,379 @@
-#EXTINF:-1,HBO Comedy USA
-http://149.56.98.189:25461/live/Venda/260417/639.m3u8
-#EXTINF:-1,HBO Signature USA
-http://149.56.98.189:25461/live/Venda/260417/638.m3u8
-#EXTINF:-1,HBO USA
-http://149.56.98.189:25461/live/Venda/260417/640.m3u8
-#EXTINF:-1,HBO Zone USA
-http://149.56.98.189:25461/live/Venda/260417/637.m3u8
-#EXTINF:-1,Ion Television USA
-http://149.56.98.189:25461/live/Venda/260417/655.m3u8
-#EXTINF:-1,Lifetime HD USA
-http://149.56.98.189:25461/live/Venda/260417/671.m3u8
-#EXTINF:-1,MoreMax HD USA
-http://149.56.98.189:25461/live/Venda/260417/656.m3u8
-#EXTINF:-1,Showtime USA
-http://149.56.98.189:25461/live/Venda/260417/657.m3u8
-#EXTINF:-1,Spike HD USA
-http://149.56.98.189:25461/live/Venda/260417/666.m3u8
-#EXTINF:-1,SpikeTV HD USA
-http://149.56.98.189:25461/live/Venda/260417/667.m3u8
-#EXTINF:-1,Starz Cinema HD USA
-http://149.56.98.189:25461/live/Venda/260417/652.m3u8
-#EXTINF:-1,Starz HD USA
-http://149.56.98.189:25461/live/Venda/260417/653.m3u8
-#EXTINF:-1,SyFy HD USA
-http://149.56.98.189:25461/live/Venda/260417/646.m3u8
-#EXTINF:-1,TBS HD USA
-http://149.56.98.189:25461/live/Venda/260417/645.m3u8
-#EXTINF:-1,TNT HD USA
-http://149.56.98.189:25461/live/Venda/260417/644.m3u8
-
-#EXTINF:-1,USA NETWORK HD USA
-http://149.56.98.189:25461/live/Venda/260417/620.m3u8
-#EXTINF:-1,HGTV USA
-http://149.56.98.189:25461/live/Venda/260417/660.m3u8
-#EXTINF:-1,NBC USA
-http://149.56.98.189:25461/live/Venda/260417/670.m3u8
-#EXTINF:-1,NBC HD USA
-http://149.56.98.189:25461/live/Venda/260417/669.m3u8
-#EXTINF:-1,Oprah Winfrey Network USA
-http://149.56.98.189:25461/live/Venda/260417/659.m3u8
-#EXTINF:-1,PBS HD USA
-http://149.56.98.189:25461/live/Venda/260417/668.m3u8
-#EXTINF:-1,Viceland USA
-http://149.56.98.189:25461/live/Venda/260417/658.m3u8
-#EXTINF:-1,WHVL HD USA
-http://149.56.98.189:25461/live/Venda/260417/664.m3u8
-#EXTINF:-1,Willow Cricket HD USA
-http://149.56.98.189:25461/live/Venda/260417/622.m3u8
-#EXTINF:-1,Cartoon Network HD USA
-http://149.56.98.189:25461/live/Venda/260417/625.m3u8
-#EXTINF:-1,Cartoon Network USA
-http://149.56.98.189:25461/live/Venda/260417/624.m3u8
-#EXTINF:-1,Nickelodeon HD USA
-http://149.56.98.189:25461/live/Venda/260417/623.m3u8
-#EXTINF:-1,Disney Jr HD USA
-http://149.56.98.189:25461/live/Venda/260417/682.m3u8
-#EXTINF:-1,Disney XD HD USA
-http://149.56.98.189:25461/live/Venda/260417/683.m3u8
-#EXTINF:-1,Boomerang USA
-http://149.56.98.189:25461/live/Venda/260417/684.m3u8
-#EXTINF:-1,Action Max HD USA
-http://149.56.98.189:25461/live/Venda/260417/654.m3u8
-#EXTINF:-1,AE HD USA
-http://149.56.98.189:25461/live/Venda/260417/650.m3u8
-#EXTINF:-1,AE USA
-http://149.56.98.189:25461/live/Venda/260417/651.m3u8
-#EXTINF:-1,AMC HD USA
-http://149.56.98.189:25461/live/Venda/260417/649.m3u8
-#EXTINF:-1,Bravo HD USA
-http://149.56.98.189:25461/live/Venda/260417/677.m3u8
-#EXTINF:-1,Cinemax HD USA
-http://149.56.98.189:25461/live/Venda/260417/643.m3u8
-#EXTINF:-1,CW HD USA
-http://149.56.98.189:25461/live/Venda/260417/673.m3u8
-#EXTINF:-1,Fox 43 HD USA
-http://149.56.98.189:25461/live/Venda/260417/672.m3u8
-#EXTINF:-1,Fox HD USA
-http://149.56.98.189:25461/live/Venda/260417/641.m3u8
-#EXTINF:-1,FX HD USA
-http://149.56.98.189:25461/live/Venda/260417/647.m3u8
-#EXTINF:-1,FX USA
-http://149.56.98.189:25461/live/Venda/260417/648.m3u8
-#EXTINF:-1,FXX USA
-http://149.56.98.189:25461/live/Venda/260417/661.m3u8
-
+#EXTINF:-1,******** AMERICAN | CANADIAN ********
+http://37.187.132.70:25461/live/wclark/wclark/15379.m3u8
+#EXTINF:-1,USA | A&E
+http://37.187.132.70:25461/live/wclark/wclark/4235.m3u8
+#EXTINF:-1,USA | ABC HD
+http://37.187.132.70:25461/live/wclark/wclark/4240.m3u8
+#EXTINF:-1,USA | ABC NEWS
+http://37.187.132.70:25461/live/wclark/wclark/4241.m3u8
+#EXTINF:-1,USA | ABC NEWS NOW
+http://37.187.132.70:25461/live/wclark/wclark/4242.m3u8
+#EXTINF:-1,USA | AFN MOVIE
+http://37.187.132.70:25461/live/wclark/wclark/4206.m3u8
+#EXTINF:-1,USA | AFN PRIME ATLANTIC
+http://37.187.132.70:25461/live/wclark/wclark/4204.m3u8
+#EXTINF:-1,USA | AFN SPORTS 2
+http://37.187.132.70:25461/live/wclark/wclark/4200.m3u8
+#EXTINF:-1,USA | AFN SPORTS HD
+http://37.187.132.70:25461/live/wclark/wclark/4199.m3u8
+#EXTINF:-1,USA | AMC HD
+http://37.187.132.70:25461/live/wclark/wclark/4211.m3u8
+#EXTINF:-1,USA | Animal Planet HD
+http://37.187.132.70:25461/live/wclark/wclark/4244.m3u8
+#EXTINF:-1,USA | Bein Sports HD
+http://37.187.132.70:25461/live/wclark/wclark/4266.m3u8
+#EXTINF:-1,USA | BIG TEN TETWORK HD
+http://37.187.132.70:25461/live/wclark/wclark/4185.m3u8
+#EXTINF:-1,USA | BRAVO HD
+http://37.187.132.70:25461/live/wclark/wclark/4246.m3u8
+#EXTINF:-1,USA | CARTOON NETWORK HD
+http://37.187.132.70:25461/live/wclark/wclark/4268.m3u8
+#EXTINF:-1,USA | CBS HD
+http://37.187.132.70:25461/live/wclark/wclark/4210.m3u8
+#EXTINF:-1,USA | CBS SPORTS NETWORK
+http://37.187.132.70:25461/live/wclark/wclark/4269.m3u8
+#EXTINF:-1,USA | CINEMAX ACTION MAX
+http://37.187.132.70:25461/live/wclark/wclark/4277.m3u8
+#EXTINF:-1,USA | CINEMAX HD
+http://37.187.132.70:25461/live/wclark/wclark/4276.m3u8
+#EXTINF:-1,USA | CINEMAX MOREMAX HD
+http://37.187.132.70:25461/live/wclark/wclark/4229.m3u8
+#EXTINF:-1,USA | CINEMAX THRILLER MAX
+http://37.187.132.70:25461/live/wclark/wclark/4278.m3u8
+#EXTINF:-1,USA | CNBC
+http://37.187.132.70:25461/live/wclark/wclark/4247.m3u8
+#EXTINF:-1,USA | CNN
+http://37.187.132.70:25461/live/wclark/wclark/4248.m3u8
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://37.187.132.70:25461/live/wclark/wclark/4249.m3u8
+#EXTINF:-1,USA | CW
+http://37.187.132.70:25461/live/wclark/wclark/4212.m3u8
+#EXTINF:-1,USA | DESTINATION AMERICA HD
+http://37.187.132.70:25461/live/wclark/wclark/4213.m3u8
+#EXTINF:-1,USA | DISCOVERY HD
+http://37.187.132.70:25461/live/wclark/wclark/4250.m3u8
+#EXTINF:-1,USA | DISCOVERY VELOCITY HD
+http://37.187.132.70:25461/live/wclark/wclark/4214.m3u8
+#EXTINF:-1,USA | Disney HD
+http://37.187.132.70:25461/live/wclark/wclark/4215.m3u8
+#EXTINF:-1,USA | DIY NETWORK HD
+http://37.187.132.70:25461/live/wclark/wclark/4216.m3u8
+#EXTINF:-1,USA | E!
+http://37.187.132.70:25461/live/wclark/wclark/4251.m3u8
+#EXTINF:-1,USA | ESPN 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/4217.m3u8
+#EXTINF:-1,USA | ESPN HD
+http://37.187.132.70:25461/live/wclark/wclark/4252.m3u8
+#EXTINF:-1,USA | Food Network HD
+http://37.187.132.70:25461/live/wclark/wclark/4238.m3u8
+#EXTINF:-1,USA | Fox HD
+http://37.187.132.70:25461/live/wclark/wclark/4218.m3u8
+#EXTINF:-1,USA | FOX NEWS
+http://37.187.132.70:25461/live/wclark/wclark/4253.m3u8
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/4193.m3u8
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/4192.m3u8
+#EXTINF:-1,USA | Free Form HD
+http://37.187.132.70:25461/live/wclark/wclark/4219.m3u8
+#EXTINF:-1,USA | FX
+http://37.187.132.70:25461/live/wclark/wclark/4270.m3u8
+#EXTINF:-1,USA | FXX HD
+http://37.187.132.70:25461/live/wclark/wclark/4220.m3u8
+#EXTINF:-1,USA | GSN HD
+http://37.187.132.70:25461/live/wclark/wclark/4174.m3u8
+#EXTINF:-1,USA | H2
+http://37.187.132.70:25461/live/wclark/wclark/4254.m3u8
+#EXTINF:-1,USA | Hallmark HD
+http://37.187.132.70:25461/live/wclark/wclark/4239.m3u8
+#EXTINF:-1,USA | HBO 2
+http://37.187.132.70:25461/live/wclark/wclark/4221.m3u8
+#EXTINF:-1,USA | HBO Comedy HD
+http://37.187.132.70:25461/live/wclark/wclark/4222.m3u8
+#EXTINF:-1,USA | HBO FAMILY HD
+http://37.187.132.70:25461/live/wclark/wclark/4274.m3u8
+#EXTINF:-1,USA | HBO HD
+http://37.187.132.70:25461/live/wclark/wclark/4224.m3u8
+#EXTINF:-1,USA | HBO ZONE
+http://37.187.132.70:25461/live/wclark/wclark/4226.m3u8
+#EXTINF:-1,USA | HGTV HD
+http://37.187.132.70:25461/live/wclark/wclark/4227.m3u8
+#EXTINF:-1,USA | HIFI
+http://37.187.132.70:25461/live/wclark/wclark/4228.m3u8
+#EXTINF:-1,USA | HISTORY
+http://37.187.132.70:25461/live/wclark/wclark/4255.m3u8
+#EXTINF:-1,USA | INVESTIGATION DISOVERY HD
+http://37.187.132.70:25461/live/wclark/wclark/4256.m3u8
+#EXTINF:-1,USA | LIFETIME
+http://37.187.132.70:25461/live/wclark/wclark/4257.m3u8
+#EXTINF:-1,USA | MLB NETWORK HD
+http://37.187.132.70:25461/live/wclark/wclark/4189.m3u8
+#EXTINF:-1,USA | MSNBC HD
+http://37.187.132.70:25461/live/wclark/wclark/4271.m3u8
+#EXTINF:-1,USA | MY9
+http://37.187.132.70:25461/live/wclark/wclark/4258.m3u8
+#EXTINF:-1,USA | NAT GEO WILD
+http://37.187.132.70:25461/live/wclark/wclark/4209.m3u8
+#EXTINF:-1,USA | NATIONAL GEOGRAPHIC HD
+http://37.187.132.70:25461/live/wclark/wclark/4231.m3u8
+#EXTINF:-1,USA | NBA TV HD
+http://37.187.132.70:25461/live/wclark/wclark/4186.m3u8
+#EXTINF:-1,USA | NBC
+http://37.187.132.70:25461/live/wclark/wclark/4259.m3u8
+#EXTINF:-1,USA | NBC Golf
+http://37.187.132.70:25461/live/wclark/wclark/4183.m3u8
+#EXTINF:-1,USA | NBCSN
+http://37.187.132.70:25461/live/wclark/wclark/4236.m3u8
+#EXTINF:-1,USA | NFL Network 1080i
+http://37.187.132.70:25461/live/wclark/wclark/4187.m3u8
+#EXTINF:-1,USA | NFL NOW HD
+http://37.187.132.70:25461/live/wclark/wclark/4182.m3u8
+#EXTINF:-1,USA | NFL REDZONE SD
+http://37.187.132.70:25461/live/wclark/wclark/4207.m3u8
+#EXTINF:-1,USA | NHL NETWORK
+http://37.187.132.70:25461/live/wclark/wclark/4190.m3u8
+#EXTINF:-1,USA | Nickelodeon
+http://37.187.132.70:25461/live/wclark/wclark/4260.m3u8
+#EXTINF:-1,USA | OWN HD
+http://37.187.132.70:25461/live/wclark/wclark/4232.m3u8
+#EXTINF:-1,USA | PBS
+http://37.187.132.70:25461/live/wclark/wclark/4261.m3u8
+#EXTINF:-1,USA | SEC NETWORK HD
+http://37.187.132.70:25461/live/wclark/wclark/4188.m3u8
+#EXTINF:-1,USA | Showtime 2
+http://37.187.132.70:25461/live/wclark/wclark/4233.m3u8
+#EXTINF:-1,USA | SHOWTIME HD
+http://37.187.132.70:25461/live/wclark/wclark/4234.m3u8
+#EXTINF:-1,USA | SPIKE HD
+http://37.187.132.70:25461/live/wclark/wclark/4262.m3u8
+#EXTINF:-1,USA | Starz Cinema
+http://37.187.132.70:25461/live/wclark/wclark/4280.m3u8
+#EXTINF:-1,USA | Starz Edge HD
+http://37.187.132.70:25461/live/wclark/wclark/4283.m3u8
+#EXTINF:-1,USA | Starz Encore
+http://37.187.132.70:25461/live/wclark/wclark/4284.m3u8
+#EXTINF:-1,USA | STARZ KIDS & FAMILY
+http://37.187.132.70:25461/live/wclark/wclark/4279.m3u8
+#EXTINF:-1,USA | SYFY HD
+http://37.187.132.70:25461/live/wclark/wclark/4263.m3u8
+#EXTINF:-1,USA | TBS
+http://37.187.132.70:25461/live/wclark/wclark/4264.m3u8
+#EXTINF:-1,USA | TENNIS CHANNEL HD
+http://37.187.132.70:25461/live/wclark/wclark/4191.m3u8
+#EXTINF:-1,USA | TNT HD
+http://37.187.132.70:25461/live/wclark/wclark/4265.m3u8
+#EXTINF:-1,USA | UNIVERSAL HD
+http://37.187.132.70:25461/live/wclark/wclark/4275.m3u8
+#EXTINF:-1,USA | USA Network
+http://37.187.132.70:25461/live/wclark/wclark/4272.m3u8
+#EXTINF:-1,USA |  SPORT 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/4194.m3u8
+#EXTINF:-1,USA | WWE HD
+http://37.187.132.70:25461/live/wclark/wclark/4184.m3u8
+#EXTINF:-1,UFC Fight Pass HD (Live Events Only)
+http://37.187.132.70:25461/live/wclark/wclark/3957.m3u8
+#EXTINF:-1,CA | CBC HD
+http://37.187.132.70:25461/live/wclark/wclark/15378.m3u8
+#EXTINF:-1,CA | CBS HD
+http://37.187.132.70:25461/live/wclark/wclark/15377.m3u8
+#EXTINF:-1,CA | CITY HD
+http://37.187.132.70:25461/live/wclark/wclark/15376.m3u8
+#EXTINF:-1,CA | CP 24 HD
+http://37.187.132.70:25461/live/wclark/wclark/15375.m3u8
+#EXTINF:-1,CA | CTV FHD
+http://37.187.132.70:25461/live/wclark/wclark/15374.m3u8
+#EXTINF:-1,CA | CW HD
+http://37.187.132.70:25461/live/wclark/wclark/15373.m3u8
+#EXTINF:-1,CA | E! HD
+http://37.187.132.70:25461/live/wclark/wclark/15372.m3u8
+#EXTINF:-1,CA | FOX HD
+http://37.187.132.70:25461/live/wclark/wclark/15371.m3u8
+#EXTINF:-1,CA | GLOBAL HD
+http://37.187.132.70:25461/live/wclark/wclark/15370.m3u8
+#EXTINF:-1,CA | HBO 2
+http://37.187.132.70:25461/live/wclark/wclark/15369.m3u8
+#EXTINF:-1,CA | HBO HD
+http://37.187.132.70:25461/live/wclark/wclark/15368.m3u8
+#EXTINF:-1,CA | HLN HD
+http://37.187.132.70:25461/live/wclark/wclark/15367.m3u8
+#EXTINF:-1,CA | ME TV HD
+http://37.187.132.70:25461/live/wclark/wclark/15366.m3u8
+#EXTINF:-1,CA | MOVIES HD
+http://37.187.132.70:25461/live/wclark/wclark/15365.m3u8
+#EXTINF:-1,CA | NBC FHD
+http://37.187.132.70:25461/live/wclark/wclark/15364.m3u8
+#EXTINF:-1,CA | OWN HD
+http://37.187.132.70:25461/live/wclark/wclark/15363.m3u8
+#EXTINF:-1,CA | PBS FHD
+http://37.187.132.70:25461/live/wclark/wclark/15362.m3u8
+#EXTINF:-1,CA | PBS HD
+http://37.187.132.70:25461/live/wclark/wclark/15361.m3u8
+#EXTINF:-1,CA | PBS PLUS HD
+http://37.187.132.70:25461/live/wclark/wclark/15360.m3u8
+#EXTINF:-1,CA | SLICE HD
+http://37.187.132.70:25461/live/wclark/wclark/15359.m3u8
+#EXTINF:-1,CA | SN ONE
+http://37.187.132.70:25461/live/wclark/wclark/15358.m3u8
+#EXTINF:-1,CA | TLC HD
+http://37.187.132.70:25461/live/wclark/wclark/15357.m3u8
+#EXTINF:-1,CA | WORLD HD
+http://37.187.132.70:25461/live/wclark/wclark/15356.m3u8
+#EXTINF:-1,******** NBA/NFL Pass ********
+http://37.187.132.70:25461/live/wclark/wclark/4352.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/4315.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/4322.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 3 HD
+http://37.187.132.70:25461/live/wclark/wclark/4323.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 4 HD
+http://37.187.132.70:25461/live/wclark/wclark/4324.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 5 HD
+http://37.187.132.70:25461/live/wclark/wclark/4325.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 6 HD
+http://37.187.132.70:25461/live/wclark/wclark/4326.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 7 HD
+http://37.187.132.70:25461/live/wclark/wclark/4327.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 8 HD
+http://37.187.132.70:25461/live/wclark/wclark/4328.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 9 HD
+http://37.187.132.70:25461/live/wclark/wclark/4329.m3u8
+#EXTINF:-1,USA | NBA LEAGUE PASS LIVE 10 HD
+http://37.187.132.70:25461/live/wclark/wclark/4316.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 1 SD
+http://37.187.132.70:25461/live/wclark/wclark/4343.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 1 HD Baltimore Ravens @ Pittsburgh Steelers
+http://37.187.132.70:25461/live/wclark/wclark/4342.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 2 SD
+http://37.187.132.70:25461/live/wclark/wclark/4344.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 2 HD Denver Broncos @ Kansas City Chiefs
+http://37.187.132.70:25461/live/wclark/wclark/4334.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 3 SD
+http://37.187.132.70:25461/live/wclark/wclark/4345.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 3 HD
+http://37.187.132.70:25461/live/wclark/wclark/4335.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 4 SD
+http://37.187.132.70:25461/live/wclark/wclark/4346.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 4 HD
+http://37.187.132.70:25461/live/wclark/wclark/4336.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 5 SD
+http://37.187.132.70:25461/live/wclark/wclark/4347.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 5 HD
+http://37.187.132.70:25461/live/wclark/wclark/4337.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 6 SD
+http://37.187.132.70:25461/live/wclark/wclark/4348.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 6 HD
+http://37.187.132.70:25461/live/wclark/wclark/4338.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 7 SD
+http://37.187.132.70:25461/live/wclark/wclark/4349.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 7 HD
+http://37.187.132.70:25461/live/wclark/wclark/4339.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 8 SD
+http://37.187.132.70:25461/live/wclark/wclark/4350.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 8 HD
+http://37.187.132.70:25461/live/wclark/wclark/4340.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 9 SD
+http://37.187.132.70:25461/live/wclark/wclark/4351.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 9 HD
+http://37.187.132.70:25461/live/wclark/wclark/4341.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 10 HD
+http://37.187.132.70:25461/live/wclark/wclark/4330.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 11 HD
+http://37.187.132.70:25461/live/wclark/wclark/4331.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 12 HD
+http://37.187.132.70:25461/live/wclark/wclark/4332.m3u8
+#EXTINF:-1,USA | NFL SUNDAY TICKET 13 HD
+http://37.187.132.70:25461/live/wclark/wclark/4333.m3u8
+#EXTINF:-1,******** VIP Streams ********
+http://37.187.132.70:25461/live/wclark/wclark/2024.m3u8
+#EXTINF:-1,VIP | Star Sports 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/3984.m3u8
+#EXTINF:-1,VIP | Star Sports 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/3971.m3u8
+#EXTINF:-1,VIP | Star Sports 4 HD
+http://37.187.132.70:25461/live/wclark/wclark/3969.m3u8
+#EXTINF:-1,VIP | OSN Sports 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/16409.m3u8
+#EXTINF:-1,VIP | OSN Sports 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/16408.m3u8
+#EXTINF:-1,VIP | OSN Sports 3 HD
+http://37.187.132.70:25461/live/wclark/wclark/16407.m3u8
+#EXTINF:-1,VIP | OSN Sports 4 HD
+http://37.187.132.70:25461/live/wclark/wclark/16406.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 1 HD
+http://37.187.132.70:25461/live/wclark/wclark/5138.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 2 HD
+http://37.187.132.70:25461/live/wclark/wclark/5137.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 3 HD
+http://37.187.132.70:25461/live/wclark/wclark/5136.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 4 HD
+http://37.187.132.70:25461/live/wclark/wclark/5135.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 5 HD
+http://37.187.132.70:25461/live/wclark/wclark/5134.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 6 HD
+http://37.187.132.70:25461/live/wclark/wclark/5133.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 7 HD
+http://37.187.132.70:25461/live/wclark/wclark/5132.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 8 HD
+http://37.187.132.70:25461/live/wclark/wclark/5131.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 9 HD
+http://37.187.132.70:25461/live/wclark/wclark/5130.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 10 HD
+http://37.187.132.70:25461/live/wclark/wclark/5129.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 11 HD
+http://37.187.132.70:25461/live/wclark/wclark/5128.m3u8
+#EXTINF:-1,VIP | BEIN SPORTS 12 HD
+http://37.187.132.70:25461/live/wclark/wclark/5127.m3u8
+#EXTINF:-1,VIP | FOX SPORTS 1 ASIA
+http://37.187.132.70:25461/live/wclark/wclark/4141.m3u8
+#EXTINF:-1,VIP | FOX SPORTS 2 ASIA
+http://37.187.132.70:25461/live/wclark/wclark/4140.m3u8
+#EXTINF:-1,VIP | FOX SPORTS 3 ASIA
+http://37.187.132.70:25461/live/wclark/wclark/4139.m3u8
+#EXTINF:-1,VIP | Astro Supersports 1 HD (OFFLINE)
+http://37.187.132.70:25461/live/wclark/wclark/5018.m3u8
+#EXTINF:-1,VIP | Astro Supersports 2 HD (OFFLINE)
+http://37.187.132.70:25461/live/wclark/wclark/5019.m3u8
+#EXTINF:-1,VIP | Astro Supersports 3 HD (OFFLINE)
+http://37.187.132.70:25461/live/wclark/wclark/5020.m3u8
+#EXTINF:-1,VIP | Sportsnet ONE HD
+http://37.187.132.70:25461/live/wclark/wclark/2527.m3u8
+#EXTINF:-1,VIP | Sportsnet Ontario HD
+http://37.187.132.70:25461/live/wclark/wclark/2526.m3u8
+#EXTINF:-1,VIP | Sportsnet pacific HD
+http://37.187.132.70:25461/live/wclark/wclark/2525.m3u8
+#EXTINF:-1,VIP | Sportsnet West HD
+http://37.187.132.70:25461/live/wclark/wclark/2522.m3u8
+#EXTINF:-1,VIP | Sportsnet World HD
+http://37.187.132.70:25461/live/wclark/wclark/2523.m3u8
+#EXTINF:-1,VIP | Eleven HD
+http://37.187.132.70:25461/live/wclark/wclark/4142.m3u8
+#EXTINF:-1,VIP | Eleven Sports HD
+http://37.187.132.70:25461/live/wclark/wclark/1014.m3u8
+#EXTINF:-1,VIP | Eleven Plus 103 HD
+http://37.187.132.70:25461/live/wclark/wclark/2059.m3u8
+#EXTINF:-1,VIP | TSN HD 1
+http://37.187.132.70:25461/live/wclark/wclark/2029.m3u8
+#EXTINF:-1,VIP | TSN HD 2
+http://37.187.132.70:25461/live/wclark/wclark/2028.m3u8
+#EXTINF:-1,VIP | TSN HD 3
+http://37.187.132.70:25461/live/wclark/wclark/2027.m3u8
+#EXTINF:-1,VIP | TSN HD 4
+http://37.187.132.70:25461/live/wclark/wclark/2026.m3u8
+#EXTINF:-1,VIP | TSN HD 5
+http://37.187.132.70:25461/live/wclark/wclark/2025.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 1 SD
+http://37.187.132.70:25461/live/wclark/wclark/13346.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 2 SD
+http://37.187.132.70:25461/live/wclark/wclark/13345.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 3 SD
+http://37.187.132.70:25461/live/wclark/wclark/13344.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 4 SD
+http://37.187.132.70:25461/live/wclark/wclark/13343.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 5 SD
+http://37.187.132.70:25461/live/wclark/wclark/13342.m3u8
+#EXTINF:-1,VIP | SKYNET SPORTS 6 SD
+http://37.187.132.70:25461/live/wclark/wclark/13341.m3u8
 #EXTINF:-1,(UK) EUROSPORT
 http://46.249.55.237:4545/play/a00x
 #EXTINF:-1,(UK) ITV2
