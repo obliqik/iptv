@@ -1,11 +1,16 @@
 #EXTM3U
 #EXTINF:-1,Cartoon Network
 http://192.99.63.38:8080/CARTOONNETWORKHD/index.m3u8
-#EXTINF:-1,BOOMERANG - USA
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1261.m3u8
-#EXTINF:-1,CARTOON NETWORK - USA
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1000.m3u8
-#EXTINF:-1,NICKELODEN HD - USA
-http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/1011.m3u8
 
-source: https://www.facebook.com/IPTV-LINKS-PLAY-1031758416860740/
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1, DISCOVERY CHANNEL HD
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1, ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+
+
+
