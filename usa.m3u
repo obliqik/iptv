@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1,A&E
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/672.ts
 #EXTINF:-1,AnimalPlanet
