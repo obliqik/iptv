@@ -1,13 +1,4 @@
-#EXTINF:-1,brazz
-http://134.19.148.16:9669/udp/239.195.2.4:1234
-#EXTINF:-1,ru
-http://134.19.148.16:9669/udp/239.195.2.3:1234
-#EXTINF:-1,pb
-http://134.19.148.16:9669/udp/239.195.2.1:1234
-#EXTINF:-1,nu
-http://134.19.148.16:9669/udp/239.195.6.33:1234
-#EXTINF:-1,fren
-http://31.128.140.122:3371/udp/239.1.13.4:1234
+
 #EXTINF:-1,CHANNEL LIVE 1
 http://lucky.lts2.net:24000/live/altadefinizione3/d0hTLb26Ee/36458.m3u8
 #EXTINF:-1,CHANNEL LIVE 2
