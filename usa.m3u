@@ -1,338 +1,237 @@
 #EXTM3U
 #EXTINF:-1,WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1,A&E
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/672.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
 #EXTINF:-1,AnimalPlanet
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/671.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
 #EXTINF:-1,BBC AMERICA
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/628.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
 #EXTINF:-1,bet
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/630.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/630.ts
 #EXTINF:-1,CartoonNetwork
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/670.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
 #EXTINF:-1,cbs
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/669.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
 #EXTINF:-1,cbs news
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/653.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/653.ts
 #EXTINF:-1,cnn
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/668.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
 #EXTINF:-1,ComedyCentral
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/667.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
 #EXTINF:-1,COOKING CHANNEL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/627.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
 #EXTINF:-1,cw
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/666.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/666.ts
 #EXTINF:-1,Destination America
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/621.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
 #EXTINF:-1,Discovery
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
 #EXTINF:-1,DiscoveryScience
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/651.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
 #EXTINF:-1,diy
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/650.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
 #EXTINF:-1,E!
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/655.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
 #EXTINF:-1,ESPN2
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/616.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/616.ts
 #EXTINF:-1,FOOD NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/626.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
 #EXTINF:-1,fox
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/665.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
 #EXTINF:-1,FOXSPORT1 
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/625.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
 #EXTINF:-1,fx
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/664.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/664.ts
 #EXTINF:-1,fxx
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/635.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
 #EXTINF:-1,fyi
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/643.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
 #EXTINF:-1,h2
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/633.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
 #EXTINF:-1,HBO COMEDY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/624.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
 #EXTINF:-1,HBO FAMILY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/623.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
 #EXTINF:-1,hbo
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/634.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
 #EXTINF:-1,HBO SIGNATURE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/642.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
 #EXTINF:-1,INVESTIGATION DISCOVERY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/641.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
 #EXTINF:-1,life time
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/663.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
 #EXTINF:-1,lifetime movie network
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/649.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
 #EXTINF:-1,MLB Live 1
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/721.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/721.ts
 #EXTINF:-1,MLB Live 2
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/720.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/720.ts
 #EXTINF:-1,MLB Network
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/719.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/719.ts
 #EXTINF:-1,MSNBC
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/640.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/718.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/718.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/717.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/717.ts
 #EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/716.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/716.ts
 #EXTINF:-1,nba tv
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/639.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
 #EXTINF:-1,nbc
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/662.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts
 #EXTINF:-1,nfl network
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/632.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/632.ts
 #EXTINF:-1,NFLNOW
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/622.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/622.ts
 #EXTINF:-1,pbs
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/660.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/660.ts
 #EXTINF:-1,showtime
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/638.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/638.ts
 #EXTINF:-1,spike
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/659.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/659.ts
 #EXTINF:-1,STARZ CINEMA
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/636.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
 #EXTINF:-1,STARZ EAST
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/637.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/637.ts
 #EXTINF:-1,syfy
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/658.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/658.ts
 #EXTINF:-1,tbs
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/657.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/657.ts
 #EXTINF:-1,tnt
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/656.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
 #EXTINF:-1,trutv
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/648.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
 #EXTINF:-1,tv land
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/654.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/654.ts
 #EXTINF:-1,UnivisionDeportes
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/617.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/617.ts
 #EXTINF:-1,Velocity
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/646.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/646.ts
 #EXTINF:-1,wwe
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/631.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
 #EXTINF:-1,BNN
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/806.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/806.ts
 #EXTINF:-1,CARTOON NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/805.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
 #EXTINF:-1,CBC TORONTO
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/804.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/804.ts
 #EXTINF:-1,CHCH
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/803.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/803.ts
 #EXTINF:-1,CITY VANCOUVER
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/802.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/802.ts
 #EXTINF:-1,COMEDY GOLD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/801.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/801.ts
 #EXTINF:-1,COTTAGE LIFE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/800.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/800.ts
 #EXTINF:-1,CP24
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/799.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/799.ts
 #EXTINF:-1,CTV TORONTO
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/798.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/798.ts
 #EXTINF:-1,DEJA VIEW
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/797.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/797.ts
 #EXTINF:-1,E!
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/796.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/796.ts
 #EXTINF:-1,FYI
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/794.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/794.ts
 #EXTINF:-1,G4
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/793.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/793.ts
 #EXTINF:-1,GLOBAL TV CALGARY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/792.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/792.ts
 #EXTINF:-1,GOLF CHANNEL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/790.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/790.ts
 #EXTINF:-1,GSN
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/789.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/789.ts
 #EXTINF:-1,MOVIE TIME
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/787.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/787.ts
 #EXTINF:-1,MTV CANADA
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/786.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/786.ts
 #EXTINF:-1,MUCH MUSIC
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/785.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/785.ts
 #EXTINF:-1,NICK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/783.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
 #EXTINF:-1,OLN
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/782.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/782.ts
 #EXTINF:-1,OWN (OPRAH WINFREY NETWORK)
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/781.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/781.ts
 #EXTINF:-1,PEACHTREE TV
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/780.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/780.ts
 #EXTINF:-1,SILVER SCREEN CLASSICS
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/779.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/779.ts
 #EXTINF:-1,SLICE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/778.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/778.ts
 #EXTINF:-1,SPIKE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/777.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/777.ts
 #EXTINF:-1,SPORTSNET WORLD HD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/776.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/776.ts
 #EXTINF:-1,TELETOON
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/775.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/775.ts
 #EXTINF:-1,THE MOVIE NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/774.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/774.ts
 #EXTINF:-1,TRAVEL CHANNEL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/773.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/773.ts
 #EXTINF:-1,TREE HOUSE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/772.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/772.ts
 #EXTINF:-1,VRAK TV
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/771.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/771.ts
 #EXTINF:-1,W NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/770.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/770.ts
 #EXTINF:-1,WORLD FISHING
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/769.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/769.ts
 #EXTINF:-1,YTV
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/768.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/768.ts
 #EXTINF:-1,TelemundoFREE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/615.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/615.ts
 #EXTINF:-1,RT HD
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/822.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/822.ts
 #EXTINF:-1,TPK  MUSIC BRIT HITS
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/849.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/849.ts
 #EXTINF:-1,TPK  MUSIC DANCE EDM
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/848.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/848.ts
 #EXTINF:-1,TPK  MUSIC HIP HOP & R & B
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/847.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/847.ts
 #EXTINF:-1,TPK  MUSIC HIT LIST
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/846.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/846.ts
 #EXTINF:-1,TPK  MUSIC INDIE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/845.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/845.ts
 #EXTINF:-1,TPK  MUSIC KIDS ONLY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/844.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/844.ts
 #EXTINF:-1,TPK  MUSIC LATINO POP
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/843.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/843.ts
 #EXTINF:-1,TPK  MUSIC MEXICAAN
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/841.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/841.ts
 #EXTINF:-1,TPK  MUSIC POP & COUNTRY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/840.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/840.ts
 #EXTINF:-1,TPK  MUSIC POP HITS
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/839.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/839.ts
 #EXTINF:-1,TPK  MUSIC R&B SOUL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/838.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/838.ts
 #EXTINF:-1,TPK  MUSIC RAP 2K
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/836.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/836.ts
 #EXTINF:-1,TPK MUSIC RAP
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/837.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/837.ts
 #EXTINF:-1,TPK  MUSIC ROCK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/835.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/835.ts
 #EXTINF:-1,TPK MUSIC THROWBACK JAMZ
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/833.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/833.ts
 #EXTINF:-1,TPK  MUSIC TODAYS COUNTRY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/832.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/832.ts
 #EXTINF:-1,TPK  MUSIC TODDLER TUNES
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/831.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/831.ts
 #EXTINF:-1,TPK MUSIC MC PLAY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/842.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/842.ts
 #EXTINF:-1,TPK  MUSIC TEEN BEATS
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/834.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/834.ts
 #EXTINF:-1,TPK  MUSIC Y2K
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/828.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/828.ts
 #EXTINF:-1,TPK MUSIC ALTERNATIVE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/826.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/826.ts
 #EXTINF:-1,TPK MUSIC TROPICALES
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/830.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/830.ts
 #EXTINF:-1,SyFy Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1079.ts
-#EXTINF:-1,13 TV LATINO
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
-#EXTINF:-1,360 TV LATINO
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,7 TV Región de Murcia LATINO
-http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
-#EXTINF:-1,8 TV LATINO
-rtmp://178.33.113.212/8TV/8aldia-directe
-#EXTINF:-1,A&E Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1127.ts
-#EXTINF:-1,Agape TV LATINO
-http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
-#EXTINF:-1,Animal Planet Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1126.ts
-#EXTINF:-1,Aragon TV LATINO
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,ATB Bolivia LATINO
-http://192.99.38.174:1935/envivo/atb/playlist.m3u8
-#EXTINF:-1,AXN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1125.ts
-#EXTINF:-1,Azteca 13 LATINO
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1,Bolivia al Aire LATINO
-rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
-#EXTINF:-1,C5N LATINO
-http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
-#EXTINF:-1,C7 Jalisco LATINO
-http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
-#EXTINF:-1,Capital 21 CDMX LATINO
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1,Capital TV LATINO
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:-1,Carolina TV LATINO
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1123.ts
-#EXTINF:-1,Castilla la Mancha TV LATINO
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1094.ts
-#EXTINF:-1,Navarra TV LATINO
-rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
-#EXTINF:-1,Niu TV LATINO
-http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Ocho TV LATINO
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
-#EXTINF:-1,Pacifico Television Virtual LATINO
-rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
-#EXTINF:-1,PAT LATINO
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:-1,Patagonia TV LATINO
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,PDVSA TV LATINO
-rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
-#EXTINF:-1,Promar TV  LATINO
-http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
-#EXTINF:-1,Proyecto 40 LATINO
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1,QM Noticias LATINO
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
-#EXTINF:-1,]RBC Online LATINO
-rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
-#EXTINF:-1,RCG Televisión LATINO
-http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:-1,Red Advenir LATINO
-rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
-#EXTINF:-1,CA -  YTV
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/484.ts
-#EXTINF:-1,CA - CHCH
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/519.ts
-#EXTINF:-1,CA -  CITY VANCOUVER
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/518.ts
-#EXTINF:-1,CA - COMEDY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/517.ts
-#EXTINF:-1,CA - COTTAGE LIFE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/516.ts
-#EXTINF:-1,CA -  CP24
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/515.ts
-#EXTINF:-1,CA - CTV TORONTO
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/514.ts
-#EXTINF:-1,CA - DEJA VIEW
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/513.ts
-#EXTINF:-1,CA -  E!
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/512.ts
-#EXTINF:-1,CA EVASION
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/511.ts
-#EXTINF:-1,CA FYI
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/510.ts
-#EXTINF:-1,CA G4
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/509.ts
-#EXTINF:-1,CA GLOBAL TV CALGARY
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/508.ts
-#EXTINF:-1,CA TRAVEL CHANNEL
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/489.ts
-#EXTINF:-1,CA TREE HOUSE
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/488.ts
-#EXTINF:-1,CA VRAK TV
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/487.ts
-#EXTINF:-1,CA W NETWORK
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/486.ts
-#EXTINF:-1,CA WORLD FISHING
-http://dns1.theplayersklub.host:2095/live/leetv/leetv1/485.ts
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1079.ts
+
+
 #EXTINF:-1,Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
