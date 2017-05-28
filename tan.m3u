@@ -213,6 +213,82 @@ http://global.ipsatpro.tv:8000/live/dontsharetwo/FgtgeETDrID25/3282.ts
 #EXTINF:-1,USA: MAX WEST MOVIES
 http://global.ipsatpro.tv:8000/live/dontsharetwo/FgtgeETDrID25/3283.ts
 
+
+#EXTINF:-1,bbc two
+http://185.62.86.6:8081/hls/bbctwo.m3u8
+#EXTINF:-1,itv
+http://185.62.86.6:8081/hls/itv.m3u8
+#EXTINF:-1,channel 4
+http://185.62.86.6:8081/hls/channel4.m3u8
+#EXTINF:-1,channel 5
+http://185.62.86.6:8081/hls/channel5.m3u8
+#EXTINF:-1,itv 2
+http://185.62.86.6:8081/hls/itv2.m3u8
+#EXTINF:-1,bbc four
+http://185.62.86.6:8081/hls/bbcfour.m3u8
+#EXTINF:-1,itv 3
+http://185.62.86.6:8081/hls/itv3.m3u8
+#EXTINF:-1,pick
+http://185.62.86.6:8081/hls/pick.m3u8
+#EXTINF:-1,dave
+http://185.62.86.6:8081/hls/dave.m3u8
+#EXTINF:-1,more 4
+http://185.62.86.6:8081/hls/more4.m3u8
+#EXTINF:-1,film 4
+http://185.62.86.6:8081/hls/film4.m3u8
+#EXTINF:-1,really
+http://185.62.86.6:8081/hls/really.m3u8
+#EXTINF:-1,yesterday
+http://185.62.86.6:8081/hls/yesterday.m3u8
+#EXTINF:-1,drama
+http://185.62.86.6:8081/hls/drama.m3u8
+#EXTINF:-1,itv 4
+http://185.62.86.6:8081/hls/itv4.m3u8
+#EXTINF:-1,5usa
+http://185.62.86.6:8081/hls/5usa.m3u8
+#EXTINF:-1,home
+http://185.62.86.6:8081/hls/home.m3u8
+#EXTINF:-1,itv be
+http://185.62.86.6:8081/hls/itvbe.m3u8
+#EXTINF:-1,e4
+http://185.62.86.6:8081/hls/e4.m3u8
+#EXTINF:-1,5star
+http://185.62.86.6:8081/hls/5star.m3u8
+#EXTINF:-1,spike uk
+http://185.62.86.6:8081/hls/spike.m3u8
+#EXTINF:-1,sony
+http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
+#EXTINF:-1,quest
+http://185.62.86.6:8081/hls/quest.m3u8
+#EXTINF:-1,food network
+http://185.62.86.6:8081/hls/foodnetwork.m3u8
+#EXTINF:-1,challenge
+http://185.62.86.6:8081/hls/challenge.m3u8
+#EXTINF:-1,4seven
+http://185.62.86.6:8081/hls/4seven.m3u8
+#EXTINF:-1,movie4men
+http://185.62.86.6:8081/hls/movies4men.m3u8
+#EXTINF:-1,cbsaction
+http://185.62.86.6:8081/hls/cbsaction.m3u8
+#EXTINF:-1,cbsreality
+http://185.62.86.6:8081/hls/cbsreality.m3u8
+#EXTINF:-1,horrorchannel
+http://185.62.86.6:8081/hls/horrorchannel.m3u8
+#EXTINF:-1,yourtv
+http://185.62.86.6:8081/hls/yourtv.m3u8
+#EXTINF:-1,blaze
+http://185.62.86.6:8081/hls/blaze.m3u8
+#EXTINF:-1,4music
+http://185.62.86.6:8081/hls/4music.m3u8
+#EXTINF:-1,travelchannel
+http://185.62.86.6:8081/hls/travelchannel.m3u8
+#EXTINF:-1,cbsdrama
+http://185.62.86.6:8081/hls/cbsdrama.m3u8
+#EXTINF:-1,trytv
+http://185.62.86.6:8081/hls/trutv.m3u8
+#EXTINF:-1,my5
+http://185.62.86.6:8081/hls/my5.m3u8
+
 #EXTINF:-1,(UK) EUROSPORT
 http://46.249.55.237:4545/play/a00x
 #EXTINF:-1,(UK) ITV2
