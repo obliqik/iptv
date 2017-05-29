@@ -3,7 +3,7 @@
 <stream>
 <item>
 <title>AMC HD</title>
-<link>http://ipsatpro.info:8000/live/xScEk4I0ks/o9uI7msQL2/1534.ts</link>
+<link><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/xScEk4I0ks/o9uI7msQL2/1534.ts&amp;streamtype=TSDOWNLOADER</link></link>
 <thumbnail></thumbnail>
 </item>
 <item>
