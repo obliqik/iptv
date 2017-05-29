@@ -1,3 +1,18 @@
+#EXTINF:0,cbs reality
+http://79.172.241.74:8081/hls/cbsreality.m3u8
+#EXTINF:0,pick
+http://79.172.241.74:8081/hls/pick.m3u8
+#EXTINF:0,quest
+http://79.172.241.74:8081/hls/quest.m3u8
+#EXTINF:0,challenge
+http://79.172.241.74:8081/hls/challenge.m3u8
+#EXTINF:0,ITV4
+http://79.172.241.74:8081/hls/itv4.m3u8
+#EXTINF:0,cbs action
+http://79.172.241.74:8081/hls/cbsaction.m3u8
+#EXTINF:0,drama
+http://79.172.241.74:8081/hls/drama.m3u8
+
 #EXTINF:-1,bbc two
 http://185.62.86.6:8081/hls/bbctwo.m3u8
 #EXTINF:-1,itv
