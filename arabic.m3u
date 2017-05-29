@@ -4,7 +4,8 @@
 rtmp://82.212.74.101/live//8036
 #EXTINF:-1,[COLOR yellow]Sudan - Tayba TV[/COLOR]
 http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w0.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png", Cartoon Network-arb
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1270.ts
 #EXTINF:0,AR_Samira_TV
 http://151.80.36.109:8000/live/korisnik/korisnik/146.ts
 #EXTINF:0,AR_Medi_1_Sat
