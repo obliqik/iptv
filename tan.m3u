@@ -1,5 +1,55 @@
 #EXTINF:-1,SPYKE
 http://192.99.47.130:8000/live/stalker/stalker/424.ts
+#EXTINF:-1,CW
+http://192.99.47.130:8000/live/stalker/stalker/597.ts
+#EXTINF:-1,ENCORE WESTERN
+http://192.99.47.130:8000/live/stalker/stalker/553.ts
+#EXTINF:-1,ENCORE SUSPENSO
+http://192.99.47.130:8000/live/stalker/stalker/551.ts
+#EXTINF:-1,TRU TV
+http://192.99.47.130:8000/live/stalker/stalker/547.ts
+#EXTINF:-1,MSNBC
+http://192.99.47.130:8000/live/stalker/stalker/548.ts
+#EXTINF:-1,FYI
+http://192.99.47.130:8000/live/stalker/stalker/549.ts
+
+#EXTINF:-1,TSN5
+http://192.99.47.130:8000/live/stalker/stalker/307.ts
+#EXTINF:-1,TSN4
+http://192.99.47.130:8000/live/stalker/stalker/306.ts
+#EXTINF:-1,TSN3
+http://192.99.47.130:8000/live/stalker/stalker/305.ts
+#EXTINF:-1,TSN2
+http://192.99.47.130:8000/live/stalker/stalker/304.ts
+#EXTINF:-1,TSN1
+http://192.99.47.130:8000/live/stalker/stalker/303.ts
+#EXTINF:-1,TLC
+http://192.99.47.130:8000/live/stalker/stalker/24.ts
+#EXTINF:-1,STARZ BLACK
+http://192.99.47.130:8000/live/stalker/stalker/22.ts
+#EXTINF:-1,SPORT NET WORLD
+http://192.99.47.130:8000/live/stalker/stalker/294.ts
+#EXTINF:-1,NFL
+http://192.99.47.130:8000/live/stalker/stalker/302.ts
+#EXTINF:-1,NESN
+http://192.99.47.130:8000/live/stalker/stalker/19.ts
+#EXTINF:-1,NBC UNIVERSO
+http://192.99.47.130:8000/live/stalker/stalker/18.ts
+#EXTINF:-1,NATIONAL WILD
+http://192.99.47.130:8000/live/stalker/stalker/26.ts
+#EXTINF:-1,national geography
+http://192.99.47.130:8000/live/stalker/stalker/17.ts
+#EXTINF:-1,MSG:NY
+http://192.99.47.130:8000/live/stalker/stalker/32.ts
+#EXTINF:-1,ID INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/33.ts
+#EXTINF:-1,HISTORY
+http://192.99.47.130:8000/live/stalker/stalker/34.ts
+#EXTINF:-1,HBO SIGNATURE
+http://192.99.47.130:8000/live/stalker/stalker/28.ts
+
+#EXTINF:-1,showtime family
+http://192.99.47.130:8000/live/stalker/stalker/704.ts
 
 #EXTINF:-1,SONY TV
 http://192.99.47.130:8000/live/stalker/stalker/423.ts
