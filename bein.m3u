@@ -40,6 +40,35 @@ http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/972.ts
 #EXTINF:-1 tvg-logo="http://metalkettle.co/logos/logos1/BeIN%20Sports%2012%20HD.png",Bein Sport 12 HD 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/973.ts
 
+#EXTINF:-1,BEIN SPORT 5 HD
+http://5.34.180.32:8010/play/a005
+#EXTINF:-1,BEIN SPORT 11 HD
+http://5.34.180.32:8010/play/a00b
+#EXTINF:-1,BEIN SPORT 12 HD
+http://5.34.180.32:8010/play/a00c
+#EXTINF:-1,BEIN SPORT 1HD
+http://5.34.180.32:8010/play/a001
+#EXTINF:-1,BEIN SPORT 6 HD
+http://5.34.180.32:8010/play/a006
+#EXTINF:-1,BEIN SPORT 10 HD
+http://5.34.180.32:8010/play/a00a
+#EXTINF:-1,BEIN SPORT 4 HD
+http://5.34.180.32:8010/play/a004
+#EXTINF:-1,BEIN SPORT 9 HD
+http://5.34.180.32:8010/play/a009
+#EXTINF:-1,BEIN SPORT 3 HD
+http://5.34.180.32:8010/play/a003
+#EXTINF:-1,BEIN SPORT 7 HD
+http://5.34.180.32:8010/play/a007
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://5.34.180.32:8010/play/a00e
+#EXTINF:-1,BEIN SPORT 8 HD
+http://5.34.180.32:8010/play/a008
+#EXTINF:-1,BEIN SPORT 2 HD
+http://5.34.180.32:8010/play/a002
+
+
+
 #EXTINF:0,BN_Bein_Sport_1
 http://151.80.36.109:8000/live/korisnik/korisnik/188.ts
 #EXTINF:0,BN_Bein_Sport_2
