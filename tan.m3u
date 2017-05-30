@@ -1,3 +1,82 @@
+#EXTINF:-1,UK:MOVIES PREMIERS
+http://192.99.47.130:8000/live/stalker2/stalker2/339.ts
+#EXTINF:-1,UK:MOVIES TRILLER
+http://192.99.47.130:8000/live/stalker2/stalker2/351.ts
+#EXTINF:-1,UK:MOVIES SYFY
+http://192.99.47.130:8000/live/stalker2/stalker2/354.ts
+#EXTINF:-1,UK:MOVIES SHOWCASE
+http://192.99.47.130:8000/live/stalker2/stalker2/352.ts
+#EXTINF:-1,UK:MOVIES SELECT
+http://192.99.47.130:8000/live/stalker2/stalker2/353.ts
+#EXTINF:-1,UK:MOVIES FAMILY
+http://192.99.47.130:8000/live/stalker2/stalker2/355.ts
+#EXTINF:-1,UK:MOVIES DISNEY
+http://192.99.47.130:8000/live/stalker2/stalker2/358.ts
+#EXTINF:-1,UK:MOVIES COMEDY
+http://192.99.47.130:8000/live/stalker2/stalker2/357.ts
+#EXTINF:-1,UK:MOVIES ACTION
+http://192.99.47.130:8000/live/stalker2/stalker2/356.ts
+#EXTINF:-1,USA:VICELAND
+http://192.99.47.130:8000/live/stalker2/stalker2/30.ts
+#EXTINF:-1,USA:UNIMAX ESTE
+http://192.99.47.130:8000/live/stalker2/stalker2/25.ts
+#EXTINF:-1,USA:TSN5
+http://192.99.47.130:8000/live/stalker2/stalker2/307.ts
+#EXTINF:-1,USA:TSN4
+http://192.99.47.130:8000/live/stalker2/stalker2/306.ts
+#EXTINF:-1,USA:TSN3
+http://192.99.47.130:8000/live/stalker2/stalker2/305.ts
+#EXTINF:-1,USA:TSN2
+http://192.99.47.130:8000/live/stalker2/stalker2/304.ts
+#EXTINF:-1,USA:TSN1
+http://192.99.47.130:8000/live/stalker2/stalker2/303.ts
+#EXTINF:-1,USA:TLC
+http://192.99.47.130:8000/live/stalker2/stalker2/24.ts
+#EXTINF:-1,USA:STARZ BLACK
+http://192.99.47.130:8000/live/stalker2/stalker2/22.ts
+#EXTINF:-1,USA:SPORT NET WORLD
+http://192.99.47.130:8000/live/stalker2/stalker2/294.ts
+#EXTINF:-1,USA:NFL
+http://192.99.47.130:8000/live/stalker2/stalker2/302.ts
+#EXTINF:-1,USA:NESN
+http://192.99.47.130:8000/live/stalker2/stalker2/19.ts
+#EXTINF:-1,USA:NBC UNIVERSO
+http://192.99.47.130:8000/live/stalker2/stalker2/18.ts
+#EXTINF:-1,USA:NATIONAL WILD
+http://192.99.47.130:8000/live/stalker2/stalker2/26.ts
+#EXTINF:-1,USA:national geography
+http://192.99.47.130:8000/live/stalker2/stalker2/17.ts
+#EXTINF:-1,USA:MSG:NY
+http://192.99.47.130:8000/live/stalker2/stalker2/32.ts
+#EXTINF:-1,USA:ID INVESTIGATION
+http://192.99.47.130:8000/live/stalker2/stalker2/33.ts
+#EXTINF:-1,USA:HISTORY
+http://192.99.47.130:8000/live/stalker2/stalker2/34.ts
+#EXTINF:-1,USA:HBO SIGNATURE
+http://192.99.47.130:8000/live/stalker2/stalker2/28.ts
+#EXTINF:-1,USA:HBO LATINO
+http://192.99.47.130:8000/live/stalker2/stalker2/27.ts
+#EXTINF:-1,USA:H2
+http://192.99.47.130:8000/live/stalker2/stalker2/267.ts
+#EXTINF:-1,PR:FX
+http://192.99.47.130:8000/live/stalker2/stalker2/35.ts
+#EXTINF:-1,USA:FOX SPORT 2
+http://192.99.47.130:8000/live/stalker2/stalker2/12.ts
+#EXTINF:-1,USA:FOX SPORT 1
+http://192.99.47.130:8000/live/stalker2/stalker2/11.ts
+#EXTINF:-1,USA:ESPN2
+http://192.99.47.130:8000/live/stalker2/stalker2/8.ts
+#EXTINF:-1,USA:ESPN NEWS
+http://192.99.47.130:8000/live/stalker2/stalker2/10.ts
+#EXTINF:-1,USA:WE
+http://192.99.47.130:8000/live/stalker2/stalker2/9.ts
+#EXTINF:-1,USA:DISCOVERY SCIENCIE
+http://192.99.47.130:8000/live/stalker2/stalker2/21.ts
+#EXTINF:-1,USA:CNBC
+http://192.99.47.130:8000/live/stalker2/stalker2/285.ts
+#EXTINF:-1,USA:ANIMAL PLANET
+http://192.99.47.130:8000/live/stalker2/stalker2/36.ts
+
 #EXTINF:0,cbs reality
 http://79.172.241.74:8081/hls/cbsreality.m3u8
 #EXTINF:0,pick
