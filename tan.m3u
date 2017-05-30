@@ -1,443 +1,105 @@
-#EXTINF:-1,USA:ENCORE WESTERN
-http://192.99.47.130:8000/live/stalker/stalker/553.ts
-#EXTINF:-1,USA:ENCORE SUSPENSO
-http://192.99.47.130:8000/live/stalker/stalker/551.ts
-#EXTINF:-1,USA:TRU TV
-http://192.99.47.130:8000/live/stalker/stalker/547.ts
-#EXTINF:-1,USA:MSNBC
-http://192.99.47.130:8000/live/stalker/stalker/548.ts
-#EXTINF:-1,USA:FYI
-http://192.99.47.130:8000/live/stalker/stalker/549.ts
-#EXTINF:-1,UK:MOVIES PREMIERS
-http://192.99.47.130:8000/live/stalker2/stalker2/339.ts
-#EXTINF:-1,UK:MOVIES TRILLER
-http://192.99.47.130:8000/live/stalker2/stalker2/351.ts
-#EXTINF:-1,UK:MOVIES SYFY
-http://192.99.47.130:8000/live/stalker2/stalker2/354.ts
-#EXTINF:-1,UK:MOVIES SHOWCASE
-http://192.99.47.130:8000/live/stalker2/stalker2/352.ts
-#EXTINF:-1,UK:MOVIES SELECT
-http://192.99.47.130:8000/live/stalker2/stalker2/353.ts
-#EXTINF:-1,UK:MOVIES FAMILY
-http://192.99.47.130:8000/live/stalker2/stalker2/355.ts
-#EXTINF:-1,UK:MOVIES DISNEY
-http://192.99.47.130:8000/live/stalker2/stalker2/358.ts
-#EXTINF:-1,UK:MOVIES COMEDY
-http://192.99.47.130:8000/live/stalker2/stalker2/357.ts
-#EXTINF:-1,UK:MOVIES ACTION
-http://192.99.47.130:8000/live/stalker2/stalker2/356.ts
-#EXTINF:-1,USA:VICELAND
-http://192.99.47.130:8000/live/stalker2/stalker2/30.ts
-#EXTINF:-1,USA:UNIMAX ESTE
-http://192.99.47.130:8000/live/stalker2/stalker2/25.ts
-#EXTINF:-1,USA:TSN5
-http://192.99.47.130:8000/live/stalker2/stalker2/307.ts
-#EXTINF:-1,USA:TSN4
-http://192.99.47.130:8000/live/stalker2/stalker2/306.ts
-#EXTINF:-1,USA:TSN3
-http://192.99.47.130:8000/live/stalker2/stalker2/305.ts
-#EXTINF:-1,USA:TSN2
-http://192.99.47.130:8000/live/stalker2/stalker2/304.ts
-#EXTINF:-1,USA:TSN1
-http://192.99.47.130:8000/live/stalker2/stalker2/303.ts
-#EXTINF:-1,USA:TLC
-http://192.99.47.130:8000/live/stalker2/stalker2/24.ts
-#EXTINF:-1,USA:STARZ BLACK
-http://192.99.47.130:8000/live/stalker2/stalker2/22.ts
-#EXTINF:-1,USA:SPORT NET WORLD
-http://192.99.47.130:8000/live/stalker2/stalker2/294.ts
-#EXTINF:-1,USA:NFL
-http://192.99.47.130:8000/live/stalker2/stalker2/302.ts
-#EXTINF:-1,USA:NESN
-http://192.99.47.130:8000/live/stalker2/stalker2/19.ts
-#EXTINF:-1,USA:NBC UNIVERSO
-http://192.99.47.130:8000/live/stalker2/stalker2/18.ts
-#EXTINF:-1,USA:NATIONAL WILD
-http://192.99.47.130:8000/live/stalker2/stalker2/26.ts
-#EXTINF:-1,USA:national geography
-http://192.99.47.130:8000/live/stalker2/stalker2/17.ts
-#EXTINF:-1,USA:MSG:NY
-http://192.99.47.130:8000/live/stalker2/stalker2/32.ts
-#EXTINF:-1,USA:ID INVESTIGATION
-http://192.99.47.130:8000/live/stalker2/stalker2/33.ts
-#EXTINF:-1,USA:HISTORY
-http://192.99.47.130:8000/live/stalker2/stalker2/34.ts
-#EXTINF:-1,USA:HBO SIGNATURE
-http://192.99.47.130:8000/live/stalker2/stalker2/28.ts
-#EXTINF:-1,USA:HBO LATINO
-http://192.99.47.130:8000/live/stalker2/stalker2/27.ts
-#EXTINF:-1,USA:H2
-http://192.99.47.130:8000/live/stalker2/stalker2/267.ts
-#EXTINF:-1,PR:FX
-http://192.99.47.130:8000/live/stalker2/stalker2/35.ts
-#EXTINF:-1,USA:FOX SPORT 2
-http://192.99.47.130:8000/live/stalker2/stalker2/12.ts
-#EXTINF:-1,USA:FOX SPORT 1
-http://192.99.47.130:8000/live/stalker2/stalker2/11.ts
-#EXTINF:-1,USA:ESPN2
-http://192.99.47.130:8000/live/stalker2/stalker2/8.ts
-#EXTINF:-1,USA:ESPN NEWS
-http://192.99.47.130:8000/live/stalker2/stalker2/10.ts
-#EXTINF:-1,USA:WE
-http://192.99.47.130:8000/live/stalker2/stalker2/9.ts
-#EXTINF:-1,USA:DISCOVERY SCIENCIE
-http://192.99.47.130:8000/live/stalker2/stalker2/21.ts
-#EXTINF:-1,USA:CNBC
-http://192.99.47.130:8000/live/stalker2/stalker2/285.ts
-#EXTINF:-1,USA:ANIMAL PLANET
-http://192.99.47.130:8000/live/stalker2/stalker2/36.ts
+#EXTINF:-1,SPYKE
+http://192.99.47.130:8000/live/stalker/stalker/424.ts
 
-#EXTINF:0,cbs reality
-http://79.172.241.74:8081/hls/cbsreality.m3u8
-#EXTINF:0,pick
-http://79.172.241.74:8081/hls/pick.m3u8
-#EXTINF:0,quest
-http://79.172.241.74:8081/hls/quest.m3u8
-#EXTINF:0,challenge
-http://79.172.241.74:8081/hls/challenge.m3u8
-#EXTINF:0,ITV4
-http://79.172.241.74:8081/hls/itv4.m3u8
-#EXTINF:0,cbs action
-http://79.172.241.74:8081/hls/cbsaction.m3u8
-#EXTINF:0,drama
-http://79.172.241.74:8081/hls/drama.m3u8
+#EXTINF:-1,SONY TV
+http://192.99.47.130:8000/live/stalker/stalker/423.ts
 
-#EXTINF:-1,bbc two
-http://185.62.86.6:8081/hls/bbctwo.m3u8
-#EXTINF:-1,itv
-http://185.62.86.6:8081/hls/itv.m3u8
-#EXTINF:-1,channel 4
-http://185.62.86.6:8081/hls/channel4.m3u8
-#EXTINF:-1,channel 5
-http://185.62.86.6:8081/hls/channel5.m3u8
-#EXTINF:-1,itv 2
-http://185.62.86.6:8081/hls/itv2.m3u8
-#EXTINF:-1,bbc four
-http://185.62.86.6:8081/hls/bbcfour.m3u8
-#EXTINF:-1,itv 3
-http://185.62.86.6:8081/hls/itv3.m3u8
-#EXTINF:-1,pick
-http://185.62.86.6:8081/hls/pick.m3u8
-#EXTINF:-1,dave
-http://185.62.86.6:8081/hls/dave.m3u8
-#EXTINF:-1,more 4
-http://185.62.86.6:8081/hls/more4.m3u8
-#EXTINF:-1,film 4
-http://185.62.86.6:8081/hls/film4.m3u8
-#EXTINF:-1,really
-http://185.62.86.6:8081/hls/really.m3u8
-#EXTINF:-1,yesterday
-http://185.62.86.6:8081/hls/yesterday.m3u8
-#EXTINF:-1,drama
-http://185.62.86.6:8081/hls/drama.m3u8
-#EXTINF:-1,itv 4
-http://185.62.86.6:8081/hls/itv4.m3u8
-#EXTINF:-1,5usa
-http://185.62.86.6:8081/hls/5usa.m3u8
-#EXTINF:-1,home
-http://185.62.86.6:8081/hls/home.m3u8
-#EXTINF:-1,itv be
-http://185.62.86.6:8081/hls/itvbe.m3u8
-#EXTINF:-1,e4
-http://185.62.86.6:8081/hls/e4.m3u8
-#EXTINF:-1,5star
-http://185.62.86.6:8081/hls/5star.m3u8
-#EXTINF:-1,spike uk
-http://185.62.86.6:8081/hls/spike.m3u8
-#EXTINF:-1,sony
-http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
-#EXTINF:-1,quest
-http://185.62.86.6:8081/hls/quest.m3u8
-#EXTINF:-1,food network
-http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#EXTINF:-1,challenge
-http://185.62.86.6:8081/hls/challenge.m3u8
-#EXTINF:-1,4seven
-http://185.62.86.6:8081/hls/4seven.m3u8
-#EXTINF:-1,movie4men
-http://185.62.86.6:8081/hls/movies4men.m3u8
-#EXTINF:-1,cbsaction
-http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1,cbsreality
-http://185.62.86.6:8081/hls/cbsreality.m3u8
-#EXTINF:-1,horrorchannel
-http://185.62.86.6:8081/hls/horrorchannel.m3u8
-#EXTINF:-1,yourtv
-http://185.62.86.6:8081/hls/yourtv.m3u8
-#EXTINF:-1,blaze
-http://185.62.86.6:8081/hls/blaze.m3u8
-#EXTINF:-1,4music
-http://185.62.86.6:8081/hls/4music.m3u8
-#EXTINF:-1,travelchannel
-http://185.62.86.6:8081/hls/travelchannel.m3u8
-#EXTINF:-1,cbsdrama
-http://185.62.86.6:8081/hls/cbsdrama.m3u8
-#EXTINF:-1,trytv
-http://185.62.86.6:8081/hls/trutv.m3u8
-#EXTINF:-1,my5
-http://185.62.86.6:8081/hls/my5.m3u8
+#EXTINF:-1,BOOMERANG
+http://192.99.47.130:8000/live/stalker/stalker/421.ts
+#EXTINF:-1,BLOOMBERG
+http://192.99.47.130:8000/live/stalker/stalker/428.ts
 
-#EXTINF:-1,(UK) EUROSPORT
-http://46.249.55.237:4545/play/a00x
-#EXTINF:-1,(UK) ITV2
-http://46.249.55.237:4545/play/a07f
-#EXTINF:-1,(UK) MOVIES4MEN
-http://46.249.55.237:4545/play/a04y
-#EXTINF:-1,(UK) NICKELODEON
-http://46.249.55.237:4545/play/a04j
-#EXTINF:-1,(UK) DISC.TURBO
-http://46.249.55.237:4545/play/a02m
-#EXTINF:-1,(UK) ITV4
-http://46.249.55.237:4545/play/a07g
-#EXTINF:-1,(UK) FOX NEWS
-http://46.249.55.237:4545/play/a016
-#EXTINF:-1,(UK) SKY SCFI/HORROR
-http://46.249.55.237:4545/play/a01s
-#EXTINF:-1,(UK) REALLY
-http://46.249.55.237:4545/play/a0bj
-#EXTINF:-1,(UK) ITV +1
-http://46.249.55.237:4545/play/a07j
-#EXTINF:-1,(UK) NICKTOONS
-http://46.249.55.237:4545/play/a04l
-#EXTINF:-1,(UK) ALIBI
-http://46.249.55.237:4545/play/a0bh
-#EXTINF:-1,(UK) COMEDYCENTRAL
-http://46.249.55.237:4545/play/a0bz
-#EXTINF:-1,(UK) GEO TV
-http://46.249.55.237:4545/play/a06i
-#EXTINF:-1,(UK) TV3
-http://46.249.55.237:4545/play/a03z
-#EXTINF:-1,(UK) TG4
-http://46.249.55.237:4545/play/a08w
-#EXTINF:-1,(UK) NICK JR TOO
-http://46.249.55.237:4545/play/a04h
-#EXTINF:-1,(UK) BBC TWO
-http://46.249.55.237:4545/play/a0c4
-#EXTINF:-1,(UK) SKY SPORTS 3
-http://46.249.55.237:4545/play/a01l
-#EXTINF:-1,(UK) NICK JR+1
-http://46.249.55.237:4545/play/a04i
-#EXTINF:-1,(UK) SKY THRILLER
-http://46.249.55.237:4545/play/a01x
-#EXTINF:-1,(UK) SKY DISNEY
-http://46.249.55.237:4545/play/a01z
-#EXTINF:-1,(UK) SONY SAB
-http://46.249.55.237:4545/play/a06f
-#EXTINF:-1,(UK) DISC.SCIENCE
-http://46.249.55.237:4545/play/a02j
-#EXTINF:-1,(UK) GEO NEWS
-http://46.249.55.237:4545/play/a082
-#EXTINF:-1,(UK) DISCOVERY+1
-http://46.249.55.237:4545/play/a02h
-#EXTINF:-1,(UK) AT THE RACES
-http://46.249.55.237:4545/play/a015
-#EXTINF:-1,(UK) FOX
-http://46.249.55.237:4545/play/a01j
-#EXTINF:-1,(UK) DRAMA
-http://46.249.55.237:4545/play/a0bi
-#EXTINF:-1,(UK) TRAVEL CHANNEL
-http://46.249.55.237:4545/play/a06m
-#EXTINF:-1,(UK) CHELSEA TV
-http://46.249.55.237:4545/play/a005
-#EXTINF:-1,(UK) SKY DRAMAROM
-http://46.249.55.237:4545/play/a01w
-#EXTINF:-1,(UK) MTV MUSIC
-http://46.249.55.237:4545/play/a08e
-#EXTINF:-1,(UK) SKY PREMIERE
-http://46.249.55.237:4545/play/a01r
-#EXTINF:-1,(UK) SKYNWS ARABIA
-http://46.249.55.237:4545/play/a03b
-#EXTINF:-1,(UK) BBC ONE
-http://46.249.55.237:4545/play/a0c3
-#EXTINF:-1,(UK) CARTOONITO
-http://46.249.55.237:4545/play/a0bp
-#EXTINF:-1,(UK) ITVBE
-http://46.249.55.237:4545/play/a07k
-#EXTINF:-1,(UK) HISTORY 2
-http://46.249.55.237:4545/play/a01d
-#EXTINF:-1,(UK) EIR SPORT 1
-http://46.249.55.237:4545/play/a0bq
-#EXTINF:-1,(UK) SETANTA IRELAND
-http://46.249.55.237:4545/play/a04u
-#EXTINF:-1,(UK) BOXNATION
-http://46.249.55.237:4545/play/a06c
-#EXTINF:-1,(UK) SONY MOVIES
-http://46.249.55.237:4545/play/a04z
-#EXTINF:-1,(UK) PREMIER SPORTS
-http://46.249.55.237:4545/play/a04w
-#EXTINF:-1,(UK) TLC
-http://46.249.55.237:4545/play/a02i
-#EXTINF:-1,(UK) EDEN
-http://46.249.55.237:4545/play/a0bc
-#EXTINF:-1,(UK) RT.JR
-http://46.249.55.237:4545/play/a08x
-#EXTINF:-1,(UK) NOLLYWOOD
-http://46.249.55.237:4545/play/a07s
-#EXTINF:-1,(UK) Animal Planet
-http://46.249.55.237:4545/play/a02g
-#EXTINF:-1,(UK) BBC FOUR
-http://46.249.55.237:4545/play/a0c6
-#EXTINF:-1,(UK) ITV 3
-http://46.249.55.237:4545/play/a0cc
-#EXTINF:-1,(UK) ZING
-http://46.249.55.237:4545/play/a088
-#EXTINF:-1,(UK) CBEEBIES
-http://46.249.55.237:4545/play/a0c7
-#EXTINF:-1,(UK) BABYTV
-http://46.249.55.237:4545/play/a039
-#EXTINF:-1,(UK) ZEE PUNJABI
-http://46.249.55.237:4545/play/a0ab
-#EXTINF:-1,(UK) SKY1
-http://46.249.55.237:4545/play/a00a
-#EXTINF:-1,(UK) SKY SELECT
-http://46.249.55.237:4545/play/a01u
-#EXTINF:-1,(UK) SKY SUPERHERO
-http://46.249.55.237:4545/play/a01v
-#EXTINF:-1,(UK) SONY MOVIES+1
-http://46.249.55.237:4545/play/a051
-#EXTINF:-1,(UK) MUTV
-http://46.249.55.237:4545/play/a01a
-#EXTINF:-1,(UK) ARY DIGITAL
-http://46.249.55.237:4545/play/a083
-#EXTINF:-1,(UK) EUROSPORT 2
-http://46.249.55.237:4545/play/a010
-#EXTINF:-1,(UK) GOLD
-http://46.249.55.237:4545/play/a0bd
-#EXTINF:-1,(UK) SKY NEWS
-http://46.249.55.237:4545/play/a00b
-#EXTINF:-1,(UK) SKY ATLANTIC
-http://46.249.55.237:4545/play/a00v
-#EXTINF:-1,(UK) COMEDYCENT+1
-http://46.249.55.237:4545/play/a04m
-#EXTINF:-1,(UK) PICK+1
-http://46.249.55.237:4545/play/a00f
-#EXTINF:-1,(UK) NICK JR PEPPA
-http://46.249.55.237:4545/play/a0c2
-#EXTINF:-1,(UK) HORSE & COUNTRY
-http://46.249.55.237:4545/play/a068
-#EXTINF:-1,(UK) SONY TV
-http://46.249.55.237:4545/play/a06b
-#EXTINF:-1,(UK) NAT GEO+1
-http://46.249.55.237:4545/play/a019
-#EXTINF:-1,(UK) DISCOVERY
-http://46.249.55.237:4545/play/a02f
-#EXTINF:-1,(UK) ETV1
-http://46.249.55.237:4545/play/a0c5
-#EXTINF:-1,(UK) NAT GEO WILD
-http://46.249.55.237:4545/play/a01b
-#EXTINF:-1,(UK) RT
-http://46.249.55.237:4545/play/a069
-#EXTINF:-1,(UK) NICK JR.
-http://46.249.55.237:4545/play/a038
-#EXTINF:-1,(UK) LIFETIME
-http://46.249.55.237:4545/play/a004
-#EXTINF:-1,(UK) HOME
-http://46.249.55.237:4545/play/a0bb
-#EXTINF:-1,(UK) SKY ACTION
-http://46.249.55.237:4545/play/a01p
-#EXTINF:-1,(UK) MOV4MEN+1
-http://46.249.55.237:4545/play/a0ad
-#EXTINF:-1,(UK) SKY SPORTS 2
-http://46.249.55.237:4545/play/a002
-#EXTINF:-1,(UK) TCM
-http://46.249.55.237:4545/play/a012
-#EXTINF:-1,(UK) NAT GEO
-http://46.249.55.237:4545/play/a018
-#EXTINF:-1,(UK) YESTERDAY
-http://46.249.55.237:4545/play/a0be
-#EXTINF:-1,(UK) SKY SHOWCASE
-http://46.249.55.237:4545/play/a03f
-#EXTINF:-1,(UK) EURONEWS
-http://46.249.55.237:4545/play/a0bs
-#EXTINF:-1,(UK) SKY SPORTS 1
-http://46.249.55.237:4545/play/a00i
-#EXTINF:-1,(UK) ZEE CINEMA
-http://46.249.55.237:4545/play/a087
-#EXTINF:-1,(UK) FOX+
-http://46.249.55.237:4545/play/a00y
-#EXTINF:-1,(UK) SONY CHANNEL
-http://46.249.55.237:4545/play/a0ca
-#EXTINF:-1,(UK) HOME & HEALTH
-http://46.249.55.237:4545/play/a02l
-#EXTINF:-1,(UK) COMEDYXTRA+1
-http://46.249.55.237:4545/play/a0c1
-#EXTINF:-1,(UK) SKY SP NEWSHQ
-http://46.249.55.237:4545/play/a00m
-#EXTINF:-1,(UK) NICKELODEON+1
-http://46.249.55.237:4545/play/a035
-#EXTINF:-1,(UK) ITV
-http://46.249.55.237:4545/play/a07i
-#EXTINF:-1,(UK) SKY ARTS
-http://46.249.55.237:4545/play/a03e
-#EXTINF:-1,(UK) SONY SAB
-http://46.249.55.237:4545/play/a0c9
-#EXTINF:-1,(UK) SKY SPORTS F1
-http://46.249.55.237:4545/play/a03c
-#EXTINF:-1,(UK) QUEST
-http://46.249.55.237:4545/play/a02o
-#EXTINF:-1,(UK) COMEDYXTRA
-http://46.249.55.237:4545/play/a0c0
-#EXTINF:-1,(UK) SKY SPORTS MIX
-http://46.249.55.237:4545/play/a0by
-#EXTINF:-1,(UK) CI
-http://46.249.55.237:4545/play/a017
-#EXTINF:-1,(UK) ID
-http://46.249.55.237:4545/play/a02p
-#EXTINF:-1,(UK) RT. ONE
-http://46.249.55.237:4545/play/a08u
-#EXTINF:-1,(UK) HISTORY 1
-http://46.249.55.237:4545/play/a01e
-#EXTINF:-1,(UK) REAL LIVES
-http://46.249.55.237:4545/play/a01f
-#EXTINF:-1,(UK) Sky Sp NewsHQ
-http://46.249.55.237:4545/play/a0cb
-#EXTINF:-1,(UK) SKY FAMILY
-http://46.249.55.237:4545/play/a01t
-#EXTINF:-1,(UK) SKY PREM+1
-http://46.249.55.237:4545/play/a01y
-#EXTINF:-1,(UK) COMEDYXTRA
-http://46.249.55.237:4545/play/a00z
-#EXTINF:-1,(UK) BT SPORT MOSAIC
-http://46.249.55.237:4545/play/a0c8
-#EXTINF:-1,(UK) RACING UK
-http://46.249.55.237:4545/play/a052
-#EXTINF:-1,(UK) SKY2
-http://46.249.55.237:4545/play/a00e
-#EXTINF:-1,(UK) BT SPORT EXTRA 1
-http://46.249.55.237:4545/play/a0bx
-#EXTINF:-1,(UK) COMEDYCENTRAL
-http://46.249.55.237:4545/play/a03g
-#EXTINF:-1,(UK) HISTORY
-http://46.249.55.237:4545/play/a01c
-#EXTINF:-1,(UK) SKY SPORTS 5
-http://46.249.55.237:4545/play/a08n
-#EXTINF:-1,(UK) RT.2
-http://46.249.55.237:4545/play/a08v
-#EXTINF:-1,(UK) DISC.HISTORY
-http://46.249.55.237:4545/play/a02k
-#EXTINF:-1,(UK) SKY COMEDY
-http://46.249.55.237:4545/play/a01q
-#EXTINF:-1,(UK) AAJ TAK
-http://46.249.55.237:4545/play/a06a
-#EXTINF:-1,(UK) ABP NEWS
-http://46.249.55.237:4545/play/a06l
-#EXTINF:-1,(UK) GOOD FOOD
-http://46.249.55.237:4545/play/a0bg
-#EXTINF:-1,(UK) PICK
-http://46.249.55.237:4545/play/a00d
-#EXTINF:-1,(UK) SKY SPORTS 4
-http://46.249.55.237:4545/play/a00s
-#EXTINF:-1,(UK) ZEE TV
-http://46.249.55.237:4545/play/a086
-#EXTINF:-1,(UK) SKY LIVING+1
-http://46.249.55.237:4545/play/a03a
-#EXTINF:-1,(UK) BT SPORT EUROPE
-http://46.249.55.237:4545/play/a043
-#EXTINF:-1,(UK) BT SPORT 3
-http://46.249.55.237:4545/play/a0bu
-#EXTINF:-1,(UK) SKY LIVING
-http://46.249.55.237:4545/play/a003
-#EXTINF:-1,(UK) BT SPORT 1
-http://46.249.55.237:4545/play/a0bw
-#EXTINF:-1,(UK) EIR SPORT 2
-http://46.249.55.237:4545/play/a0br
+#EXTINF:-1,TCM
+http://192.99.47.130:8000/live/stalker/stalker/333.ts
+#EXTINF:-1,SYFY
+http://192.99.47.130:8000/live/stalker/stalker/331.ts
+#EXTINF:-1,SONY MOVIES
+http://192.99.47.130:8000/live/stalker/stalker/332.ts
+#EXTINF:-1,sky living
+http://192.99.47.130:8000/live/stalker/stalker/350.ts
+#EXTINF:-1,real lives
+http://192.99.47.130:8000/live/stalker/stalker/349.ts
+#EXTINF:-1,NICK JR TOO
+http://192.99.47.130:8000/live/stalker/stalker/348.ts
+#EXTINF:-1,NATIONAL WILD OESTE
+http://192.99.47.130:8000/live/stalker/stalker/346.ts
+#EXTINF:-1,national geography OESTE
+http://192.99.47.130:8000/live/stalker/stalker/347.ts
+#EXTINF:-1,MTV ROCKS
+http://192.99.47.130:8000/live/stalker/stalker/345.ts
+#EXTINF:-1,MTV MUSIC
+http://192.99.47.130:8000/live/stalker/stalker/344.ts
+#EXTINF:-1,MTV HITS
+http://192.99.47.130:8000/live/stalker/stalker/343.ts
+#EXTINF:-1,MTV DANCE
+http://192.99.47.130:8000/live/stalker/stalker/342.ts
+#EXTINF:-1,MTV CLASSIC
+http://192.99.47.130:8000/live/stalker/stalker/341.ts
+#EXTINF:-1,MTV BASE
+http://192.99.47.130:8000/live/stalker/stalker/340.ts
+#EXTINF:-1,MOVIES PREMIERS
+http://192.99.47.130:8000/live/stalker/stalker/339.ts
+#EXTINF:-1,MOVIES TRILLER
+http://192.99.47.130:8000/live/stalker/stalker/351.ts
+#EXTINF:-1,MOVIES SYFY
+http://192.99.47.130:8000/live/stalker/stalker/354.ts
+#EXTINF:-1,MOVIES SHOWCASE
+http://192.99.47.130:8000/live/stalker/stalker/352.ts
+#EXTINF:-1,MOVIES SELECT
+http://192.99.47.130:8000/live/stalker/stalker/353.ts
+#EXTINF:-1,MOVIES FAMILY
+http://192.99.47.130:8000/live/stalker/stalker/355.ts
+#EXTINF:-1,MOVIES DISNEY
+http://192.99.47.130:8000/live/stalker/stalker/358.ts
+#EXTINF:-1,MOVIES COMEDY
+http://192.99.47.130:8000/live/stalker/stalker/357.ts
+#EXTINF:-1,MOVIES ACTION
+http://192.99.47.130:8000/live/stalker/stalker/356.ts
+#EXTINF:-1,MOTOR TV
+http://192.99.47.130:8000/live/stalker/stalker/338.ts
+#EXTINF:-1,ID INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/337.ts
+#EXTINF:-1,HOME AND HEALTH
+http://192.99.47.130:8000/live/stalker/stalker/336.ts
+#EXTINF:-1,HEAT TV
+http://192.99.47.130:8000/live/stalker/stalker/334.ts
+#EXTINF:-1,E!
+http://192.99.47.130:8000/live/stalker/stalker/329.ts
+#EXTINF:-1,DISNEY XD
+http://192.99.47.130:8000/live/stalker/stalker/328.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://192.99.47.130:8000/live/stalker/stalker/327.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://192.99.47.130:8000/live/stalker/stalker/326.ts
+#EXTINF:-1,DISCOVERY SCIENCIE
+http://192.99.47.130:8000/live/stalker/stalker/325.ts
+#EXTINF:-1,DISCOVERY HISTORY
+http://192.99.47.130:8000/live/stalker/stalker/324.ts
+#EXTINF:-1,DISCOVERY
+http://192.99.47.130:8000/live/stalker/stalker/323.ts
+#EXTINF:-1,CRIME AND INVESTIGATION
+http://192.99.47.130:8000/live/stalker/stalker/322.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://192.99.47.130:8000/live/stalker/stalker/321.ts
+#EXTINF:-1,CNN INTERNATIONAL
+http://192.99.47.130:8000/live/stalker/stalker/320.ts
+#EXTINF:-1,BT SPORT 3
+http://192.99.47.130:8000/live/stalker/stalker/318.ts
+#EXTINF:-1,BT SPORT 2
+http://192.99.47.130:8000/live/stalker/stalker/317.ts
+#EXTINF:-1,BT SPORT
+http://192.99.47.130:8000/live/stalker/stalker/316.ts
+#EXTINF:-1,BT ESPN
+http://192.99.47.130:8000/live/stalker/stalker/319.ts
+#EXTINF:-1,BOXNATION
+http://192.99.47.130:8000/live/stalker/stalker/315.ts
+#EXTINF:-1,BABY TV
+http://192.99.47.130:8000/live/stalker/stalker/314.ts
+#EXTINF:-1,ANIMAL PLANET OESTE
+http://192.99.47.130:8000/live/stalker/stalker/313.ts
+#EXTINF:-1,ABC NEWS
+http://192.99.47.130:8000/live/stalker/stalker/665.ts
+#EXTINF:-1,FOX NEWS
+http://192.99.47.130:8000/live/stalker/stalker/664.ts
+#EXTINF:-1,golf
+http://192.99.47.130:8000/live/stalker/stalker/671.ts
