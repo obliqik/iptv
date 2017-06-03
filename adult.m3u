@@ -1,4 +1,17 @@
-#EXTM3U
+#EXTINF:-1,FrenchLover
+http://89.23.140.237:81/udp/239.1.13.4:1234
+#EXTINF:-1,Hustler HD
+http://185.3.17.218:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://178.49.179.115:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://178.49.117.101:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://178.49.90.28:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler HD
+http://178.49.58.177:81/udp/239.1.6.35:1234
+#EXTINF:-1,FrenchLover TV
+http://176.100.82.93:48229/udp/239.1.1.205:1234
 #EXTINF:-1,DorHD
 http://62.210.115.122:9099/play/a00n
 #EXTINF:-1,Red HD
