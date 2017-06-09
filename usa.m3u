@@ -1,10 +1,11 @@
 
+
+#EXTINF:0,Cinemundo
+http://80.90.41.118:6600/play/a008
+#EXTINF:0,Hollywood
+http://80.90.41.118:6600/play/a00b
 #EXTINF:0,Hollywood HD
 http://178.192.242.14:9000/play/a088
-
-
-
-
 #EXTINF:0,TVSØries HD
 http://178.192.242.14:9000/play/a00s
 #EXTINF:0,RTP Memðria
