@@ -1,3 +1,15 @@
+#EXTINF:-1,Film4
+http://195.189.203.18:8080/play/a01c
+#EXTINF:-1,4Music
+http://195.189.203.18:8080/play/a01f
+#EXTINF:-1,Channel 4
+http://195.189.203.18:8080/play/a01b
+#EXTINF:-1,Film4 +1
+http://195.189.203.18:8080/play/a01d
+#EXTINF:-1,More4 +1
+http://195.189.203.18:8080/play/a01g
+#EXTINF:-1,c4 l
+http://195.189.203.18:8080/play/a01e
 
 #EXTINF:-1,AnimalPlanet
 http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
