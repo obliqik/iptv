@@ -1,4 +1,6 @@
 
+#EXTINF:-1,A&E
+http://69.158.52.202:8000/play/a02s
 
 #EXTINF:0,Cinemundo
 http://80.90.41.118:6600/play/a008
@@ -63,8 +65,7 @@ http://69.158.52.202:8000/play/a00c
 http://69.158.52.202:8000/play/a01z
 #EXTINF:-1,CBC-T
 http://69.158.52.202:8000/play/a01v
-#EXTINF:-1,A&E
-http://69.158.52.202:8000/play/a02s
+
 #EXTINF:-1,SNETP
 http://69.158.52.202:8000/play/a02y
 #EXTINF:-1,FMLY
