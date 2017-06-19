@@ -1,3 +1,60 @@
+#EXTINF:-1 tvg-logo="https://images.beinsports.com/sEOewVPCCM4t3TpKtrjk9-DZn28=/670x424/smart/421730-News.png",Bein Sport  
+http://best4u.biz:8000/live/chaaben528/chaaben528/299.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKqIfmpzpM0/VxtgVdwFwnI/AAAAAAAAACc/rBKHyemJbrQZ6g69d1xn1Us9xYuAdcPigCKgB/s320/bein-sports1.jpg",Bein Sport HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/300.ts
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png",Bein Sport 1 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/1.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-E6vo5enfEqE/VgxC6YIC0RI/AAAAAAAAAD8/oEyOkEfUznI/s1600/b2.png",Bein Sport 2 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/307.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FELvPSQ6RpM/VqjlOFKu91I/AAAAAAAAGCs/3lumVXv4rfY/s1600/yalla-shoot-bein-sport-HD.png",Bein Sport 3 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/308.ts
+
+#EXTINF:-1 tvg-logo="http://metalkettle.co/logos/logos1/BeIN%20Sports%204%20HD.png",Bein Sport 4 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/309.ts
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png",Bein Sport 5 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/310.ts
+
+#EXTINF:-1 tvg-logo="http://www.itvhd.live/wp-content/uploads/2017/04/bein-sports-6-hd.jpg",Bein Sport 6 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/311.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png",Bein Sport 7 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/312.ts
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png",Bein Sport 8 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/313.ts
+
+#EXTINF:-1 tvg-logo="http://www.itvhd.live/wp-content/uploads/2017/04/bein-sports-9-hd.jpg",Bein Sport 9 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/314.ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png",Bein Sport 10 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/301.ts
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png",Bein Sport 11 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/302.ts
+
+#EXTINF:-1 tvg-logo="http://metalkettle.co/logos/logos1/BeIN%20Sports%2012%20HD.png",Bein Sport 12 HD 
+http://best4u.biz:8000/live/chaaben528/chaaben528/303.ts
+
+
+#EXTINF:-1,Extra_Sports ///
+http://best4u.biz:8000/live/chaaben528/chaaben528/1276.ts
+
+
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/accounts/00000000003b573c/e162f250-46bd-4c56-a355-e5dd2b9829cb.jpg", Sportal TV HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/85297.jpg", TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://yannzimmer.sponseasy.com/img/press/LogoAutosport_Big.jpg", AutoSport TV - br
+mms://100automoto.tv/100livesport
 #EXTINF:-1,SRB: ARENA SPORT 1
 http://iptvmedia6.dyndns.tv:8000/live/MilOsSkYp217/4blqaGnJKJ/233.ts
 #EXTINF:-1,SRB: ARENA SPORT 2
