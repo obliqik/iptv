@@ -1,5 +1,13 @@
 
+
+#EXTINF:-1,Nick Junior
+http://37.26.105.7:8003/play/a00o
 #EXTINF:-1,Nickelodeon
+http://37.26.105.7:8003/play/a00t
+#EXTINF:-1,Nicktoons
+http://37.26.105.7:8003/play/a00s
+#EXTINF:-1,Nick +1
+http://37.26.105.7:8003/play/a00r #EXTINF:-1,Nickelodeon
 http://185.95.109.144:8125/play/a00j
 #EXTINF:-1,Nicktoons
 http://185.95.109.144:8125/play/a00i
