@@ -1,28 +1,22 @@
 #EXTM3U
 #EXTINF:7200,True Movies+1
 http://212.231.80.4:3000/play/015
-
 #EXTINF:0,True Ent +1
 http://212.231.80.4:3000/play/a00y
-#EXTINF:0,009 tru TV
+#EXTINF:0,TruTV
 http://212.231.80.4:3000/play/009
-
-#EXTINF:0,008 True Movies
+#EXTINF:0,True Movies
 http://212.231.80.4:3000/play/008
-#EXTINF:0,013 True Ent
+#EXTINF:0,True Ent
 http://212.231.80.4:3000/play/013
-
-#EXTINF:0, TNT HD
+#EXTINF:0,TNT HD
 http://212.231.80.4:4444/play/tnthd
-#EXTINF:0, TNT
+#EXTINF:0,TNT
 http://212.231.80.4:4444/play/tnt
-
-#EXTINF:0, NICK JR
+#EXTINF:0,NICK JR
 http://212.231.80.4:4444/play/nickjr
-#EXTINF:0, HOLLYWOODHD
+#EXTINF:0,HOLLYWOODHD
 http://212.231.80.4:4444/play/hollywoodhd
-
-
 #EXTINF:0, FOX LIFE
 http://212.231.80.4:4444/play/foxlife
 #EXTINF:0, TCM
