@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:7200,015 True Movies+1
+#EXTINF:7200,True Movies+1
 http://212.231.80.4:3000/play/015
 
 #EXTINF:0,True Ent +1
