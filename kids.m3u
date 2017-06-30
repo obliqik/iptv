@@ -1,5 +1,11 @@
 
 
+#EXTINF:-1,Disney Channel
+http://95.148.62.129:9000/play/a01h
+#EXTINF:-1,Disney XD
+http://95.148.62.129:9000/play/a01g
+#EXTINF:-1,Disney Junior
+http://95.148.62.129:9000/play/a01i
 #EXTINF:-1,Nick Junior
 http://37.26.105.7:8003/play/a00o
 #EXTINF:-1,Nickelodeon
