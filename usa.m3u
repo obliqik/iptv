@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0,Movies 24
-http://185.53.162.157:8008/play/a00u
-#EXTINF:0,Universal
-http://185.53.162.157:8008/play/a00t
-#EXTINF:0,Universal (SVU)
-http://185.53.162.157:8008/play/a00p
-#EXTINF:0,Syfy
-http://185.53.162.157:8008/play/a00r
-#EXTINF:3600,Bike
-http://185.53.162.157:8008/play/a00v
-#EXTINF:0,E!
-http://185.53.162.157:8008/play/a00o
-#EXTINF:1800,E!
-http://185.53.162.157:8008/play/a00s
-#EXTINF:0,Boxing
-http://185.53.162.157:8008/play/a019
 #EXTINF:7200,True Movies+1
 http://212.231.80.4:3000/play/015
 #EXTINF:0,True Ent +1
