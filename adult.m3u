@@ -1,18 +1,38 @@
 #EXTM3U
-#EXTINF:0,BRAZZERS TV
-http://89.38.8.131:39489
-#EXTINF:0,BSX 24
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:0,But Go
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
-#EXTINF:0,But Go HD
-http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
-#EXTINF:0,Claro Adulto 18
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
-#EXTINF:0,Frenchlovers TV
-http://91.211.143.214:3333/play/a006
-#EXTINF:0,Girls
-http://123.108.164.70/etv2sb/phd10501/playlist.m3u8
+#EXTINF:0, FRENCHLOVER
+http://213.59.140.181:9999/play/FRENCHLOVER
+
+#EXTINF:0, Playboy_TV
+http://213.59.140.181:9999/play/Playboy_TV
+
+#EXTINF:0, TV_XXI
+http://213.59.140.181:9999/play/TV_XXI
+
+#EXTINF:0, Passion_XXX
+http://213.59.140.181:9999/play/Passion_XXX
+
+#EXTINF:0, O-la-la
+http://213.59.140.181:9999/play/O-la-la
+
+#EXTINF:0, Brazzers
+http://213.59.140.181:9999/play/Brazzers
+
+#EXTINF:0, Private
+http://213.59.140.181:9999/play/Private
+
+#EXTINF:0, Penthouse_HD_1
+http://213.59.140.181:9999/play/Penthouse_HD_1
+#EXTINF:0, Penthouse_HD_2
+http://213.59.140.181:9999/play/Penthouse_HD_2
+
+#EXTINF:0, Dorcel
+http://213.59.140.181:9999/play/Dorcel
+
+#EXTINF:0, Hustler_HD
+http://213.59.140.181:9999/play/Hustler_HD
+
+#EXTINF:0, Redlight_HD
+http://213.59.140.181:9999/play/Redlight_HD
 #EXTINF:0,Honey
 http://edge1.everyon.tv:1935/etv1sb/pld10928/playlist.m3u8
 #EXTINF:0,Hot
