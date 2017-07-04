@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title=”Streams”,NBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts
-#EXTINF:-1 group-title=”Streams”,AMC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/3.mpegts
-#EXTINF:-1 group-title=”Streams”,ABC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/4.mpegts
 #EXTINF:-1 group-title=”Streams”,E!
 http://192.99.66.208:9090/load/wk2bl7jh3cdk/5.mpegts
 #EXTINF:-1 group-title=”Streams”,Bravo
