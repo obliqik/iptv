@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:0,Zee Cinema
+http://37.26.105.12:8000/play/a00x
+#EXTINF:0,Zing
+http://37.26.105.12:8000/play/a00w
+#EXTINF:0,Liverpool FC TV
+http://37.26.105.12:8000/play/a00v
+#EXTINF:0,Sky Thriller HD
+http://37.26.105.12:8001/play/a00c
+#EXTINF:0,Sky Action HD
+http://37.26.105.12:8001/play/a00d
+#EXTINF:0,National GeographicHD
+http://37.26.105.12:8002/play/a008
+#EXTINF:0,Sky SciFi & Hor HD
+http://37.26.105.12:8002/play/a009
+#EXTINF:0,Sky Brits HD
+http://37.26.105.12:8002/play/a00a
+#EXTINF:0,Sky Living HD
+http://37.26.105.12:8003/play/a00l
+#EXTINF:0,MTV Live HD
+http://37.26.105.12:8003/play/a00n
+#EXTINF:0,FOX HD
+http://37.26.105.12:8003/play/a00m
+
 #EXTINF:7200,True Movies+1
 http://212.231.80.4:3000/play/015
 #EXTINF:0,True Ent +1
