@@ -26,6 +26,12 @@ http://thepk.co:2095/live/denzuka/zukabumi13/340.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/173.m3u8
 #EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO FAMILY" tvg-logo="http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png/medium" group-title="USA TV",HBO FAMILY
 http://thepk.co:2095/live/denzuka/zukabumi13/172.m3u8
+#EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png/medium" group-title="USA TV",CINEMAX
+http://thepk.co:2095/live/denzuka/zukabumi13/350.m3u8
+#EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX MOREMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/sppyyt1467823495.png" group-title="USA TV",CINEMAX MOREMAX
+http://thepk.co:2095/live/denzuka/zukabumi13/446.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL HD" tvg-name="UNIVERSAL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png/medium" group-title="USA TV",UNIVERSAL HD
+http://thepk.co:2095/live/denzuka/zukabumi13/1294.m3u8
 #EXTINF:-1 tvg-id="Sky Movies Action" tvg-name="SKY CINEMA ACTION" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-ACTION.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA ACTION
 http://thepk.co:2095/live/denzuka/zukabumi13/582.m3u8
 #EXTINF:-1 tvg-id="Sky Movies Comedy" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-COMEDY.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA COMEDY
@@ -56,11 +62,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1104.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/1107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="LATINO / SPANISH TV",FOX MOVIES
 http://thepk.co:2095/live/denzuka/zukabumi13/1103.m3u8
-#EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png/medium" group-title="USA TV",CINEMAX
-http://thepk.co:2095/live/denzuka/zukabumi13/350.m3u8
-#EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX MOREMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/sppyyt1467823495.png" group-title="USA TV",CINEMAX MOREMAX
-http://thepk.co:2095/live/denzuka/zukabumi13/446.m3u8
-#EXTINF:-1 tvg-id="VICELAND" tvg-name="UNIVERSAL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png/medium" group-title="USA TV",UNIVERSAL HD
-http://thepk.co:2095/live/denzuka/zukabumi13/1294.m3u8
+
 
 
