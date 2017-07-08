@@ -1,7 +1,0 @@
-
-#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://i.imgur.com/9LtjkGW.jpg” group-title=”USA”,Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://channelpear.com/images/media/5249.jpg” group-title=”USA”,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg” group-title=”USA”,Pac-12 Washington
-http://xrxs.net/video/live-p12wash-2328.m3u8
