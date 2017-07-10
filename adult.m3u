@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" group-title="Adultos", JASMIN.TV HD
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1 group-title="Adultos", Miami TV HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg" group-title="Adultos", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/babestation24.gif" group-title="Adultos", BS24 Live
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,  Brazzers
 http://193.8.246.77:8006/play/11709216
 
