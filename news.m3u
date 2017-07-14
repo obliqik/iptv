@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" group-title="USA LOCAL",CBS 47 (Jacksonville)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
@@ -43,8 +45,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8?b=300,500-2500#preview-http://abclive.abcnews.com/i/abc_live5@136331/master.m3u8?b=500
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8?b=300,500-2500#preview-http://abclive.abcnews.com/i/abc_live3@136329/master.m3u8?b=500
-#EXTINF:-1, Aljazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
 #EXTINF:-1,EXTRA EVENTS
 http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
 #EXTINF:0,[USA]—Boston City TV
