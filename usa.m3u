@@ -2,38 +2,110 @@
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
-#EXTINF:-1,HBO
-http://183.88.212.205:8010/play/a00m
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Thai",HBO HD
 http://183.88.212.205:8010/play/a00u
-#EXTINF:-1,RED BY HBO
+#EXTINF:-1 group-title="Thai",HBO
+http://183.88.212.205:8010/play/a00m
+#EXTINF:-1 group-title="Thai",RED BY HBO
 http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,FOX MOVIES
-http://183.88.212.205:8010/play/a01l
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
-#EXTINF:-1,STAR WORLD
-http://183.88.212.205:8010/play/a021
-#EXTINF:-1,MTV ASIA
-http://183.88.212.205:8010/play/a01t
-#EXTINF:-1,MTV LIVE HD
-http://183.88.212.205:8010/play/a00s
-#EXTINF:-1,CHANNEL V
-http://183.88.212.205:8010/play/a01p
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Thai",AXN
 http://183.88.212.205:8010/play/a00i
-#EXTINF:-1,ANIMAX
-http://183.88.212.205:8010/play/a00h
-#EXTINF:-1,CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,DISNEY CHANNEL
-http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1 group-title="Thai",CINEMAX
+http://183.88.212.205:8010/play/a00n
+#EXTINF:-1 group-title="Thai",WORLD MOVIES
+http://183.88.212.205:8010/play/a01k
+#EXTINF:-1 group-title="Thai",SKYNET MOVIES HD
+http://183.88.212.205:8010/play/a00v
+#EXTINF:-1 group-title="Thai",MYANMAR MOVIES
+http://183.88.212.205:8010/play/a01h
+#EXTINF:-1 group-title="Thai",ZEE CINEMA ME
+http://183.88.212.205:8010/play/a01n
+#EXTINF:-1 group-title="Thai",FOX ACTION MOVIES HD
+http://183.88.212.205:8010/play/a010
+#EXTINF:-1 group-title="Thai",WORLD DRAMA
+http://183.88.212.205:8010/play/a01x
+#EXTINF:-1 group-title="Thai",FOX MOVIES PREMIUM
+http://183.88.212.205:8010/play/a01l
+#EXTINF:-1 group-title="Thai",STAR CHINESE MOVIES
+http://183.88.212.205:8010/play/a02e
+#EXTINF:-1 group-title="Thai",ASIAN MOVIES
+http://183.88.212.205:8010/play/a01j
+#EXTINF:-1 group-title="Thai",FOX CRIME
+http://183.88.212.205:8010/play/a020
+#EXTINF:-1 group-title="Thai",FOX FAMILY MOVIES
+http://183.88.212.205:8010/play/a01m
+#EXTINF:-1 group-title="Thai",NGC
+http://183.88.212.205:8010/play/a02x
+#EXTINF:-1 group-title="Thai",NGC WILD
+http://183.88.212.205:8010/play/a02y
+#EXTINF:-1 group-title="Thai",NAT GEO PEOPLE
+http://183.88.212.205:8010/play/a02z
+#EXTINF:-1 group-title="Thai",DISCOVERY
+http://183.88.212.205:8010/play/a031
+#EXTINF:-1 group-title="Thai",DISCOVERY HD WORLD
+http://183.88.212.205:8010/play/a00t
+#EXTINF:-1 group-title="Thai",DISCOVERY SCIENCE
+http://183.88.212.205:8010/play/a034
+#EXTINF:-1 group-title="Thai",DISCOVERY TLC
+http://183.88.212.205:8010/play/a032
+#EXTINF:-1 group-title="Thai",ANIMAL PLANET
+http://183.88.212.205:8010/play/a030
+#EXTINF:-1 group-title="Thai",OUTDOOR CHANNEL
+http://183.88.212.205:8010/play/a03d
+#EXTINF:-1 group-title="Thai",BBC EARTH
+http://183.88.212.205:8010/play/a03e
+#EXTINF:-1 group-title="Thai",DIVA UNIVERSAL
+http://183.88.212.205:8010/play/a03n
+#EXTINF:-1 group-title="Thai",FYI 
+http://183.88.212.205:8010/play/a00k
+#EXTINF:-1 group-title="Thai",CI
+http://183.88.212.205:8010/play/a00j
+#EXTINF:-1 group-title="Thai",CCTV 9
+http://183.88.212.205:8010/play/a02b
+#EXTINF:-1 group-title="Thai",DMAX
+http://183.88.212.205:8010/play/a035
+#EXTINF:-1 group-title="Thai",HISTORY HD
+http://183.88.212.205:8010/play/a00y
+#EXTINF:-1 group-title="Thai",E!
+http://183.88.212.205:8010/play/a03o
+#EXTINF:-1 group-title="Thai",BBC WORLD NEWS
+http://183.88.212.205:8010/play/a03g
+#EXTINF:-1 group-title="Thai",CNN
+http://183.88.212.205:8010/play/a00l
+#EXTINF:-1 group-title="Thai",SKY NEWS
+http://183.88.212.205:8010/play/a00e
+#EXTINF:-1 group-title="Thai",CNBC
+http://183.88.212.205:8010/play/a02c
+#EXTINF:-1 group-title="Thai",FRANCE 24
+http://183.88.212.205:8010/play/a02h
+#EXTINF:-1 group-title="Thai",NHK WORLD TV
+http://183.88.212.205:8010/play/a028
+#EXTINF:-1 group-title="Thai",NHK WORLD PREMIUM
+http://183.88.212.205:8010/play/a027
+#EXTINF:-1 group-title="Thai",KBS WORLD
+http://183.88.212.205:8010/play/a025
+#EXTINF:-1 group-title="Thai",CCTV 4
+http://183.88.212.205:8010/play/a02a
+#EXTINF:-1 group-title="Thai",STAR WORLD
+http://183.88.212.205:8010/play/a021
+#EXTINF:-1 group-title="Thai",PHOENIX INFO NEWS
+http://183.88.212.205:8010/play/a02i
+#EXTINF:-1 group-title="Thai",BLOOMBERG
+http://183.88.212.205:8010/play/a02d
+#EXTINF:-1 group-title="Thai",DISNEY JUNIOR ASIA
 http://183.88.212.205:8010/play/a02u
+#EXTINF:-1 group-title="Thai",CARTOON NETWORK
+http://183.88.212.205:8010/play/a01b
+#EXTINF:-1 group-title="Thai",SKYNET CARTOON
+http://183.88.212.205:8010/play/a01d
+#EXTINF:-1 group-title="Thai",ANIMAX
+http://183.88.212.205:8010/play/a00h
+#EXTINF:-1 group-title="Thai",NICKELODEON
+http://183.88.212.205:8010/play/a01f
+#EXTINF:-1 group-title="Thai",DISNEY CHANNEL ASIA
+http://183.88.212.205:8010/play/a02t
+#EXTINF:-1 group-title="Thai",DISNEY XD
+http://183.88.212.205:8010/play/a00x
 
 #EXTINF:-1,spike uk
 http://185.62.86.6:8081/hls/spike.m3u8
