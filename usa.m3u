@@ -1,8 +1,7 @@
 #EXTINF:-1,Hollywood
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
-#EXTINF:-1,ANIMAX
-http://183.88.212.205:8010/play/a00h
+
 #EXTINF:-1,HBO
 http://183.88.212.205:8010/play/a00m
 #EXTINF:-1,HBO HD
@@ -27,6 +26,8 @@ http://183.88.212.205:8010/play/a00s
 http://183.88.212.205:8010/play/a01p
 #EXTINF:-1,AXN
 http://183.88.212.205:8010/play/a00i
+#EXTINF:-1,ANIMAX
+http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,CARTOON NETWORK
 http://183.88.212.205:8010/play/a01b
 #EXTINF:-1,DISNEY CHANNEL
