@@ -1,5 +1,3 @@
-#EXTINF:-1,Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://livetvhd.iptvpro.biz:8000/live/4399778000/4399778000/1447.ts
 
 #EXTINF:-1,Hollywood
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
