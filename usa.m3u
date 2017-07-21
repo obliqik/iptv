@@ -9,97 +9,29 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
-#EXTINF:-1,HBO HD
-http://183.88.212.205:8010/play/a00u
-#EXTINF:-1,HBO
-http://183.88.212.205:8010/play/a00m
-#EXTINF:-1,RED BY HBO
-http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,WORLD MOVIES
-http://183.88.212.205:8010/play/a01k
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
-#EXTINF:-1,WORLD DRAMA
-http://183.88.212.205:8010/play/a01x
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l
-#EXTINF:-1,FOX CRIME
-http://183.88.212.205:8010/play/a020
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
-#EXTINF:-1,NGC
-http://183.88.212.205:8010/play/a02x
-#EXTINF:-1,NGC WILD
-http://183.88.212.205:8010/play/a02y
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,DISCOVERY
-http://183.88.212.205:8010/play/a031
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034
-#EXTINF:-1,DISCOVERY TLC
-http://183.88.212.205:8010/play/a032
-#EXTINF:-1,ANIMAL PLANET
-http://183.88.212.205:8010/play/a030
-
-#EXTINF:-1,HISTORY HD
-http://183.88.212.205:8010/play/a00y
-#EXTINF:-1,E!
-http://183.88.212.205:8010/play/a03o
-#EXTINF:-1,BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g
-#EXTINF:-1,CNN
-http://183.88.212.205:8010/play/a00l
-#EXTINF:-1,SKY NEWS
-http://183.88.212.205:8010/play/a00e
-#EXTINF:-1,CNBC
-http://183.88.212.205:8010/play/a02c
-#EXTINF:-1,BLOOMBERG
-http://183.88.212.205:8010/play/a02d
-#EXTINF:-1,DISNEY JUNIOR ASIA
-http://183.88.212.205:8010/play/a02u
-#EXTINF:-1,CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,SKYNET CARTOON
-http://183.88.212.205:8010/play/a01d
-#EXTINF:-1,NICKELODEON
-http://183.88.212.205:8010/play/a01f
-#EXTINF:-1,DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,DISNEY XD
-http://183.88.212.205:8010/play/a00x
-
-
-
-#EXTINF:-1,spike uk
+#EXTINF:-1,Spike
 http://185.62.86.6:8081/hls/spike.m3u8
-#EXTINF:-1,sony
+#EXTINF:-1,Sony
 http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
-#EXTINF:-1,quest
+#EXTINF:-1,Quest
 http://185.62.86.6:8081/hls/quest.m3u8
-#EXTINF:-1,food network
+#EXTINF:-1,Food network
 http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#EXTINF:-1,challenge
+#EXTINF:-1,Challenge
 http://185.62.86.6:8081/hls/challenge.m3u8
 #EXTINF:-1,4seven
 http://185.62.86.6:8081/hls/4seven.m3u8
-#EXTINF:-1,movie4men
+#EXTINF:-1,Movie4men
 http://185.62.86.6:8081/hls/movies4men.m3u8
-#EXTINF:-1,cbsaction
+#EXTINF:-1,CBS Action
 http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1,cbsreality
+#EXTINF:-1,CBS Reality
 http://185.62.86.6:8081/hls/cbsreality.m3u8
 #EXTINF:-1,horrorchannel
 http://185.62.86.6:8081/hls/horrorchannel.m3u8
 #EXTINF:-1,yourtv
 http://185.62.86.6:8081/hls/yourtv.m3u8
-#EXTINF:-1,blaze
+#EXTINF:-1,Blaze
 http://185.62.86.6:8081/hls/blaze.m3u8
 #EXTINF:-1,4music
 http://185.62.86.6:8081/hls/4music.m3u8
