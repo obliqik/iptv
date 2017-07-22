@@ -1,4 +1,7 @@
 
+#EXTINF:-1,Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/13572.ts
+
 #EXTINF:-1,Hollywood
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
