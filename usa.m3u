@@ -1,9 +1,16 @@
 
 #EXTINF:-1,Universal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8057.ts
-
+#EXTINF:0,Universal HD
+http://185.22.78.72:9004/play/a037
 #EXTINF:-1,Hollywood
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:7200,Movies 24
+http://185.22.78.72:9004/play/a03b
+#EXTINF:0,Syfy
+http://185.22.78.72:9004/play/a039
+
 
 #EXTINF:-1,Jackie Chan
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
