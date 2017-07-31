@@ -17,6 +17,21 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 #EXTINF:-1,Tom And Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
+#EXTINF:-1,HBO
+http://183.88.212.205:8010/play/a00m
+#EXTINF:-1,HBO HD
+http://183.88.212.205:8010/play/a00u
+#EXTINF:-1,RED BY HBO
+http://183.88.212.205:8010/play/a03c
+#EXTINF:-1,CINEMAX
+http://183.88.212.205:8010/play/a00n
+#EXTINF:-1,FOX MOVIES
+http://183.88.212.205:8010/play/a01l
+#EXTINF:-1,FOX ACTION MOVIES HD
+http://183.88.212.205:8010/play/a010
+#EXTINF:-1,FOX FAMILY MOVIES
+http://183.88.212.205:8010/play/a01m
+
 #EXTINF:-1,Spike
 http://185.62.86.6:8081/hls/spike.m3u8
 #EXTINF:-1,Sony
