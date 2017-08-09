@@ -7,6 +7,14 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sig
 
 #EXTINF:7200,Movies 24
 http://185.22.78.72:9004/play/a03b
+
+#EXTINF:-1,ITV4
+http://37.152.128.66:5002/play/a00a
+#EXTINF:-1,ITV4+1
+http://37.152.128.66:5002/play/a00c
+#EXTINF:-1,ITV2
+http://37.152.128.66:5002/play/a009
+
 #EXTINF:0,Syfy
 http://185.22.78.72:9004/play/a039
 
