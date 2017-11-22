@@ -1,6 +1,148 @@
-<item>
-<title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.ndasat.com:88/live/559309668031118/559309668031118/1960.ts</link>
-<thumbnail>https://www.academy.ca/wp-content/uploads/2017/02/l_just-for-laughs@2x.png</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
-</item>
+#EXTM3U
+#EXTINF:-1,Universal+1
+http://93.158.220.163:2000/play/a020
+#EXTINF:-1,Universal
+http://93.158.220.163:2000/play/a024
+#EXTINF:-1,Syfy
+http://93.158.220.163:2000/play/a023
+#EXTINF:-1,CITV UK
+http://93.158.220.163:2000/play/a02b
+#EXTINF:-1,More 4
+http://93.158.220.163:2000/play/a02p
+#EXTINF:-1,51125
+http://93.158.220.163:2000/play/a01w
+#EXTINF:-1,eir Sport 2
+http://93.158.220.163:2000/play/a01v
+#EXTINF:-1,TLC+1
+http://93.158.220.163:2000/play/a012
+#EXTINF:-1,Sony Movies
+http://93.158.220.163:2000/play/a01p
+#EXTINF:-1,Disc.History+1
+http://93.158.220.163:2000/play/a010
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02q
+#EXTINF:-1,Peace TV Urdu
+http://93.158.220.163:2000/play/a01t
+#EXTINF:-1,Disc.Sci+1
+http://93.158.220.163:2000/play/a00x
+#EXTINF:-1,Tiny Pop +1
+http://93.158.220.163:2000/play/a037
+#EXTINF:-1,E!
+http://93.158.220.163:2000/play/a021
+#EXTINF:-1,Movies24+
+http://93.158.220.163:2000/play/a026
+#EXTINF:-1,movies4men
+http://93.158.220.163:2000/play/a01o
+#EXTINF:-1,E! +1
+http://93.158.220.163:2000/play/a022
+#EXTINF:-1,HomeHealth+1
+http://93.158.220.163:2000/play/a013
+#EXTINF:-1,ID+1
+http://93.158.220.163:2000/play/a03h
+#EXTINF:-1,Bike
+http://93.158.220.163:2000/play/a028
+#EXTINF:-1,BBC Two Wales
+http://93.158.220.163:2000/play/a02x
+#EXTINF:-1,ITV 4 +1
+http://93.158.220.163:2000/play/a02d
+#EXTINF:-1,Channel 4 +1
+http://93.158.220.163:2000/play/a02o
+#EXTINF:-1,Racing UK
+http://93.158.220.163:2000/play/a01s
+#EXTINF:-1,Sony Movies+1
+http://93.158.220.163:2000/play/a01r
+#EXTINF:-1,POP Max +1
+http://93.158.220.163:2000/play/a03a
+#EXTINF:-1,ITVi Stream 44
+http://93.158.220.163:2000/play/a029
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02k
+#EXTINF:-1,eir Sport 1
+http://93.158.220.163:2000/play/a01u
+#EXTINF:-1,Channel 4 London
+http://93.158.220.163:2000/play/a02f
+#EXTINF:-1,51126
+http://93.158.220.163:2000/play/a01x
+#EXTINF:-1,BBC One East
+http://93.158.220.163:2000/play/a02u
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02g
+#EXTINF:-1,mov4men+1
+http://93.158.220.163:2000/play/a01q
+
+#EXTINF:-1,e4
+http://93.158.220.163:2000/play/a01i
+#EXTINF:-1,ITV 4
+http://93.158.220.163:2000/play/a02c
+#EXTINF:-1,True Ent +1
+http://93.158.220.163:2000/play/a03e
+#EXTINF:-1,True Ent
+http://93.158.220.163:2000/play/a03d
+#EXTINF:-1,POP+1
+http://93.158.220.163:2000/play/a03c
+#EXTINF:-1,Discovery Shed
+http://93.158.220.163:2000/play/a011
+#EXTINF:-1,Chart Show TV
+http://93.158.220.163:2000/play/a03b
+#EXTINF:-1,The Vault
+http://93.158.220.163:2000/play/a039
+#EXTINF:-1,BBC One Yorkshire & Lincolnshire
+http://93.158.220.163:2000/play/a02s
+#EXTINF:-1,Premier Sports
+http://93.158.220.163:2000/play/a01m
+#EXTINF:-1,Starz TV
+http://93.158.220.163:2000/play/a035
+#EXTINF:-1,More4 +1
+http://93.158.220.163:2000/play/a02i
+#EXTINF:-1,ITV 1 London
+http://93.158.220.163:2000/play/a02a
+#EXTINF:-1,POP
+http://93.158.220.163:2000/play/a036
+#EXTINF:-1,Tiny Pop
+http://93.158.220.163:2000/play/a034
+#EXTINF:-1,BBC One Wales
+http://93.158.220.163:2000/play/a02w
+#EXTINF:-1,Scuzz
+http://93.158.220.163:2000/play/a030
+#EXTINF:-1,ID
+http://93.158.220.163:2000/play/a00v
+#EXTINF:-1,True Christmas
+http://93.158.220.163:2000/play/a032
+#EXTINF:-1,ITV Be
+http://93.158.220.163:2000/play/a02e
+#EXTINF:-1,Chartshow Hits
+http://93.158.220.163:2000/play/a031
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a01h
+#EXTINF:-1,4music
+http://93.158.220.163:2000/play/a02j
+#EXTINF:-1,DMAX
+http://93.158.220.163:2000/play/a00y
+#EXTINF:-1,TrueChrstms+1
+http://93.158.220.163:2000/play/a033
+#EXTINF:-1,E4 +1
+http://93.158.220.163:2000/play/a02n
+#EXTINF:-1,TLC+2
+http://93.158.220.163:2000/play/a014
+#EXTINF:-1,Syfy +1
+http://93.158.220.163:2000/play/a027
+#EXTINF:-1,tru TV
+http://93.158.220.163:2000/play/a02z
+#EXTINF:-1,truTV +1
+http://93.158.220.163:2000/play/a02y
+#EXTINF:-1,POP Max
+http://93.158.220.163:2000/play/a038
+#EXTINF:-1,e4
+http://93.158.220.163:2000/play/a02l
+#EXTINF:-1,Animal Plnt+1
+http://93.158.220.163:2000/play/a00w
+#EXTINF:-1,BBC Parliament
+http://93.158.220.163:2000/play/a02v
+#EXTINF:-1,BBC One West Midlands
+http://93.158.220.163:2000/play/a02r
+#EXTINF:-1,Movies 24
+http://93.158.220.163:2000/play/a025
+#EXTINF:-1,Film4 +1
+http://93.158.220.163:2000/play/a02h
+#EXTINF:-1,DMAX+1
+http://93.158.220.163:2000/play/a00z
