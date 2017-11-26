@@ -4,213 +4,538 @@ http://93.158.220.163:2000/play/a024
 #EXTINF:-1,Syfy
 http://93.158.220.163:2000/play/a023
 
+#EXTINF:0,24/7 Family Guy
+http://163.172.14.210:80/live?channelId=706&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,24/7 Kids Movies - 24/7 Kids Movies
+http://163.172.105.230:9001/live?channelId=568&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,24/7 Mickey Mouse Clubhouse - 24/7 Mickey Mouse Clubhouse
+http://163.172.105.230:9001/live?channelId=571&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,24/7 only fools and horses
+http://163.172.14.210:80/live?channelId=606&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,3e - 3e
+http://163.172.106.120:9001/live?channelId=64&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,4seven - 4seven
+http://163.172.106.120:9001/live?channelId=973&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,5 USA - 5 USA
+http://163.172.106.120:9001/live?channelId=978&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,5STAR - 5STAR
+http://163.172.106.120:9001/live?channelId=979&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,A&E (US) - A&E (US)
+http://163.172.106.106:80/live?channelId=878&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,AFN SPORTS (US) - AFN SPORTS (US)
+http://163.172.106.106:80/live?channelId=879&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+http://163.172.106.106:80/live?channelId=880&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,alibi - alibi
+http://163.172.106.120:9001/live?channelId=1005&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,AMC (US) - AMC (US)
+http://163.172.106.106:80/live?channelId=881&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,AMC from BT - AMC from BT
+http://163.172.106.120:9001/live?channelId=1006&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Animal Planet - Animal Planet
+http://163.172.106.120:9001/live?channelId=986&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Animal Planet (US) - Animal Planet (US)
+http://163.172.106.106:80/live?channelId=882&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,At The Races
+http://163.172.105.230:9001/live?channelId=1050&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Baby TV - Baby TV
+http://194.88.104.23:9001/live?channelId=96&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC NEWS - BBC NEWS
+http://163.172.51.148:9001/live?channelId=81&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC One - BBC One
+http://163.172.106.120:9001/live?channelId=963&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC One Northern Ireland - BBC One Northern Ireland
+http://62.210.214.33:80/live?channelId=650&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC One Scotland - BBC One Scotland
+http://62.210.214.33:80/live?channelId=651&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC TWO - BBC TWO
+http://163.172.106.120:9001/live?channelId=964&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC Two Scotland - BBC Two Scotland
+http://62.210.214.33:80/live?channelId=652&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC Two Wales - BBC Two Wales
+http://62.210.214.33:80/live?channelId=653&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC1 HD - BBC1 HD
+http://163.172.106.120:9001/live?channelId=954&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BBC2 HD - BBC2 HD
+http://163.172.106.120:9001/live?channelId=955&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein extra 1
+http://163.172.105.230:9001/live?channelId=277&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein extra 2
+http://163.172.105.230:9001/live?channelId=278&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein extra 3
+http://163.172.105.230:9001/live?channelId=279&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein france 1 - bein france 1
+http://163.172.52.234:9001/live?channelId=170&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein france 2 - bein france 2
+http://163.172.52.234:9001/live?channelId=171&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,bein france 3 - bein france 3
+http://163.172.52.234:9001/live?channelId=172&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.52.234:9001/live?channelId=513&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.230:9001/live?channelId=514&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.52.234:9001/live?channelId=515&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BEin Sports EPL 4 - BEin Sports EPL 4
+http://163.172.52.234:9001/live?channelId=516&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 1 HD - beINSport 1 HD
+http://163.172.52.234:9001/live?channelId=173&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 10 HD - beINSport 10 HD
+http://163.172.105.230:9001/live?channelId=182&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 11 HD - beINSport 11 HD
+http://163.172.52.234:9001/live?channelId=183&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 12 HD - beINSport 12 HD
+http://163.172.105.230:9001/live?channelId=184&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 2 HD - beINSport 2 HD
+http://163.172.52.234:9001/live?channelId=174&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 3 HD - beINSport 3 HD
+http://163.172.105.230:9001/live?channelId=175&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 4 HD - beINSport 4 HD
+http://163.172.52.234:9001/live?channelId=176&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 5 HD - beINSport 5 HD
+http://163.172.14.210:80/live?channelId=177&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 6 HD - beINSport 6 HD
+http://163.172.87.158:9001/live?channelId=178&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 7 HD - beINSport 7 HD
+http://163.172.52.234:9001/live?channelId=179&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 8 HD - beINSport 8 HD
+http://163.172.14.218:80/live?channelId=180&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,beINSport 9 HD - beINSport 9 HD
+http://163.172.52.234:9001/live?channelId=181&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Ben And Holly
+http://163.172.14.210:80/live?channelId=719&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Blaze - Blaze
+http://163.172.106.120:9001/live?channelId=1007&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Blaze and the Monster Machines
+http://163.172.14.210:80/live?channelId=720&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Boomerang - Boomerang
+http://163.172.51.148:9001/live?channelId=89&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BoxNation - BoxNation
+http://163.172.51.148:9001/live?channelId=1046&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 1 - BT Sport 1
+http://62.210.214.33:80/live?channelId=1051&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.33:80/live?channelId=1052&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 2 - BT Sport 2
+http://62.210.214.33:80/live?channelId=1053&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.33:80/live?channelId=1054&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 3 - BT Sport 3
+http://62.210.214.33:80/live?channelId=1055&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.33:80/live?channelId=1056&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport ESPN - BT Sport ESPN
+http://62.210.214.33:80/live?channelId=1057&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.33:80/live?channelId=1058&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.33:80/live?channelId=1059&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.33:80/live?channelId=1060&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.33:80/live?channelId=1061&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.33:80/live?channelId=1062&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.33:80/live?channelId=1063&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.33:80/live?channelId=1064&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Cartoon network - Cartoon network
+http://163.172.14.218:80/live?channelId=88&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CBBC
+http://163.172.105.230:9001/live?channelId=540&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CBeebies - CBeebies
+http://163.172.51.148:9001/live?channelId=83&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CETIC TV (LIVE FOR GAMES ONLY) - CETIC TV (LIVE FOR GAMES ONLY)
+http://163.172.51.148:9001/live?channelId=1024&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 4 - Channel 4
+http://163.172.106.120:9001/live?channelId=971&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 4 HD - Channel 4 HD
+http://163.172.106.120:9001/live?channelId=957&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 4 plus1 - Channel 4 plus1
+http://163.172.106.120:9001/live?channelId=972&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 5 - Channel 5
+http://163.172.106.120:9001/live?channelId=976&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 5 HD - Channel 5 HD
+http://163.172.106.120:9001/live?channelId=958&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Channel 5 plus1 - Channel 5 plus1
+http://163.172.106.120:9001/live?channelId=977&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Chelsea Tv
+http://163.172.105.230:9001/live?channelId=1049&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA ACTION THRILLER
+http://163.172.51.148:9001/live?channelId=112&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA COMEDY
+http://163.172.106.121:9001/live?channelId=111&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA DISNEY
+http://163.172.106.121:9001/live?channelId=110&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA DRAMA AND ROMANCE
+http://163.172.106.121:9001/live?channelId=109&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA FAMILY
+http://163.172.106.121:9001/live?channelId=108&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA HITS
+http://163.172.105.230:9001/live?channelId=481&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA MODERN GREATS
+http://62.210.214.33:80/live?channelId=396&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA PREMIERE
+http://163.172.106.121:9001/live?channelId=106&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA SCI-FI & HORROR
+http://163.172.106.121:9001/live?channelId=105&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA SELECT
+http://163.172.106.121:9001/live?channelId=104&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CINEMA THRILLER
+http://163.172.106.121:9001/live?channelId=103&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CITV
+http://163.172.105.230:9001/live?channelId=615&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,CNN NEWS - CNN NEWS
+http://163.172.51.148:9001/live?channelId=79&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ComedyCentral - ComedyCentral
+http://163.172.106.120:9001/live?channelId=987&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ComedyXtra - ComedyXtra
+http://163.172.106.120:9001/live?channelId=988&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Crime and Investigation - Crime and Investigation
+http://163.172.106.120:9001/live?channelId=995&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Dave - Dave
+http://163.172.106.120:9001/live?channelId=1008&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Dave ja vu - Dave ja vu
+http://163.172.106.120:9001/live?channelId=1009&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+http://163.172.106.106:80/live?channelId=883&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disc.History - Disc.History
+http://163.172.106.120:9001/live?channelId=989&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disc.Science - Disc.Science
+http://163.172.106.120:9001/live?channelId=990&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disc.Turbo - Disc.Turbo
+http://163.172.106.120:9001/live?channelId=991&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Discovery - Discovery
+http://163.172.106.120:9001/live?channelId=992&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Discovery (US) - Discovery (US)
+http://163.172.106.106:80/live?channelId=884&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+http://163.172.106.106:80/live?channelId=885&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Discovery Shed - Discovery Shed
+http://163.172.106.120:9001/live?channelId=994&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disney Channel - Disney Channel
+http://163.172.14.210:80/live?channelId=85&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disney Jr - Disney Jr
+http://163.172.14.218:80/live?channelId=87&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Disney XD - Disney XD
+http://163.172.87.158:9001/live?channelId=86&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,DMAX - DMAX
+http://163.172.106.120:9001/live?channelId=993&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Drama - Drama
+http://163.172.106.120:9001/live?channelId=1010&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,E! - E!
+http://163.172.106.120:9001/live?channelId=1011&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+http://163.172.106.106:80/live?channelId=886&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,E4 - E4
+http://163.172.106.120:9001/live?channelId=974&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Eden - Eden
+http://163.172.106.120:9001/live?channelId=1012&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,eir Sport 1 - eir Sport 1
+http://163.172.51.148:9001/live?channelId=1029&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,eir Sport 2 - eir Sport 2
+http://163.172.51.148:9001/live?channelId=1031&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Eurosport 1 - Eurosport 1
+http://163.172.51.148:9001/live?channelId=1034&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Eurosport 2 - Eurosport 2
+http://163.172.51.148:9001/live?channelId=1035&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Food Network - Food Network
+http://163.172.106.120:9001/live?channelId=1013&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,FOX - FOX
+http://163.172.106.120:9001/live?channelId=1014&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,FOX NEWS - FOX NEWS
+http://163.172.51.148:9001/live?channelId=78&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Fox Sport 1 - Fox Sport 1
+http://163.172.106.106:80/live?channelId=896&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Fox Sport 2 - Fox Sport 2
+http://163.172.106.106:80/live?channelId=897&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,France Canal  Sport
+http://62.210.214.33:80/live?channelId=463&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,FreeSports - FreeSports
+http://163.172.51.148:9001/live?channelId=1036&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Friends
+http://163.172.14.210:80/live?channelId=707&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,FrontRunner - FrontRunner
+http://163.172.51.148:9001/live?channelId=1037&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,FX (US) - FX (US)
+http://163.172.106.106:80/live?channelId=887&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,GOLD - GOLD
+http://163.172.106.120:9001/live?channelId=1015&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Good Food - Good Food
+http://163.172.106.120:9001/live?channelId=1016&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,H2 - H2
+http://163.172.106.120:9001/live?channelId=1004&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,HEARTS TV (live for games only) - HEARTS TV (live for games only)
+http://163.172.51.148:9001/live?channelId=1027&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,HIBS TV (live for games only) - HIBS TV (live for games only)
+http://163.172.51.148:9001/live?channelId=1028&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,HISTORY - HISTORY
+http://163.172.106.120:9001/live?channelId=1003&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,HISTORY (US) - HISTORY (US)
+http://163.172.106.106:80/live?channelId=888&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Home - Home
+http://163.172.106.120:9001/live?channelId=1017&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,horror channel - horror channel
+http://163.172.106.120:9001/live?channelId=996&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ID - ID
+http://163.172.106.120:9001/live?channelId=997&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV - ITV
+http://163.172.106.120:9001/live?channelId=965&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV HD - ITV HD
+http://163.172.106.120:9001/live?channelId=956&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV plus1 - ITV plus1
+http://163.172.106.120:9001/live?channelId=966&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV2 - ITV2
+http://163.172.106.120:9001/live?channelId=967&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV3 - ITV3
+http://163.172.106.120:9001/live?channelId=968&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITV4 - ITV4
+http://163.172.106.120:9001/live?channelId=969&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,ITVBe - ITVBe
+http://163.172.106.120:9001/live?channelId=970&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,LFC tv
+http://163.172.105.230:9001/live?channelId=1048&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Lifetime - Lifetime
+http://163.172.106.120:9001/live?channelId=998&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MBL NETWORK (US) - MBL NETWORK (US)
+http://163.172.106.106:80/live?channelId=889&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,More4 - More4
+http://163.172.106.120:9001/live?channelId=975&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://163.172.51.148:9001/live?channelId=1038&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://163.172.51.148:9001/live?channelId=1039&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://163.172.51.148:9001/live?channelId=1040&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Motorsport TV - Motorsport TV
+http://163.172.51.148:9001/live?channelId=1041&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Base - MTV Base
+http://194.88.104.23:9001/live?channelId=102&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Classic - MTV Classic
+http://194.88.104.23:9001/live?channelId=101&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Dance - MTV Dance
+http://194.88.104.23:9001/live?channelId=100&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV HD
+http://163.172.105.230:9001/live?channelId=1086&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Hits - MTV Hits
+http://194.88.104.23:9001/live?channelId=99&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Music - MTV Music
+http://194.88.104.23:9001/live?channelId=98&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MTV Rocks - MTV Rocks
+http://194.88.104.23:9001/live?channelId=97&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,MUTV
+http://163.172.105.230:9001/live?channelId=1047&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,My5 - My5
+http://163.172.106.120:9001/live?channelId=980&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,National Geo Wild - National Geo Wild
+http://163.172.106.120:9001/live?channelId=999&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,National Geographic - National Geographic
+http://163.172.106.120:9001/live?channelId=1000&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,NBA TV (US) - NBA TV (US)
+http://163.172.106.106:80/live?channelId=890&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Nick HD - Nick HD
+http://163.172.14.218:80/live?channelId=92&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Nick Jr - Nick Jr
+http://163.172.14.218:80/live?channelId=94&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Nick Toons - Nick Toons
+http://163.172.14.218:80/live?channelId=93&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,NickJr Too - NickJr Too
+http://163.172.14.218:80/live?channelId=95&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Paw Patrol
+http://163.172.14.210:80/live?channelId=718&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Peppa And George
+http://163.172.14.210:80/live?channelId=605&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Pick - Pick
+http://163.172.106.120:9001/live?channelId=1018&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Premier Sports - Premier Sports
+http://163.172.51.148:9001/live?channelId=1042&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Premier Sports HD - Premier Sports HD
+http://163.172.51.148:9001/live?channelId=1043&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,QUEST - QUEST
+http://163.172.106.120:9001/live?channelId=1023&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Racing UK - Racing UK
+http://163.172.51.148:9001/live?channelId=1044&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Racing UK HD - Racing UK HD
+http://163.172.51.148:9001/live?channelId=1045&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,RANGERS TV (live for games) - RANGERS TV (live for games)
+http://163.172.51.148:9001/live?channelId=1025&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Really - Really
+http://163.172.106.120:9001/live?channelId=1019&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,RED TV (live for games only) - RED TV (live for games only)
+http://163.172.51.148:9001/live?channelId=1026&uid=7826&deviceMac=00:1A:79:3C:C9:B2
 #EXTINF:0,RTE one - RTE one
-http://163.172.106.120:9001/live?channelId=62&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,RTE two - RTE two
-http://163.172.106.120:9001/live?channelId=63&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,3e - 3e
-http://163.172.106.120:9001/live?channelId=64&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TV3 - TV3
-http://163.172.106.120:9001/live?channelId=65&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TG4 - TG4
-http://163.172.106.120:9001/live?channelId=66&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SKY NEWS - SKY NEWS
-http://163.172.105.230:9001/live?channelId=76&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,FOX NEWS - FOX NEWS
-http://163.172.51.148:9001/live?channelId=78&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CNN NEWS - CNN NEWS
-http://163.172.51.148:9001/live?channelId=79&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC NEWS - BBC NEWS
-http://163.172.51.148:9001/live?channelId=81&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CBeebies - CBeebies
-http://163.172.51.148:9001/live?channelId=83&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CITV
-http://163.172.105.230:9001/live?channelId=615&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disney Channel - Disney Channel
-http://163.172.14.210:80/live?channelId=85&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disney XD - Disney XD
-http://163.172.87.158:9001/live?channelId=86&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disney Jr - Disney Jr
-http://163.172.14.218:80/live?channelId=87&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Cartoon network - Cartoon network
-http://163.172.14.218:80/live?channelId=88&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Boomerang - Boomerang
-http://163.172.51.148:9001/live?channelId=89&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Nick HD - Nick HD
-http://163.172.14.218:80/live?channelId=92&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Nick Toons - Nick Toons
-http://163.172.14.218:80/live?channelId=93&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Nick Jr - Nick Jr
-http://163.172.14.218:80/live?channelId=94&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,NickJr Too - NickJr Too
-http://163.172.14.218:80/live?channelId=95&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Baby TV - Baby TV
-http://194.88.104.23:9001/live?channelId=96&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Rocks - MTV Rocks
-http://194.88.104.23:9001/live?channelId=97&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Music - MTV Music
-http://194.88.104.23:9001/live?channelId=98&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Hits - MTV Hits
-http://194.88.104.23:9001/live?channelId=99&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Dance - MTV Dance
-http://194.88.104.23:9001/live?channelId=100&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Classic - MTV Classic
-http://194.88.104.23:9001/live?channelId=101&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MTV Base - MTV Base
-http://194.88.104.23:9001/live?channelId=102&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA MODERN GREATS
-http://62.210.214.33:80/live?channelId=396&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA THRILLER
-http://163.172.106.121:9001/live?channelId=103&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA SELECT
-http://163.172.106.121:9001/live?channelId=104&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA SCI-FI & HORROR
-http://163.172.106.121:9001/live?channelId=105&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA PREMIERE
-http://163.172.106.121:9001/live?channelId=106&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA FAMILY
-http://163.172.106.121:9001/live?channelId=108&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA DRAMA AND ROMANCE
-http://163.172.106.121:9001/live?channelId=109&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA DISNEY
-http://163.172.106.121:9001/live?channelId=110&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA COMEDY
-http://163.172.106.121:9001/live?channelId=111&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA ACTION THRILLER
-http://163.172.51.148:9001/live?channelId=112&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein france 1 - bein france 1
-http://163.172.52.234:9001/live?channelId=170&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein france 2 - bein france 2
-http://163.172.52.234:9001/live?channelId=171&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein france 3 - bein france 3
-http://163.172.52.234:9001/live?channelId=172&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 1 HD - beINSport 1 HD
-http://163.172.52.234:9001/live?channelId=173&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 2 HD - beINSport 2 HD
-http://163.172.52.234:9001/live?channelId=174&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 3 HD - beINSport 3 HD
-http://163.172.105.230:9001/live?channelId=175&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 4 HD - beINSport 4 HD
-http://163.172.52.234:9001/live?channelId=176&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 5 HD - beINSport 5 HD
-http://163.172.14.210:80/live?channelId=177&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 6 HD - beINSport 6 HD
-http://163.172.87.158:9001/live?channelId=178&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 7 HD - beINSport 7 HD
-http://163.172.52.234:9001/live?channelId=179&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 8 HD - beINSport 8 HD
-http://163.172.14.218:80/live?channelId=180&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 9 HD - beINSport 9 HD
-http://163.172.52.234:9001/live?channelId=181&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 10 HD - beINSport 10 HD
-http://163.172.105.230:9001/live?channelId=182&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 11 HD - beINSport 11 HD
-http://163.172.52.234:9001/live?channelId=183&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,beINSport 12 HD - beINSport 12 HD
-http://163.172.105.230:9001/live?channelId=184&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sport Klub 1 - Sport Klub 1
-http://163.172.106.121:9001/live?channelId=209&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sport Klub 2 - Sport Klub 2
-http://163.172.106.121:9001/live?channelId=210&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sport Klub 3 - Sport Klub 3
-http://163.172.106.121:9001/live?channelId=211&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Ziggo Sport eXtra 1
-http://163.172.105.230:9001/live?channelId=273&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Ziggo Sport eXtra 2
-http://163.172.105.230:9001/live?channelId=274&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Ziggo Sport Voetbal
-http://163.172.105.230:9001/live?channelId=275&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein extra 1
-http://163.172.105.230:9001/live?channelId=277&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein extra 2
-http://163.172.105.230:9001/live?channelId=278&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,bein extra 3
-http://163.172.105.230:9001/live?channelId=279&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,France Canal  Sport
-http://62.210.214.33:80/live?channelId=463&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CINEMA HITS
-http://163.172.105.230:9001/live?channelId=481&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
-http://163.172.52.234:9001/live?channelId=513&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
-http://163.172.105.230:9001/live?channelId=514&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
-http://163.172.52.234:9001/live?channelId=515&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BEin Sports EPL 4 - BEin Sports EPL 4
-http://163.172.52.234:9001/live?channelId=516&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SFR SPORT 1 - SFR SPORT 1
-http://163.172.52.234:9001/live?channelId=517&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SFR SPORT 2 - SFR SPORT 2
-http://163.172.52.234:9001/live?channelId=518&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SFR SPORT 3 - SFR SPORT 3
-http://163.172.52.234:9001/live?channelId=519&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,CBBC
-http://163.172.105.230:9001/live?channelId=540&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Super Hero Channel
-http://163.172.14.210:80/live?channelId=554&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Top Gear - Top Gear
-http://163.172.14.210:80/live?channelId=555&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,24/7 Kids Movies - 24/7 Kids Movies
-http://163.172.105.230:9001/live?channelId=568&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,24/7 Mickey Mouse Clubhouse - 24/7 Mickey Mouse Clubhouse
-http://163.172.105.230:9001/live?channelId=571&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Peppa And George
-http://163.172.14.210:80/live?channelId=605&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,24/7 only fools and horses
-http://163.172.14.210:80/live?channelId=606&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX  HOT - XXX  HOT
-http://163.172.105.230:9001/live?channelId=634&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 1 - XXX 1
-http://163.172.105.230:9001/live?channelId=635&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 2 - XXX 2
-http://163.172.105.230:9001/live?channelId=636&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 3 - XXX 3
-http://163.172.105.230:9001/live?channelId=637&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 4 - XXX 4
-http://163.172.105.230:9001/live?channelId=638&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 5 - XXX 5
-http://163.172.105.230:9001/live?channelId=639&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 6 - XXX 6
-http://163.172.105.230:9001/live?channelId=640&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,XXX 7 - XXX 7
-http://163.172.105.230:9001/live?channelId=641&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC One Northern Ireland - BBC One Northern Ireland
-http://62.210.214.33:80/live?channelId=650&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC One Scotland - BBC One Scotland
-http://62.210.214.33:80/live?channelId=651&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC Two Scotland - BBC Two Scotland
-http://62.210.214.33:80/live?channelId=652&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC Two Wales - BBC Two Wales
-http://62.210.214.33:80/live?channelId=653&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,S4C - S4C
-http://62.210.214.33:80/live?channelId=654&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,STV - STV
-http://62.210.214.33:80/live?channelId=655&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,STV2 - STV2
-http://62.210.214.33:80/live?channelId=656&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,24/7 Family Guy
-http://163.172.14.210:80/live?channelId=706&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Friends
-http://163.172.14.210:80/live?channelId=707&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,The Inbetweeners
-http://163.172.14.210:80/live?channelId=708&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Paw Patrol
-http://163.172.14.210:80/live?channelId=718&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Ben And Holly
-http://163.172.14.210:80/live?channelId=719&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Blaze and the Monster Machines
-http://163.172.14.210:80/live?channelId=720&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,A&E (US) - A&E (US)
-http://163.172.106.106:80/live?channelId=878&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,AFN SPORTS (US) - AFN SPORTS (US)
-http://163.172.106.106:80/live?channelId=879&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
-http://163.172.106.106:80/live?channelId=880&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,AMC (US) - AMC (US)
-http://163.172.106.106:80/live?channelId=881&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Animal Planet (US) - Animal Planet (US)
-http://163.172.106.106:80/live?channelId=882&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
-http://163.172.106.106:80/live?channelId=883&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Discovery (US) - Discovery (US)
-http://163.172.106.106:80/live?channelId=884&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
-http://163.172.106.106:80/live?channelId=885&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
-http://163.172.106.106:80/live?channelId=886&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,FX (US) - FX (US)
-http://163.172.106.106:80/live?channelId=887&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,HISTORY (US) - HISTORY (US)
-http://163.172.106.106:80/live?channelId=888&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,MBL NETWORK (US) - MBL NETWORK (US)
-http://163.172.106.106:80/live?channelId=889&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,NBA TV (US) - NBA TV (US)
-http://163.172.106.106:80/live?channelId=890&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPIKE (US) - SPIKE (US)
-http://163.172.106.106:80/live?channelId=891&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SYFY (US) - SYFY (US)
-http://163.172.106.106:80/live?channelId=892&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TBS (US) - TBS (US)
-http://163.172.106.106:80/live?channelId=893&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,USA FOX SPORTS 1 - USA FOX SPORTS 1
-http://163.172.106.106:80/live?channelId=894&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,USA FOX SPORTS 2 - USA FOX SPORTS 2
-http://163.172.106.106:80/live?channelId=895&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Fox Sport 1 - Fox Sport 1
-http://163.172.106.106:80/live?channelId=896&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Fox Sport 2 - Fox Sport 2
-http://163.172.106.106:80/live?channelId=897&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TSN 1 - TSN 1
-http://163.172.106.106:80/live?channelId=898&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TSN 2 - TSN 2
-http://163.172.106.106:80/live?channelId=899&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TSN 3 - TSN 3
-http://163.172.106.106:80/live?channelId=900&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TSN 4 - TSN 4
-http://163.172.106.106:80/live?channelId=901&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TSN 5 - TSN 5
-http://163.172.106.106:80/live?channelId=902&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET 360 HD - SPORTS NET 360 HD
-http://163.172.106.106:80/live?channelId=903&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET EAST HD - SPORTS NET EAST HD
-http://163.172.106.106:80/live?channelId=904&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
-http://163.172.106.106:80/live?channelId=905&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
-http://163.172.106.106:80/live?channelId=906&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
-http://163.172.106.106:80/live?channelId=907&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET WEST HD - SPORTS NET WEST HD
-http://163.172.106.106:80/live?channelId=908&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTS NET WORLD HD - SPORTS NET WORLD HD
-http://163.172.106.106:80/live?channelId=909&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET 360 - SPORTSNET 360
-http://163.172.106.106:80/live?channelId=910&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET EAST - SPORTSNET EAST
-http://163.172.106.106:80/live?channelId=911&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET ONE - SPORTSNET ONE
-http://163.172.106.106:80/live?channelId=912&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET ONE HD - SPORTSNET ONE HD
-http://163.172.106.106:80/live?channelId=913&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET ONTARIO - SPORTSNET ONTARIO
-http://163.172.106.106:80/live?channelId=914&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET PACIFIC - SPORTSNET PACIFIC
-http://163.172.106.106:80/live?channelId=915&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET WEST - SPORTSNET WEST
-http://163.172.106.106:80/live?channelId=916&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,SPORTSNET WORLD - SPORTSNET WORLD
-http://163.172.106.106:80/live?channelId=917&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC1 HD - BBC1 HD
-http://163.172.106.120:9001/live?channelId=954&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC2 HD - BBC2 HD
-http://163.172.106.120:9001/live?channelId=955&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV HD - ITV HD
-http://163.172.106.120:9001/live?channelId=956&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 4 HD - Channel 4 HD
-http://163.172.106.120:9001/live?channelId=957&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 5 HD - Channel 5 HD
-http://163.172.106.120:9001/live?channelId=958&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky1 HD - Sky1 HD
-http://163.172.106.120:9001/live?channelId=959&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky Atlantic HD - Sky Atlantic HD
-http://163.172.106.120:9001/live?channelId=960&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC One - BBC One
-http://163.172.106.120:9001/live?channelId=963&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,BBC TWO - BBC TWO
-http://163.172.106.120:9001/live?channelId=964&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV - ITV
-http://163.172.106.120:9001/live?channelId=965&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV plus1 - ITV plus1
-http://163.172.106.120:9001/live?channelId=966&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV2 - ITV2
-http://163.172.106.120:9001/live?channelId=967&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV3 - ITV3
-http://163.172.106.120:9001/live?channelId=968&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITV4 - ITV4
-http://163.172.106.120:9001/live?channelId=969&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ITVBe - ITVBe
-http://163.172.106.120:9001/live?channelId=970&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 4 - Channel 4
-http://163.172.106.120:9001/live?channelId=971&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 4 plus1 - Channel 4 plus1
-http://163.172.106.120:9001/live?channelId=972&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,4seven - 4seven
-http://163.172.106.120:9001/live?channelId=973&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,E4 - E4
-http://163.172.106.120:9001/live?channelId=974&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,More4 - More4
-http://163.172.106.120:9001/live?channelId=975&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 5 - Channel 5
-http://163.172.106.120:9001/live?channelId=976&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Channel 5 plus1 - Channel 5 plus1
-http://163.172.106.120:9001/live?channelId=977&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,5 USA - 5 USA
-http://163.172.106.120:9001/live?channelId=978&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,5STAR - 5STAR
-http://163.172.106.120:9001/live?channelId=979&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,My5 - My5
-http://163.172.106.120:9001/live?channelId=980&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky1 - Sky1
-http://163.172.106.120:9001/live?channelId=981&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky2 - Sky2
-http://163.172.106.120:9001/live?channelId=982&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky Living - Sky Living
-http://163.172.106.120:9001/live?channelId=983&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky Atlantic - Sky Atlantic
-http://163.172.106.120:9001/live?channelId=984&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Sky Arts - Sky Arts
-http://163.172.106.120:9001/live?channelId=985&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Animal Planet - Animal Planet
-http://163.172.106.120:9001/live?channelId=986&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ComedyCentral - ComedyCentral
-http://163.172.106.120:9001/live?channelId=987&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ComedyXtra - ComedyXtra
-http://163.172.106.120:9001/live?channelId=988&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disc.History - Disc.History
-http://163.172.106.120:9001/live?channelId=989&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disc.Science - Disc.Science
-http://163.172.106.120:9001/live?channelId=990&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Disc.Turbo - Disc.Turbo
-http://163.172.106.120:9001/live?channelId=991&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Discovery - Discovery
-http://163.172.106.120:9001/live?channelId=992&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,DMAX - DMAX
-http://163.172.106.120:9001/live?channelId=993&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Discovery Shed - Discovery Shed
-http://163.172.106.120:9001/live?channelId=994&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Crime and Investigation - Crime and Investigation
-http://163.172.106.120:9001/live?channelId=995&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,horror channel - horror channel
-http://163.172.106.120:9001/live?channelId=996&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,ID - ID
-http://163.172.106.120:9001/live?channelId=997&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Lifetime - Lifetime
-http://163.172.106.120:9001/live?channelId=998&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,National Geo Wild - National Geo Wild
-http://163.172.106.120:9001/live?channelId=999&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,National Geographic - National Geographic
-http://163.172.106.120:9001/live?channelId=1000&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,TLC - TLC
-http://163.172.106.120:9001/live?channelId=1001&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Syfy - Syfy
-http://163.172.106.120:9001/live?channelId=1002&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,HISTORY - HISTORY
-http://163.172.106.120:9001/live?channelId=1003&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,H2 - H2
-http://163.172.106.120:9001/live?channelId=1004&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,alibi - alibi
-http://163.172.106.120:9001/live?channelId=1005&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,AMC from BT - AMC from BT
-http://163.172.106.120:9001/live?channelId=1006&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Blaze - Blaze
-http://163.172.106.120:9001/live?channelId=1007&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Dave - Dave
-http://163.172.106.120:9001/live?channelId=1008&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Dave ja vu - Dave ja vu
-http://163.172.106.120:9001/live?channelId=1009&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Drama - Drama
-http://163.172.106.120:9001/live?channelId=1010&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,E! - E!
-http://163.172.106.120:9001/live?channelId=1011&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Eden - Eden
-http://163.172.106.120:9001/live?channelId=1012&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Food Network - Food Network
-http://163.172.106.120:9001/live?channelId=1013&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,FOX - FOX
-http://163.172.106.120:9001/live?channelId=1014&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,GOLD - GOLD
-http://163.172.106.120:9001/live?channelId=1015&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Good Food - Good Food
-http://163.172.106.120:9001/live?channelId=1016&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Home - Home
-http://163.172.106.120:9001/live?channelId=1017&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Pick - Pick
-http://163.172.106.120:9001/live?channelId=1018&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Really - Really
-http://163.172.106.120:9001/live?channelId=1019&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Yesterday - Yesterday
-http://163.172.106.120:9001/live?channelId=1020&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,W - W
-http://163.172.106.120:9001/live?channelId=1021&uid=6754&deviceMac=00:1A:79:3C:C9:60#EXTINF:0,Universal - Universal
-http://163.172.106.120:9001/live?channelId=1022&uid=6754&deviceMac=00:1A:79:3C:C9:60
-
+http://163.172.106.120:9001/live?channelId=62&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,RTE two - RTE two
+http://163.172.106.120:9001/live?channelId=63&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,S4C - S4C
+http://62.210.214.33:80/live?channelId=654&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SFR SPORT 1 - SFR SPORT 1
+http://163.172.52.234:9001/live?channelId=517&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SFR SPORT 2 - SFR SPORT 2
+http://163.172.52.234:9001/live?channelId=518&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SFR SPORT 3 - SFR SPORT 3
+http://163.172.52.234:9001/live?channelId=519&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky Arts - Sky Arts
+http://163.172.106.120:9001/live?channelId=985&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky Atlantic - Sky Atlantic
+http://163.172.106.120:9001/live?channelId=984&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky Atlantic HD - Sky Atlantic HD
+http://163.172.106.120:9001/live?channelId=960&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky Living - Sky Living
+http://163.172.106.120:9001/live?channelId=983&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SKY NEWS - SKY NEWS
+http://163.172.105.230:9001/live?channelId=76&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky1 - Sky1
+http://163.172.106.120:9001/live?channelId=981&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky1 HD - Sky1 HD
+http://163.172.106.120:9001/live?channelId=959&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sky2 - Sky2
+http://163.172.106.120:9001/live?channelId=982&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Action - Sly Sports Action
+http://194.88.104.23:9001/live?channelId=1065&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Action HD - Sly Sports Action HD
+http://194.88.104.23:9001/live?channelId=1066&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Arena - Sly Sports Arena
+http://194.88.104.23:9001/live?channelId=1067&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Arena HD - Sly Sports Arena HD
+http://194.88.104.23:9001/live?channelId=1068&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Box Office - Sly Sports Box Office
+http://194.88.104.23:9001/live?channelId=1069&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Cricket - Sly Sports Cricket
+http://194.88.104.23:9001/live?channelId=1070&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Cricket HD - Sly Sports Cricket HD
+http://194.88.104.23:9001/live?channelId=1071&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports F1 - Sly Sports F1
+http://194.88.104.23:9001/live?channelId=1072&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Football - Sly Sports Football
+http://194.88.104.23:9001/live?channelId=1073&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Football HD - Sly Sports Football HD
+http://194.88.104.23:9001/live?channelId=1074&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Golf - Sly Sports Golf
+http://194.88.104.23:9001/live?channelId=1075&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Golf HD - Sly Sports Golf HD
+http://194.88.104.23:9001/live?channelId=1076&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Main - Sly Sports Main
+http://194.88.104.23:9001/live?channelId=1077&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Main HD - Sly Sports Main HD
+http://194.88.104.23:9001/live?channelId=1078&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Mix - Sly Sports Mix
+http://194.88.104.23:9001/live?channelId=1079&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports Mix HD - Sly Sports Mix HD
+http://194.88.104.23:9001/live?channelId=1080&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports News - Sly Sports News
+http://194.88.104.23:9001/live?channelId=1081&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports News HD - Sly Sports News HD
+http://194.88.104.23:9001/live?channelId=1082&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports PL - Sly Sports PL
+http://194.88.104.23:9001/live?channelId=1083&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Sports PL HD - Sly Sports PL HD
+http://194.88.104.23:9001/live?channelId=1084&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sly Spts F1 HD - Sly Spts F1 HD
+http://194.88.104.23:9001/live?channelId=1085&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPIKE (US) - SPIKE (US)
+http://163.172.106.106:80/live?channelId=891&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sport Klub 1 - Sport Klub 1
+http://163.172.106.121:9001/live?channelId=209&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sport Klub 2 - Sport Klub 2
+http://163.172.106.121:9001/live?channelId=210&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Sport Klub 3 - Sport Klub 3
+http://163.172.106.121:9001/live?channelId=211&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET 360 HD - SPORTS NET 360 HD
+http://163.172.106.106:80/live?channelId=903&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET EAST HD - SPORTS NET EAST HD
+http://163.172.106.106:80/live?channelId=904&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
+http://163.172.106.106:80/live?channelId=905&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://163.172.106.106:80/live?channelId=906&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://163.172.106.106:80/live?channelId=907&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET WEST HD - SPORTS NET WEST HD
+http://163.172.106.106:80/live?channelId=908&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://163.172.106.106:80/live?channelId=909&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET 360 - SPORTSNET 360
+http://163.172.106.106:80/live?channelId=910&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET EAST - SPORTSNET EAST
+http://163.172.106.106:80/live?channelId=911&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET ONE - SPORTSNET ONE
+http://163.172.106.106:80/live?channelId=912&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET ONE HD - SPORTSNET ONE HD
+http://163.172.106.106:80/live?channelId=913&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET ONTARIO - SPORTSNET ONTARIO
+http://163.172.106.106:80/live?channelId=914&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET PACIFIC - SPORTSNET PACIFIC
+http://163.172.106.106:80/live?channelId=915&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET WEST - SPORTSNET WEST
+http://163.172.106.106:80/live?channelId=916&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SPORTSNET WORLD - SPORTSNET WORLD
+http://163.172.106.106:80/live?channelId=917&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,STV - STV
+http://62.210.214.33:80/live?channelId=655&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,STV2 - STV2
+http://62.210.214.33:80/live?channelId=656&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Super Hero Channel
+http://163.172.14.210:80/live?channelId=554&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Syfy - Syfy
+http://163.172.106.120:9001/live?channelId=1002&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,SYFY (US) - SYFY (US)
+http://163.172.106.106:80/live?channelId=892&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TBS (US) - TBS (US)
+http://163.172.106.106:80/live?channelId=893&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TG4 - TG4
+http://163.172.106.120:9001/live?channelId=66&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,The Inbetweeners
+http://163.172.14.210:80/live?channelId=708&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TLC - TLC
+http://163.172.106.120:9001/live?channelId=1001&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Top Gear - Top Gear
+http://163.172.14.210:80/live?channelId=555&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TSN 1 - TSN 1
+http://163.172.106.106:80/live?channelId=898&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TSN 2 - TSN 2
+http://163.172.106.106:80/live?channelId=899&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TSN 3 - TSN 3
+http://163.172.106.106:80/live?channelId=900&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TSN 4 - TSN 4
+http://163.172.106.106:80/live?channelId=901&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TSN 5 - TSN 5
+http://163.172.106.106:80/live?channelId=902&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,TV3 - TV3
+http://163.172.106.120:9001/live?channelId=65&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Universal - Universal
+http://163.172.106.120:9001/live?channelId=1022&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,USA FOX SPORTS 1 - USA FOX SPORTS 1
+http://163.172.106.106:80/live?channelId=894&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,USA FOX SPORTS 2 - USA FOX SPORTS 2
+http://163.172.106.106:80/live?channelId=895&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,W - W
+http://163.172.106.120:9001/live?channelId=1021&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX  HOT - XXX  HOT
+http://163.172.105.230:9001/live?channelId=634&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 1 - XXX 1
+http://163.172.105.230:9001/live?channelId=635&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 2 - XXX 2
+http://163.172.105.230:9001/live?channelId=636&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 3 - XXX 3
+http://163.172.105.230:9001/live?channelId=637&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 4 - XXX 4
+http://163.172.105.230:9001/live?channelId=638&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 5 - XXX 5
+http://163.172.105.230:9001/live?channelId=639&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 6 - XXX 6
+http://163.172.105.230:9001/live?channelId=640&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,XXX 7 - XXX 7
+http://163.172.105.230:9001/live?channelId=641&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Yesterday - Yesterday
+http://163.172.106.120:9001/live?channelId=1020&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Ziggo Sport eXtra 1
+http://163.172.105.230:9001/live?channelId=273&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Ziggo Sport eXtra 2
+http://163.172.105.230:9001/live?channelId=274&uid=7826&deviceMac=00:1A:79:3C:C9:B2
+#EXTINF:0,Ziggo Sport Voetbal
+http://163.172.105.230:9001/live?channelId=275&uid=7826&deviceMac=00:1A:79:3C:C9:B2
 
 
 
