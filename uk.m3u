@@ -1,106 +1,147 @@
 #EXTM3U
 #EXTINF:-1,Universal
 http://93.158.220.163:2000/play/a024
+#EXTINF:0,Sky Arts
+http://156.67.242.147:9981/stream/channelid/371176458?ticket=C138BAE715071D753CEAD5860AD48B9DDEA7B085&profile=pass
+#EXTINF:0,Sky Christmas HD
+http://156.67.242.147:9981/stream/channelid/717307021?ticket=2D558DF6BEA32873B4F546B4CA2D88879084A00B&profile=pass
+#EXTINF:0,Premier Sports
+http://156.67.242.147:9981/stream/channelid/301666327?ticket=5905E8D1451C829CCEB807052EFBBC49D3AE02BE&profile=pass
+#EXTINF:0,Sky One
+http://156.67.242.147:9981/stream/channelid/1830900951?ticket=481E8FC2304F929D119F0EA17DEC63BE2EAAAC58&profile=pass
+#EXTINF:0,Sky Living
+http://156.67.242.147:9981/stream/channelid/1654588468?ticket=618439FF091AAF9652255088C709F55BD04F0E8D&profile=pass
+#EXTINF:0,W
+http://156.67.242.147:9981/stream/channelid/1936178887?ticket=0E0FA7E812AFDA8F2D78A01C5E2B4011EA8E964F&profile=pass
+#EXTINF:0,GOLD
+http://156.67.242.147:9981/stream/channelid/1575524130?ticket=22F89F02D97A1A8EE853CE69676A2E3428C0F5B5&profile=pass
+#EXTINF:0,Dave
+http://156.67.242.147:9981/stream/channelid/890069834?ticket=F2C1838D9487DB261F41B1EFE3392539AEF8517D&profile=pass
+#EXTINF:0,Comedy Central
+http://156.67.242.147:9981/stream/channelid/1926860609?ticket=78D6D13B9F444B727EC3B7C7C63BBD9EB4585FFD&profile=pass
+#EXTINF:0,Universal Channel
+http://156.67.242.147:9981/stream/channelid/1257147981?ticket=03A98A4984518D84FC4157A6649B0B762DD133F3&profile=pass
+#EXTINF:0,Sky Two
+http://156.67.242.147:9981/stream/channelid/1903464272?ticket=D294A5824B4C17098F0DC3F1C2EA7CEF56B70A5A&profile=pass
+#EXTINF:0,alibi
+http://156.67.242.147:9981/stream/channelid/402988951?ticket=9B1251D5E8A43D826BDA62596859BD7E74153E7D&profile=pass
+#EXTINF:0,Christmas Food
+http://156.67.242.147:9981/stream/channelid/883094192?ticket=517C6C1BF3C3EC08B739BF37F9EDD2E3D6B01308&profile=pass
+#EXTINF:0,TLC
+http://156.67.242.147:9981/stream/channelid/593175281?ticket=EB413BE6D498A5FC8BB3A2C7F955316DE812F7A0&profile=pass
+#EXTINF:0,Drama
+http://156.67.242.147:9981/stream/channelid/314187372?ticket=5D6E500D96BC1D56068C0B808AF0682249DFB46B&profile=pass
+#EXTINF:0,FOX
+http://156.67.242.147:9981/stream/channelid/158702687?ticket=20551A385128474C2E75CDB5176E324B5349B4C8&profile=pass
+#EXTINF:0,Sony Channel
+http://156.67.242.147:9981/stream/channelid/895913806?ticket=389530669036A1E0A3DE2903DBD42356ED08DE2A&profile=pass
+#EXTINF:0,E!
+http://156.67.242.147:9981/stream/channelid/909964915?ticket=73F881F9E8621FB5EBA7318714259DE5E4BC6061&profile=pass
+#EXTINF:0,Home
+http://156.67.242.147:9981/stream/channelid/1208244410?ticket=2378C8FFA38DE97A05DAD552D637FAD9F2EBF92A&profile=pass
+#EXTINF:0,Sky Premiere
+http://156.67.242.147:9981/stream/channelid/1744156733?ticket=EE9DEA49115760647113BFC24510949015A5D4FD&profile=pass
+#EXTINF:0,Sky ScFi Horror
+http://156.67.242.147:9981/stream/channelid/319186960?ticket=765DDB2E9DFAB41200E7EAEBD48597B47BD08944&profile=pass
+#EXTINF:0,Sky Superhero
+http://156.67.242.147:9981/stream/channelid/1331410757?ticket=FEF1EDD4C2231A5CE98C14E4F7B9C98BDCCDFB6E&profile=pass
+#EXTINF:0,Sky Disney
+http://156.67.242.147:9981/stream/channelid/140659421?ticket=D96561E743E63E359832E6060A366CB634F63C0E&profile=pass
+#EXTINF:0,Sky Family
+http://156.67.242.147:9981/stream/channelid/1429447875?ticket=4D84D648448E5FE84387E446C1BADC929F2DA4BD&profile=pass
+#EXTINF:0,Sky Action
+http://156.67.242.147:9981/stream/channelid/1574094625?ticket=65A020B9251A87E071768F5407E85C18C44BB489&profile=pass
+#EXTINF:0,Sky Comedy
+http://156.67.242.147:9981/stream/channelid/1350065587?ticket=888DE99F313E43FA04618E7DBC08AA89BB7C396E&profile=pass
+#EXTINF:0,Sky Thriller
+http://156.67.242.147:9981/stream/channelid/1033077064?ticket=4102A1CB630BE890453F9B1D54C42DED75A8BC69&profile=pass
+#EXTINF:0,Sky Christmas
+http://156.67.242.147:9981/stream/channelid/841233956?ticket=354DAC6C81CE4E890E23F9976F3D87DB6677EF15&profile=pass
+#EXTINF:0,Sky Hits
+http://156.67.242.147:9981/stream/channelid/816146941?ticket=B1814CDCC22EE7D4E64D8B03AD8FD5BF62C868AB&profile=pass
+#EXTINF:0,Sky Select
+http://156.67.242.147:9981/stream/channelid/1837438843?ticket=0C1C4D32E1E16371B4FEC7F61BACA80BCDB6F08E&profile=pass
+#EXTINF:0,Sony Movie Channel
+http://156.67.242.147:9981/stream/channelid/1827207014?ticket=CE3081A48BCC77BBD88B7A53B27FA5FDA890E026&profile=pass
+#EXTINF:0,Christmas 24
+http://156.67.242.147:9981/stream/channelid/225206482?ticket=31C9E107BF66F12A768A86DE8300455EDED6475E&profile=pass
+#EXTINF:0,Sky Sports Mix
+http://156.67.242.147:9981/stream/channelid/1068252298?ticket=378877ED63FC01296231602AFFD34E591020C9B5&profile=pass
+#EXTINF:0,Sky Sports Arena
+http://156.67.242.147:9981/stream/channelid/1755625648?ticket=9899C6FCB9CF2B821A6B2B64C9EB50F2C48E20D1&profile=pass
+#EXTINF:0,Sky Sports Main Event
+http://156.67.242.147:9981/stream/channelid/247319595?ticket=50CEB34DD43E62934793BF3FEDF62A8AFFDCFAFC&profile=pass
+#EXTINF:0,Sky Sports Cricket
+http://156.67.242.147:9981/stream/channelid/1380013416?ticket=AF9204FABF4CB769B8CF6EDBDC2E180031FB48EB&profile=pass
+#EXTINF:0,Sky Sports Action
+http://156.67.242.147:9981/stream/channelid/307651229?ticket=9C05EEAA4C73D3C068342D9A64FF04CA176411D4&profile=pass
+#EXTINF:0,Sky Sports Golf
+http://156.67.242.147:9981/stream/channelid/142489187?ticket=6D9CCF055E5693F1AC0CAAACF7A6D6982D56F94B&profile=pass
+#EXTINF:0,Sky Sports PL
+http://156.67.242.147:9981/stream/channelid/1060982042?ticket=34F9EB5C02793B8CE229673ECFF22C7D14F3BF25&profile=pass
+#EXTINF:0,Sky Sports Football
+http://156.67.242.147:9981/stream/channelid/452192689?ticket=68454AAE545AA996795A4A77641C793117658D31&profile=pass
+#EXTINF:0,Sky Sports F1
+http://156.67.242.147:9981/stream/channelid/1028421447?ticket=2999599A06F068FC1C5D2DB2C8473F8039E82BB2&profile=pass
+#EXTINF:0,Sky Sports News
+http://156.67.242.147:9981/stream/channelid/636697437?ticket=1ECB9D681D852BCBABF5A4F29503630ABFD9AB96&profile=pass
+#EXTINF:0,Box Nation
+http://156.67.242.147:9981/stream/channelid/1634840327?ticket=D25AF0D2884C80D041BB130BA2215DC422B7E7BA&profile=pass
+#EXTINF:0,At The Races
+http://156.67.242.147:9981/stream/channelid/819325289?ticket=660EA1BE292AD5A5790DA2090BD0D28319E7528E&profile=pass
+#EXTINF:0,Racing UK
+http://156.67.242.147:9981/stream/channelid/1115318796?ticket=FA2F0B900EFC996800863CB9AF218886DBB211DA&profile=pass
+#EXTINF:0,MUTV
+http://156.67.242.147:9981/stream/channelid/1849696733?ticket=D242227C5E5888AA73D343006DECF6F3F0ACF074&profile=pass
+#EXTINF:0,Eurosport 1
+http://156.67.242.147:9981/stream/channelid/354999186?ticket=17FB8D60169F4712FF63D29095A86C9340A3BC09&profile=pass
+#EXTINF:0,Eurosport 2
+http://156.67.242.147:9981/stream/channelid/1571412836?ticket=4376D03F6D31FB195E05FC8B53AB27EB8D9EBE59&profile=pass
+#EXTINF:0,Discovery Channel
+http://156.67.242.147:9981/stream/channelid/892126162?ticket=C5F8BC4479F4E0ED98197638F2DA7A09049A2335&profile=pass
+#EXTINF:0,Discovery Science
+http://156.67.242.147:9981/stream/channelid/723614698?ticket=7F102C67D316AA941E6A331B7542625729EE3B4F&profile=pass
+#EXTINF:0,Discovery Turbo
+http://156.67.242.147:9981/stream/channelid/1804551613?ticket=D31877E81C28C3CFC547D56714C01593E34ACB83&profile=pass
+#EXTINF:0,Home & Health
+http://156.67.242.147:9981/stream/channelid/1712223347?ticket=F18B72BA420DF65CC3ABB5926582CCE3FAEE737B&profile=pass
+#EXTINF:0,Animal Planet
+http://156.67.242.147:9981/stream/channelid/18953650?ticket=D626B9D64A0C2FF7190B5B1BCA58B635A202EF7D&profile=pass
+#EXTINF:0,National Geographic
+http://156.67.242.147:9981/stream/channelid/658247047?ticket=C2A0797A046E0E83E85E293FDA338163AE29594B&profile=pass
+#EXTINF:0,Discovery Shed
+http://156.67.242.147:9981/stream/channelid/1272756355?ticket=49AD12390411BBBEA82CEE41817D3FC9DEB203BC&profile=pass
+#EXTINF:0,Nat Geo WILD
+http://156.67.242.147:9981/stream/channelid/1334758155?ticket=F263F0ED1D079E8D23535BB6FE2B86B74AF61C5B&profile=pass
+#EXTINF:0,HISTORY
+http://156.67.242.147:9981/stream/channelid/647568488?ticket=28C3151D2FE4943F8B6A2DBCEFA8B90869713E8C&profile=pass
+#EXTINF:0,H2
+http://156.67.242.147:9981/stream/channelid/828746984?ticket=14B333037B01B7701116D86D916223AC6B27C495&profile=pass
+#EXTINF:0,Discovery History
+http://156.67.242.147:9981/stream/channelid/1509314374?ticket=26D28C606372B68B663DB64A5FD46AEE78E28B02&profile=pass
+#EXTINF:0,YESTERDAY
+http://156.67.242.147:9981/stream/channelid/1612591815?ticket=E5245BA12C9B3A60CDEF38CA30E885892DE1AE93&profile=pass
+#EXTINF:0,Crime+Inv
+http://156.67.242.147:9981/stream/channelid/1092740692?ticket=2844F22EBC6C9C8A83D7D436A4B7D98ADC4BCD3C&profile=pass
+#EXTINF:0,I.D.
+http://156.67.242.147:9981/stream/channelid/624763579?ticket=03A6599A0443D002FFE6F00596177E874021486F&profile=pass
+#EXTINF:0,Cartoon Network
+http://156.67.242.147:9981/stream/channelid/732515229?ticket=FB50665A98B4DC7FD81293CC9086B35018513C46&profile=pass
+#EXTINF:0,Nickelodeon
+http://156.67.242.147:9981/stream/channelid/1533034161?ticket=9BE499CB1B4198B00F63FE78A1F146311C642890&profile=pass
+#EXTINF:0,Nicktoons
+http://156.67.242.147:9981/stream/channelid/504473228?ticket=5A5F712CF4CB9D8461CE4718892E79460D3791C4&profile=pass
+#EXTINF:0,Nick Junior
+http://156.67.242.147:9981/stream/channelid/882215082?ticket=203BC733712EC386A114A4121FE420C7D4B1AF24&profile=pass
+#EXTINF:0,Boomerang
+http://156.67.242.147:9981/stream/channelid/1401805813?ticket=A61202BEC17ADD4A4EF147324BDE37A6C74EFAE4&profile=pass
+#EXTINF:0,Disney Channel
+http://156.67.242.147:9981/stream/channelid/535851984?ticket=7B8F9BC8272C097B8C493006AEF51386E6B4A95C&profile=pass
+#EXTINF:0,Disney XD
+http://156.67.242.147:9981/stream/channelid/1185913276?ticket=DD6A7F7929DBDB5025EEAF5AF1203669898B94F5&profile=pass
+#EXTINF:0,Disney Junior
+http://156.67.242.147:9981/stream/channelid/2093735839?ticket=BDD38978F4FFE73A754B7FDD61B8AC52747F7A7D&profile=pass
 
-#EXTINF:0,Universal - Universal
-http://163.172.106.120:9001/live?channelId=1022&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA ACTION THRILLER
-http://163.172.51.148:9001/live?channelId=112&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA COMEDY
-http://163.172.106.121:9001/live?channelId=111&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA DISNEY
-http://163.172.106.121:9001/live?channelId=110&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA DRAMA AND ROMANCE
-http://163.172.106.121:9001/live?channelId=109&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA FAMILY
-http://163.172.106.121:9001/live?channelId=108&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA HITS
-http://163.172.105.230:9001/live?channelId=481&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA MODERN GREATS
-http://62.210.214.33:80/live?channelId=396&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA PREMIERE
-http://163.172.106.121:9001/live?channelId=106&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA SCI-FI & HORROR
-http://163.172.106.121:9001/live?channelId=105&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA SELECT
-http://163.172.106.121:9001/live?channelId=104&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CINEMA THRILLER
-http://163.172.106.121:9001/live?channelId=103&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,24/7 Family Guy
-http://163.172.14.210:80/live?channelId=706&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,24/7 Kids Movies - 24/7 Kids Movies
-http://163.172.105.230:9001/live?channelId=568&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Cartoon network - Cartoon network
-http://163.172.14.218:80/live?channelId=88&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,CNN NEWS - CNN NEWS
-http://163.172.51.148:9001/live?channelId=79&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,ComedyCentral - ComedyCentral
-http://163.172.106.120:9001/live?channelId=987&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,ComedyXtra - ComedyXtra
-http://163.172.106.120:9001/live?channelId=988&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Crime and Investigation - Crime and Investigation
-http://163.172.106.120:9001/live?channelId=995&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Dave - Dave
-http://163.172.106.120:9001/live?channelId=1008&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Dave ja vu - Dave ja vu
-http://163.172.106.120:9001/live?channelId=1009&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
-http://163.172.106.106:80/live?channelId=883&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disc.History - Disc.History
-http://163.172.106.120:9001/live?channelId=989&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disc.Science - Disc.Science
-http://163.172.106.120:9001/live?channelId=990&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disc.Turbo - Disc.Turbo
-http://163.172.106.120:9001/live?channelId=991&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Discovery - Discovery
-http://163.172.106.120:9001/live?channelId=992&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Discovery (US) - Discovery (US)
-http://163.172.106.106:80/live?channelId=884&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
-http://163.172.106.106:80/live?channelId=885&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Discovery Shed - Discovery Shed
-http://163.172.106.120:9001/live?channelId=994&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disney Channel - Disney Channel
-http://163.172.14.210:80/live?channelId=85&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disney Jr - Disney Jr
-http://163.172.14.218:80/live?channelId=87&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Disney XD - Disney XD
-http://163.172.87.158:9001/live?channelId=86&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,DMAX - DMAX
-http://163.172.106.120:9001/live?channelId=993&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Drama - Drama
-http://163.172.106.120:9001/live?channelId=1010&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,E! - E!
-http://163.172.106.120:9001/live?channelId=1011&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
-http://163.172.106.106:80/live?channelId=886&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-
-#EXTINF:0,Syfy - Syfy
-http://163.172.106.120:9001/live?channelId=1002&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,SYFY (US) - SYFY (US)
-http://163.172.106.106:80/live?channelId=892&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TBS (US) - TBS (US)
-http://163.172.106.106:80/live?channelId=893&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TG4 - TG4
-http://163.172.106.120:9001/live?channelId=66&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,The Inbetweeners
-http://163.172.14.210:80/live?channelId=708&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TLC - TLC
-http://163.172.106.120:9001/live?channelId=1001&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,Top Gear - Top Gear
-http://163.172.14.210:80/live?channelId=555&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TSN 1 - TSN 1
-http://163.172.106.106:80/live?channelId=898&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TSN 2 - TSN 2
-http://163.172.106.106:80/live?channelId=899&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TSN 3 - TSN 3
-http://163.172.106.106:80/live?channelId=900&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TSN 4 - TSN 4
-http://163.172.106.106:80/live?channelId=901&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TSN 5 - TSN 5
-http://163.172.106.106:80/live?channelId=902&uid=7826&deviceMac=00:1A:79:3C:C9:B2
-#EXTINF:0,TV3 - TV3
-http://163.172.106.120:9001/live?channelId=65&uid=7826&deviceMac=00:1A:79:3C:C9:B2
 
 
 #EXTINF:-1,Syfy
