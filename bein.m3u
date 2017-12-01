@@ -1,20 +1,21 @@
-#EXTINF:0,FR bein1
+#EXTM3U 
+#EXTINF:-1,bein1 
 http://198.16.106.26:1642/m3u8/bein1.m3u8
-#EXTINF:0,FR bein2
+#EXTINF:-1,bein2 
 http://198.16.106.26:1642/m3u8/bein2.m3u8
-#EXTINF:0,FR bein3
+#EXTINF:-1,bein3 
 http://198.16.106.26:1642/m3u8/bein3.m3u8
-#EXTINF:0,FR bein4
+#EXTINF:-1,bein4 
 http://198.16.106.26:1642/m3u8/bein4.m3u8
-#EXTINF:0,FR bein5
+#EXTINF:-1,bein5 
 http://198.16.106.26:1642/m3u8/bein5.m3u8
-#EXTINF:0,FR bein6
+#EXTINF:-1,bein6 
 http://198.16.106.26:1642/m3u8/bein6.m3u8
-#EXTINF:0,FR bein7
+#EXTINF:-1,bein7 
 http://198.16.106.26:1642/m3u8/bein7.m3u8
-#EXTINF:0,FR bein8
+#EXTINF:-1,bein8 
 http://198.16.106.26:1642/m3u8/bein8.m3u8
-#EXTINF:0,FR bein9
+#EXTINF:-1,bein9 
 http://198.16.106.26:1642/m3u8/bein9.m3u8
-#EXTINF:0,FR bein10
+#EXTINF:-1,bein10 
 http://198.16.106.26:1642/m3u8/bein10.m3u8
