@@ -1,82 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Universal+1
+http://93.158.220.163:2000/play/a020
 #EXTINF:-1,Universal
 http://93.158.220.163:2000/play/a024
-
-#EXTINF:-1,Sky Movies Action&Adventure
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1218.ts
-#EXTINF:-1,Sky Movies SiFi
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1211.ts
-#EXTINF:-1,Sky Movies Thriller
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1209.ts
-#EXTINF:-1,Sky Movies Select
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1210.ts
-#EXTINF:-1,Sky Movies Greats
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1213.ts
-#EXTINF:-1,Sky Movies Premiere
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1212.ts
-#EXTINF:-1,Sky Movies Family
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1214.ts
-#EXTINF:-1,Sky Movies Comedy
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1217.ts
-#EXTINF:-1,SKY CINEMA HITS
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1318.ts
-#EXTINF:-1,Sky movies Drama & Romance HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1215.ts
-#EXTINF:-1,Sky Movies Disney
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1216.ts
-#EXTINF:-1,Sky Atlantic
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1208.ts
-#EXTINF:-1,HBO INDIA
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/870.ts
-#EXTINF:-1,AXN
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/759.ts
-#EXTINF:-1,STAR MOVIES
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/836.ts
-#EXTINF:-1,OSN CINEMA 1
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7523.ts
-#EXTINF:-1,OSN CINEMA 2
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7522.ts
-#EXTINF:-1,OSN FOX ACTION MOVIES HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7517.ts
-#EXTINF:-1,OSN FOX FAMILY MOVIES HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7516.ts
-#EXTINF:-1,OSN MOVIES
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7513.ts
-#EXTINF:-1,OSN MOVIES 2 HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7532.ts
-#EXTINF:-1,OSN MOVIES ACTION 2 HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7531.ts
-#EXTINF:-1,OSN MOVIES ACTION HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7530.ts
-#EXTINF:-1,OSN Movies Box Office 1HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7512.ts
-#EXTINF:-1,OSN Movies Box Office 3HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7511.ts
-#EXTINF:-1,OSN Movies Box Office-2HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7510.ts
-#EXTINF:-1,OSN Movies Comedy HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7509.ts
-#EXTINF:-1,OSN MOVIES FAMILY HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7529.ts
-#EXTINF:-1,OSN Movies First HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7507.ts
-#EXTINF:-1,OSN Movies First HD 2
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7506.ts
-#EXTINF:-1,OSN MOVIES HBO
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7528.ts
-#EXTINF:-1,OSN Movies HD Action
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7505.ts
-#EXTINF:-1,OSN Movies HD Family
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7504.ts
-#EXTINF:-1,OSN Movies Kids HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7503.ts
-#EXTINF:-1,OSN Movies Premiere HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7502.ts
-#EXTINF:-1,OSN MOVIES THIRELLER HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7526.ts
-#EXTINF:-1,OSN MOVIES THRILLER
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7501.ts
-
 #EXTINF:-1,Syfy
 http://93.158.220.163:2000/play/a023
 #EXTINF:-1,CITV UK
@@ -143,7 +69,6 @@ http://93.158.220.163:2000/play/a02u
 http://93.158.220.163:2000/play/a02g
 #EXTINF:-1,mov4men+1
 http://93.158.220.163:2000/play/a01q
-
 #EXTINF:-1,e4
 http://93.158.220.163:2000/play/a01i
 #EXTINF:-1,ITV 4
@@ -220,3 +145,69 @@ http://93.158.220.163:2000/play/a025
 http://93.158.220.163:2000/play/a02h
 #EXTINF:-1,DMAX+1
 http://93.158.220.163:2000/play/a00z
+#EXTINF:-1,Syfy
+http://93.158.220.163:2000/play/a023
+#EXTINF:-1,CITV UK
+http://93.158.220.163:2000/play/a02b
+#EXTINF:-1,More 4
+http://93.158.220.163:2000/play/a02p
+#EXTINF:-1,51125
+http://93.158.220.163:2000/play/a01w
+#EXTINF:-1,eir Sport 2
+http://93.158.220.163:2000/play/a01v
+#EXTINF:-1,TLC+1
+http://93.158.220.163:2000/play/a012
+#EXTINF:-1,Sony Movies
+http://93.158.220.163:2000/play/a01p
+#EXTINF:-1,Disc.History+1
+http://93.158.220.163:2000/play/a010
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02q
+#EXTINF:-1,Peace TV Urdu
+http://93.158.220.163:2000/play/a01t
+#EXTINF:-1,Disc.Sci+1
+http://93.158.220.163:2000/play/a00x
+#EXTINF:-1,Tiny Pop +1
+http://93.158.220.163:2000/play/a037
+#EXTINF:-1,E!
+http://93.158.220.163:2000/play/a021
+#EXTINF:-1,Movies24+
+http://93.158.220.163:2000/play/a026
+#EXTINF:-1,movies4men
+http://93.158.220.163:2000/play/a01o
+#EXTINF:-1,E! +1
+http://93.158.220.163:2000/play/a022
+#EXTINF:-1,HomeHealth+1
+http://93.158.220.163:2000/play/a013
+#EXTINF:-1,ID+1
+http://93.158.220.163:2000/play/a03h
+#EXTINF:-1,Bike
+http://93.158.220.163:2000/play/a028
+#EXTINF:-1,BBC Two Wales
+http://93.158.220.163:2000/play/a02x
+#EXTINF:-1,ITV 4 +1
+http://93.158.220.163:2000/play/a02d
+#EXTINF:-1,Channel 4 +1
+http://93.158.220.163:2000/play/a02o
+#EXTINF:-1,Racing UK
+http://93.158.220.163:2000/play/a01s
+#EXTINF:-1,Sony Movies+1
+http://93.158.220.163:2000/play/a01r
+#EXTINF:-1,POP Max +1
+http://93.158.220.163:2000/play/a03a
+#EXTINF:-1,ITVi Stream 44
+http://93.158.220.163:2000/play/a029
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02k
+#EXTINF:-1,eir Sport 1
+http://93.158.220.163:2000/play/a01u
+#EXTINF:-1,Channel 4 London
+http://93.158.220.163:2000/play/a02f
+#EXTINF:-1,51126
+http://93.158.220.163:2000/play/a01x
+#EXTINF:-1,BBC One East
+http://93.158.220.163:2000/play/a02u
+#EXTINF:-1,Film4
+http://93.158.220.163:2000/play/a02g
+#EXTINF:-1,mov4men+1
+http://93.158.220.163:2000/play/a01q
