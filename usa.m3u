@@ -1,142 +1,105 @@
-
-
-#EXTINF:-1 tvg-id="HBO (East) (HBO)" tvg-name="HBO" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="USA TV",HBO
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="HBO Signature HDTV (East)" tvg-name="HBO SIGNATURE" tvg-logo="http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png/medium" group-title="USA TV",HBO SIGNATURE
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_signature_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO FAMILY" tvg-logo="http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png/medium" group-title="USA TV",HBO FAMILY
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_family_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="USA TV",HBO HITS
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO FAMILY" tvg-logo="https://cms.cignal.tv/Upload/Images/Red-by-HBO.png" group-title="USA TV",HBO RED
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/red_by_hbo_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png/medium" group-title="USA TV",CINEMAX
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/cinemax_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="http://3.bp.blogspot.com/-oYNXUOTyr9w/VFoqo54ECBI/AAAAAAAAo7o/o9b2_GphlAI/s1600/fox-action.png" group-title="LATINO / SPANISH TV",FOX ACTION
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_action_movies_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="http://www.amadaworld.com/wp-content/uploads/2016/09/image.png" group-title="LATINO / SPANISH TV",FOX MOVIES PREMIUM
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_movies_premium_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png/medium" group-title="USA TV",FX
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fx_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/2000px-Fox_Crime_logo.svg.png" group-title="USA TV",FOX CRIME
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_crime_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="USA TV",THRILL
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/thrill_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA TV",FOX THAI
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_thai_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Medium_true-movies.jpg/revision/latest?cb=20120206161930" group-title="USA TV",TRUE MOVIES HITS
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/true_movie_hits_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Zee_TV_Logo_2014.png" group-title="USA TV",ZEE
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/ais_zeenung_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest?cb=20120620033034" group-title="USA TV",CELESTIAL MOVIES
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/celestial_classic_movies_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/62/STAR_World_2013.png/revision/latest?cb=20140126094650" group-title="USA TV",STARWORLD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/starworld_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png/revision/latest?cb=20120212152553" group-title="USA TV",WARNER TV
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/warner_tv_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" group-title="USA TV",DISCOVERY CHANNEL
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/discovery_channel_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Discovery_World_Latinoamerica_alternative_logo.png/revision/latest?cb=20170120192753" group-title="USA TV",DISCOVERY HD WORLD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/discovery_hd_world_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="USA TV",HISTORY CHANNEL
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/history_channel_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png" group-title="USA TV",H2
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/h2_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NATIONAL GEOGRAPHIC CHANNEL
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="NatGeo WILD HDTV" tvg-name="NAT GEO WILD" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsvxt1433778733.png/medium" group-title="USA TV",NAT GEO WILD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_wild_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="NatGeo WILD HDTV" tvg-name="NAT GEO WILD" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ADV/ngp-colour-lightbg.png" group-title="USA TV",NAT GEO PEOPLE
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_people_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FYI HDTV" tvg-name="FYI" tvg-logo="https://www.thelogodb.com/images/media/logo/svrrts1433430996.png/medium" group-title="USA TV",FYI
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/fyi_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FYI HDTV" tvg-name="FYI" tvg-logo="http://bite-in.com/siol/logos/crimeinvestigation.png" group-title="USA TV",CRIME INVESTIGATION
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////foreign/ci_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="FYI HDTV" tvg-name="FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="USA TV",DMAX
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/dmax_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium" group-title="USA TV",ANIMAL PLANET
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/animal_planet_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="USA TV",BBC EARTH
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/bbc_earth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/964px-Tlc_logo_discovery.svg.png" group-title="USA TV",TLC
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/tlc_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a937.png" group-title="USA TV",TRUE WILD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_wild_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://obmsbke.truevisions.tv/logo/channel/True-Explore-Life.png" group-title="USA TV",TRUE LIVE
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_life_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="http://obmsbke.truevisions.tv/logo/channel/True-Explore-Sci.png" group-title="USA TV",TRUE SCI
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_sci_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=t9xqpZgHKsEOukNTQyzgJQ&username2=0885120325&username=15015087917688791768&password=mmmm18b7a2597bd53af6d760&e=151016467
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2000px-NHK_World.svg.png" group-title="USA TV",NHK WORLD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/nhk_world_tv_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="http://logonoid.com/images/arirang-logo.png",ARIRANG
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////foreign/arirang_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="USA TV",FRANCE 24
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/france_24_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="USA TV",EURONEWS
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/euronews_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542" group-title="USA TV",SKYNEWS
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/sky_news_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png/medium" group-title="USA TV",FOX NEWS CHANNEL
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/fox_news_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="http://cyclingwithoutage.sg/wp-content/uploads/2016/06/channel-newsasia.png" group-title="USA TV",CHANNEL NEWS ASIA
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/channel_newsasia_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116" group-title="USA TV",DISNEY XD
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/disney_xd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e6/Logo_Discovery_Kids_2016.png/revision/latest?cb=20170514011540" group-title="USA TV",DISCOVERY KIDS
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/discovery_kids_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="USA TV",NICK JR
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/nick_jr._720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/2000px-Toonami_logo.svg.png" group-title="USA TV",TOONAMI
-http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/toonami_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=5j0nUzFJQkGle0EG2XV7GQ&username2=0885120325&username=15015087917688791768&password=mmmmdad28e9400703c4f24a3&e=1510346224
-#EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" 
-#EXTINF:-1,Spike
-http://185.62.86.6:8081/hls/spike.m3u8
-#EXTINF:-1,Sony
-http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
-#EXTINF:-1,Quest
-http://185.62.86.6:8081/hls/quest.m3u8
-#EXTINF:-1,Food network
-http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#EXTINF:-1,Challenge
-http://185.62.86.6:8081/hls/challenge.m3u8
-#EXTINF:-1,4seven
-http://185.62.86.6:8081/hls/4seven.m3u8
-#EXTINF:-1,Movie4men
-http://185.62.86.6:8081/hls/movies4men.m3u8
-#EXTINF:-1,CBS Action
-http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1,CBS Reality
-http://185.62.86.6:8081/hls/cbsreality.m3u8
-#EXTINF:-1,horrorchannel
-http://185.62.86.6:8081/hls/horrorchannel.m3u8
-#EXTINF:-1,yourtv
-http://185.62.86.6:8081/hls/yourtv.m3u8
-#EXTINF:-1,Blaze
-http://185.62.86.6:8081/hls/blaze.m3u8
-#EXTINF:-1,4music
-http://185.62.86.6:8081/hls/4music.m3u8
-#EXTINF:-1,travelchannel
-http://185.62.86.6:8081/hls/travelchannel.m3u8
-#EXTINF:-1,cbsdrama
-http://185.62.86.6:8081/hls/cbsdrama.m3u8
-#EXTINF:-1,trytv
-http://185.62.86.6:8081/hls/trutv.m3u8
-#EXTINF:-1,my5
-http://185.62.86.6:8081/hls/my5.m3u8
-
-
-#EXTINF:-1,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-
-#EXTINF:-1, CBS NEWS HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1, H2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-
-#EXTINF:-1, DISCOVERY CHANNEL HD
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1, ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,A&E USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/447.ts
+#EXTINF:-1,ABC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/446.ts
+#EXTINF:-1,AMC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/444.ts
+#EXTINF:-1,Animal Planet USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/443.ts
+#EXTINF:-1,Bravo USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/430.ts
+#EXTINF:-1,CartoonNet USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/429.ts
+#EXTINF:-1,CBS USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/428.ts
+#EXTINF:-1,Cinemax USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/427.ts
+#EXTINF:-1,Comedy Central USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/426.ts
+#EXTINF:-1,Crime & Investigation USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/425.ts
+#EXTINF:-1,CW USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/424.ts
+#EXTINF:-1,Discovery Channel USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/423.ts
+#EXTINF:-1,ESPN USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/422.ts
+#EXTINF:-1,Fox USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/421.ts
+#EXTINF:-1,FX USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/420.ts
+#EXTINF:-1,Golf Channel USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/419.ts
+#EXTINF:-1,HBO Signature USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/417.ts
+#EXTINF:-1,HBOZoneUSA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/416.ts
+#EXTINF:-1,History USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/415.ts
+#EXTINF:-1,National Geographic USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/414.ts
+#EXTINF:-1,NBA USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/413.ts
+#EXTINF:-1,NBC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/412.ts
+#EXTINF:-1,NBCSN USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/411.ts
+#EXTINF:-1,Nick USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/409.ts
+#EXTINF:-1,Showtime USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/408.ts
+#EXTINF:-1,Starz USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/400.ts
+#EXTINF:-1,Syfy USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/399.ts
+#EXTINF:-1,tbs-usa
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/398.ts
+#EXTINF:-1,TLC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/397.ts
+#EXTINF:-1,TNT USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/396.ts
+#EXTINF:-1,USA Network USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/395.ts
+#EXTINF:-1,WWE Network USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/394.ts
+#EXTINF:-1,HBO USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/418.ts
+#EXTINF:-1,Spike USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/401.ts
+#EXTINF:-1,Bein1
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/442.ts
+#EXTINF:-1,Bein10
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/441.ts
+#EXTINF:-1,Bein11
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/440.ts
+#EXTINF:-1,Bein12
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/439.ts
+#EXTINF:-1,Bein2
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/438.ts
+#EXTINF:-1,Bein3
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/437.ts
+#EXTINF:-1,Bein4
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/436.ts
+#EXTINF:-1,Bein5
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/435.ts
+#EXTINF:-1,Bein6
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/434.ts
+#EXTINF:-1,Bein7
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/433.ts
+#EXTINF:-1,Bein8
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/432.ts
+#EXTINF:-1,Bein9
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/431.ts
+#EXTINF:-1,skynet1
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/407.ts
+#EXTINF:-1,skynet2
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/406.ts
+#EXTINF:-1,skynet3
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/405.ts
+#EXTINF:-1,skynet4
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/404.ts
+#EXTINF:-1,skynet5
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/403.ts
+#EXTINF:-1,skynet6
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/402.ts
