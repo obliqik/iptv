@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="" tvg-name="247 Mr Bean" tvg-logo="" group-title="247",247 Mr Bean
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23257.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Phoenix nights" tvg-logo="" group-title="247",247 Phoenix nights
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23256.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 South Park" tvg-logo="" group-title="247",247 South Park
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34797.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 American Dad" tvg-logo="" group-title="247",247 American Dad
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/22797.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Family Guy" tvg-logo="" group-title="247",247 Family Guy
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34740.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Bottom" tvg-logo="" group-title="247",247 Bottom
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/22798.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Married with Children" tvg-logo="" group-title="247",247 Married with Children
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23554.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Only Fools and Horses" tvg-logo="" group-title="247",247 Only Fools and Horses
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/24934.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Peaky Blinders" tvg-logo="" group-title="247",247 Peaky Blinders
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/24935.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Max and Paddy" tvg-logo="" group-title="247",247 Max and Paddy
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26445.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Paw Patrol" tvg-logo="" group-title="247",247 Paw Patrol
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26446.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Peppa Pig" tvg-logo="" group-title="247",247 Peppa Pig
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26447.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Rick & Morty" tvg-logo="" group-title="247",247 Rick & Morty
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34799.ts
+#EXTINF:-1 tvg-id="" tvg-name="247 Friends" tvg-logo="" group-title="247",247 Friends
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/35468.ts
