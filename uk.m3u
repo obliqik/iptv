@@ -1,213 +1,351 @@
 #EXTM3U
-#EXTINF:-1,Universal+1
-http://93.158.220.163:2000/play/a020
-#EXTINF:-1,Universal
-http://93.158.220.163:2000/play/a024
-#EXTINF:-1,Syfy
-http://93.158.220.163:2000/play/a023
-#EXTINF:-1,CITV UK
-http://93.158.220.163:2000/play/a02b
-#EXTINF:-1,More 4
-http://93.158.220.163:2000/play/a02p
-#EXTINF:-1,51125
-http://93.158.220.163:2000/play/a01w
-#EXTINF:-1,eir Sport 2
-http://93.158.220.163:2000/play/a01v
-#EXTINF:-1,TLC+1
-http://93.158.220.163:2000/play/a012
-#EXTINF:-1,Sony Movies
-http://93.158.220.163:2000/play/a01p
-#EXTINF:-1,Disc.History+1
-http://93.158.220.163:2000/play/a010
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02q
-#EXTINF:-1,Peace TV Urdu
-http://93.158.220.163:2000/play/a01t
-#EXTINF:-1,Disc.Sci+1
-http://93.158.220.163:2000/play/a00x
-#EXTINF:-1,Tiny Pop +1
-http://93.158.220.163:2000/play/a037
-#EXTINF:-1,E!
-http://93.158.220.163:2000/play/a021
-#EXTINF:-1,Movies24+
-http://93.158.220.163:2000/play/a026
-#EXTINF:-1,movies4men
-http://93.158.220.163:2000/play/a01o
-#EXTINF:-1,E! +1
-http://93.158.220.163:2000/play/a022
-#EXTINF:-1,HomeHealth+1
-http://93.158.220.163:2000/play/a013
-#EXTINF:-1,ID+1
-http://93.158.220.163:2000/play/a03h
-#EXTINF:-1,Bike
-http://93.158.220.163:2000/play/a028
-#EXTINF:-1,BBC Two Wales
-http://93.158.220.163:2000/play/a02x
-#EXTINF:-1,ITV 4 +1
-http://93.158.220.163:2000/play/a02d
-#EXTINF:-1,Channel 4 +1
-http://93.158.220.163:2000/play/a02o
-#EXTINF:-1,Racing UK
-http://93.158.220.163:2000/play/a01s
-#EXTINF:-1,Sony Movies+1
-http://93.158.220.163:2000/play/a01r
-#EXTINF:-1,POP Max +1
-http://93.158.220.163:2000/play/a03a
-#EXTINF:-1,ITVi Stream 44
-http://93.158.220.163:2000/play/a029
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02k
-#EXTINF:-1,eir Sport 1
-http://93.158.220.163:2000/play/a01u
-#EXTINF:-1,Channel 4 London
-http://93.158.220.163:2000/play/a02f
-#EXTINF:-1,51126
-http://93.158.220.163:2000/play/a01x
-#EXTINF:-1,BBC One East
-http://93.158.220.163:2000/play/a02u
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02g
-#EXTINF:-1,mov4men+1
-http://93.158.220.163:2000/play/a01q
-#EXTINF:-1,e4
-http://93.158.220.163:2000/play/a01i
-#EXTINF:-1,ITV 4
-http://93.158.220.163:2000/play/a02c
-#EXTINF:-1,True Ent +1
-http://93.158.220.163:2000/play/a03e
-#EXTINF:-1,True Ent
-http://93.158.220.163:2000/play/a03d
-#EXTINF:-1,POP+1
-http://93.158.220.163:2000/play/a03c
-#EXTINF:-1,Discovery Shed
-http://93.158.220.163:2000/play/a011
-#EXTINF:-1,Chart Show TV
-http://93.158.220.163:2000/play/a03b
-#EXTINF:-1,The Vault
-http://93.158.220.163:2000/play/a039
-#EXTINF:-1,BBC One Yorkshire & Lincolnshire
-http://93.158.220.163:2000/play/a02s
-#EXTINF:-1,Premier Sports
-http://93.158.220.163:2000/play/a01m
-#EXTINF:-1,Starz TV
-http://93.158.220.163:2000/play/a035
-#EXTINF:-1,More4 +1
-http://93.158.220.163:2000/play/a02i
-#EXTINF:-1,ITV 1 London
-http://93.158.220.163:2000/play/a02a
-#EXTINF:-1,POP
-http://93.158.220.163:2000/play/a036
-#EXTINF:-1,Tiny Pop
-http://93.158.220.163:2000/play/a034
-#EXTINF:-1,BBC One Wales
-http://93.158.220.163:2000/play/a02w
-#EXTINF:-1,Scuzz
-http://93.158.220.163:2000/play/a030
-#EXTINF:-1,ID
-http://93.158.220.163:2000/play/a00v
-#EXTINF:-1,True Christmas
-http://93.158.220.163:2000/play/a032
-#EXTINF:-1,ITV Be
-http://93.158.220.163:2000/play/a02e
-#EXTINF:-1,Chartshow Hits
-http://93.158.220.163:2000/play/a031
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a01h
-#EXTINF:-1,4music
-http://93.158.220.163:2000/play/a02j
-#EXTINF:-1,DMAX
-http://93.158.220.163:2000/play/a00y
-#EXTINF:-1,TrueChrstms+1
-http://93.158.220.163:2000/play/a033
-#EXTINF:-1,E4 +1
-http://93.158.220.163:2000/play/a02n
-#EXTINF:-1,TLC+2
-http://93.158.220.163:2000/play/a014
-#EXTINF:-1,Syfy +1
-http://93.158.220.163:2000/play/a027
-#EXTINF:-1,tru TV
-http://93.158.220.163:2000/play/a02z
-#EXTINF:-1,truTV +1
-http://93.158.220.163:2000/play/a02y
-#EXTINF:-1,POP Max
-http://93.158.220.163:2000/play/a038
-#EXTINF:-1,e4
-http://93.158.220.163:2000/play/a02l
-#EXTINF:-1,Animal Plnt+1
-http://93.158.220.163:2000/play/a00w
-#EXTINF:-1,BBC Parliament
-http://93.158.220.163:2000/play/a02v
-#EXTINF:-1,BBC One West Midlands
-http://93.158.220.163:2000/play/a02r
-#EXTINF:-1,Movies 24
-http://93.158.220.163:2000/play/a025
-#EXTINF:-1,Film4 +1
-http://93.158.220.163:2000/play/a02h
-#EXTINF:-1,DMAX+1
-http://93.158.220.163:2000/play/a00z
-#EXTINF:-1,Syfy
-http://93.158.220.163:2000/play/a023
-#EXTINF:-1,CITV UK
-http://93.158.220.163:2000/play/a02b
-#EXTINF:-1,More 4
-http://93.158.220.163:2000/play/a02p
-#EXTINF:-1,51125
-http://93.158.220.163:2000/play/a01w
-#EXTINF:-1,eir Sport 2
-http://93.158.220.163:2000/play/a01v
-#EXTINF:-1,TLC+1
-http://93.158.220.163:2000/play/a012
-#EXTINF:-1,Sony Movies
-http://93.158.220.163:2000/play/a01p
-#EXTINF:-1,Disc.History+1
-http://93.158.220.163:2000/play/a010
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02q
-#EXTINF:-1,Peace TV Urdu
-http://93.158.220.163:2000/play/a01t
-#EXTINF:-1,Disc.Sci+1
-http://93.158.220.163:2000/play/a00x
-#EXTINF:-1,Tiny Pop +1
-http://93.158.220.163:2000/play/a037
-#EXTINF:-1,E!
-http://93.158.220.163:2000/play/a021
-#EXTINF:-1,Movies24+
-http://93.158.220.163:2000/play/a026
-#EXTINF:-1,movies4men
-http://93.158.220.163:2000/play/a01o
-#EXTINF:-1,E! +1
-http://93.158.220.163:2000/play/a022
-#EXTINF:-1,HomeHealth+1
-http://93.158.220.163:2000/play/a013
-#EXTINF:-1,ID+1
-http://93.158.220.163:2000/play/a03h
-#EXTINF:-1,Bike
-http://93.158.220.163:2000/play/a028
-#EXTINF:-1,BBC Two Wales
-http://93.158.220.163:2000/play/a02x
-#EXTINF:-1,ITV 4 +1
-http://93.158.220.163:2000/play/a02d
-#EXTINF:-1,Channel 4 +1
-http://93.158.220.163:2000/play/a02o
-#EXTINF:-1,Racing UK
-http://93.158.220.163:2000/play/a01s
-#EXTINF:-1,Sony Movies+1
-http://93.158.220.163:2000/play/a01r
-#EXTINF:-1,POP Max +1
-http://93.158.220.163:2000/play/a03a
-#EXTINF:-1,ITVi Stream 44
-http://93.158.220.163:2000/play/a029
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02k
-#EXTINF:-1,eir Sport 1
-http://93.158.220.163:2000/play/a01u
-#EXTINF:-1,Channel 4 London
-http://93.158.220.163:2000/play/a02f
-#EXTINF:-1,51126
-http://93.158.220.163:2000/play/a01x
-#EXTINF:-1,BBC One East
-http://93.158.220.163:2000/play/a02u
-#EXTINF:-1,Film4
-http://93.158.220.163:2000/play/a02g
-#EXTINF:-1,mov4men+1
-http://93.158.220.163:2000/play/a01q
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK | BBC One London" tvg-logo="" group-title="UK: Entertainment",UK | BBC One London
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14330.ts
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="UK | BBC One HD" tvg-logo="" group-title="UK: Entertainment",UK | BBC One HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14334.ts
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="UK | BBC One Scotland HD" tvg-logo="" group-title="UK: Entertainment",UK | BBC One Scotland HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14332.ts
+#EXTINF:-1 tvg-id="BBC2NIreland.uk" tvg-name="UK | BBC One Northern Ireland HD" tvg-logo="" group-title="UK: Entertainment",UK | BBC One Northern Ireland HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14333.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK | BBC Two" tvg-logo="" group-title="UK: Entertainment",UK | BBC Two
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14326.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK | BBC Two HD" tvg-logo="" group-title="UK: Entertainment",UK | BBC Two HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14328.ts
+#EXTINF:-1 tvg-id="BBC2Wales.uk" tvg-name="UK | BBC Two Wales" tvg-logo="" group-title="UK: Entertainment",UK | BBC Two Wales
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18853.ts
+#EXTINF:-1 tvg-id="BBC2NorthernIreland.uk" tvg-name="UK|BbcTwoNi" tvg-logo="" group-title="UK: Entertainment",UK|BbcTwoNi
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34502.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK | ITV" tvg-logo="" group-title="UK: Entertainment",UK | ITV
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14320.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK | ITV HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14324.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK|StvCentralEast" tvg-logo="" group-title="UK: Entertainment",UK|StvCentralEast
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34494.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK|StvCentralWest" tvg-logo="" group-title="UK: Entertainment",UK|StvCentralWest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34493.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK|StvNorth" tvg-logo="" group-title="UK: Entertainment",UK|StvNorth
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34492.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK | STV HD" tvg-logo="" group-title="UK: Entertainment",UK | STV HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14322.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4" tvg-logo="" group-title="UK: Entertainment",UK | Channel 4
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14315.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4 HD" tvg-logo="" group-title="UK: Entertainment",UK | Channel 4 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14316.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5" tvg-logo="" group-title="UK: Entertainment",UK | Channel 5
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14312.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 HD" tvg-logo="" group-title="UK: Entertainment",UK | Channel 5 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14313.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK | Sky 1" tvg-logo="" group-title="UK: Entertainment",UK | Sky 1
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14310.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK | Sky 1 HD" tvg-logo="" group-title="UK: Entertainment",UK | Sky 1 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14311.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK | Sky Living" tvg-logo="" group-title="UK: Entertainment",UK | Sky Living
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14306.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK | Sky Living HD" tvg-logo="" group-title="UK: Entertainment",UK | Sky Living HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14307.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic" tvg-logo="" group-title="UK: Entertainment",UK | Sky Atlantic
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14308.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic HD" tvg-logo="" group-title="UK: Entertainment",UK | Sky Atlantic HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14309.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK | W" tvg-logo="" group-title="UK: Entertainment",UK | W
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18857.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK | W FHD" tvg-logo="" group-title="UK: Entertainment",UK | W FHD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14239.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK | Gold" tvg-logo="" group-title="UK: Entertainment",UK | Gold
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14256.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK | Dave" tvg-logo="" group-title="UK: Entertainment",UK | Dave
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14268.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK | Dave HD" tvg-logo="" group-title="UK: Entertainment",UK | Dave HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14269.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK | Comedy Central" tvg-logo="" group-title="UK: Entertainment",UK | Comedy Central
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14271.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK | Comedy Central HD" tvg-logo="" group-title="UK: Entertainment",UK | Comedy Central HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14272.ts
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK | Universal HD" tvg-logo="" group-title="UK: Entertainment",UK | Universal HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14240.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK|BBC HD 4" tvg-logo="" group-title="UK: Entertainment",UK|BBC HD 4
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/36272.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2" tvg-logo="" group-title="UK: Entertainment",UK | ITV 2
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14299.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2 HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV 2 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14300.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3" tvg-logo="" group-title="UK: Entertainment",UK | ITV 3
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14296.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3 HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV 3 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14297.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV 4" tvg-logo="" group-title="UK: Entertainment",UK | ITV 4
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14293.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV 4 HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV 4 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14294.ts
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | Sky Arts" tvg-logo="" group-title="UK: Entertainment",UK | Sky Arts
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18858.ts
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK | Sky Arts HD" tvg-logo="" group-title="UK: Entertainment",UK | Sky Arts HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14305.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi HD" tvg-logo="" group-title="UK: Entertainment",UK | Alibi HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18845.ts
+#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-name="UK | ITV Encore HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV Encore HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14289.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK | Fox" tvg-logo="" group-title="UK: Entertainment",UK | Fox
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14258.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK | Fox HD" tvg-logo="" group-title="UK: Entertainment",UK | Fox HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14259.ts
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="UK | Tru TV" tvg-logo="" group-title="UK: Entertainment",UK | Tru TV
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/33461.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK | TLC" tvg-logo="" group-title="UK: Entertainment",UK | TLC
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14251.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK | TLC HD" tvg-logo="" group-title="UK: Entertainment",UK | TLC HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31562.ts
+#EXTINF:-1 tvg-id="VICELAND.uk" tvg-name="UK |VICE LAND" tvg-logo="" group-title="UK: Entertainment",UK |VICE LAND
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/37413.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK | Comedy Extra" tvg-logo="" group-title="UK: Entertainment",UK | Comedy Extra
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14270.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK | Sky 2" tvg-logo="" group-title="UK: Entertainment",UK | Sky 2
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14304.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK | Good Food" tvg-logo="" group-title="UK: Entertainment",UK | Good Food
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14257.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK | E4" tvg-logo="" group-title="UK: Entertainment",UK | E4
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14264.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK | E4 HD" tvg-logo="" group-title="UK: Entertainment",UK | E4 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14265.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK | More 4 HD" tvg-logo="" group-title="UK: Entertainment",UK | More 4 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14250.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK | 4Seven." tvg-logo="" group-title="UK: Entertainment",UK | 4Seven.
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14260.ts
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="UK | PBS" tvg-logo="" group-title="UK: Entertainment",UK | PBS
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18854.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK | Quest" tvg-logo="" group-title="UK: Entertainment",UK | Quest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18856.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK | Challenge" tvg-logo="" group-title="UK: Entertainment",UK | Challenge
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14273.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK | CBS Reality" tvg-logo="" group-title="UK: Entertainment",UK | CBS Reality
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14274.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK | CBS Action" tvg-logo="" group-title="UK: Entertainment",UK | CBS Action
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14276.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK | CBS Drama" tvg-logo="" group-title="UK: Entertainment",UK | CBS Drama
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14275.ts
+#EXTINF:-1 tvg-id="E.uk" tvg-name="UK | E! Entertainment" tvg-logo="" group-title="UK: Entertainment",UK | E! Entertainment
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14263.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK | Pick." tvg-logo="" group-title="UK: Entertainment",UK | Pick.
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14249.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK | Really" tvg-logo="" group-title="UK: Entertainment",UK | Really
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14248.ts
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK | Spike UK" tvg-logo="" group-title="UK: Entertainment",UK | Spike UK
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14246.ts
+#EXTINF:-1 tvg-id="My5.uk" tvg-name="UK | My5" tvg-logo="" group-title="UK: Entertainment",UK | My5
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/33463.ts
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="UK | 5Star" tvg-logo="" group-title="UK: Entertainment",UK | 5Star
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18852.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK | 5 USA" tvg-logo="" group-title="UK: Entertainment",UK | 5 USA
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14280.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITV Be" tvg-logo="" group-title="UK: Entertainment",UK | ITV Be
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14290.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITV Be HD" tvg-logo="" group-title="UK: Entertainment",UK | ITV Be HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14291.ts
+#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="UK | True Entertainment" tvg-logo="" group-title="UK: Entertainment",UK | True Entertainment
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14243.ts
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="UK | True Crime." tvg-logo="" group-title="UK: Entertainment",UK | True Crime.
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14242.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="UK | AMC" tvg-logo="" group-title="UK: Entertainment",UK | AMC
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14277.ts
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="UK | Home" tvg-logo="" group-title="UK: Entertainment",UK | Home
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14254.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK | SYFY" tvg-logo="" group-title="UK: Entertainment",UK | SYFY
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14244.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK | SYFY HD" tvg-logo="" group-title="UK: Entertainment",UK | SYFY HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31560.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK | Food Network" tvg-logo="" group-title="UK: Entertainment",UK | Food Network
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14261.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK | Yesterday" tvg-logo="" group-title="UK: Entertainment",UK | Yesterday
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14238.ts
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK | LIFETIME HD" tvg-logo="" group-title="UK: Entertainment",UK | LIFETIME HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31559.ts
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="UK|BbcOneCambridge" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneCambridge
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34512.ts
+#EXTINF:-1 tvg-id="BBC1NorthEast.uk" tvg-name="UK|BbcOneCumbria" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneCumbria
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34511.ts
+#EXTINF:-1 tvg-id="BBC1East.uk" tvg-name="UK|BbcOneEast" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneEast
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34510.ts
+#EXTINF:-1 tvg-id="BBC1EastMidlands.uk" tvg-name="UK|BbcOneEastMidlands" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneEastMidlands
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34509.ts
+#EXTINF:-1 tvg-id="BBC1Midlands.uk" tvg-name="UK|BbcOneMidlands" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneMidlands
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34508.ts
+#EXTINF:-1 tvg-id="BBC1NorthWest.uk" tvg-name="UK|BbcOneNorthWest" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneNorthWest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34507.ts
+#EXTINF:-1 tvg-id="BBC1South.uk" tvg-name="UK|BbcOneSouth" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneSouth
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34506.ts
+#EXTINF:-1 tvg-id="BBC1West.uk" tvg-name="UK|BbcOneWest" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneWest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34504.ts
+#EXTINF:-1 tvg-id="BBC1Yorkshire.uk" tvg-name="UK|BbcOneYorkshire" tvg-logo="" group-title="UK: Entertainment",UK|BbcOneYorkshire
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34503.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK|ItvAnglia" tvg-logo="" group-title="UK: Entertainment",UK|ItvAnglia
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34501.ts
+#EXTINF:-1 tvg-id="ITV1Border.uk" tvg-name="UK|ItvBorder" tvg-logo="" group-title="UK: Entertainment",UK|ItvBorder
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34500.ts
+#EXTINF:-1 tvg-id="ITV1Granada.uk" tvg-name="UK|ItvGranada" tvg-logo="" group-title="UK: Entertainment",UK|ItvGranada
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34499.ts
+#EXTINF:-1 tvg-id="ITV1Meridian.uk" tvg-name="UK|ItvMeridianEast" tvg-logo="" group-title="UK: Entertainment",UK|ItvMeridianEast
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34498.ts
+#EXTINF:-1 tvg-id="ITV1Meridian.uk" tvg-name="UK|ItvMeridianSc" tvg-logo="" group-title="UK: Entertainment",UK|ItvMeridianSc
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34497.ts
+#EXTINF:-1 tvg-id="ITV1West.uk" tvg-name="UK|ItvWest" tvg-logo="" group-title="UK: Entertainment",UK|ItvWest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34496.ts
+#EXTINF:-1 tvg-id="ITV1Yorkshire.uk" tvg-name="UK|ItvYorkshireWest" tvg-logo="" group-title="UK: Entertainment",UK|ItvYorkshireWest
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34495.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US | BRAVO HD" tvg-logo="" group-title="US: Entertainment",US | BRAVO HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19030.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US | COMEDY CENTRAL" tvg-logo="" group-title="US: Entertainment",US | COMEDY CENTRAL
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19029.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US | Animal Planet HD" tvg-logo="" group-title="US: Entertainment",US | Animal Planet HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19031.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US | Discovery Channel HD" tvg-logo="" group-title="US: Entertainment",US | Discovery Channel HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19028.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="US | DISCOVERY SCIENCE HD" tvg-logo="" group-title="US: Entertainment",US | DISCOVERY SCIENCE HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19027.ts
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="US | DISCOVERY VELOCITY HD" tvg-logo="" group-title="US: Entertainment",US | DISCOVERY VELOCITY HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19026.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US | Investigation Discovery" tvg-logo="" group-title="US: Entertainment",US | Investigation Discovery
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19020.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US | Nat Geo hd" tvg-logo="" group-title="US: Entertainment",US | Nat Geo hd
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19019.ts
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="US | NAT GEO WILD HD" tvg-logo="" group-title="US: Entertainment",US | NAT GEO WILD HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19018.ts
+#EXTINF:-1 tvg-id="History.us" tvg-name="US | HISTORY" tvg-logo="" group-title="US: Entertainment",US | HISTORY
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19024.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="US | FOX HD" tvg-logo="" group-title="US: Entertainment",US | FOX HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19023.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US | FX HD" tvg-logo="" group-title="US: Entertainment",US | FX HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19022.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US | HBO HD" tvg-logo="" group-title="US: Entertainment",US | HBO HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19021.ts
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="US | TRU TV HD" tvg-logo="" group-title="US: Entertainment",US | TRU TV HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19014.ts
+#EXTINF:-1 tvg-id="" tvg-name="US | UNIVERSAL HD" tvg-logo="" group-title="US: Entertainment",US | UNIVERSAL HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19013.ts
+#EXTINF:-1 tvg-id="SpikeTV.us" tvg-name="US | SPIKE HD" tvg-logo="" group-title="US: Entertainment",US | SPIKE HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/19032.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US | AMC HD" tvg-logo="" group-title="US: Entertainment",US | AMC HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31533.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="US | CBS" tvg-logo="" group-title="US: Entertainment",US | CBS
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31541.ts
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US | CINEMAX HD" tvg-logo="" group-title="US: Entertainment",US | CINEMAX HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31542.ts
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="US | E! HD" tvg-logo="" group-title="US: Entertainment",US | E! HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31534.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US | SYFY HD" tvg-logo="" group-title="US: Entertainment",US | SYFY HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31538.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US | TLC HD" tvg-logo="" group-title="US: Entertainment",US | TLC HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31537.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US | WWE HD" tvg-logo="" group-title="US: Entertainment",US | WWE HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31540.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US | WWE NETWORK HD" tvg-logo="" group-title="US: Entertainment",US | WWE NETWORK HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/31539.ts
+#EXTINF:-1 tvg-id="GSN.us" tvg-name="US|GSN HD" tvg-logo="" group-title="US: Entertainment",US|GSN HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/35663.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US|GOLF HD" tvg-logo="" group-title="US: Entertainment",US|GOLF HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18997.ts
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="US|WILLOW CRICKET HD" tvg-logo="" group-title="US: Entertainment",US|WILLOW CRICKET HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/38106.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="MV|Premiere" tvg-logo="" group-title="UK: Movies",MV|Premiere
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14381.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="MV|Premier FHD" tvg-logo="" group-title="UK: Movies",MV|Premier FHD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14382.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="MV|Disney" tvg-logo="" group-title="UK: Movies",MV|Disney
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18839.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="MV|Disney HD" tvg-logo="" group-title="UK: Movies",MV|Disney HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14390.ts
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="MV|Comedy" tvg-logo="" group-title="UK: Movies",MV|Comedy
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14392.ts
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="MV|Comedy HD" tvg-logo="" group-title="UK: Movies",MV|Comedy HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14393.ts
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="MV|Action & Adventure" tvg-logo="" group-title="UK: Movies",MV|Action & Adventure
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14394.ts
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="MV|Action & Adventure FHD" tvg-logo="" group-title="UK: Movies",MV|Action & Adventure FHD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14395.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="MV|Crime & Thriller" tvg-logo="" group-title="UK: Movies",MV|Crime & Thriller
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18833.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="MV|Crime & Thriller FHD" tvg-logo="" group-title="UK: Movies",MV|Crime & Thriller FHD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14391.ts
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="MV|Drama & Romance" tvg-logo="" group-title="UK: Movies",MV|Drama & Romance
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14388.ts
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="MV|Drama & Romance HD" tvg-logo="" group-title="UK: Movies",MV|Drama & Romance HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14389.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="MV|Family" tvg-logo="" group-title="UK: Movies",MV|Family
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14386.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="MV|Family HD" tvg-logo="" group-title="UK: Movies",MV|Family HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14387.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="MV|ScFi & Horror" tvg-logo="" group-title="UK: Movies",MV|ScFi & Horror
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14379.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="MV|ScFi & Horror HD" tvg-logo="" group-title="UK: Movies",MV|ScFi & Horror HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14380.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="MV|Select" tvg-logo="" group-title="UK: Movies",MV|Select
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18837.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="MV|Select HD" tvg-logo="" group-title="UK: Movies",MV|Select HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14378.ts
+#EXTINF:-1 tvg-id="SkyBrits.uk" tvg-name="MV|Brits" tvg-logo="" group-title="UK: Movies",MV|Brits
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14383.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="MV|Hero HD" tvg-logo="" group-title="UK: Movies",MV|Hero HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18838.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="MV|Hits HD" tvg-logo="" group-title="UK: Movies",MV|Hits HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14385.ts
+#EXTINF:-1 tvg-id="SkyMoviesModernGreats.uk" tvg-name="MV|Modern Greats HD" tvg-logo="" group-title="UK: Movies",MV|Modern Greats HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14384.ts
+#EXTINF:-1 tvg-id="SkyMoviesShowcase.uk" tvg-name="MV|Showcase" tvg-logo="" group-title="UK: Movies",MV|Showcase
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18841.ts
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="MV|True Movies 1" tvg-logo="" group-title="UK: Movies",MV|True Movies 1
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14371.ts
+#EXTINF:-1 tvg-id="TrueMovies2.uk" tvg-name="MV|TRUE MOVIES 2" tvg-logo="" group-title="UK: Movies",MV|TRUE MOVIES 2
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14370.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="MV|Film 4" tvg-logo="" group-title="UK: Movies",MV|Film 4
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14375.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="MV|Film 4 HD" tvg-logo="" group-title="UK: Movies",MV|Film 4 HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14376.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="MV|Horror Channel" tvg-logo="" group-title="UK: Movies",MV|Horror Channel
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14374.ts
+#EXTINF:-1 tvg-id="MoviesTwentyFour.uk" tvg-name="MV|MOVIES 24" tvg-logo="" group-title="UK: Movies",MV|MOVIES 24
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14373.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="MV|Movies 4 Men" tvg-logo="" group-title="UK: Movies",MV|Movies 4 Men
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14372.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="MV|TCM" tvg-logo="" group-title="UK: Movies",MV|TCM
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/43493.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="MV|TCM HD" tvg-logo="" group-title="UK: Movies",MV|TCM HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/43495.ts
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="KD|Baby TV" tvg-logo="" group-title="UK: Kids",KD|Baby TV
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14369.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="KD|Boomerang" tvg-logo="" group-title="UK: Kids",KD|Boomerang
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14368.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="KD|Cartoon Network" tvg-logo="" group-title="UK: Kids",KD|Cartoon Network
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14367.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="KD|Cartoon Network HD" tvg-logo="" group-title="UK: Kids",KD|Cartoon Network HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14366.ts
+#EXTINF:-1 tvg-id="" tvg-name="KD|Mickey and Pals" tvg-logo="" group-title="UK: Kids",KD|Mickey and Pals
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/33458.ts
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="KD|Disney Channel" tvg-logo="" group-title="UK: Kids",KD|Disney Channel
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18847.ts
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="KD|Disney Channel HD" tvg-logo="" group-title="UK: Kids",KD|Disney Channel HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14361.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="KD|Disney Junior" tvg-logo="" group-title="UK: Kids",KD|Disney Junior
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14360.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="KD|Disney XD" tvg-logo="" group-title="UK: Kids",KD|Disney XD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14362.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="KD|Nick Junior" tvg-logo="" group-title="UK: Kids",KD|Nick Junior
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14358.ts
+#EXTINF:-1 tvg-id="NickJrPlus1.uk" tvg-name="KD|Nick JR Too" tvg-logo="" group-title="UK: Kids",KD|Nick JR Too
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18848.ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="KD|Nick Toons" tvg-logo="" group-title="UK: Kids",KD|Nick Toons
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14357.ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="KD|NICKELODEON" tvg-logo="" group-title="UK: Kids",KD|NICKELODEON
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/37606.ts
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="KD|CBBC HD" tvg-logo="" group-title="UK: Kids",KD|CBBC HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/14364.ts
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="KD|Cbeebies" tvg-logo="" group-title="UK: Kids",KD|Cbeebies
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/35426.ts
+#EXTINF:-1 tvg-id="Kix.uk" tvg-name="KD|Kix" tvg-logo="" group-title="UK: Kids",KD|Kix
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18851.ts
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="KD|POP" tvg-logo="" group-title="UK: Kids",KD|POP
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18849.ts
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="KD|Tiny POP" tvg-logo="" group-title="UK: Kids",KD|Tiny POP
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18850.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="DM|Animal Planet" tvg-logo="" group-title="UK: Documentaries",DM|Animal Planet
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/18900.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="DM|Animal Planet HD" tvg-logo="" group-title="UK: Documentaries",DM|Animal Planet HD
+http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/15824.ts
