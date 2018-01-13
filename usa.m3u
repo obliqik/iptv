@@ -1,12 +1,5 @@
 EXTM3U#
 
-
-#EXTINF:-1 ,USA Network
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/6e41f30f946d9327c3322a05250735a7/playlist.m3u8
-
-#EXTINF:-1 ,USA Network
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/0e367435d4bc1a89ea7506cf0eadb3a7/playlist.m3u8
-
 #EXTINF:-1,A&E
 http://64.231.255.171:8000/play/a02s
 #EXTINF:-1,OWN
@@ -83,55 +76,6 @@ http://64.231.255.171:8000/play/a02m
 http://64.231.255.171:8000/play/a01x
 #EXTINF:-1,CTV-W
 http://64.231.255.171:8000/play/a026
-
-
-
-#EXTINF:-1 ,TBS
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/c370dca571a8e9eeb48104236808fe8d/playlist.m3u8
-
-#EXTINF:-1 ,TBS
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/d377ff63e9e229343418ba065acb643f/playlist.m3u8
-
-#EXTINF:-1 ,TCM UK
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/1debc5c648b7d2fa58d76d8e90f314a9/playlist.m3u8
-
-#EXTINF:-1 ,The CW
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/296e56c668bc8bd6b0044d3e4f034153/playlist.m3u8
-
-#EXTINF:-1 ,TNT USA
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/e00dd9ccbf6cba8e47ca458993f307c1/playlist.m3u8
-
-#EXTINF:-1 ,TNT USA
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/b5e39fb359975ce6a68be8a6935d4d7e/playlist.m3u8
-
-#EXTINF:-1 ,True Movies
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/d2c73be17b950368083f5c7ca9445cb9/playlist.m3u8
-
-#EXTINF:-1 ,True Movies 2
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/f24ec9b08bbf156e4b0d1e0065ed204b/playlist.m3u8
-
-#EXTINF:-1 ,CNN
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/2435a45b85628172c5a47122144a7c67/playlist.m3u8
-
-#EXTINF:-1 ,CNN International
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/fb655e03035550c14fc2bcc65d40cff8/playlist.m3u8
-
-#EXTINF:-1 ,CNN International
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/81584236b35ba70e2e9a12f5fb338ff0/playlist.m3u8
-
-#EXTINF:-1 ,Fox 43 WMPT
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/c2f52b70c2324ba134b2cba2962bedae/playlist.m3u8
-
-#EXTINF:-1 ,Fox News Channel
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/877e1fd192b3a58577e4387971c215a7/playlist.m3u8
-
-#EXTINF:-1 ,NBC
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/3baf7db0d8f1d400816fb6166b297f46/playlist.m3u8
-
-#EXTINF:-1 ,NBC
-https://gratis.iptvcanales.com/~sbvlubrl/redirect/viaje/J01/89b7abacbe0cefbadf6ad5c5ccb4ae15/playlist.m3u8
-
-
 
 
 #EXTINF:-1,Horror Channel
