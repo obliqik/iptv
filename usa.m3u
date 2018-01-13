@@ -1,7 +1,4 @@
 EXTM3U#
-
-#EXTINF:-1,A&E
-http://64.231.255.171:8000/play/a02s
 #EXTINF:-1,OWN
 http://64.231.255.171:8000/play/a01y
 #EXTINF:-1,E!
