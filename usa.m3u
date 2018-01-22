@@ -1,425 +1,160 @@
 EXTM3U#
 #EXTINF:-1,Cartoon Network
 http://31.202.128.207:25501/CartoonNetwork
-#EXTINF:-1,E!
-http://64.231.255.171:8000/play/a021
-#EXTINF:-1,ABC-E
-http://64.231.255.171:8000/play/a02d
-#EXTINF:-1,CBN
-http://64.231.255.171:8000/play/a00c
-#EXTINF:-1,CP24
-http://64.231.255.171:8000/play/a02z
-#EXTINF:-1,CTV2E
-http://64.231.255.171:8000/play/a025
-#EXTINF:-1,NBC-E
-http://64.231.255.171:8000/play/a02o
-#EXTINF:-1,BBC-C
-http://64.231.255.171:8000/play/a024
-#EXTINF:-1,ID
-http://64.231.255.171:8000/play/a029
-#EXTINF:-1,WLDTV
-http://64.231.255.171:8000/play/a028
-#EXTINF:-1,HGTV
-http://64.231.255.171:8000/play/a02q
-#EXTINF:-1,FMLY
-http://64.231.255.171:8000/play/a02h
-#EXTINF:-1,TLC
-http://64.231.255.171:8000/play/a01s
-#EXTINF:-1,CITYW
-http://64.231.255.171:8000/play/a027
-#EXTINF:-1,CBC-T
-http://64.231.255.171:8000/play/a01v
-#EXTINF:-1,FOOD
-http://64.231.255.171:8000/play/a02r
-#EXTINF:-1,CBC-O
-http://64.231.255.171:8000/play/a04h
-#EXTINF:-1,TSN2
-http://64.231.255.171:8000/play/a022
-#EXTINF:-1,CBCNN
-http://64.231.255.171:8000/play/a02f
-#EXTINF:-1,CTV-O
-http://64.231.255.171:8000/play/a04g
-#EXTINF:-1,GMA
-http://64.231.255.171:8000/play/a04e
-#EXTINF:-1,GLB-M
-http://64.231.255.171:8000/play/a01z
-#EXTINF:-1,FLTV
-http://64.231.255.171:8000/play/a04f
-#EXTINF:-1,COTT
-http://64.231.255.171:8000/play/a035
-#EXTINF:-1,ANIML
-http://64.231.255.171:8000/play/a030
-#EXTINF:-1,NICK
-http://64.231.255.171:8000/play/a00r
-#EXTINF:-1,SLICE
-http://64.231.255.171:8000/play/a03i
-#EXTINF:-1,CNN
-http://64.231.255.171:8000/play/a03h
-#EXTINF:-1,HBO1
-http://64.231.255.171:8000/play/a01w
-#EXTINF:-1,BRAVO
-http://64.231.255.171:8000/play/a023
-#EXTINF:-1,VISON
-http://64.231.255.171:8000/play/a00g
-#EXTINF:-1,TSN5
-http://64.231.255.171:8000/play/a032
-#EXTINF:-1,CTVNC
-http://64.231.255.171:8000/play/a01r
-#EXTINF:-1,SNETW
-http://64.231.255.171:8000/play/a02e
-#EXTINF:-1,HIST
-http://64.231.255.171:8000/play/a02m
-#EXTINF:-1,SNETO
-http://64.231.255.171:8000/play/a01x
-#EXTINF:-1,CTV-W
-http://64.231.255.171:8000/play/a026
-
-
-#EXTINF:-1,Horror Channel
-http://94.46.245.190:8000/play/a02r
-#EXTINF:-1,True Christmas
-http://94.46.245.190:8000/play/a02e
-#EXTINF:-1,BBC ONE HD
-http://94.46.245.190:8000/play/a01i
-#EXTINF:-1,Drama
-http://94.46.245.190:8000/play/a02z
-#EXTINF:-1,Channel 4 HD
-http://94.46.245.190:8000/play/a01k
-#EXTINF:-1,QUEST
-http://94.46.245.190:8000/play/a02s
-#EXTINF:-1,QVC Beauty
-http://94.46.245.190:8000/play/a02i
-#EXTINF:-1,TBN UK
-http://94.46.245.190:8000/play/a01w
-#EXTINF:-1,Sony Movie Ch
-http://94.46.245.190:8000/play/a022
-#EXTINF:-1,Food Network
-http://94.46.245.190:8000/play/a01u
-#EXTINF:-1,Dave
-http://94.46.245.190:8000/play/a01r
-#EXTINF:-1,Challenge
-http://94.46.245.190:8000/play/a01q
-#EXTINF:-1,POP
-http://94.46.245.190:8000/play/a029
-#EXTINF:-1,CBBC HD
-http://94.46.245.190:8000/play/a01m
-#EXTINF:-1,QVC
-http://94.46.245.190:8000/play/a02n
-#EXTINF:-1,5 USA
-http://94.46.245.190:8000/play/a02l
-#EXTINF:-1,Home
-http://94.46.245.190:8000/play/a02f
-#EXTINF:-1,RT
-http://94.46.245.190:8000/play/a02a
-#EXTINF:-1,My5
-http://94.46.245.190:8000/play/a02y
-#EXTINF:-1,Really
-http://94.46.245.190:8000/play/a01z
-#EXTINF:-1,Quest Red
-http://94.46.245.190:8000/play/a020
-#EXTINF:-1,movies4men
-http://94.46.245.190:8000/play/a021
-#EXTINF:-1,YourTV
-http://94.46.245.190:8000/play/a01y
-#EXTINF:-1,Gems TV
-http://94.46.245.190:8000/play/a023
-#EXTINF:-1,BBC TWO HD
-http://94.46.245.190:8000/play/a01h
-#EXTINF:-1,ITV3
-http://94.46.245.190:8000/play/a02x
-#EXTINF:-1,ITV HD
-http://94.46.245.190:8000/play/a01j
-#EXTINF:-1,TJC
-http://94.46.245.190:8000/play/a01v
-#EXTINF:-1,ITV2 +1
-http://94.46.245.190:8000/play/a02w
-#EXTINF:-1,Channel 5 HD
-http://94.46.245.190:8000/play/a01l
-#EXTINF:-1,ITVBe
-http://94.46.245.190:8000/play/a02v
-#EXTINF:-1,E4+1
-http://94.46.245.190:8000/play/a01s
-#EXTINF:-1,5Spike
-http://94.46.245.190:8000/play/a027
-#EXTINF:-1,QUEST+1
-http://94.46.245.190:8000/play/a02p
-#EXTINF:-1,Pick
-http://94.46.245.190:8000/play/a01p
-#EXTINF:-1,Sky News
-http://94.46.245.190:8000/play/a01o
-#EXTINF:-1,Channel 5+1
-http://94.46.245.190:8000/play/a02m
-#EXTINF:-1,Yesterday
-http://94.46.245.190:8000/play/a026
-#EXTINF:-1,CBS Reality
-http://94.46.245.190:8000/play/a02q
-#EXTINF:-1,Dave ja vu
-http://94.46.245.190:8000/play/a02g
-#EXTINF:-1,5STAR
-http://94.46.245.190:8000/play/a02k
-#EXTINF:-1,Film4+1
-http://94.46.245.190:8000/play/a01n
-#EXTINF:-1,CBS Action
-http://94.46.245.190:8000/play/a02d
-#EXTINF:-1,True Entertainment
-http://94.46.245.190:8000/play/a02u
-#EXTINF:-1,4Music
-http://94.46.245.190:8000/play/a025
-#EXTINF:-1,TalkingPictures TV
-http://94.46.245.190:8000/play/a02h
-#EXTINF:-1,truTV
-http://94.46.245.190:8000/play/a01x
-#EXTINF:-1,Blaze
-http://94.46.245.190:8000/play/a02o
-#EXTINF:-1,4seven
-http://94.46.245.190:8000/play/a028
-#EXTINF:-1,Travel Channel
-http://94.46.245.190:8000/play/a02c
-
-
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8
-#EXTINF:-1,DISCOVERY H&H
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8
-#EXTINF:-1,ID
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
-#EXTINF:-1,A&E
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/index.m3u8
-#EXTINF:-1,FOX SERIES
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/index.m3u8
-#EXTINF:-1,HBO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/index.m3u8
-#EXTINF:-1,HBO 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/index.m3u8
-#EXTINF:-1,HBO PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
-#EXTINF:-1,NATGEO KIDS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/index.m3u8
-#EXTINF:-1,TOONCAST
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
-#EXTINF:-1,CARTOON NETWORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
-#EXTINF:-1,De Pelicula HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
-#EXTINF:-1,Golden PLus
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,CINELATINO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
-#EXTINF:-1,Cinemax https://iptv.zone
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8
-#EXTINF:-1,TNT_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1,FOXMOVIES_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
-#EXTINF:-1,FOX_ACTION
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
-#EXTINF:-1,FOX_CINEMA_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
-#EXTINF:-1,FOX_CLASSICS_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
-#EXTINF:-1,SPACE_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
-#EXTINF:-1,FOXMOVIES_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
-#EXTINF:-1,ISAT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
-#EXTINF:-1,H2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
-#EXTINF:-1,NATGEO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/index.m3u8
-#EXTINF:-1,TLC
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/index.m3u8
-#EXTINF:-1,AXN_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
-#EXTINF:-1,AZCORAZON_HD
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/index.m3u8
-#EXTINF:-1,SONY_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
-#EXTINF:-1,FOX HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
-#EXTINF:-1,FX_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
-#EXTINF:-1,UNIVERSAL_CHANNEL_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8
-#EXTINF:-1,WARNER_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/index.m3u8
-#EXTINF:-1,BOOMERANG
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/index.m3u8
-#EXTINF:-1,NICK_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:-1,DISNEY_XD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
-#EXTINF:-1,CNN INTERNACIONAL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
-#EXTINF:-1,GLIZ
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/index.m3u8
-#EXTINF:-1,CINE CANAL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
-#EXTINF:-1,CINEMA PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
-#EXTINF:-1,CONCERT CHANEL HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
-#EXTINF:-1,COSMOVISION
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
-#EXTINF:-1,DISCOVERY CIVIZATION
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
-#EXTINF:-1,DISNEY CHANEL HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
-#EXTINF:-1,DISNEY XD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX ACTION
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/index.m3u8
-#EXTINF:-1,FOX COMEDY https://iptv.zone
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
-#EXTINF:-1,FOX FAMILY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
-#EXTINF:-1,FOX SPORTS2 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
-#EXTINF:-1,FOX SPORTS3 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
-#EXTINF:-1,HBO PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
-#EXTINF:-1,HTV
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
-#EXTINF:-1,LAS ESTRELLAS
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,LIFEDESIGN
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:-1,MASCHIC HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/index.m3u8
-#EXTINF:-1,MIMÚSICA HD
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,MTV HITS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
-#EXTINF:-1,MULIPREMIER
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
-#EXTINF:-1,PASIONES HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
-#EXTINF:-1,RADIOLA
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
-#EXTINF:-1,SUN CHANNEL
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,TELECAFE
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
-#EXTINF:-1,TRENDY CHANNEL
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1,UNE TV
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
-#EXTINF:-1,VH1 HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
-#EXTINF:-1,WINSPORTS HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
-#EXTINF:-1,YES
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,CINEMAX
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX ACTION
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX CINEMA HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX CLASSICS HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,ISAT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(01)/index.m3u8
-#EXTINF:-1,H2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
-#EXTINF:-1,NATGEO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8
-#EXTINF:-1,TLC
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
-#EXTINF:-1,AZCORAZON HD
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,WARNER HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,BOOMERANG
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
-#EXTINF:-1,(TNT_SERIES_HD)
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,(LIFETIME)
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
-#EXTINF:-1,(GLITZ)
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
-#EXTINF:-1,ID
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live /Channel(ID_HD)/index.m3u8
-#EXTINF:-1,MUSICA:Tigo Music
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1,Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1,Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1,MTV HITS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/Stream(01)/index.m3u8
-#EXTINF:-1,VH1
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1)/Stream(01)/index.m3u8
-#EXTINF:-1,VH1 Classic
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_CLASSIC)/Stream(01)/index.m3u8
-#EXTINF:-1,Telehit
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEHIT)/Stream(01)/index.m3u8
-#EXTINF:-1,MTV
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,Radiola
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/Stream(01)/index.m3u8
-#EXTINF:-1,RCN
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN)/index.m3u8
-#EXTINF:-1,DHE_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/index.m3u8
-#EXTINF:-1,CARACOL_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/index.m3u8
-#EXTINF:-1,TLNOVELAS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8
-#EXTINF:-1,RCN_TELENOVELAS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_TELENOVELAS)/index.m3u8
-#EXTINF:-1,TELEMUNDO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/index.m3u8
-#EXTINF:-1,ESPN_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1,ESPN_2_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8
-#EXTINF:-1,ESPN_3_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8
-#EXTINF:-1,HBO_SIGNATURE_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,HBO_2_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,HBO_PLUS_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,HBO_FAMILY_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,HBO_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,MAX
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(02)/index.m3u8
-#EXTINF:-1,MAX_PRIME_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,MAX_UP_HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(02)/index.m3u8
-#EXTINF:-1,Max Prime
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/index.m3u8
-#EXTINF:-1,Max Up
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/index.m3u8
-#EXTINF:-1,NatGeo Wild
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/index.m3u8
-#EXTINF:-1,Discovery TLC
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC_HD)/index.m3u8
-#EXTINF:-1,Fox Sports
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
+#EXTINF:0, group-title="English",Al Jazeera
+http://ruhutv.com/ipo/?cid=/AL_Jazeera/AL_Jazeera_800.m3u8
+#EXTINF:0, group-title="English",Animal Planet (Eng)
+http://ruhutv.com/ipo/?cid=/Animal_Planet_English/Animal_Planet_English_800.m3u8
+#EXTINF:0, group-title="English",Animal Planet HD World
+http://ruhutv.com/ipo/?cid=/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
+#EXTINF:0, group-title="English",Arre
+http://ruhutv.com/ipo/?cid=/Arre/Arre_800.m3u8
+#EXTINF:0, group-title="English",AXN HD
+http://ruhutv.com/ipo/?cid=/AXN_HD/AXN_HD_1200.m3u8
+#EXTINF:0, group-title="English",BBC World News
+http://ruhutv.com/ipo/?cid=/BBC_World_News/BBC_World_News_800.m3u8
+#EXTINF:0, group-title="English",Brilliant Living TV
+http://ruhutv.com/ipo/?cid=/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
+#EXTINF:0, group-title="English",BTVi
+http://ruhutv.com/ipo/?cid=/BTVi/BTVi_800.m3u8
+#EXTINF:0, group-title="English",CNBC TV18
+http://ruhutv.com/ipo/?cid=/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
+#EXTINF:0, group-title="English",CNBC TV18 Prime HD
+http://ruhutv.com/ipo/?cid=/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8
+#EXTINF:0, group-title="English",CNN
+http://ruhutv.com/ipo/?cid=/CNN/CNN_800.m3u8
+#EXTINF:0, group-title="English",CNN News 18
+http://ruhutv.com/ipo/?cid=/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
+#EXTINF:0, group-title="English",CVR
+http://ruhutv.com/ipo/?cid=/CVR_English/CVR_English_800.m3u8
+#EXTINF:0, group-title="English",Deutshe Welle
+http://ruhutv.com/ipo/?cid=/dw/dw_800.m3u8
+#EXTINF:0, group-title="English",Discovery
+http://ruhutv.com/ipo/?cid=/Discovery/Discovery_800.m3u8
+#EXTINF:0, group-title="English",Discovery HD World
+http://ruhutv.com/ipo/?cid=/Discovery_HD_World/Discovery_HD_World_1200.m3u8
+#EXTINF:0, group-title="English",Discovery Kids 1
+http://ruhutv.com/ipo/?cid=/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
+#EXTINF:0, group-title="English",Discovery Science
+http://ruhutv.com/ipo/?cid=/Discovery_Science/Discovery_Science_800.m3u8
+#EXTINF:0, group-title="English",Discovery Turbo
+http://ruhutv.com/ipo/?cid=/Discovery_Turbo/Discovery_Turbo_800.m3u8
+#EXTINF:0, group-title="English",DSports HD
+http://ruhutv.com/ipo/?cid=/Dsports_HD/Dsports_HD_1200.m3u8
+#EXTINF:0, group-title="English",ET Now
+http://ruhutv.com/ipo/?cid=/ET_Now/ET_Now_800.m3u8
+#EXTINF:0, group-title="English",Euro News
+http://ruhutv.com/ipo/?cid=/Euro_News/Euro_News_800.m3u8
+#EXTINF:0, group-title="English",France 24
+http://ruhutv.com/ipo/?cid=/France_24/France_24_800.m3u8
+#EXTINF:0, group-title="English",fyi, TV18 HD
+http://ruhutv.com/ipo/?cid=/FYI_TV18/FYI_TV18_1200.m3u8
+#EXTINF:0, group-title="English",Good News Channel
+http://ruhutv.com/ipo/?cid=/GoodNews_Channel/GoodNews_Channel_800.m3u8
+#EXTINF:0, group-title="English",HBO HD
+http://ruhutv.com/ipo/?cid=/HBO_HD/HBO_HD_1200.m3u8
+#EXTINF:0, group-title="English",History HD
+http://ruhutv.com/ipo/?cid=/History_HD/History_HD_1200.m3u8
+#EXTINF:0, group-title="English",India Today
+http://ruhutv.com/ipo/?cid=/India_Today/India_Today_800.m3u8
+#EXTINF:0, group-title="English",Insight
+http://ruhutv.com/ipo/?cid=/Insight/Insight_800.m3u8
+#EXTINF:0, group-title="English",Jio Events
+http://ruhutv.com/ipo/?cid=/Jio_Events/Jio_Events_800.m3u8
+#EXTINF:0, group-title="English",Jio Sports
+http://ruhutv.com/ipo/?cid=/Jio_Sports/Jio_Sports_800.m3u8
+#EXTINF:0, group-title="English",Living Foodz
+http://ruhutv.com/ipo/?cid=/Living_Foodz/Living_Foodz_800.m3u8
+#EXTINF:0, group-title="English",Millionlights
+http://ruhutv.com/ipo/?cid=/Millionlights/Millionlights_800.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://ruhutv.com/ipo/?cid=/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+#EXTINF:0, group-title="English",MN+
+http://ruhutv.com/ipo/?cid=/MNPLUS/MNPLUS_800.m3u8
+#EXTINF:0, group-title="English",MNX
+http://ruhutv.com/ipo/?cid=/Movies_Now2/Movies_Now2_800.m3u8
+#EXTINF:0, group-title="English",MNX HD
+http://ruhutv.com/ipo/?cid=/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8
+#EXTINF:0, group-title="English",Movies Now HD
+http://ruhutv.com/ipo/?cid=/Movies_Now_HD/Movies_Now_HD_1200.m3u8
+#EXTINF:0, group-title="English",NDTV 24x7
+http://ruhutv.com/ipo/?cid=/NDTV_24x7/NDTV_24x7_800.m3u8
+#EXTINF:0, group-title="English",NDTV Good Times
+http://ruhutv.com/ipo/?cid=/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
+#EXTINF:0, group-title="English",NDTV Profit
+http://ruhutv.com/ipo/?cid=/NDTV_Profit/NDTV_Profit_800.m3u8
+#EXTINF:0, group-title="English",Neo Prime
+http://ruhutv.com/ipo/?cid=/Neo_Prime/Neo_Prime_800.m3u8
+#EXTINF:0, group-title="English",Neo Sports
+http://ruhutv.com/ipo/?cid=/Neo_Sports/Neo_Sports_800.m3u8
+#EXTINF:0, group-title="English",News 9
+http://ruhutv.com/ipo/?cid=/News_9/News_9_800.m3u8
+#EXTINF:0, group-title="English",News Asia 
+http://ruhutv.com/ipo/?cid=/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
+#EXTINF:0, group-title="English",News X
+http://ruhutv.com/ipo/?cid=/News_X/News_X_800.m3u8
+#EXTINF:0, group-title="English",Nick (Eng)
+http://ruhutv.com/ipo/?cid=/Nickelodeon/Nickelodeon_800.m3u8
+#EXTINF:0, group-title="English",Nick Jr.
+http://ruhutv.com/ipo/?cid=/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
+#EXTINF:0, group-title="English",Republic TV
+http://ruhutv.com/ipo/?cid=/Republic_TV/Republic_TV_800.m3u8
+#EXTINF:0, group-title="English",Romedy Now HD
+http://ruhutv.com/ipo/?cid=/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
+#EXTINF:0, group-title="English",Nick Sonic
+http://ruhutv.com/ipo/?cid=/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
+#EXTINF:0, group-title="English",Sony BBC Earth 
+http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
+#EXTINF:0, group-title="English",Sony BBC Earth HD (Eng)
+http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8
+#EXTINF:0, group-title="English",Sony ESPN
+http://ruhutv.com/ipo/?cid=/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
+#EXTINF:0, group-title="English",Sony ESPN HD
+http://ruhutv.com/ipo/?cid=/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Le PLEX HD
+http://ruhutv.com/ipo/?cid=/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Pix HD
+http://ruhutv.com/ipo/?cid=/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Six (Hindi)
+http://ruhutv.com/ipo/?cid=/Sony_Six_SD/Sony_Six_SD_800.m3u8
+#EXTINF:0, group-title="English",Sony Six HD
+http://ruhutv.com/ipo/?cid=/Six_HD/Six_HD_1200.m3u8
+#EXTINF:0, group-title="English",Star Sports HD 1
+http://ruhutv.com/ipo/?cid=/Star_Sports_HD_1/Star_Sports_HD_1_1200.m3u8
+#EXTINF:0, group-title="English",Star Sports HD 2
+http://ruhutv.com/ipo/?cid=/Star_Sports_HD_2/Star_Sports_HD_2_1200.m3u8
+#EXTINF:0, group-title="English",Star Sports Select HD 1
+http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8
+#EXTINF:0, group-title="English",Star Sports Select HD 2
+http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_1200.m3u8
+#EXTINF:0, group-title="English",Sony Ten 1
+http://ruhutv.com/ipo/?cid=/Ten_1/Ten_1_800.m3u8
+#EXTINF:0, group-title="English",Sony Ten 1 HD
+http://ruhutv.com/ipo/?cid=/Ten_HD/Ten_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Ten 2
+http://ruhutv.com/ipo/?cid=/Ten_2/Ten_2_800.m3u8
+#EXTINF:0, group-title="English",Sony Ten 2 HD
+http://ruhutv.com/ipo/?cid=/Ten2_HD/Ten2_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Ten 3
+http://ruhutv.com/ipo/?cid=/Ten_3/Ten_3_800.m3u8
+#EXTINF:0, group-title="English",Sony Ten 3 HD
+http://ruhutv.com/ipo/?cid=/Ten3_HD/Ten3_HD_1200.m3u8
+#EXTINF:0, group-title="English",Sony Ten Golf HD
+http://ruhutv.com/ipo/?cid=/Ten_Golf_HD/Ten_Golf_HD_1200.m3u8
+#EXTINF:0, group-title="English",Times Now
+http://ruhutv.com/ipo/?cid=/Times_NOW/Times_NOW_800.m3u8
+#EXTINF:0, group-title="English",Times Now HD
+http://ruhutv.com/ipo/?cid=/Times_Now_HD/Times_Now_HD_1200.m3u8
+#EXTINF:0, group-title="English",TLC
+http://ruhutv.com/ipo/?cid=/TLC_English/TLC_English_800.m3u8
+#EXTINF:0, group-title="English",TLC HD World
+http://ruhutv.com/ipo/?cid=/TLC_HD_World/TLC_HD_World_1200.m3u8
+#EXTINF:0, group-title="English",Toonami
+http://ruhutv.com/ipo/?cid=/Toonami/Toonami_800.m3u8
+#EXTINF:0, group-title="English",Travel XP HD
+http://ruhutv.com/ipo/?cid=/Travel_XP_HD/Travel_XP_HD_1200.m3u8
+#EXTINF:0, group-title="English",TV 5 Monde Asie
+http://ruhutv.com/ipo/?cid=/TV_5_Monde/TV_5_Monde_800.m3u8
+#EXTINF:0, group-title="English",WB
+http://ruhutv.com/ipo/?cid=/WB/WB_800.m3u8
 
