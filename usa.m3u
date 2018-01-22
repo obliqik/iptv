@@ -1,6 +1,5 @@
 EXTM3U#
-#EXTINF:-1,Cartoon Network
-http://31.202.128.207:25501/CartoonNetwork
+
 #EXTINF:0,Al Jazeera
 http://ruhutv.com/ipo/?cid=/AL_Jazeera/AL_Jazeera_800.m3u8
 #EXTINF:0,Animal Planet (Eng)
@@ -25,10 +24,6 @@ http://ruhutv.com/ipo/?cid=/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8
 http://ruhutv.com/ipo/?cid=/CNN/CNN_800.m3u8
 #EXTINF:0,CNN News 18
 http://ruhutv.com/ipo/?cid=/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
-#EXTINF:0,CVR
-http://ruhutv.com/ipo/?cid=/CVR_English/CVR_English_800.m3u8
-#EXTINF:0,Deutshe Welle
-http://ruhutv.com/ipo/?cid=/dw/dw_800.m3u8
 #EXTINF:0,Discovery
 http://ruhutv.com/ipo/?cid=/Discovery/Discovery_800.m3u8
 #EXTINF:0,Discovery HD World
@@ -43,32 +38,11 @@ http://ruhutv.com/ipo/?cid=/Discovery_Turbo/Discovery_Turbo_800.m3u8
 http://ruhutv.com/ipo/?cid=/Dsports_HD/Dsports_HD_1200.m3u8
 #EXTINF:0,ET Now
 http://ruhutv.com/ipo/?cid=/ET_Now/ET_Now_800.m3u8
-#EXTINF:0,Euro News
-http://ruhutv.com/ipo/?cid=/Euro_News/Euro_News_800.m3u8
-#EXTINF:0,France 24
-http://ruhutv.com/ipo/?cid=/France_24/France_24_800.m3u8
-#EXTINF:0,fyi, TV18 HD
-http://ruhutv.com/ipo/?cid=/FYI_TV18/FYI_TV18_1200.m3u8
-#EXTINF:0,Good News Channel
-http://ruhutv.com/ipo/?cid=/GoodNews_Channel/GoodNews_Channel_800.m3u8
 #EXTINF:0,HBO HD
 http://ruhutv.com/ipo/?cid=/HBO_HD/HBO_HD_1200.m3u8
 #EXTINF:0,History HD
 http://ruhutv.com/ipo/?cid=/History_HD/History_HD_1200.m3u8
-#EXTINF:0,India Today
-http://ruhutv.com/ipo/?cid=/India_Today/India_Today_800.m3u8
-#EXTINF:0,Insight
-http://ruhutv.com/ipo/?cid=/Insight/Insight_800.m3u8
-#EXTINF:0,Jio Events
-http://ruhutv.com/ipo/?cid=/Jio_Events/Jio_Events_800.m3u8
-#EXTINF:0,Jio Sports
-http://ruhutv.com/ipo/?cid=/Jio_Sports/Jio_Sports_800.m3u8
-#EXTINF:0,Living Foodz
-http://ruhutv.com/ipo/?cid=/Living_Foodz/Living_Foodz_800.m3u8
-#EXTINF:0,Millionlights
-http://ruhutv.com/ipo/?cid=/Millionlights/Millionlights_800.m3u8
-#EXTINF:0,Mirror Now
-http://ruhutv.com/ipo/?cid=/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+
 #EXTINF:0,MN+
 http://ruhutv.com/ipo/?cid=/MNPLUS/MNPLUS_800.m3u8
 #EXTINF:0,MNX
@@ -77,30 +51,12 @@ http://ruhutv.com/ipo/?cid=/Movies_Now2/Movies_Now2_800.m3u8
 http://ruhutv.com/ipo/?cid=/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8
 #EXTINF:0,Movies Now HD
 http://ruhutv.com/ipo/?cid=/Movies_Now_HD/Movies_Now_HD_1200.m3u8
-#EXTINF:0,NDTV 24x7
-http://ruhutv.com/ipo/?cid=/NDTV_24x7/NDTV_24x7_800.m3u8
-#EXTINF:0,NDTV Good Times
-http://ruhutv.com/ipo/?cid=/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
-#EXTINF:0,NDTV Profit
-http://ruhutv.com/ipo/?cid=/NDTV_Profit/NDTV_Profit_800.m3u8
-#EXTINF:0,Neo Prime
-http://ruhutv.com/ipo/?cid=/Neo_Prime/Neo_Prime_800.m3u8
-#EXTINF:0,Neo Sports
-http://ruhutv.com/ipo/?cid=/Neo_Sports/Neo_Sports_800.m3u8
-#EXTINF:0,News 9
-http://ruhutv.com/ipo/?cid=/News_9/News_9_800.m3u8
-#EXTINF:0,News Asia 
-http://ruhutv.com/ipo/?cid=/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
-#EXTINF:0,News X
-http://ruhutv.com/ipo/?cid=/News_X/News_X_800.m3u8
+
 #EXTINF:0,Nick (Eng)
 http://ruhutv.com/ipo/?cid=/Nickelodeon/Nickelodeon_800.m3u8
 #EXTINF:0,Nick Jr.
 http://ruhutv.com/ipo/?cid=/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
-#EXTINF:0,Republic TV
-http://ruhutv.com/ipo/?cid=/Republic_TV/Republic_TV_800.m3u8
-#EXTINF:0,Romedy Now HD
-http://ruhutv.com/ipo/?cid=/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
+
 #EXTINF:0,Nick Sonic
 http://ruhutv.com/ipo/?cid=/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
 #EXTINF:0,Sony BBC Earth 
@@ -153,7 +109,3 @@ http://ruhutv.com/ipo/?cid=/TLC_HD_World/TLC_HD_World_1200.m3u8
 http://ruhutv.com/ipo/?cid=/Toonami/Toonami_800.m3u8
 #EXTINF:0,Travel XP HD
 http://ruhutv.com/ipo/?cid=/Travel_XP_HD/Travel_XP_HD_1200.m3u8
-#EXTINF:0,TV 5 Monde Asie
-http://ruhutv.com/ipo/?cid=/TV_5_Monde/TV_5_Monde_800.m3u8
-#EXTINF:0,WB
-http://ruhutv.com/ipo/?cid=/WB/WB_800.m3u8
