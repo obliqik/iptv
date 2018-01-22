@@ -1,160 +1,159 @@
 EXTM3U#
 #EXTINF:-1,Cartoon Network
 http://31.202.128.207:25501/CartoonNetwork
-#EXTINF:0, group-title="English",Al Jazeera
+#EXTINF:0,Al Jazeera
 http://ruhutv.com/ipo/?cid=/AL_Jazeera/AL_Jazeera_800.m3u8
-#EXTINF:0, group-title="English",Animal Planet (Eng)
+#EXTINF:0,Animal Planet (Eng)
 http://ruhutv.com/ipo/?cid=/Animal_Planet_English/Animal_Planet_English_800.m3u8
-#EXTINF:0, group-title="English",Animal Planet HD World
+#EXTINF:0,Animal Planet HD World
 http://ruhutv.com/ipo/?cid=/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8
-#EXTINF:0, group-title="English",Arre
+#EXTINF:0,Arre
 http://ruhutv.com/ipo/?cid=/Arre/Arre_800.m3u8
-#EXTINF:0, group-title="English",AXN HD
+#EXTINF:0,AXN HD
 http://ruhutv.com/ipo/?cid=/AXN_HD/AXN_HD_1200.m3u8
-#EXTINF:0, group-title="English",BBC World News
+#EXTINF:0,BBC World News
 http://ruhutv.com/ipo/?cid=/BBC_World_News/BBC_World_News_800.m3u8
-#EXTINF:0, group-title="English",Brilliant Living TV
+#EXTINF:0,Brilliant Living TV
 http://ruhutv.com/ipo/?cid=/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
-#EXTINF:0, group-title="English",BTVi
+#EXTINF:0,BTVi
 http://ruhutv.com/ipo/?cid=/BTVi/BTVi_800.m3u8
-#EXTINF:0, group-title="English",CNBC TV18
+#EXTINF:0,CNBC TV18
 http://ruhutv.com/ipo/?cid=/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
-#EXTINF:0, group-title="English",CNBC TV18 Prime HD
+#EXTINF:0,CNBC TV18 Prime HD
 http://ruhutv.com/ipo/?cid=/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_1200.m3u8
-#EXTINF:0, group-title="English",CNN
+#EXTINF:0,CNN
 http://ruhutv.com/ipo/?cid=/CNN/CNN_800.m3u8
-#EXTINF:0, group-title="English",CNN News 18
+#EXTINF:0,CNN News 18
 http://ruhutv.com/ipo/?cid=/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
-#EXTINF:0, group-title="English",CVR
+#EXTINF:0,CVR
 http://ruhutv.com/ipo/?cid=/CVR_English/CVR_English_800.m3u8
-#EXTINF:0, group-title="English",Deutshe Welle
+#EXTINF:0,Deutshe Welle
 http://ruhutv.com/ipo/?cid=/dw/dw_800.m3u8
-#EXTINF:0, group-title="English",Discovery
+#EXTINF:0,Discovery
 http://ruhutv.com/ipo/?cid=/Discovery/Discovery_800.m3u8
-#EXTINF:0, group-title="English",Discovery HD World
+#EXTINF:0,Discovery HD World
 http://ruhutv.com/ipo/?cid=/Discovery_HD_World/Discovery_HD_World_1200.m3u8
-#EXTINF:0, group-title="English",Discovery Kids 1
+#EXTINF:0,Discovery Kids 1
 http://ruhutv.com/ipo/?cid=/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
-#EXTINF:0, group-title="English",Discovery Science
+#EXTINF:0,Discovery Science
 http://ruhutv.com/ipo/?cid=/Discovery_Science/Discovery_Science_800.m3u8
-#EXTINF:0, group-title="English",Discovery Turbo
+#EXTINF:0,Discovery Turbo
 http://ruhutv.com/ipo/?cid=/Discovery_Turbo/Discovery_Turbo_800.m3u8
-#EXTINF:0, group-title="English",DSports HD
+#EXTINF:0,DSports HD
 http://ruhutv.com/ipo/?cid=/Dsports_HD/Dsports_HD_1200.m3u8
-#EXTINF:0, group-title="English",ET Now
+#EXTINF:0,ET Now
 http://ruhutv.com/ipo/?cid=/ET_Now/ET_Now_800.m3u8
-#EXTINF:0, group-title="English",Euro News
+#EXTINF:0,Euro News
 http://ruhutv.com/ipo/?cid=/Euro_News/Euro_News_800.m3u8
-#EXTINF:0, group-title="English",France 24
+#EXTINF:0,France 24
 http://ruhutv.com/ipo/?cid=/France_24/France_24_800.m3u8
-#EXTINF:0, group-title="English",fyi, TV18 HD
+#EXTINF:0,fyi, TV18 HD
 http://ruhutv.com/ipo/?cid=/FYI_TV18/FYI_TV18_1200.m3u8
-#EXTINF:0, group-title="English",Good News Channel
+#EXTINF:0,Good News Channel
 http://ruhutv.com/ipo/?cid=/GoodNews_Channel/GoodNews_Channel_800.m3u8
-#EXTINF:0, group-title="English",HBO HD
+#EXTINF:0,HBO HD
 http://ruhutv.com/ipo/?cid=/HBO_HD/HBO_HD_1200.m3u8
-#EXTINF:0, group-title="English",History HD
+#EXTINF:0,History HD
 http://ruhutv.com/ipo/?cid=/History_HD/History_HD_1200.m3u8
-#EXTINF:0, group-title="English",India Today
+#EXTINF:0,India Today
 http://ruhutv.com/ipo/?cid=/India_Today/India_Today_800.m3u8
-#EXTINF:0, group-title="English",Insight
+#EXTINF:0,Insight
 http://ruhutv.com/ipo/?cid=/Insight/Insight_800.m3u8
-#EXTINF:0, group-title="English",Jio Events
+#EXTINF:0,Jio Events
 http://ruhutv.com/ipo/?cid=/Jio_Events/Jio_Events_800.m3u8
-#EXTINF:0, group-title="English",Jio Sports
+#EXTINF:0,Jio Sports
 http://ruhutv.com/ipo/?cid=/Jio_Sports/Jio_Sports_800.m3u8
-#EXTINF:0, group-title="English",Living Foodz
+#EXTINF:0,Living Foodz
 http://ruhutv.com/ipo/?cid=/Living_Foodz/Living_Foodz_800.m3u8
-#EXTINF:0, group-title="English",Millionlights
+#EXTINF:0,Millionlights
 http://ruhutv.com/ipo/?cid=/Millionlights/Millionlights_800.m3u8
-#EXTINF:0, group-title="English",Mirror Now
+#EXTINF:0,Mirror Now
 http://ruhutv.com/ipo/?cid=/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
-#EXTINF:0, group-title="English",MN+
+#EXTINF:0,MN+
 http://ruhutv.com/ipo/?cid=/MNPLUS/MNPLUS_800.m3u8
-#EXTINF:0, group-title="English",MNX
+#EXTINF:0,MNX
 http://ruhutv.com/ipo/?cid=/Movies_Now2/Movies_Now2_800.m3u8
-#EXTINF:0, group-title="English",MNX HD
+#EXTINF:0,MNX HD
 http://ruhutv.com/ipo/?cid=/Movies_Now2_HD/Movies_Now2_HD_1200.m3u8
-#EXTINF:0, group-title="English",Movies Now HD
+#EXTINF:0,Movies Now HD
 http://ruhutv.com/ipo/?cid=/Movies_Now_HD/Movies_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",NDTV 24x7
+#EXTINF:0,NDTV 24x7
 http://ruhutv.com/ipo/?cid=/NDTV_24x7/NDTV_24x7_800.m3u8
-#EXTINF:0, group-title="English",NDTV Good Times
+#EXTINF:0,NDTV Good Times
 http://ruhutv.com/ipo/?cid=/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
-#EXTINF:0, group-title="English",NDTV Profit
+#EXTINF:0,NDTV Profit
 http://ruhutv.com/ipo/?cid=/NDTV_Profit/NDTV_Profit_800.m3u8
-#EXTINF:0, group-title="English",Neo Prime
+#EXTINF:0,Neo Prime
 http://ruhutv.com/ipo/?cid=/Neo_Prime/Neo_Prime_800.m3u8
-#EXTINF:0, group-title="English",Neo Sports
+#EXTINF:0,Neo Sports
 http://ruhutv.com/ipo/?cid=/Neo_Sports/Neo_Sports_800.m3u8
-#EXTINF:0, group-title="English",News 9
+#EXTINF:0,News 9
 http://ruhutv.com/ipo/?cid=/News_9/News_9_800.m3u8
-#EXTINF:0, group-title="English",News Asia 
+#EXTINF:0,News Asia 
 http://ruhutv.com/ipo/?cid=/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
-#EXTINF:0, group-title="English",News X
+#EXTINF:0,News X
 http://ruhutv.com/ipo/?cid=/News_X/News_X_800.m3u8
-#EXTINF:0, group-title="English",Nick (Eng)
+#EXTINF:0,Nick (Eng)
 http://ruhutv.com/ipo/?cid=/Nickelodeon/Nickelodeon_800.m3u8
-#EXTINF:0, group-title="English",Nick Jr.
+#EXTINF:0,Nick Jr.
 http://ruhutv.com/ipo/?cid=/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
-#EXTINF:0, group-title="English",Republic TV
+#EXTINF:0,Republic TV
 http://ruhutv.com/ipo/?cid=/Republic_TV/Republic_TV_800.m3u8
-#EXTINF:0, group-title="English",Romedy Now HD
+#EXTINF:0,Romedy Now HD
 http://ruhutv.com/ipo/?cid=/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",Nick Sonic
+#EXTINF:0,Nick Sonic
 http://ruhutv.com/ipo/?cid=/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
-#EXTINF:0, group-title="English",Sony BBC Earth 
+#EXTINF:0,Sony BBC Earth 
 http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony BBC Earth HD (Eng)
+#EXTINF:0,Sony BBC Earth HD (Eng)
 http://ruhutv.com/ipo/?cid=/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_1200.m3u8
-#EXTINF:0, group-title="English",Sony ESPN
+#EXTINF:0,Sony ESPN
 http://ruhutv.com/ipo/?cid=/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony ESPN HD
+#EXTINF:0,Sony ESPN HD
 http://ruhutv.com/ipo/?cid=/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Le PLEX HD
+#EXTINF:0,Sony Le PLEX HD
 http://ruhutv.com/ipo/?cid=/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Pix HD
+#EXTINF:0,Sony Pix HD
 http://ruhutv.com/ipo/?cid=/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Six (Hindi)
+#EXTINF:0,Sony Six (Hindi)
 http://ruhutv.com/ipo/?cid=/Sony_Six_SD/Sony_Six_SD_800.m3u8
-#EXTINF:0, group-title="English",Sony Six HD
+#EXTINF:0,Sony Six HD
 http://ruhutv.com/ipo/?cid=/Six_HD/Six_HD_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports HD 1
+#EXTINF:0,Star Sports HD 1
 http://ruhutv.com/ipo/?cid=/Star_Sports_HD_1/Star_Sports_HD_1_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports HD 2
+#EXTINF:0,Star Sports HD 2
 http://ruhutv.com/ipo/?cid=/Star_Sports_HD_2/Star_Sports_HD_2_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports Select HD 1
+#EXTINF:0,Star Sports Select HD 1
 http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8
-#EXTINF:0, group-title="English",Star Sports Select HD 2
+#EXTINF:0,Star Sports Select HD 2
 http://ruhutv.com/ipo/?cid=/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 1
+#EXTINF:0,Sony Ten 1
 http://ruhutv.com/ipo/?cid=/Ten_1/Ten_1_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 1 HD
+#EXTINF:0,Sony Ten 1 HD
 http://ruhutv.com/ipo/?cid=/Ten_HD/Ten_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 2
+#EXTINF:0,Sony Ten 2
 http://ruhutv.com/ipo/?cid=/Ten_2/Ten_2_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 2 HD
+#EXTINF:0,Sony Ten 2 HD
 http://ruhutv.com/ipo/?cid=/Ten2_HD/Ten2_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten 3
+#EXTINF:0,Sony Ten 3
 http://ruhutv.com/ipo/?cid=/Ten_3/Ten_3_800.m3u8
-#EXTINF:0, group-title="English",Sony Ten 3 HD
+#EXTINF:0,Sony Ten 3 HD
 http://ruhutv.com/ipo/?cid=/Ten3_HD/Ten3_HD_1200.m3u8
-#EXTINF:0, group-title="English",Sony Ten Golf HD
+#EXTINF:0,Sony Ten Golf HD
 http://ruhutv.com/ipo/?cid=/Ten_Golf_HD/Ten_Golf_HD_1200.m3u8
-#EXTINF:0, group-title="English",Times Now
+#EXTINF:0,Times Now
 http://ruhutv.com/ipo/?cid=/Times_NOW/Times_NOW_800.m3u8
-#EXTINF:0, group-title="English",Times Now HD
+#EXTINF:0,Times Now HD
 http://ruhutv.com/ipo/?cid=/Times_Now_HD/Times_Now_HD_1200.m3u8
-#EXTINF:0, group-title="English",TLC
+#EXTINF:0,TLC
 http://ruhutv.com/ipo/?cid=/TLC_English/TLC_English_800.m3u8
-#EXTINF:0, group-title="English",TLC HD World
+#EXTINF:0,TLC HD World
 http://ruhutv.com/ipo/?cid=/TLC_HD_World/TLC_HD_World_1200.m3u8
-#EXTINF:0, group-title="English",Toonami
+#EXTINF:0,Toonami
 http://ruhutv.com/ipo/?cid=/Toonami/Toonami_800.m3u8
-#EXTINF:0, group-title="English",Travel XP HD
+#EXTINF:0,Travel XP HD
 http://ruhutv.com/ipo/?cid=/Travel_XP_HD/Travel_XP_HD_1200.m3u8
-#EXTINF:0, group-title="English",TV 5 Monde Asie
+#EXTINF:0,TV 5 Monde Asie
 http://ruhutv.com/ipo/?cid=/TV_5_Monde/TV_5_Monde_800.m3u8
-#EXTINF:0, group-title="English",WB
+#EXTINF:0,WB
 http://ruhutv.com/ipo/?cid=/WB/WB_800.m3u8
-
