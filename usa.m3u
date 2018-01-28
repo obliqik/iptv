@@ -1,39 +1,36 @@
 #EXTM3U
-#EXTINF:0,A&E (US) – A&E (US)
+#EXTINF:0,A&E
 http://163.172.14.210:80/live?channelId=237&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,AFN SPORTS (US) – AFN SPORTS (US)
-http://163.172.14.210:80/live?channelId=238&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,AFN SPORTS 2 (US) – AFN SPORTS 2 (US)
-http://163.172.14.210:80/live?channelId=239&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,AMC (US) – AMC (US)
+
+#EXTINF:0,AMC
 http://163.172.14.210:80/live?channelId=240&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,Animal Planet (US) – Animal Planet (US)
+#EXTINF:0,Animal Planet
 http://163.172.14.210:80/live?channelId=241&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,DESTINATION AMERICA (US) – DESTINATION AMERICA (US)
+#EXTINF:0,DESTINATION AMERICA
 http://163.172.14.210:80/live?channelId=242&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,Discovery (US) – Discovery (US)
+#EXTINF:0,Discovery
 http://163.172.14.210:80/live?channelId=243&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,DISCOVERY SCIENCE (US) – DISCOVERY SCIENCE (US)
+#EXTINF:0,DISCOVERY SCIENCE
 http://163.172.14.210:80/live?channelId=244&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,E! ENTERTAINMENT (US) – E! ENTERTAINMENT (US)
+#EXTINF:0,E! ENTERTAINMENT 
 http://163.172.14.210:80/live?channelId=245&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,FOX NEWS – FOX NEWS
+#EXTINF:0,FOX NEWS
 http://163.172.14.210:80/live?channelId=246&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,FX (US) – FX (US)
+#EXTINF:0,FX
 http://163.172.14.210:80/live?channelId=247&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,HISTORY (US) – HISTORY (US)
+#EXTINF:0,HISTORY 
 http://163.172.14.210:80/live?channelId=248&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,MBL NETWORK (US) – MBL NETWORK (US)
+#EXTINF:0,MBL NETWORK
 http://163.172.14.210:80/live?channelId=249&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,NBA TV (US) – NBA TV (US)
+#EXTINF:0,NBA TV 
 http://163.172.14.210:80/live?channelId=250&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,SPIKE (US) – SPIKE (US)
+#EXTINF:0,SPIKE
 http://163.172.14.210:80/live?channelId=251&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,SYFY (US) – SYFY (US)
+#EXTINF:0,SYFY
 http://163.172.14.210:80/live?channelId=252&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,TBS (US) – TBS (US)
+#EXTINF:0,TBS
 http://163.172.14.210:80/live?channelId=253&uid=5617&deviceMac=00:1A:79:99:93:01
-#EXTINF:0,WWE Network – WWE Network
+#EXTINF:0,WWE Network
 http://163.172.14.210:80/live?channelId=254&uid=5617&deviceMac=00:1A:79:99:93:01
 #EXTINF:0,Boomerang
 http://163.172.105.230:9001/live?channelId=255&uid=5617&deviceMac=00:1A:79:99:93:01
