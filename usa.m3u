@@ -29,6 +29,45 @@ http://98.109.150.239:8006/play/a011
 #EXTINF:-1,ESPN 3
 http://98.109.150.239:8001/play/a01m
 
+#EXTINF:-1,AE HD
+http://clarines.jl.serv.net.mx/stream/AE_MUNDO_HD/04.m3u8
+#EXTINF:-1,H2 HD
+http://clarines.jl.serv.net.mx/stream/H2/04.m3u8
+#EXTINF:-1,AMC HD
+http://clarines.jl.serv.net.mx/stream/AMC_HD/04.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://clarines.jl.serv.net.mx/stream/ANIMAL_PLANET_HD/04.m3u8
+#EXTINF:-1,AXN HD
+http://clarines.jl.serv.net.mx/stream/AXN_HD/04.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://clarines.jl.serv.net.mx/stream/DISCOVERY_CHANNEL_HD/04.m3u
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://clarines.jl.serv.net.mx/stream/DISCOVERY_SCIENCE/04.m3u8
+#EXTINF:-1,FOX CINEMA HD
+http://clarines.jl.serv.net.mx/stream/FOX_CINEMA_HD_SUB/04.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://clarines.jl.serv.net.mx/stream/FOX_COMEDY_HD/04.m3u8
+#EXTINF:-1,FOX HD
+http://clarines.jl.serv.net.mx/stream/FOX_HD/04.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://clarines.jl.serv.net.mx/stream/FOXFAMILY_HD/04.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://clarines.jl.serv.net.mx/stream/FOXMOVIES_HD/04.m3u8
+#EXTINF:-1,FOX1 SUB
+http://clarines.jl.serv.net.mx/stream/FOX1_HD_SUB/04.m3u8
+#EXTINF:-1,FOX1
+http://clarines.jl.serv.net.mx/stream/FOX1_HD/04.m3u8
+#EXTINF:-1,HBO2
+http://clarines.jl.serv.net.mx/stream/HBO_2_HD/04.m3u8
+#EXTINF:-1,HBO famyly
+http://clarines.jl.serv.net.mx/stream/HBO_FAMILY_HD/04.m3u8
+#EXTINF:-1,HBO2
+http://clarines.jl.serv.net.mx/stream/HBO_HD/04.m3u8
+#EXTINF:-1,HBO sub
+http://clarines.jl.serv.net.mx/stream/HBO_HD_SUB/04.m3u8
+#EXTINF:-1,HISTRY HD
+http://clarines.jl.serv.net.mx/stream/HISTORY_CHANNEL_HD/04.m3u8
+
 #EXTINF:-1,A HD
 http://90.75.191.32:8000/play/a0m7
 #EXTINF:-1,HOLLYWOODHD
