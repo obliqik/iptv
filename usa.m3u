@@ -1,5 +1,6 @@
 
 #EXTM3U
+#EXTINF:-1,HBO HD
 http://98.109.150.239:8001/play/a01s
 #EXTINF:-1,DISNEY JUNIOR
 http://98.109.150.239:8001/play/a01v
@@ -27,3 +28,58 @@ http://98.109.150.239:8006/play/a00t
 http://98.109.150.239:8006/play/a011
 #EXTINF:-1,ESPN 3
 http://98.109.150.239:8001/play/a01m
+
+#EXTINF:-1,A HD
+http://90.75.191.32:8000/play/a0m7
+#EXTINF:-1,HOLLYWOODHD
+http://90.75.191.32:8000/play/a0m1
+#EXTINF:-1,TELECINCO HD
+http://90.75.191.32:8000/play/a0lq
+#EXTINF:-1,BEINLALIGA2
+http://90.75.191.32:8000/play/a0m5
+#EXTINF:-1,BEIN MAX 1
+http://90.75.191.32:8000/play/a0mb
+#EXTINF:-1,BEIN LALIGA
+http://90.75.191.32:8000/play/a0ki
+#EXTINF:-1,BEIN SPORTS
+http://90.75.191.32:8000/play/a0le
+#EXTINF:-1,LA SEXTA HD
+http://90.75.191.32:8000/play/a0lr
+#EXTINF:-1,BEIN LALIGA
+http://90.75.191.32:8000/play/a0kc
+#EXTINF:-1,FOX HD
+http://90.75.191.32:8000/play/a0ly
+#EXTINF:-1,CUATRO HD
+http://90.75.191.32:8000/play/a0lp
+#EXTINF:-1,BEINLALIGA1
+http://90.75.191.32:8000/play/a0m3
+#EXTINF:-1,A1HD
+http://90.75.191.32:8000/play/a0kj
+#EXTINF:-1,azoHD
+http://90.75.191.32:8000/play/a0ma
+#EXTINF:-1,TOROS TV
+http://90.75.191.32:8000/play/a0l4
+#EXTINF:-1,LALIGATV BAR
+http://90.75.191.32:8000/play/a0m8
+#EXTINF:-1,M. ACCI©N HD
+http://90.75.191.32:8000/play/a0lz
+#EXTINF:-1,MULTIDEP.2
+http://90.75.191.32:8000/play/a0l1
+#EXTINF:-1,M. DCINE HD
+http://90.75.191.32:8000/play/a0m0
+#EXTINF:-1,AXN HD
+http://90.75.191.32:8000/play/a0m6
+#EXTINF:-1,LA 1 HD
+http://90.75.191.32:8000/play/a0mc
+#EXTINF:-1,ANTENA 3 HD
+http://90.75.191.32:8000/play/a0lo
+#EXTINF:-1,M. HD
+http://90.75.191.32:8000/play/a0kb
+#EXTINF:-1,MULTIDEP.1
+http://90.75.191.32:8000/play/a0l0
+#EXTINF:-1,HD
+http://90.75.191.32:8000/play/a0kk
+#EXTINF:-1,BEIN MAX 2
+http://90.75.191.32:8000/play/a0md
+#EXTINF:-1,AMC HD
+http://90.75.191.32:8000/play/a0ln
