@@ -1,5 +1,8 @@
 
 #EXTM3U
+#EXTINF:0,HBO
+http://87.246.0.130:88/m3u8/webhbo_web.m3u8
+
 #EXTINF:-1,HBO HD
 http://98.109.150.239:8001/play/a01s
 #EXTINF:-1,DISNEY JUNIOR
