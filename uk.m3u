@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
 #EXTINF:0,http://62.210.93.115:80/live?channelId=1&uid=488&deviceMac=00:1A:79:48:DC:0E
 #EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
