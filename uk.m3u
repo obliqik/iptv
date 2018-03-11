@@ -1,65 +1,78 @@
-
 #EXTM3U
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=1&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="BBC1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+#EXTINF:0,http://62.210.99.158:80/live?channelId=2&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=3&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="BBC2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+#EXTINF:0,http://62.210.93.115:80/live?channelId=4&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=5&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+#EXTINF:0,http://62.210.93.115:80/live?channelId=6&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+#EXTINF:0,http://62.210.93.115:80/live?channelId=7&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=8&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+#EXTINF:0,http://62.210.93.115:80/live?channelId=9&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+#EXTINF:0,http://62.210.93.115:80/live?channelId=10&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=11&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+#EXTINF:0,http://62.210.93.115:80/live?channelId=12&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+#EXTINF:0,http://62.210.93.115:80/live?channelId=13&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+#EXTINF:0,http://62.210.93.115:80/live?channelId=14&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+#EXTINF:0,http://62.210.93.115:80/live?channelId=15&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+#EXTINF:0,http://62.210.93.115:80/live?channelId=16&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+#EXTINF:0,http://62.210.93.115:80/live?channelId=17&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+#EXTINF:0,http://62.210.93.115:80/live?channelId=18&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+#EXTINF:0,http://62.210.93.115:80/live?channelId=19&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+#EXTINF:0,http://62.210.93.115:80/live?channelId=20&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+#EXTINF:0,http://62.210.93.115:80/live?channelId=21&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+#EXTINF:0,http://62.210.93.115:80/live?channelId=22&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="My5" tvg-link="" tvg-name="My5" tvg-logo="" group-title="Entertainment Channels",My5 - My5
+#EXTINF:0,http://62.210.93.115:80/live?channelId=23&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+#EXTINF:0,http://62.210.93.115:80/live?channelId=24&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=25&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+#EXTINF:0,http://62.210.93.115:80/live?channelId=26&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+#EXTINF:0,http://62.210.93.115:80/live?channelId=27&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living" tvg-logo="" group-title="Entertainment Channels",Sky Living - Sky Living
+#EXTINF:0,http://62.210.93.115:80/live?channelId=28&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
+#EXTINF:0,http://62.210.93.115:80/live?channelId=29&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+#EXTINF:0,http://62.210.93.115:80/live?channelId=30&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
+#EXTINF:0,http://62.210.93.115:80/live?channelId=31&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+#EXTINF:0,http://62.210.93.115:80/live?channelId=32&uid=488&deviceMac=00:1A:79:48:DC:0E
+#EXTINF:-1 tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
+
+
+
+
 #EXTINF:0,HBO
 http://87.246.0.130:88/m3u8/webhbo_web.m3u8
-
 #EXTINF:-1,HBO HD
 http://98.109.150.239:8001/play/a01s
-#EXTINF:-1,DISNEY JUNIOR
-http://98.109.150.239:8001/play/a01v
-#EXTINF:-1,Cartoon Networck
-http://98.109.150.239:8001/play/a01i
-#EXTINF:-1,H2
-http://98.109.150.239:8006/play/a017
-#EXTINF:-1,CNN Espanol
-http://98.109.150.239:8006/play/a01a
-#EXTINF:-1,HOLA TV
-http://98.109.150.239:8006/play/a012
-#EXTINF:-1,Lo Mejor TV
-http://98.109.150.239:8006/play/a015
-#EXTINF:-1,Millenio TV
-http://98.109.150.239:8006/play/a01b
-#EXTINF:-1,NAT GEO KID
-http://98.109.150.239:8006/play/a016
-#EXTINF:-1,NU Music
-http://98.109.150.239:8006/play/a014
-#EXTINF:-1,TBS
-http://98.109.150.239:8006/play/a013
-#EXTINF:-1,Unknown-102
-http://98.109.150.239:8006/play/a00t
-#EXTINF:-1,TNT
-http://98.109.150.239:8006/play/a011
-#EXTINF:-1,ESPN 3
-http://98.109.150.239:8001/play/a01m
-
-#EXTINF:-1,AE HD
-http://clarines.jl.serv.net.mx/stream/AE_MUNDO_HD/04.m3u8
-#EXTINF:-1,H2 HD
-http://clarines.jl.serv.net.mx/stream/H2/04.m3u8
-#EXTINF:-1,AMC HD
-http://clarines.jl.serv.net.mx/stream/AMC_HD/04.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://clarines.jl.serv.net.mx/stream/ANIMAL_PLANET_HD/04.m3u8
-#EXTINF:-1,AXN HD
-http://clarines.jl.serv.net.mx/stream/AXN_HD/04.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://clarines.jl.serv.net.mx/stream/DISCOVERY_CHANNEL_HD/04.m3u
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://clarines.jl.serv.net.mx/stream/DISCOVERY_SCIENCE/04.m3u8
-#EXTINF:-1,FOX CINEMA HD
-http://clarines.jl.serv.net.mx/stream/FOX_CINEMA_HD_SUB/04.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://clarines.jl.serv.net.mx/stream/FOX_COMEDY_HD/04.m3u8
-#EXTINF:-1,FOX HD
-http://clarines.jl.serv.net.mx/stream/FOX_HD/04.m3u8
-#EXTINF:-1,FOX FAMILY HD
-http://clarines.jl.serv.net.mx/stream/FOXFAMILY_HD/04.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://clarines.jl.serv.net.mx/stream/FOXMOVIES_HD/04.m3u8
-#EXTINF:-1,FOX1 SUB
-http://clarines.jl.serv.net.mx/stream/FOX1_HD_SUB/04.m3u8
-#EXTINF:-1,FOX1
-http://clarines.jl.serv.net.mx/stream/FOX1_HD/04.m3u8
 #EXTINF:-1,HBO2
 http://clarines.jl.serv.net.mx/stream/HBO_2_HD/04.m3u8
 #EXTINF:-1,HBO famyly
