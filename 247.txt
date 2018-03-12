@@ -1,28 +1,252 @@
-#EXTINF:-1 tvg-id="" tvg-name="247 Mr Bean" tvg-logo="" group-title="247",247 Mr Bean
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23257.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Phoenix nights" tvg-logo="" group-title="247",247 Phoenix nights
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23256.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 South Park" tvg-logo="" group-title="247",247 South Park
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34797.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 American Dad" tvg-logo="" group-title="247",247 American Dad
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/22797.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Family Guy" tvg-logo="" group-title="247",247 Family Guy
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34740.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Bottom" tvg-logo="" group-title="247",247 Bottom
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/22798.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Married with Children" tvg-logo="" group-title="247",247 Married with Children
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/23554.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Only Fools and Horses" tvg-logo="" group-title="247",247 Only Fools and Horses
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/24934.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Peaky Blinders" tvg-logo="" group-title="247",247 Peaky Blinders
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/24935.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Max and Paddy" tvg-logo="" group-title="247",247 Max and Paddy
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26445.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Paw Patrol" tvg-logo="" group-title="247",247 Paw Patrol
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26446.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Peppa Pig" tvg-logo="" group-title="247",247 Peppa Pig
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/26447.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Rick & Morty" tvg-logo="" group-title="247",247 Rick & Morty
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/34799.ts
-#EXTINF:-1 tvg-id="" tvg-name="247 Friends" tvg-logo="" group-title="247",247 Friends
-http://iptv.superstreamsuk.co.uk:25461/live/Alevlassi0/TwVhL6D0dV/35468.ts
+#EXTM3U
+
+#EXTINF:-1,24/7  Looney Tunes 10+hrs
+http://marveliptv.ddns.net:25461/live/jen/jen/77035.ts
+#EXTINF:-1,The Flat Out Hidden Truth
+http://marveliptv.ddns.net:25461/live/jen/jen/75447.ts
+#EXTINF:-1,24/7 What the health
+http://marveliptv.ddns.net:25461/live/jen/jen/62543.ts
+#EXTINF:-1,Holy Bible
+http://marveliptv.ddns.net:25461/live/jen/jen/60889.ts
+#EXTINF:-1,AUDIO BOOKS | The Book Of Enoch
+http://marveliptv.ddns.net:25461/live/jen/jen/58401.ts
+#EXTINF:-1,Soothing Sounds
+http://marveliptv.ddns.net:25461/live/jen/jen/75594.ts
+#EXTINF:-1,24/7 80s 90s CLASSIC CARTOONS
+http://marveliptv.ddns.net:25461/live/jen/jen/87203.ts
+#EXTINF:-1,24/7 90210
+http://marveliptv.ddns.net:25461/live/jen/jen/87202.ts
+#EXTINF:-1,24/7 AIRWOLF
+http://marveliptv.ddns.net:25461/live/jen/jen/87201.ts
+#EXTINF:-1,24/7 ALF
+http://marveliptv.ddns.net:25461/live/jen/jen/87200.ts
+#EXTINF:-1,24/7 ALL IN THE FAMILY
+http://marveliptv.ddns.net:25461/live/jen/jen/87184.ts
+#EXTINF:-1,24/7 AMERICAN DAD
+http://marveliptv.ddns.net:25461/live/jen/jen/87183.ts
+#EXTINF:-1,24/7 AMERICAN HORROR STORY
+http://marveliptv.ddns.net:25461/live/jen/jen/87182.ts
+#EXTINF:-1,24/7 ANCIENT ALIENS
+http://marveliptv.ddns.net:25461/live/jen/jen/87181.ts
+#EXTINF:-1,24/7 BAND OF BROTHERS & THE PACIFIC
+http://marveliptv.ddns.net:25461/live/jen/jen/87199.ts
+#EXTINF:-1,24/7 BATMAN
+http://marveliptv.ddns.net:25461/live/jen/jen/87180.ts
+#EXTINF:-1,24/7 BATTLESTAR GALACTICA
+http://marveliptv.ddns.net:25461/live/jen/jen/87179.ts
+#EXTINF:-1,24/7 BETTER CALL SAUL
+http://marveliptv.ddns.net:25461/live/jen/jen/87178.ts
+#EXTINF:-1,24/7 BIG BANG THEORY
+http://marveliptv.ddns.net:25461/live/jen/jen/87177.ts
+#EXTINF:-1,24/7 BLACK JESUS
+http://marveliptv.ddns.net:25461/live/jen/jen/87176.ts
+#EXTINF:-1,24/7 BOBS BURGERS
+http://marveliptv.ddns.net:25461/live/jen/jen/87175.ts
+#EXTINF:-1,24/7 BOY MEETS WORLD
+http://marveliptv.ddns.net:25461/live/jen/jen/87198.ts
+#EXTINF:-1,24/7 BREAKING BAD
+http://marveliptv.ddns.net:25461/live/jen/jen/87174.ts
+#EXTINF:-1,24/7 BRUCE LEE
+http://marveliptv.ddns.net:25461/live/jen/jen/87173.ts
+#EXTINF:-1,24/7 BUGS BUNNY CLASSICS
+http://marveliptv.ddns.net:25461/live/jen/jen/87172.ts
+#EXTINF:-1,24/7 CAPTAIN PLANET
+http://marveliptv.ddns.net:25461/live/jen/jen/87171.ts
+#EXTINF:-1,24/7 COMEDY MOVIES
+http://marveliptv.ddns.net:25461/live/jen/jen/87170.ts
+#EXTINF:-1,24/7 DEXTER
+http://marveliptv.ddns.net:25461/live/jen/jen/87169.ts
+#EXTINF:-1,24/7 DINOSAURS
+http://marveliptv.ddns.net:25461/live/jen/jen/87168.ts
+#EXTINF:-1,24/7 DISNEY CLASSICS
+http://marveliptv.ddns.net:25461/live/jen/jen/87167.ts
+#EXTINF:-1,24/7 DUCKTALES
+http://marveliptv.ddns.net:25461/live/jen/jen/87166.ts
+#EXTINF:-1,24/7 ENTOURAGE
+http://marveliptv.ddns.net:25461/live/jen/jen/87197.ts
+#EXTINF:-1,24/7 FAMILY GUY
+http://marveliptv.ddns.net:25461/live/jen/jen/87165.ts
+#EXTINF:-1,24/7 FAMILY MATTERS
+http://marveliptv.ddns.net:25461/live/jen/jen/87196.ts
+#EXTINF:-1,24/7 FAST N LOUD
+http://marveliptv.ddns.net:25461/live/jen/jen/87164.ts
+#EXTINF:-1,24/7 FITNESS - WORKOUT
+http://marveliptv.ddns.net:25461/live/jen/jen/87163.ts
+#EXTINF:-1,24/7 FRAGGLE ROCK
+http://marveliptv.ddns.net:25461/live/jen/jen/87162.ts
+#EXTINF:-1,24/7 FRIENDS
+http://marveliptv.ddns.net:25461/live/jen/jen/87161.ts
+#EXTINF:-1,24/7 FUTURAMA
+http://marveliptv.ddns.net:25461/live/jen/jen/87160.ts
+#EXTINF:-1,24/7 GAME OF THRONES
+http://marveliptv.ddns.net:25461/live/jen/jen/87159.ts
+#EXTINF:-1,24/7 GOOFY CLASSICS
+http://marveliptv.ddns.net:25461/live/jen/jen/87158.ts
+#EXTINF:-1,24/7 HE-MAN
+http://marveliptv.ddns.net:25461/live/jen/jen/87157.ts
+#EXTINF:-1,24/7 IMPRACTICAL JOKERS
+http://marveliptv.ddns.net:25461/live/jen/jen/87155.ts
+#EXTINF:-1,24/7 In Living Color
+http://marveliptv.ddns.net:25461/live/jen/jen/87156.ts
+#EXTINF:-1,24/7 INSPECTOR GADGET
+http://marveliptv.ddns.net:25461/live/jen/jen/87154.ts
+#EXTINF:-1,24/7 JASON BOURNE
+http://marveliptv.ddns.net:25461/live/jen/jen/87153.ts
+#EXTINF:-1,24/7 JUDGE JUDY
+http://marveliptv.ddns.net:25461/live/jen/jen/87152.ts
+#EXTINF:-1,24/7 KING OF THE HILL
+http://marveliptv.ddns.net:25461/live/jen/jen/87150.ts
+#EXTINF:-1,24/7 KINGS OF QUEENS
+http://marveliptv.ddns.net:25461/live/jen/jen/87151.ts
+#EXTINF:-1,24/7 KNIGHT RIDER
+http://marveliptv.ddns.net:25461/live/jen/jen/87195.ts
+#EXTINF:-1,24/7 LOONEY TUNES
+http://marveliptv.ddns.net:25461/live/jen/jen/87149.ts
+#EXTINF:-1,24/7 MALCOLM IN THE MIDDLE
+http://marveliptv.ddns.net:25461/live/jen/jen/87148.ts
+#EXTINF:-1,24/7 MARTIN
+http://marveliptv.ddns.net:25461/live/jen/jen/87194.ts
+#EXTINF:-1,24/7 MASTER CHEF
+http://marveliptv.ddns.net:25461/live/jen/jen/87147.ts
+#EXTINF:-1,24/7 Mickey and The Roadster Racers Show
+http://marveliptv.ddns.net:25461/live/jen/jen/87146.ts
+#EXTINF:-1,24/7 Mickey Mouse Clubhouse
+http://marveliptv.ddns.net:25461/live/jen/jen/87145.ts
+#EXTINF:-1,24/7 MINNIE BOWTIQUE
+http://marveliptv.ddns.net:25461/live/jen/jen/87144.ts
+#EXTINF:-1,24/7 MY GHOST STORYS
+http://marveliptv.ddns.net:25461/live/jen/jen/87143.ts
+#EXTINF:-1,24/7 PAW Patrol
+http://marveliptv.ddns.net:25461/live/jen/jen/87142.ts
+#EXTINF:-1,24/7 PEPPA PIG
+http://marveliptv.ddns.net:25461/live/jen/jen/87141.ts
+#EXTINF:-1,24/7 PLANET EARTH II 4K
+http://marveliptv.ddns.net:25461/live/jen/jen/87140.ts
+#EXTINF:-1,24/7 POKEMON INDIGO LEAGUE & ORANGE LEAGUE
+http://marveliptv.ddns.net:25461/live/jen/jen/87139.ts
+#EXTINF:-1,24/7 POWER
+http://marveliptv.ddns.net:25461/live/jen/jen/87138.ts
+#EXTINF:-1,24/7 QUANTUM LEAP
+http://marveliptv.ddns.net:25461/live/jen/jen/87193.ts
+#EXTINF:-1,24/7 RICK & MORTY
+http://marveliptv.ddns.net:25461/live/jen/jen/87137.ts
+#EXTINF:-1,24/7 SANFORD & SON
+http://marveliptv.ddns.net:25461/live/jen/jen/87192.ts
+#EXTINF:-1,24/7 SAVED BY THE BELL
+http://marveliptv.ddns.net:25461/live/jen/jen/87191.ts
+#EXTINF:-1,24/7 SGU STARGATE UNIVERSE
+http://marveliptv.ddns.net:25461/live/jen/jen/87136.ts
+#EXTINF:-1,24/7 SIMPSONS
+http://marveliptv.ddns.net:25461/live/jen/jen/87135.ts
+#EXTINF:-1,24/7 SONS OF ANARCHY
+http://marveliptv.ddns.net:25461/live/jen/jen/87134.ts
+#EXTINF:-1,24/7 SOUTH PARK
+http://marveliptv.ddns.net:25461/live/jen/jen/87133.ts
+#EXTINF:-1,24/7 SPONGEBOB SQUAREPANTS
+http://marveliptv.ddns.net:25461/live/jen/jen/87132.ts
+#EXTINF:-1,24/7 STAR WARS MOVIES
+http://marveliptv.ddns.net:25461/live/jen/jen/87131.ts
+#EXTINF:-1,24/7 STARGATE ATLANTIS
+http://marveliptv.ddns.net:25461/live/jen/jen/87130.ts
+#EXTINF:-1,24/7 STEVEN UNIVERSE
+http://marveliptv.ddns.net:25461/live/jen/jen/87129.ts
+#EXTINF:-1,24/7 STREET OUTLAWS
+http://marveliptv.ddns.net:25461/live/jen/jen/87190.ts
+#EXTINF:-1,24/7 TALES FROM THE CRYPT
+http://marveliptv.ddns.net:25461/live/jen/jen/87128.ts
+#EXTINF:-1,24/7 THE ANDY GRIFFITH SHOW
+http://marveliptv.ddns.net:25461/live/jen/jen/87189.ts
+#EXTINF:-1,24/7 THE CARE BEARS
+http://marveliptv.ddns.net:25461/live/jen/jen/87127.ts
+#EXTINF:-1,24/7 THE FRESH PRINCE OF BEL-AIR
+http://marveliptv.ddns.net:25461/live/jen/jen/87126.ts
+#EXTINF:-1,24/7 THE JETSONS
+http://marveliptv.ddns.net:25461/live/jen/jen/87125.ts
+#EXTINF:-1,24/7 THE SOPRANOS
+http://marveliptv.ddns.net:25461/live/jen/jen/87124.ts
+#EXTINF:-1,24/7 THE WALKING DEAD
+http://marveliptv.ddns.net:25461/live/jen/jen/87123.ts
+#EXTINF:-1,24/7 THE WIRE
+http://marveliptv.ddns.net:25461/live/jen/jen/87188.ts
+#EXTINF:-1,24/7 THE WONDER YEARS
+http://marveliptv.ddns.net:25461/live/jen/jen/87187.ts
+#EXTINF:-1,24/7 THREE STOOGES
+http://marveliptv.ddns.net:25461/live/jen/jen/87122.ts
+#EXTINF:-1,24/7 THUNDERCATS
+http://marveliptv.ddns.net:25461/live/jen/jen/87121.ts
+#EXTINF:-1,24/7 TMNT 1987
+http://marveliptv.ddns.net:25461/live/jen/jen/87120.ts
+#EXTINF:-1,24/7 TOM & JERRY
+http://marveliptv.ddns.net:25461/live/jen/jen/87119.ts
+#EXTINF:-1,24/7 TOM & JERRY TALES
+http://marveliptv.ddns.net:25461/live/jen/jen/87118.ts
+#EXTINF:-1,24/7 TOP CAT
+http://marveliptv.ddns.net:25461/live/jen/jen/87117.ts
+#EXTINF:-1,24/7 TOP GEAR
+http://marveliptv.ddns.net:25461/live/jen/jen/87116.ts
+#EXTINF:-1,24/7 TWILIGHT ZONE
+http://marveliptv.ddns.net:25461/live/jen/jen/87115.ts
+#EXTINF:-1,24/7 UNDERDOG
+http://marveliptv.ddns.net:25461/live/jen/jen/87114.ts
+#EXTINF:-1,24/7 UNSOLVED MYSTERIES
+http://marveliptv.ddns.net:25461/live/jen/jen/87113.ts
+#EXTINF:-1,24/7 VOLTRON
+http://marveliptv.ddns.net:25461/live/jen/jen/87112.ts
+#EXTINF:-1,24/7 VOLTRON (NEW)
+http://marveliptv.ddns.net:25461/live/jen/jen/87111.ts
+#EXTINF:-1,24/7 WESTERNS
+http://marveliptv.ddns.net:25461/live/jen/jen/87186.ts
+#EXTINF:-1,24/7 WESTWORLD
+http://marveliptv.ddns.net:25461/live/jen/jen/87110.ts
+#EXTINF:-1,24/7 WWE ROYAL RUMBLE
+http://marveliptv.ddns.net:25461/live/jen/jen/87109.ts
+#EXTINF:-1,24/7 WWE WRESTLEMANIA
+http://marveliptv.ddns.net:25461/live/jen/jen/87185.ts
+#EXTINF:-1,24/7 AMERICAN GODS
+http://marveliptv.ddns.net:25461/live/jen/jen/87227.ts
+#EXTINF:-1,24/7 Animated Movies
+http://marveliptv.ddns.net:25461/live/jen/jen/87217.ts
+#EXTINF:-1,24/7 BAND OF BROTHERS
+http://marveliptv.ddns.net:25461/live/jen/jen/87225.ts
+#EXTINF:-1,24/7 Blackadder [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87214.ts
+#EXTINF:-1,24/7 Blockbuster Movies
+http://marveliptv.ddns.net:25461/live/jen/jen/87216.ts
+#EXTINF:-1,24/7 Bob the Builder [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87213.ts
+#EXTINF:-1,24/7 BOTTOM
+http://marveliptv.ddns.net:25461/live/jen/jen/87226.ts
+#EXTINF:-1,24/7 Citizen Khan [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87209.ts
+#EXTINF:-1,24/7 COLONY
+http://marveliptv.ddns.net:25461/live/jen/jen/87224.ts
+#EXTINF:-1,24/7 FATHER TED
+http://marveliptv.ddns.net:25461/live/jen/jen/87223.ts
+#EXTINF:-1,24/7 Fireman Sam [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87208.ts
+#EXTINF:-1,24/7 GAME ON
+http://marveliptv.ddns.net:25461/live/jen/jen/87222.ts
+#EXTINF:-1,24/7 Gavin & Stacey [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87207.ts
+#EXTINF:-1,24/7 HE MIGHTY BOOSH
+http://marveliptv.ddns.net:25461/live/jen/jen/87221.ts
+#EXTINF:-1,24/7 MARVELS IRON FIST
+http://marveliptv.ddns.net:25461/live/jen/jen/87219.ts
+#EXTINF:-1,24/7 MAX & PADDY
+http://marveliptv.ddns.net:25461/live/jen/jen/87220.ts
+#EXTINF:-1,24/7 Mrs. Brown's Boys [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87212.ts
+#EXTINF:-1,24/7 Only Fools and Horses
+http://marveliptv.ddns.net:25461/live/jen/jen/87218.ts
+#EXTINF:-1,24/7 Porridge [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87205.ts
+#EXTINF:-1,24/7 Still Game [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87211.ts
+#EXTINF:-1,24/7 Superhero Movies
+http://marveliptv.ddns.net:25461/live/jen/jen/87215.ts
+#EXTINF:-1,24/7 The Inbetweeners [ local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87210.ts
+#EXTINF:-1,24/7 The Orville [ Local ]
+http://marveliptv.ddns.net:25461/live/jen/jen/87206.ts
+#EXTINF:-1,IN LIVING COLOR 24/7
+http://marveliptv.ddns.net:25461/live/jen/jen/87204.ts
