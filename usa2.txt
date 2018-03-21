@@ -1,0 +1,1243 @@
+#EXTM3U
+#EXTINF:-1,fox
+http://thenickos.tk:80/reddragon/failed/exit/f0x-q6.php
+#EXTINF:-1,golden premiere
+http://thenickos.tk:80/reddragon/failed/exit/goldp-q6.php
+#EXTINF:-1,history
+http://thenickos.tk:80/reddragon/failed/exit/history-q6.php
+#EXTINF:-1,natgeo wild
+http://thenickos.tk:80/reddragon/failed/exit/natgeo_wild_mx-q6.php
+#EXTINF:-1,space
+http://thenickos.tk:80/reddragon/failed/exit/space-q6.php
+#EXTINF:-1,boomerang
+http://thenickos.tk:80/reddragon/failed/exit/boomerang-q4.php
+#EXTINF:-1,cartoon network
+http://thenickos.tk:80/reddragon/failed/exit/cart_net-q6.php
+#EXTINF:-1,toon cast
+http://thenickos.tk:80/reddragon/failed/exit/tooncast-q4.php
+#EXTINF:-1,natgeo jr
+http://thenickos.tk:80/reddragon/failed/exit/nickjr-q6.php
+#EXTINF:-1,disney
+http://thenickos.tk:80/reddragon/failed/exit/d1sneyxd-q4.php
+#EXTINF:-1,fox sports 2
+http://thenickos.tk:80/reddragon/failed/exit/f0xsports2mx-q6.php
+#EXTINF:-1,hbo2
+http://thenickos.tk:80/reddragon/failed/exit/hb02-q6.php
+#EXTINF:-1,fox sports
+http://thenickos.tk:80/reddragon/failed/exit/f0xsports-q6.php
+#EXTINF:-1,espn
+http://thenickos.tk:80/reddragon/failed/exit/espn-q6.php
+#EXTINF:-1,espn +
+http://thenickos.tk:80/reddragon/failed/exit/espn_plus-q6.php
+#EXTINF:-1,claro sports
+http://thenickos.tk:80/reddragon/failed/exit/clspo-q6.php
+#EXTINF:-1,claro cinema
+http://thenickos.tk:80/reddragon/failed/exit/clr_cinema-q4.php
+#EXTINF:-1,natgeo kids
+http://thenickos.tk:80/reddragon/failed/exit/natgeo_kids-q6.php
+#EXTINF:-1,Animal planeta
+http://thenickos.tk:80/reddragon/failed/exit/anim_planet-q3.php
+
+#EXTM3U
+#EXTINF:-1,UK - BBC One HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1313.ts
+#EXTINF:-1,UK - BBC Two HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1312.ts
+#EXTINF:-1,UK - ITV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1246.ts
+#EXTINF:-1,UK - Channel 4 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1293.ts
+#EXTINF:-1,UK - Channel 5 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1291.ts
+#EXTINF:-1,UK - Sky ONE
+http://213.136.73.170:8080/live/Rhys/Rhys/1211.ts
+#EXTINF:-1,UK - Sky Atlantic
+http://213.136.73.170:8080/live/Rhys/Rhys/1207.ts
+#EXTINF:-1,UK - Sky 2
+http://213.136.73.170:8080/live/Rhys/Rhys/1210.ts
+#EXTINF:-1,UK - Sky Arts
+http://213.136.73.170:8080/live/Rhys/Rhys/1208.ts
+#EXTINF:-1,UK - Dave
+http://213.136.73.170:8080/live/Rhys/Rhys/1279.ts
+#EXTINF:-1,UK - GOLD
+http://213.136.73.170:8080/live/Rhys/Rhys/1255.ts
+#EXTINF:-1,UK - Comedy Central
+http://213.136.73.170:8080/live/Rhys/Rhys/1283.ts
+#EXTINF:-1,UK - Syfy HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1188.ts
+#EXTINF:-1,UK - BBC 4 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1314.ts
+#EXTINF:-1,UK - ITV 2
+http://213.136.73.170:8080/live/Rhys/Rhys/1248.ts
+#EXTINF:-1,UK - ITV 3 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1405.ts
+#EXTINF:-1,UK - ITV4
+http://213.136.73.170:8080/live/Rhys/Rhys/1244.ts
+#EXTINF:-1,UK - ITV Encore
+http://213.136.73.170:8080/live/Rhys/Rhys/1247.ts
+#EXTINF:-1,UK - TLC
+http://213.136.73.170:8080/live/Rhys/Rhys/1184.ts
+#EXTINF:-1,UK - MTV
+http://213.136.73.170:8080/live/Rhys/Rhys/1237.ts
+#EXTINF:-1,UK - Comedy Xtra
+http://213.136.73.170:8080/live/Rhys/Rhys/1282.ts
+#EXTINF:-1,UK - Alibi
+http://213.136.73.170:8080/live/Rhys/Rhys/15646.ts
+#EXTINF:-1,UK - S4C
+http://213.136.73.170:8080/live/Rhys/Rhys/1213.ts
+#EXTINF:-1,UK - E4
+http://213.136.73.170:8080/live/Rhys/Rhys/1266.ts
+#EXTINF:-1,UK - More4 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1239.ts
+#EXTINF:-1,UK - 4seven
+http://213.136.73.170:8080/live/Rhys/Rhys/1317.ts
+#EXTINF:-1,UK - QUEST
+http://213.136.73.170:8080/live/Rhys/Rhys/1220.ts
+#EXTINF:-1,UK - Challenge TV
+http://213.136.73.170:8080/live/Rhys/Rhys/12737.ts
+#EXTINF:-1,UK - CBS Reality
+http://213.136.73.170:8080/live/Rhys/Rhys/1296.ts
+#EXTINF:-1,UK - CBS Action
+http://213.136.73.170:8080/live/Rhys/Rhys/1298.ts
+#EXTINF:-1,UK - ITVBe
+http://213.136.73.170:8080/live/Rhys/Rhys/1243.ts
+#EXTINF:-1,UK - E!
+http://213.136.73.170:8080/live/Rhys/Rhys/1267.ts
+#EXTINF:-1,UK - Pick TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1344.ts
+#EXTINF:-1,UK - Really
+http://213.136.73.170:8080/live/Rhys/Rhys/1340.ts
+#EXTINF:-1,UK - Sony Channel
+http://213.136.73.170:8080/live/Rhys/Rhys/1159.ts
+#EXTINF:-1,UK - Drama
+http://213.136.73.170:8080/live/Rhys/Rhys/1268.ts
+#EXTINF:-1,UK - Spike
+http://213.136.73.170:8080/live/Rhys/Rhys/1190.ts
+#EXTINF:-1,UK - Discovery Shed
+http://213.136.73.170:8080/live/Rhys/Rhys/1273.ts
+#EXTINF:-1,UK - Home Health
+http://213.136.73.170:8080/live/Rhys/Rhys/1252.ts
+#EXTINF:-1,UK - Sky Cinema Action
+http://213.136.73.170:8080/live/Rhys/Rhys/1397.ts
+#EXTINF:-1,UK - Sky Cinema Select
+http://213.136.73.170:8080/live/Rhys/Rhys/1151.ts
+#EXTINF:-1,UK - Sky Cinema Thriller
+http://213.136.73.170:8080/live/Rhys/Rhys/1150.ts
+#EXTINF:-1,UK - Zee Punjabi
+http://213.136.73.170:8080/live/Rhys/Rhys/1149.ts
+#EXTINF:-1,UK - 3E
+http://213.136.73.170:8080/live/Rhys/Rhys/1319.ts
+#EXTINF:-1,UK - 4Music
+http://213.136.73.170:8080/live/Rhys/Rhys/1318.ts
+#EXTINF:-1,UK - Animal Planet HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1316.ts
+#EXTINF:-1,UK - At The Races SD
+http://213.136.73.170:8080/live/Rhys/Rhys/1388.ts
+#EXTINF:-1,UK - Baby TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1315.ts
+#EXTINF:-1,UK - BBC3
+http://213.136.73.170:8080/live/Rhys/Rhys/1171.ts
+#EXTINF:-1,UK - BET
+http://213.136.73.170:8080/live/Rhys/Rhys/1311.ts
+#EXTINF:-1,UK - Bike
+http://213.136.73.170:8080/live/Rhys/Rhys/1310.ts
+#EXTINF:-1,UK - Blaze
+http://213.136.73.170:8080/live/Rhys/Rhys/1309.ts
+#EXTINF:-1,UK - Bloomberg
+http://213.136.73.170:8080/live/Rhys/Rhys/1170.ts
+#EXTINF:-1,UK - Boomerang
+http://213.136.73.170:8080/live/Rhys/Rhys/1308.ts
+#EXTINF:-1,UK - Box Nation HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1385.ts
+#EXTINF:-1,UK - SKY SPORTS HD ACTION
+http://213.136.73.170:8080/live/Rhys/Rhys/1331.ts
+#EXTINF:-1,UK - Sky Sports HD Arena
+http://213.136.73.170:8080/live/Rhys/Rhys/12408.ts
+#EXTINF:-1,UK - SKY SPORTS HD CRICKET
+http://213.136.73.170:8080/live/Rhys/Rhys/1332.ts
+#EXTINF:-1,UK - Sky Sports F1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1402.ts
+#EXTINF:-1,UK - Sky Sports HD Football
+http://213.136.73.170:8080/live/Rhys/Rhys/12407.ts
+#EXTINF:-1,UK - Sky Sports HD GOLF
+http://213.136.73.170:8080/live/Rhys/Rhys/1330.ts
+#EXTINF:-1,UK - SKY SPORTS HD Main Event
+http://213.136.73.170:8080/live/Rhys/Rhys/1400.ts
+#EXTINF:-1,UK - Sky Sports Mix
+http://213.136.73.170:8080/live/Rhys/Rhys/1328.ts
+#EXTINF:-1,UK - Sky Sports News HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1401.ts
+#EXTINF:-1,UK - SKY SPORTS HD Premier League
+http://213.136.73.170:8080/live/Rhys/Rhys/1399.ts
+#EXTINF:-1,UK - Sky Sports Box Office
+http://213.136.73.170:8080/live/Rhys/Rhys/1329.ts
+#EXTINF:-1,UK - BT Sport 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1408.ts
+#EXTINF:-1,UK - BT Sport 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1306.ts
+#EXTINF:-1,UK - BT Sport 3 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1305.ts
+#EXTINF:-1,UK - BT Sport ESPN HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1407.ts
+#EXTINF:-1,UK - BT Sport Extra 1
+http://213.136.73.170:8080/live/Rhys/Rhys/1384.ts
+#EXTINF:-1,UK - BT Sport Extra 2
+http://213.136.73.170:8080/live/Rhys/Rhys/1383.ts
+#EXTINF:-1,UK - BT Sport Extra 3
+http://213.136.73.170:8080/live/Rhys/Rhys/1382.ts
+#EXTINF:-1,UK - BT Sport Extra 4
+http://213.136.73.170:8080/live/Rhys/Rhys/5444.ts
+#EXTINF:-1,UK - BT Sport Extra 5
+http://213.136.73.170:8080/live/Rhys/Rhys/5443.ts
+#EXTINF:-1,UK - BT Sport Extra 6
+http://213.136.73.170:8080/live/Rhys/Rhys/1379.ts
+#EXTINF:-1,UK - Cbeebies HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1406.ts
+#EXTINF:-1,UK - CBS Drama
+http://213.136.73.170:8080/live/Rhys/Rhys/1297.ts
+#EXTINF:-1,UK - Celtic TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1375.ts
+#EXTINF:-1,UK - Chelsea TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1288.ts
+#EXTINF:-1,UK - Movies 24
+http://213.136.73.170:8080/live/Rhys/Rhys/1287.ts
+#EXTINF:-1,UK - Cinemax
+http://213.136.73.170:8080/live/Rhys/Rhys/1373.ts
+#EXTINF:-1,UK - CITV
+http://213.136.73.170:8080/live/Rhys/Rhys/1286.ts
+#EXTINF:-1,UK - CNBC News
+http://213.136.73.170:8080/live/Rhys/Rhys/1285.ts
+#EXTINF:-1,UK - CNN International
+http://213.136.73.170:8080/live/Rhys/Rhys/1284.ts
+#EXTINF:-1,UK - Community
+http://213.136.73.170:8080/live/Rhys/Rhys/1281.ts
+#EXTINF:-1,UK - Crime Investigation
+http://213.136.73.170:8080/live/Rhys/Rhys/1280.ts
+#EXTINF:-1,UK - Discovery History
+http://213.136.73.170:8080/live/Rhys/Rhys/1277.ts
+#EXTINF:-1,UK - Discovery Science
+http://213.136.73.170:8080/live/Rhys/Rhys/1276.ts
+#EXTINF:-1,UK - Discovery Turbo
+http://213.136.73.170:8080/live/Rhys/Rhys/1275.ts
+#EXTINF:-1,UK - Discovery
+http://213.136.73.170:8080/live/Rhys/Rhys/1274.ts
+#EXTINF:-1,UK - Discovery Science US
+http://213.136.73.170:8080/live/Rhys/Rhys/1368.ts
+#EXTINF:-1,UK - Disney Channel
+http://213.136.73.170:8080/live/Rhys/Rhys/1272.ts
+#EXTINF:-1,UK - Disney Junior
+http://213.136.73.170:8080/live/Rhys/Rhys/1271.ts
+#EXTINF:-1,UK - Disney XD
+http://213.136.73.170:8080/live/Rhys/Rhys/1270.ts
+#EXTINF:-1,UK - DMAX
+http://213.136.73.170:8080/live/Rhys/Rhys/1269.ts
+#EXTINF:-1,UK - eir Sport 1
+http://213.136.73.170:8080/live/Rhys/Rhys/1265.ts
+#EXTINF:-1,UK - eirSport 2
+http://213.136.73.170:8080/live/Rhys/Rhys/1264.ts
+#EXTINF:-1,UK - Film 4
+http://213.136.73.170:8080/live/Rhys/Rhys/1263.ts
+#EXTINF:-1,UK - FLAVA
+http://213.136.73.170:8080/live/Rhys/Rhys/1262.ts
+#EXTINF:-1,UK - Food Network
+http://213.136.73.170:8080/live/Rhys/Rhys/1261.ts
+#EXTINF:-1,UK - FOX HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1259.ts
+#EXTINF:-1,UK - FOX News
+http://213.136.73.170:8080/live/Rhys/Rhys/1258.ts
+#EXTINF:-1,UK - H2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1364.ts
+#EXTINF:-1,UK - History
+http://213.136.73.170:8080/live/Rhys/Rhys/1253.ts
+#EXTINF:-1,UK - Horror Channel
+http://213.136.73.170:8080/live/Rhys/Rhys/1357.ts
+#EXTINF:-1,UK - Horse & Country
+http://213.136.73.170:8080/live/Rhys/Rhys/1251.ts
+#EXTINF:-1,UK - Hum Europe
+http://213.136.73.170:8080/live/Rhys/Rhys/1167.ts
+#EXTINF:-1,UK - ID US
+http://213.136.73.170:8080/live/Rhys/Rhys/1361.ts
+#EXTINF:-1,UK - ID
+http://213.136.73.170:8080/live/Rhys/Rhys/1250.ts
+#EXTINF:-1,UK - Irish Tv
+http://213.136.73.170:8080/live/Rhys/Rhys/1356.ts
+#EXTINF:-1,UK - LFC TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1241.ts
+#EXTINF:-1,UK - London Live
+http://213.136.73.170:8080/live/Rhys/Rhys/1240.ts
+#EXTINF:-1,UK - Motorsport TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1352.ts
+#EXTINF:-1,UK - Movies4men
+http://213.136.73.170:8080/live/Rhys/Rhys/1238.ts
+#EXTINF:-1,UK - MTV BASE
+http://213.136.73.170:8080/live/Rhys/Rhys/1236.ts
+#EXTINF:-1,UK - MTV CLASSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/1235.ts
+#EXTINF:-1,UK - MTV DANCE
+http://213.136.73.170:8080/live/Rhys/Rhys/1234.ts
+#EXTINF:-1,UK - MTV HITS
+http://213.136.73.170:8080/live/Rhys/Rhys/1348.ts
+#EXTINF:-1,UK - MTV MUSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/1233.ts
+#EXTINF:-1,UK - MTV ROCKS
+http://213.136.73.170:8080/live/Rhys/Rhys/1232.ts
+#EXTINF:-1,UK - MUTV
+http://213.136.73.170:8080/live/Rhys/Rhys/1231.ts
+#EXTINF:-1,UK - MUTV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1230.ts
+#EXTINF:-1,UK - 5 Star
+http://213.136.73.170:8080/live/Rhys/Rhys/1346.ts
+#EXTINF:-1,UK - Nat Geo
+http://213.136.73.170:8080/live/Rhys/Rhys/1229.ts
+#EXTINF:-1,UK - Nat Geo Wild
+http://213.136.73.170:8080/live/Rhys/Rhys/1228.ts
+#EXTINF:-1,UK - NBC USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1055.ts
+#EXTINF:-1,UK - Nick Jnr Too
+http://213.136.73.170:8080/live/Rhys/Rhys/1355.ts
+#EXTINF:-1,UK - Nick Jr
+http://213.136.73.170:8080/live/Rhys/Rhys/1227.ts
+#EXTINF:-1,UK - Nickelodeon
+http://213.136.73.170:8080/live/Rhys/Rhys/1226.ts
+#EXTINF:-1,UK - Nicktoons
+http://213.136.73.170:8080/live/Rhys/Rhys/1225.ts
+#EXTINF:-1,UK - PBS America
+http://213.136.73.170:8080/live/Rhys/Rhys/1224.ts
+#EXTINF:-1,UK - POP
+http://213.136.73.170:8080/live/Rhys/Rhys/1223.ts
+#EXTINF:-1,UK - POP MAX
+http://213.136.73.170:8080/live/Rhys/Rhys/1222.ts
+#EXTINF:-1,UK - Premier Sports
+http://213.136.73.170:8080/live/Rhys/Rhys/1221.ts
+#EXTINF:-1,UK - Premier Sports HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1166.ts
+#EXTINF:-1,UK - Racing UK HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1343.ts
+#EXTINF:-1,UK - Rangers TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1342.ts
+#EXTINF:-1,UK - Real Lives
+http://213.136.73.170:8080/live/Rhys/Rhys/1218.ts
+#EXTINF:-1,UK - Rishtey
+http://213.136.73.170:8080/live/Rhys/Rhys/1165.ts
+#EXTINF:-1,UK - RTE jr
+http://213.136.73.170:8080/live/Rhys/Rhys/1216.ts
+#EXTINF:-1,UK - RT News Now
+http://213.136.73.170:8080/live/Rhys/Rhys/1215.ts
+#EXTINF:-1,UK - RTE 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1339.ts
+#EXTINF:-1,UK - RTE 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1389.ts
+#EXTINF:-1,UK - Sky Cinema Comedy
+http://213.136.73.170:8080/live/Rhys/Rhys/1206.ts
+#EXTINF:-1,UK - Sky Cinema Family
+http://213.136.73.170:8080/live/Rhys/Rhys/1203.ts
+#EXTINF:-1,UK - Sky Living
+http://213.136.73.170:8080/live/Rhys/Rhys/1202.ts
+#EXTINF:-1,UK - Sky Cinema Drama
+http://213.136.73.170:8080/live/Rhys/Rhys/1404.ts
+#EXTINF:-1,UK - Sky Cinema Greats
+http://213.136.73.170:8080/live/Rhys/Rhys/1403.ts
+#EXTINF:-1,UK - Sky Cinema SciFi & Horror
+http://213.136.73.170:8080/live/Rhys/Rhys/1334.ts
+#EXTINF:-1,UK - Sky News
+http://213.136.73.170:8080/live/Rhys/Rhys/1201.ts
+#EXTINF:-1,UK - Sky Cinema Premiere
+http://213.136.73.170:8080/live/Rhys/Rhys/1200.ts
+#EXTINF:-1,UK - Sony Max
+http://213.136.73.170:8080/live/Rhys/Rhys/1160.ts
+#EXTINF:-1,UK - Sony SAB
+http://213.136.73.170:8080/live/Rhys/Rhys/1191.ts
+#EXTINF:-1,UK - Star Gold
+http://213.136.73.170:8080/live/Rhys/Rhys/1158.ts
+#EXTINF:-1,UK - STAR LIFE OK
+http://213.136.73.170:8080/live/Rhys/Rhys/1394.ts
+#EXTINF:-1,UK - STAR PLUS
+http://213.136.73.170:8080/live/Rhys/Rhys/1393.ts
+#EXTINF:-1,UK - STV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1326.ts
+#EXTINF:-1,UK - TG4
+http://213.136.73.170:8080/live/Rhys/Rhys/1187.ts
+#EXTINF:-1,UK - The Vault
+http://213.136.73.170:8080/live/Rhys/Rhys/1186.ts
+#EXTINF:-1,UK - Tiny Pop
+http://213.136.73.170:8080/live/Rhys/Rhys/1185.ts
+#EXTINF:-1,UK - Travel Channel
+http://213.136.73.170:8080/live/Rhys/Rhys/1183.ts
+#EXTINF:-1,UK - True Crime
+http://213.136.73.170:8080/live/Rhys/Rhys/1182.ts
+#EXTINF:-1,UK - True Entertainment
+http://213.136.73.170:8080/live/Rhys/Rhys/1181.ts
+#EXTINF:-1,UK - True Movies 1
+http://213.136.73.170:8080/live/Rhys/Rhys/1156.ts
+#EXTINF:-1,UK - True TV
+http://213.136.73.170:8080/live/Rhys/Rhys/1180.ts
+#EXTINF:-1,UK - TSN 1 USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1054.ts
+#EXTINF:-1,UK - TSN 2 USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1053.ts
+#EXTINF:-1,UK - TSN 3 USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1052.ts
+#EXTINF:-1,UK - TSN 4 USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1051.ts
+#EXTINF:-1,UK - TSN 5 USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1050.ts
+#EXTINF:-1,UK - Universal
+http://213.136.73.170:8080/live/Rhys/Rhys/1178.ts
+#EXTINF:-1,UK - ESPN 2 HD USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1048.ts
+#EXTINF:-1,UK - ESPN HD USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1047.ts
+#EXTINF:-1,UK - FOX Sports 1 HD USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1046.ts
+#EXTINF:-1,UK - NBA TV USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1044.ts
+#EXTINF:-1,UK - NBC Golf USA
+http://213.136.73.170:8080/live/Rhys/Rhys/1043.ts
+#EXTINF:-1,UK - UTV Movies
+http://213.136.73.170:8080/live/Rhys/Rhys/1177.ts
+#EXTINF:-1,UK - UTV Ireland SD
+http://213.136.73.170:8080/live/Rhys/Rhys/1398.ts
+#EXTINF:-1,UK - VH1
+http://213.136.73.170:8080/live/Rhys/Rhys/1322.ts
+#EXTINF:-1,UK - Viceland
+http://213.136.73.170:8080/live/Rhys/Rhys/1176.ts
+#EXTINF:-1,UK - Watch HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1173.ts
+#EXTINF:-1,UK - Yesterday
+http://213.136.73.170:8080/live/Rhys/Rhys/1320.ts
+#EXTINF:-1,UK - Bein Sports 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1147.ts
+#EXTINF:-1,UK - Bein Sports USA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/1141.ts
+#EXTINF:-1,UK - NBCSN
+http://213.136.73.170:8080/live/Rhys/Rhys/1142.ts
+#EXTINF:-1,UK - EUROSPORT 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/3157.ts
+#EXTINF:-1,UK - EUROSPORT 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/3156.ts
+#EXTINF:-1,UK - BBC News
+http://213.136.73.170:8080/live/Rhys/Rhys/5449.ts
+#EXTINF:-1,UK - Cartoon Network
+http://213.136.73.170:8080/live/Rhys/Rhys/5366.ts
+#EXTINF:-1,UK - CBBC HD
+http://213.136.73.170:8080/live/Rhys/Rhys/5363.ts
+#EXTINF:-1,UK - UFC Main card
+http://213.136.73.170:8080/live/Rhys/Rhys/9974.ts
+#EXTINF:-1,UK - ITV Box Office
+http://213.136.73.170:8080/live/Rhys/Rhys/10434.ts
+#EXTINF:-1,UK - Sky Box Office 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12205.ts
+#EXTINF:-1,UK - Sky Box Office 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12204.ts
+#EXTINF:-1,UK - Sky Box Office 3D
+http://213.136.73.170:8080/live/Rhys/Rhys/12203.ts
+#EXTINF:-1,UK - Sky Box Office 4 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12202.ts
+#EXTINF:-1,UK - Sky Cinema Disney
+http://213.136.73.170:8080/live/Rhys/Rhys/12206.ts
+#EXTINF:-1,Bein Sport 1HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12554.ts
+#EXTINF:-1,Bein Sport 2HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12553.ts
+#EXTINF:-1,Bein Sport 3HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12552.ts
+#EXTINF:-1,Bein Sport 4HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12551.ts
+#EXTINF:-1,Bein Sport 5HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12550.ts
+#EXTINF:-1,Bein Sport 6HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12549.ts
+#EXTINF:-1,Bein Sport 7HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12548.ts
+#EXTINF:-1,Bein Sport 8HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12547.ts
+#EXTINF:-1,Bein Sport 9HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12546.ts
+#EXTINF:-1,Bein Sport 10HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12545.ts
+#EXTINF:-1,Bein Sport 11 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15655.ts
+#EXTINF:-1,UK - Sky Cinema Hits
+http://213.136.73.170:8080/live/Rhys/Rhys/12555.ts
+#EXTINF:-1,UK - WWE HD (PPV)
+http://213.136.73.170:8080/live/Rhys/Rhys/8179.ts
+#EXTINF:-1,UK - WWE Raw Network HD
+http://213.136.73.170:8080/live/Rhys/Rhys/9976.ts
+#EXTINF:-1,UK - TV3
+http://213.136.73.170:8080/live/Rhys/Rhys/15468.ts
+#EXTINF:-1,UK - WWE 24
+http://213.136.73.170:8080/live/Rhys/Rhys/15647.ts
+#EXTINF:-1,UK - TCM HD
+http://213.136.73.170:8080/live/Rhys/Rhys/12406.ts
+#EXTINF:-1,US | ESPN U HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15949.ts
+#EXTINF:-1,US | Fight Network
+http://213.136.73.170:8080/live/Rhys/Rhys/15901.ts
+#EXTINF:-1,US | Fox Sports 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15948.ts
+#EXTINF:-1,US | Fox Sports 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15947.ts
+#EXTINF:-1,US | NBC Sports Network HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15942.ts
+#EXTINF:-1,US | NBCSN
+http://213.136.73.170:8080/live/Rhys/Rhys/10054.ts
+#EXTINF:-1,US | Sports Net 360 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15938.ts
+#EXTINF:-1,US | Sports Net One HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15930.ts
+#EXTINF:-1,US | Sports Net Ontario HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15937.ts
+#EXTINF:-1,US | Sports Net West HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15903.ts
+#EXTINF:-1,US | Sports Net World HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15936.ts
+#EXTINF:-1,US | TSN 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15929.ts
+#EXTINF:-1,US | TSN 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15928.ts
+#EXTINF:-1,US | TSN 3 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15927.ts
+#EXTINF:-1,US | TSN 4 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15926.ts
+#EXTINF:-1,US | TSN 5 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15925.ts
+#EXTINF:-1,US | Willow Cricket HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15965.ts
+#EXTINF:-1,US | WWE Network HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15939.ts
+#EXTINF:-1,US | Velocity HD
+http://213.136.73.170:8080/live/Rhys/Rhys/16059.ts
+#EXTINF:-1,IN | &TV
+http://213.136.73.170:8080/live/Rhys/Rhys/16091.ts
+#EXTINF:-1,IN | 92 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/16095.ts
+#EXTINF:-1,IN | AbuDhabi TV
+http://213.136.73.170:8080/live/Rhys/Rhys/16089.ts
+#EXTINF:-1,IN | ARY Digital
+http://213.136.73.170:8080/live/Rhys/Rhys/16094.ts
+#EXTINF:-1,IN | ATN Bangla
+http://213.136.73.170:8080/live/Rhys/Rhys/16090.ts
+#EXTINF:-1,IN | B4U MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/16086.ts
+#EXTINF:-1,IN | B4U Music
+http://213.136.73.170:8080/live/Rhys/Rhys/16085.ts
+#EXTINF:-1,IN | Colors
+http://213.136.73.170:8080/live/Rhys/Rhys/16083.ts
+#EXTINF:-1,IN | Dawn News
+http://213.136.73.170:8080/live/Rhys/Rhys/16093.ts
+#EXTINF:-1,IN | Dunya News
+http://213.136.73.170:8080/live/Rhys/Rhys/16082.ts
+#EXTINF:-1,IN | Geo News
+http://213.136.73.170:8080/live/Rhys/Rhys/16081.ts
+#EXTINF:-1,IN | Geo TV
+http://213.136.73.170:8080/live/Rhys/Rhys/16080.ts
+#EXTINF:-1,IN | HUM Sitaray
+http://213.136.73.170:8080/live/Rhys/Rhys/16092.ts
+#EXTINF:-1,IN | LIFE OK IND HD
+http://213.136.73.170:8080/live/Rhys/Rhys/16106.ts
+#EXTINF:-1,IN | MOVIES OK
+http://213.136.73.170:8080/live/Rhys/Rhys/16105.ts
+#EXTINF:-1,IN | Ntv
+http://213.136.73.170:8080/live/Rhys/Rhys/16076.ts
+#EXTINF:-1,IN | PTC Punjabi
+http://213.136.73.170:8080/live/Rhys/Rhys/16075.ts
+#EXTINF:-1,IN | PTV Prime
+http://213.136.73.170:8080/live/Rhys/Rhys/16074.ts
+#EXTINF:-1,IN | RAJ DIGITAL PLUS
+http://213.136.73.170:8080/live/Rhys/Rhys/16104.ts
+#EXTINF:-1,IN | Rishtey
+http://213.136.73.170:8080/live/Rhys/Rhys/16073.ts
+#EXTINF:-1,IN | Samaa TV
+http://213.136.73.170:8080/live/Rhys/Rhys/16067.ts
+#EXTINF:-1,IN | SONY MAX
+http://213.136.73.170:8080/live/Rhys/Rhys/16072.ts
+#EXTINF:-1,IN | SONY SAB
+http://213.136.73.170:8080/live/Rhys/Rhys/16071.ts
+#EXTINF:-1,IN | SONY SIX
+http://213.136.73.170:8080/live/Rhys/Rhys/16103.ts
+#EXTINF:-1,IN | SONY TV
+http://213.136.73.170:8080/live/Rhys/Rhys/16070.ts
+#EXTINF:-1,IN | Star Gold
+http://213.136.73.170:8080/live/Rhys/Rhys/16066.ts
+#EXTINF:-1,IN | Star Life
+http://213.136.73.170:8080/live/Rhys/Rhys/16100.ts
+#EXTINF:-1,IN | STAR PLUS
+http://213.136.73.170:8080/live/Rhys/Rhys/16069.ts
+#EXTINF:-1,IN | STAR SPORTS 1
+http://213.136.73.170:8080/live/Rhys/Rhys/16102.ts
+#EXTINF:-1,IN | STAR SPORTS 2
+http://213.136.73.170:8080/live/Rhys/Rhys/16101.ts
+#EXTINF:-1,IN | STAR UTSAV
+http://213.136.73.170:8080/live/Rhys/Rhys/16068.ts
+#EXTINF:-1,IN | TV5 Monde
+http://213.136.73.170:8080/live/Rhys/Rhys/16065.ts
+#EXTINF:-1,IN | Urdu 1 Europe
+http://213.136.73.170:8080/live/Rhys/Rhys/16064.ts
+#EXTINF:-1,IN | UTV MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/16099.ts
+#EXTINF:-1,IN | ZEE CINEMA
+http://213.136.73.170:8080/live/Rhys/Rhys/16063.ts
+#EXTINF:-1,IN | ZEE CLASSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/16098.ts
+#EXTINF:-1,IN | ZEE LIVING
+http://213.136.73.170:8080/live/Rhys/Rhys/16097.ts
+#EXTINF:-1,IN | ZEE TV ACTION
+http://213.136.73.170:8080/live/Rhys/Rhys/16096.ts
+#EXTINF:-1,IN | Zing
+http://213.136.73.170:8080/live/Rhys/Rhys/16061.ts
+#EXTINF:-1,BeIN Sport 12 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/17140.ts
+#EXTINF:-1,US | ESPN 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15950.ts
+#EXTINF:-1,US | ESPN HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15951.ts
+#EXTINF:-1,US | Golf HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15943.ts
+#EXTINF:-1,US | NFL Channel HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15945.ts
+#EXTINF:-1,US | NHL Network HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15941.ts
+#EXTINF:-1,US | PAC-12 Arizona HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15978.ts
+#EXTINF:-1,US | PAC-12 Bay Area HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15977.ts
+#EXTINF:-1,US | PAC-12 Los Angeles HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15976.ts
+#EXTINF:-1,US | PAC-12 Mountain HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15975.ts
+#EXTINF:-1,US | PAC-12 Oregon HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15974.ts
+#EXTINF:-1,US | PAC-12 Washington HD
+http://213.136.73.170:8080/live/Rhys/Rhys/15973.ts
+#EXTINF:-1,Non Stop Bangers 24/7
+http://213.136.73.170:8080/live/Rhys/Rhys/19400.ts
+#EXTINF:-1,HINDI | 9X JALWA
+http://213.136.73.170:8080/live/Rhys/Rhys/19183.ts
+#EXTINF:-1,HINDI | 9X MUSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/19227.ts
+#EXTINF:-1,HINDI | AAJ TAK
+http://213.136.73.170:8080/live/Rhys/Rhys/19251.ts
+#EXTINF:-1,HINDI | AASTHA
+http://213.136.73.170:8080/live/Rhys/Rhys/19182.ts
+#EXTINF:-1,HINDI | AASTHA BHAJAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19181.ts
+#EXTINF:-1,HINDI | ABP NEWS INDIA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19258.ts
+#EXTINF:-1,HINDI | ADHYATAM
+http://213.136.73.170:8080/live/Rhys/Rhys/19180.ts
+#EXTINF:-1,HINDI | AND PICTURES HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19266.ts
+#EXTINF:-1,HINDI | AND TV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19277.ts
+#EXTINF:-1,HINDI | ANIMAL PLANET INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19250.ts
+#EXTINF:-1,HINDI | ANJAN TV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19159.ts
+#EXTINF:-1,HINDI | ARIHANT TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19179.ts
+#EXTINF:-1,HINDI | B4U MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/19249.ts
+#EXTINF:-1,HINDI | B4U MUSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/19248.ts
+#EXTINF:-1,HINDI | BHAKTI DARSHAN HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19256.ts
+#EXTINF:-1,HINDI | BRILLIANT TV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19255.ts
+#EXTINF:-1,HINDI | CARE WORLD
+http://213.136.73.170:8080/live/Rhys/Rhys/19226.ts
+#EXTINF:-1,HINDI | CARTOON NETWORK
+http://213.136.73.170:8080/live/Rhys/Rhys/19247.ts
+#EXTINF:-1,HINDI | CNBC AWAAZ
+http://213.136.73.170:8080/live/Rhys/Rhys/19246.ts
+#EXTINF:-1,HINDI | COLORS HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19268.ts
+#EXTINF:-1,HINDI | D SPORTS HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19147.ts
+#EXTINF:-1,HINDI | DABANGG
+http://213.136.73.170:8080/live/Rhys/Rhys/19245.ts
+#EXTINF:-1,HINDI | DARSHAN 24
+http://213.136.73.170:8080/live/Rhys/Rhys/19178.ts
+#EXTINF:-1,HINDI | DD BHARATI
+http://213.136.73.170:8080/live/Rhys/Rhys/19225.ts
+#EXTINF:-1,HINDI | DD BIHAR
+http://213.136.73.170:8080/live/Rhys/Rhys/19224.ts
+#EXTINF:-1,HINDI | DD INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19223.ts
+#EXTINF:-1,HINDI | DD KISAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19222.ts
+#EXTINF:-1,HINDI | DD MADHYA PRADESH
+http://213.136.73.170:8080/live/Rhys/Rhys/19221.ts
+#EXTINF:-1,HINDI | DD NATIONAL
+http://213.136.73.170:8080/live/Rhys/Rhys/19244.ts
+#EXTINF:-1,HINDI | DD RAJASTHAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19220.ts
+#EXTINF:-1,HINDI | DD RAJYA SABHA
+http://213.136.73.170:8080/live/Rhys/Rhys/19219.ts
+#EXTINF:-1,HINDI | DD SPORTS
+http://213.136.73.170:8080/live/Rhys/Rhys/19151.ts
+#EXTINF:-1,HINDI | DD UP
+http://213.136.73.170:8080/live/Rhys/Rhys/19218.ts
+#EXTINF:-1,HINDI | DELHI AAJ TAK
+http://213.136.73.170:8080/live/Rhys/Rhys/19243.ts
+#EXTINF:-1,HINDI | DHAMAAL TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19242.ts
+#EXTINF:-1,HINDI | DILLAGI TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19241.ts
+#EXTINF:-1,HINDI | DISCOVERY INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19240.ts
+#EXTINF:-1,HINDI | DISCOVERY KIDS
+http://213.136.73.170:8080/live/Rhys/Rhys/19217.ts
+#EXTINF:-1,HINDI | DISHA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19177.ts
+#EXTINF:-1,HINDI | DIVYA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19176.ts
+#EXTINF:-1,HINDI | E 24
+http://213.136.73.170:8080/live/Rhys/Rhys/19175.ts
+#EXTINF:-1,HINDI | EPIC HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19252.ts
+#EXTINF:-1,HINDI | ETV MP
+http://213.136.73.170:8080/live/Rhys/Rhys/19216.ts
+#EXTINF:-1,HINDI | ETV RAJASTHAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19215.ts
+#EXTINF:-1,HINDI | ETV UP
+http://213.136.73.170:8080/live/Rhys/Rhys/19214.ts
+#EXTINF:-1,HINDI | FOOD FOOD
+http://213.136.73.170:8080/live/Rhys/Rhys/19213.ts
+#EXTINF:-1,HINDI | GREEN TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19212.ts
+#EXTINF:-1,HINDI | HARE KRISHNA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19253.ts
+#EXTINF:-1,HINDI | HINDI KHABAR
+http://213.136.73.170:8080/live/Rhys/Rhys/19157.ts
+#EXTINF:-1,HINDI | HISTORY INDIA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19269.ts
+#EXTINF:-1,HINDI | HOME SHOP 18
+http://213.136.73.170:8080/live/Rhys/Rhys/19211.ts
+#EXTINF:-1,HINDI | IBC 24
+http://213.136.73.170:8080/live/Rhys/Rhys/19210.ts
+#EXTINF:-1,HINDI | INDIA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19239.ts
+#EXTINF:-1,HINDI | INDIA VOICE
+http://213.136.73.170:8080/live/Rhys/Rhys/19209.ts
+#EXTINF:-1,HINDI | INVESTIGATION DISCOVERY
+http://213.136.73.170:8080/live/Rhys/Rhys/19208.ts
+#EXTINF:-1,HINDI | ISHWAR TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19174.ts
+#EXTINF:-1,HINDI | JAN TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19207.ts
+#EXTINF:-1,HINDI | JANTA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19206.ts
+#EXTINF:-1,HINDI | JINVANI TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19173.ts
+#EXTINF:-1,HINDI | LIVING INDIA FOODS
+http://213.136.73.170:8080/live/Rhys/Rhys/19238.ts
+#EXTINF:-1,HINDI | LOKSABHA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19205.ts
+#EXTINF:-1,HINDI | MAHA CARTOON
+http://213.136.73.170:8080/live/Rhys/Rhys/19204.ts
+#EXTINF:-1,HINDI | MAHA MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/19237.ts
+#EXTINF:-1,HINDI | MASTIII
+http://213.136.73.170:8080/live/Rhys/Rhys/19203.ts
+#EXTINF:-1,HINDI | MAX 2
+http://213.136.73.170:8080/live/Rhys/Rhys/19236.ts
+#EXTINF:-1,HINDI | MOVIES NOW 2
+http://213.136.73.170:8080/live/Rhys/Rhys/19160.ts
+#EXTINF:-1,HINDI | MOVIES OK HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19259.ts
+#EXTINF:-1,HINDI | MTV
+http://213.136.73.170:8080/live/Rhys/Rhys/19235.ts
+#EXTINF:-1,HINDI | MTV BEATS HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19261.ts
+#EXTINF:-1,HINDI | MUSIC INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19172.ts
+#EXTINF:-1,HINDI | NATGEO WILD HINDI HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19278.ts
+#EXTINF:-1,HINDI | NATIONAL GEOGRAPHIC INDIA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19279.ts
+#EXTINF:-1,HINDI | NATIONAL VOICE
+http://213.136.73.170:8080/live/Rhys/Rhys/19202.ts
+#EXTINF:-1,HINDI | NAVAGRAHA
+http://213.136.73.170:8080/live/Rhys/Rhys/19171.ts
+#EXTINF:-1,HINDI | NDTV INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19234.ts
+#EXTINF:-1,HINDI | NDTV PROFIT
+http://213.136.73.170:8080/live/Rhys/Rhys/19233.ts
+#EXTINF:-1,HINDI | NEO PRIME
+http://213.136.73.170:8080/live/Rhys/Rhys/19141.ts
+#EXTINF:-1,HINDI | NEO SPORTS
+http://213.136.73.170:8080/live/Rhys/Rhys/19140.ts
+#EXTINF:-1,HINDI | NICK JUNIOR HINDI
+http://213.136.73.170:8080/live/Rhys/Rhys/19201.ts
+#EXTINF:-1,HINDI | NICKELODEON JUNIOR
+http://213.136.73.170:8080/live/Rhys/Rhys/19200.ts
+#EXTINF:-1,HINDI | NICKELODEON SONIC
+http://213.136.73.170:8080/live/Rhys/Rhys/19199.ts
+#EXTINF:-1,HINDI | PARAS TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19170.ts
+#EXTINF:-1,HINDI | PEACE OF MIND
+http://213.136.73.170:8080/live/Rhys/Rhys/19169.ts
+#EXTINF:-1,HINDI | PLAY MY PLAY HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19254.ts
+#EXTINF:-1,HINDI | POGO KIDS
+http://213.136.73.170:8080/live/Rhys/Rhys/19198.ts
+#EXTINF:-1,HINDI | RAJ PARIWAR
+http://213.136.73.170:8080/live/Rhys/Rhys/19197.ts
+#EXTINF:-1,HINDI | REPUBLIC TV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19257.ts
+#EXTINF:-1,HINDI | RISHTEY
+http://213.136.73.170:8080/live/Rhys/Rhys/19232.ts
+#EXTINF:-1,HINDI | RISHTEY CINEPLEX
+http://213.136.73.170:8080/live/Rhys/Rhys/19231.ts
+#EXTINF:-1,HINDI | SADHNA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19168.ts
+#EXTINF:-1,HINDI | SAHARA ONE
+http://213.136.73.170:8080/live/Rhys/Rhys/19230.ts
+#EXTINF:-1,HINDI | SAHARA SAMAY JHARKHAND
+http://213.136.73.170:8080/live/Rhys/Rhys/19196.ts
+#EXTINF:-1,HINDI | SAHARA SAMAY MP
+http://213.136.73.170:8080/live/Rhys/Rhys/19195.ts
+#EXTINF:-1,HINDI | SAHARA SAMAY MUMBAI
+http://213.136.73.170:8080/live/Rhys/Rhys/19194.ts
+#EXTINF:-1,HINDI | SAHARA SAMAY NATIONAL
+http://213.136.73.170:8080/live/Rhys/Rhys/19193.ts
+#EXTINF:-1,HINDI | SAHARA SAMAY UP
+http://213.136.73.170:8080/live/Rhys/Rhys/19192.ts
+#EXTINF:-1,HINDI | SAMACHAR PLUS
+http://213.136.73.170:8080/live/Rhys/Rhys/19167.ts
+#EXTINF:-1,HINDI | SAMAY RAJASTHAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19191.ts
+#EXTINF:-1,HINDI | SANATAN TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19166.ts
+#EXTINF:-1,HINDI | SANSKAR
+http://213.136.73.170:8080/live/Rhys/Rhys/19165.ts
+#EXTINF:-1,HINDI | SATSANG TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19164.ts
+#EXTINF:-1,HINDI | SHUBH TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19190.ts
+#EXTINF:-1,HINDI | SHUBSANDESH TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19163.ts
+#EXTINF:-1,HINDI | SMBC INSIGHT
+http://213.136.73.170:8080/live/Rhys/Rhys/19189.ts
+#EXTINF:-1,HINDI | SONY BBC EARTH HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19270.ts
+#EXTINF:-1,HINDI | SONY ESPN HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19146.ts
+#EXTINF:-1,HINDI | SONY HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19274.ts
+#EXTINF:-1,HINDI | SONY LE PLEX HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19267.ts
+#EXTINF:-1,HINDI | SONY MAX HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19263.ts
+#EXTINF:-1,HINDI | SONY MIX
+http://213.136.73.170:8080/live/Rhys/Rhys/19188.ts
+#EXTINF:-1,HINDI | SONY PAL
+http://213.136.73.170:8080/live/Rhys/Rhys/19229.ts
+#EXTINF:-1,HINDI | SONY ROX HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19264.ts
+#EXTINF:-1,HINDI | SONY SAB HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19262.ts
+#EXTINF:-1,HINDI | SONY SIX HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19145.ts
+#EXTINF:-1,HINDI | SONY YAY
+http://213.136.73.170:8080/live/Rhys/Rhys/19187.ts
+#EXTINF:-1,HINDI | STAR BHARAT HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19272.ts
+#EXTINF:-1,HINDI | STAR GOLD HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19273.ts
+#EXTINF:-1,HINDI | STAR PLUS HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19276.ts
+#EXTINF:-1,HINDI | STAR SPORTS 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19148.ts
+#EXTINF:-1,HINDI | STAR SPORTS 1 HINDI HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19150.ts
+#EXTINF:-1,HINDI | STAR SPORTS 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19149.ts
+#EXTINF:-1,HINDI | STAR SPORTS SELECT 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19144.ts
+#EXTINF:-1,HINDI | STAR SPORTS SELECT 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19143.ts
+#EXTINF:-1,HINDI | STAR UTSAV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19260.ts
+#EXTINF:-1,HINDI | TEN 1 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19139.ts
+#EXTINF:-1,HINDI | TEN 2 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19138.ts
+#EXTINF:-1,HINDI | TEN 3 HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19137.ts
+#EXTINF:-1,HINDI | TEN GOLF HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19142.ts
+#EXTINF:-1,HINDI | TLC INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/19228.ts
+#EXTINF:-1,HINDI | TOTAL TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19186.ts
+#EXTINF:-1,HINDI | TRAVEL XP HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19271.ts
+#EXTINF:-1,HINDI | TRUE SPORTS
+http://213.136.73.170:8080/live/Rhys/Rhys/19136.ts
+#EXTINF:-1,HINDI | VEDIC TV
+http://213.136.73.170:8080/live/Rhys/Rhys/19185.ts
+#EXTINF:-1,HINDI | ZEE ACTION
+http://213.136.73.170:8080/live/Rhys/Rhys/19154.ts
+#EXTINF:-1,HINDI | ZEE ANMOL
+http://213.136.73.170:8080/live/Rhys/Rhys/19153.ts
+#EXTINF:-1,HINDI | ZEE BUSINESS
+http://213.136.73.170:8080/live/Rhys/Rhys/19162.ts
+#EXTINF:-1,HINDI | ZEE CINEMA HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19265.ts
+#EXTINF:-1,HINDI | ZEE CLASSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/19152.ts
+#EXTINF:-1,HINDI | ZEE ETC BOLLYWOOD
+http://213.136.73.170:8080/live/Rhys/Rhys/19161.ts
+#EXTINF:-1,HINDI | ZEE HINDUSTAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19158.ts
+#EXTINF:-1,HINDI | ZEE RAJASTHAN
+http://213.136.73.170:8080/live/Rhys/Rhys/19156.ts
+#EXTINF:-1,HINDI | Zee TV HD
+http://213.136.73.170:8080/live/Rhys/Rhys/19275.ts
+#EXTINF:-1,HINDI | ZING
+http://213.136.73.170:8080/live/Rhys/Rhys/19184.ts
+#EXTINF:-1,HINDI | ZOOM
+http://213.136.73.170:8080/live/Rhys/Rhys/19155.ts
+#EXTINF:-1,MUSIC - 90s
+http://213.136.73.170:8080/live/Rhys/Rhys/20869.ts
+#EXTINF:-1,MUSIC - Alternative
+http://213.136.73.170:8080/live/Rhys/Rhys/20883.ts
+#EXTINF:-1,MUSIC - Brits   Hits
+http://213.136.73.170:8080/live/Rhys/Rhys/20882.ts
+#EXTINF:-1,MUSIC - Dance/EDM
+http://213.136.73.170:8080/live/Rhys/Rhys/20881.ts
+#EXTINF:-1,MUSIC - Hip Hop/R B
+http://213.136.73.170:8080/live/Rhys/Rhys/20880.ts
+#EXTINF:-1,MUSIC - Hit List
+http://213.136.73.170:8080/live/Rhys/Rhys/20879.ts
+#EXTINF:-1,MUSIC - Indie
+http://213.136.73.170:8080/live/Rhys/Rhys/20878.ts
+#EXTINF:-1,MUSIC - Kidz Only!
+http://213.136.73.170:8080/live/Rhys/Rhys/20861.ts
+#EXTINF:-1,MUSIC - Metal
+http://213.136.73.170:8080/live/Rhys/Rhys/20877.ts
+#EXTINF:-1,MUSIC - Mexicana
+http://213.136.73.170:8080/live/Rhys/Rhys/20866.ts
+#EXTINF:-1,MUSIC - Musica Urbana
+http://213.136.73.170:8080/live/Rhys/Rhys/20865.ts
+#EXTINF:-1,MUSIC - Play
+http://213.136.73.170:8080/live/Rhys/Rhys/20884.ts
+#EXTINF:-1,MUSIC - Pop   Country
+http://213.136.73.170:8080/live/Rhys/Rhys/20876.ts
+#EXTINF:-1,MUSIC - Pop Hits
+http://213.136.73.170:8080/live/Rhys/Rhys/20875.ts
+#EXTINF:-1,MUSIC - Pop Latino
+http://213.136.73.170:8080/live/Rhys/Rhys/20864.ts
+#EXTINF:-1,MUSIC - R B/Soul
+http://213.136.73.170:8080/live/Rhys/Rhys/20874.ts
+#EXTINF:-1,MUSIC - Rap
+http://213.136.73.170:8080/live/Rhys/Rhys/20873.ts
+#EXTINF:-1,MUSIC - Rap 2K
+http://213.136.73.170:8080/live/Rhys/Rhys/20872.ts
+#EXTINF:-1,MUSIC - Rock
+http://213.136.73.170:8080/live/Rhys/Rhys/20871.ts
+#EXTINF:-1,MUSIC - Teen Beats
+http://213.136.73.170:8080/live/Rhys/Rhys/20862.ts
+#EXTINF:-1,MUSIC - Throwback Jamz
+http://213.136.73.170:8080/live/Rhys/Rhys/20868.ts
+#EXTINF:-1,MUSIC - Today's Country
+http://213.136.73.170:8080/live/Rhys/Rhys/20870.ts
+#EXTINF:-1,MUSIC - Toddler Tunes
+http://213.136.73.170:8080/live/Rhys/Rhys/20860.ts
+#EXTINF:-1,MUSIC - Tropicales
+http://213.136.73.170:8080/live/Rhys/Rhys/20863.ts
+#EXTINF:-1,MUSIC - Y2K
+http://213.136.73.170:8080/live/Rhys/Rhys/20867.ts
+#EXTINF:-1,IN - 1st INDIA NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22444.ts
+#EXTINF:-1,IN - 9X JALWA
+http://213.136.73.170:8080/live/Rhys/Rhys/22443.ts
+#EXTINF:-1,IN - 9XM
+http://213.136.73.170:8080/live/Rhys/Rhys/22442.ts
+#EXTINF:-1,IN - AAJ TAK NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22441.ts
+#EXTINF:-1,IN - AAJ TAK UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22440.ts
+#EXTINF:-1,IN - AAP KA COLORS
+http://213.136.73.170:8080/live/Rhys/Rhys/22439.ts
+#EXTINF:-1,IN - AASTHA BHAJAN
+http://213.136.73.170:8080/live/Rhys/Rhys/22438.ts
+#EXTINF:-1,IN - AASTHA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22437.ts
+#EXTINF:-1,IN - ABP NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22436.ts
+#EXTINF:-1,IN - AND TV APAC
+http://213.136.73.170:8080/live/Rhys/Rhys/22435.ts
+#EXTINF:-1,IN - AND TV ME
+http://213.136.73.170:8080/live/Rhys/Rhys/22434.ts
+#EXTINF:-1,IN - AND TV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22433.ts
+#EXTINF:-1,IN - ARIHANT
+http://213.136.73.170:8080/live/Rhys/Rhys/22432.ts
+#EXTINF:-1,IN - B4U MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/22431.ts
+#EXTINF:-1,IN - B4U MUSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/22430.ts
+#EXTINF:-1,IN - BHAKTI SAGAR
+http://213.136.73.170:8080/live/Rhys/Rhys/22429.ts
+#EXTINF:-1,IN - BHARAT SAMACHAR NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22428.ts
+#EXTINF:-1,IN - BIG MAGIC
+http://213.136.73.170:8080/live/Rhys/Rhys/22427.ts
+#EXTINF:-1,IN - CNBC TV18 NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22426.ts
+#EXTINF:-1,IN - COLORS TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22421.ts
+#EXTINF:-1,IN - COLORS TV A.P
+http://213.136.73.170:8080/live/Rhys/Rhys/22425.ts
+#EXTINF:-1,IN - COLORS TV AUS
+http://213.136.73.170:8080/live/Rhys/Rhys/22424.ts
+#EXTINF:-1,IN - COLORS TV ME
+http://213.136.73.170:8080/live/Rhys/Rhys/22423.ts
+#EXTINF:-1,IN - COLORS TV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22422.ts
+#EXTINF:-1,IN - DABANGG TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22420.ts
+#EXTINF:-1,IN - DANGAAL TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22419.ts
+#EXTINF:-1,IN - DARSHAN 24
+http://213.136.73.170:8080/live/Rhys/Rhys/22418.ts
+#EXTINF:-1,IN - DD GIRNAR
+http://213.136.73.170:8080/live/Rhys/Rhys/22417.ts
+#EXTINF:-1,IN - DD INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/22416.ts
+#EXTINF:-1,IN - DD NATIONAL
+http://213.136.73.170:8080/live/Rhys/Rhys/22415.ts
+#EXTINF:-1,IN - DD NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22414.ts
+#EXTINF:-1,IN - DD URDU
+http://213.136.73.170:8080/live/Rhys/Rhys/22413.ts
+#EXTINF:-1,IN - DD UTTAR PARDESH
+http://213.136.73.170:8080/live/Rhys/Rhys/22412.ts
+#EXTINF:-1,IN - DESI BEATS
+http://213.136.73.170:8080/live/Rhys/Rhys/22411.ts
+#EXTINF:-1,IN - DHAMAAL TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22410.ts
+#EXTINF:-1,IN - DILLAGI TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22409.ts
+#EXTINF:-1,IN - DISHA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22408.ts
+#EXTINF:-1,IN - DIVYA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22407.ts
+#EXTINF:-1,IN - E24
+http://213.136.73.170:8080/live/Rhys/Rhys/22406.ts
+#EXTINF:-1,IN - ENTER 10
+http://213.136.73.170:8080/live/Rhys/Rhys/22405.ts
+#EXTINF:-1,IN - ETV BIHAR
+http://213.136.73.170:8080/live/Rhys/Rhys/22404.ts
+#EXTINF:-1,IN - ETV HARYANA
+http://213.136.73.170:8080/live/Rhys/Rhys/22403.ts
+#EXTINF:-1,IN - ETV MP NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22402.ts
+#EXTINF:-1,IN - ETV RAJASTHAN
+http://213.136.73.170:8080/live/Rhys/Rhys/22401.ts
+#EXTINF:-1,IN - ETV UP NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22400.ts
+#EXTINF:-1,IN - ETV URDU
+http://213.136.73.170:8080/live/Rhys/Rhys/22399.ts
+#EXTINF:-1,IN - FOOD FOOD
+http://213.136.73.170:8080/live/Rhys/Rhys/22398.ts
+#EXTINF:-1,IN - HOUSEFULL ACTION
+http://213.136.73.170:8080/live/Rhys/Rhys/22397.ts
+#EXTINF:-1,IN - HOUSEFULL MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/22396.ts
+#EXTINF:-1,IN - IBN 7 NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22395.ts
+#EXTINF:-1,IN - IBN LOKMAT NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22394.ts
+#EXTINF:-1,IN - INDIA TODAY NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22393.ts
+#EXTINF:-1,IN - INDIA TV NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22392.ts
+#EXTINF:-1,IN - ISHWAR TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22391.ts
+#EXTINF:-1,IN - JAN TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22390.ts
+#EXTINF:-1,IN - JINVANI TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22389.ts
+#EXTINF:-1,IN - KASHISH NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22388.ts
+#EXTINF:-1,IN - LIVING FOODZ USA
+http://213.136.73.170:8080/live/Rhys/Rhys/22387.ts
+#EXTINF:-1,IN - MAHA MOVIES
+http://213.136.73.170:8080/live/Rhys/Rhys/22386.ts
+#EXTINF:-1,IN - MASTI TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22385.ts
+#EXTINF:-1,IN - MOVIES OK
+http://213.136.73.170:8080/live/Rhys/Rhys/22384.ts
+#EXTINF:-1,IN - MTV BEATS
+http://213.136.73.170:8080/live/Rhys/Rhys/22383.ts
+#EXTINF:-1,IN - NDTV 24x7 NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22382.ts
+#EXTINF:-1,IN - NDTV 24x7 UK NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22381.ts
+#EXTINF:-1,IN - NDTV GOODTIMES NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22380.ts
+#EXTINF:-1,IN - NDTV INDIA NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22379.ts
+#EXTINF:-1,IN - NDTV PRIME NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22378.ts
+#EXTINF:-1,IN - NDTV PROFIT NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22377.ts
+#EXTINF:-1,IN - NEWS NATION
+http://213.136.73.170:8080/live/Rhys/Rhys/22376.ts
+#EXTINF:-1,IN - NEWS X
+http://213.136.73.170:8080/live/Rhys/Rhys/22375.ts
+#EXTINF:-1,IN - PARAS TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22374.ts
+#EXTINF:-1,IN - PEACE OF MIND
+http://213.136.73.170:8080/live/Rhys/Rhys/22373.ts
+#EXTINF:-1,IN - REPUBLIC NEWS TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22372.ts
+#EXTINF:-1,IN - RISHTAY AMERICA
+http://213.136.73.170:8080/live/Rhys/Rhys/22371.ts
+#EXTINF:-1,IN - RISHTAY ASIA
+http://213.136.73.170:8080/live/Rhys/Rhys/22370.ts
+#EXTINF:-1,IN - RISHTAY CINEPLEX UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22369.ts
+#EXTINF:-1,IN - RISHTEY CINEPLEX
+http://213.136.73.170:8080/live/Rhys/Rhys/22368.ts
+#EXTINF:-1,IN - RISHTEY EU
+http://213.136.73.170:8080/live/Rhys/Rhys/22367.ts
+#EXTINF:-1,IN - RISHTEY INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/22366.ts
+#EXTINF:-1,IN - SADHNA TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22365.ts
+#EXTINF:-1,IN - SAHARA SAMAY AALAMI NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22364.ts
+#EXTINF:-1,IN - SAHARA SAMAY BIHAR NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22363.ts
+#EXTINF:-1,IN - SAHARA SAMAY MP NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22362.ts
+#EXTINF:-1,IN - SAHARA SAMAY NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22361.ts
+#EXTINF:-1,IN - SAHARA SAMAY RJ NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22360.ts
+#EXTINF:-1,IN - SAHARA SAMAY UP
+http://213.136.73.170:8080/live/Rhys/Rhys/22359.ts
+#EXTINF:-1,IN - SANATANTV
+http://213.136.73.170:8080/live/Rhys/Rhys/22358.ts
+#EXTINF:-1,IN - SANSKAR TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22357.ts
+#EXTINF:-1,IN - SATSANG TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22356.ts
+#EXTINF:-1,IN - SHUBHSANDESH TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22355.ts
+#EXTINF:-1,IN - SONY MAX 2
+http://213.136.73.170:8080/live/Rhys/Rhys/22354.ts
+#EXTINF:-1,IN - SONY MIX
+http://213.136.73.170:8080/live/Rhys/Rhys/22353.ts
+#EXTINF:-1,IN - SONY PAL
+http://213.136.73.170:8080/live/Rhys/Rhys/22352.ts
+#EXTINF:-1,IN - SONY SAB ASIA
+http://213.136.73.170:8080/live/Rhys/Rhys/22351.ts
+#EXTINF:-1,IN - SONY SAB TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22350.ts
+#EXTINF:-1,IN - SONY SAB UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22349.ts
+#EXTINF:-1,IN - SONY SETMAX
+http://213.136.73.170:8080/live/Rhys/Rhys/22346.ts
+#EXTINF:-1,IN - SONY SETMAX AUS
+http://213.136.73.170:8080/live/Rhys/Rhys/22348.ts
+#EXTINF:-1,IN - SONY SETMAX UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22347.ts
+#EXTINF:-1,IN - SONY TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22343.ts
+#EXTINF:-1,IN - SONY TV AUS
+http://213.136.73.170:8080/live/Rhys/Rhys/22345.ts
+#EXTINF:-1,IN - SONY TV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22344.ts
+#EXTINF:-1,IN - SRI VENKATESHWAR
+http://213.136.73.170:8080/live/Rhys/Rhys/22342.ts
+#EXTINF:-1,IN - STAR BHARAT
+http://213.136.73.170:8080/live/Rhys/Rhys/22338.ts
+#EXTINF:-1,IN - STAR BHARAT APAC
+http://213.136.73.170:8080/live/Rhys/Rhys/22341.ts
+#EXTINF:-1,IN - STAR BHARAT MENA
+http://213.136.73.170:8080/live/Rhys/Rhys/22340.ts
+#EXTINF:-1,IN - STAR BHARAT UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22339.ts
+#EXTINF:-1,IN - STAR GOLD UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22337.ts
+#EXTINF:-1,IN - STAR PLUS
+http://213.136.73.170:8080/live/Rhys/Rhys/22332.ts
+#EXTINF:-1,IN - STAR PLUS AUS
+http://213.136.73.170:8080/live/Rhys/Rhys/22336.ts
+#EXTINF:-1,IN - STAR PLUS ME
+http://213.136.73.170:8080/live/Rhys/Rhys/22335.ts
+#EXTINF:-1,IN - STAR PLUS UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22334.ts
+#EXTINF:-1,IN - STAR PLUS USA
+http://213.136.73.170:8080/live/Rhys/Rhys/22333.ts
+#EXTINF:-1,IN - STAR UTSAV
+http://213.136.73.170:8080/live/Rhys/Rhys/22330.ts
+#EXTINF:-1,IN - STAR UTSAV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22331.ts
+#EXTINF:-1,IN - TIMES NOW NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22329.ts
+#EXTINF:-1,IN - UTV BINDAAS
+http://213.136.73.170:8080/live/Rhys/Rhys/22328.ts
+#EXTINF:-1,IN - UTV MOVIES INTERNATIONAL
+http://213.136.73.170:8080/live/Rhys/Rhys/22327.ts
+#EXTINF:-1,IN - ZEE ACTION
+http://213.136.73.170:8080/live/Rhys/Rhys/22326.ts
+#EXTINF:-1,IN - ZEE ANMOL
+http://213.136.73.170:8080/live/Rhys/Rhys/22324.ts
+#EXTINF:-1,IN - ZEE ANMOL CINEMA
+http://213.136.73.170:8080/live/Rhys/Rhys/22325.ts
+#EXTINF:-1,IN - ZEE BUSINESS NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22323.ts
+#EXTINF:-1,IN - ZEE CINEMA
+http://213.136.73.170:8080/live/Rhys/Rhys/22319.ts
+#EXTINF:-1,IN - ZEE CINEMA APAC
+http://213.136.73.170:8080/live/Rhys/Rhys/22322.ts
+#EXTINF:-1,IN - ZEE CINEMA ME
+http://213.136.73.170:8080/live/Rhys/Rhys/22321.ts
+#EXTINF:-1,IN - ZEE CINEMA UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22320.ts
+#EXTINF:-1,IN - ZEE CLASSIC
+http://213.136.73.170:8080/live/Rhys/Rhys/22318.ts
+#EXTINF:-1,IN - ZEE ETC BOLLYWOOD
+http://213.136.73.170:8080/live/Rhys/Rhys/22317.ts
+#EXTINF:-1,IN - ZEE LIVING
+http://213.136.73.170:8080/live/Rhys/Rhys/22316.ts
+#EXTINF:-1,IN - ZEE NEWS
+http://213.136.73.170:8080/live/Rhys/Rhys/22315.ts
+#EXTINF:-1,IN - ZEE SALAAM
+http://213.136.73.170:8080/live/Rhys/Rhys/22314.ts
+#EXTINF:-1,IN - ZEE TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22309.ts
+#EXTINF:-1,IN - ZEE TV APAC
+http://213.136.73.170:8080/live/Rhys/Rhys/22313.ts
+#EXTINF:-1,IN - ZEE TV HD USA
+http://213.136.73.170:8080/live/Rhys/Rhys/22312.ts
+#EXTINF:-1,IN - ZEE TV ME
+http://213.136.73.170:8080/live/Rhys/Rhys/22311.ts
+#EXTINF:-1,IN - ZEE TV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22310.ts
+#EXTINF:-1,IN - ZING INDIA
+http://213.136.73.170:8080/live/Rhys/Rhys/22308.ts
+#EXTINF:-1,IN - ZING UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22307.ts
+#EXTINF:-1,IN - ZOOM TV
+http://213.136.73.170:8080/live/Rhys/Rhys/22305.ts
+#EXTINF:-1,IN - ZOOM TV UK
+http://213.136.73.170:8080/live/Rhys/Rhys/22306.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 1
+http://213.136.73.170:8080/live/Rhys/Rhys/22694.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 2
+http://213.136.73.170:8080/live/Rhys/Rhys/22693.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 3
+http://213.136.73.170:8080/live/Rhys/Rhys/22692.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 4
+http://213.136.73.170:8080/live/Rhys/Rhys/22691.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 5
+http://213.136.73.170:8080/live/Rhys/Rhys/22690.ts
+#EXTINF:-1,3PM - SKY NET SPORTS 6
+http://213.136.73.170:8080/live/Rhys/Rhys/22689.ts
